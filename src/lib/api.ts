@@ -43,19 +43,22 @@ export async function getBooks(options: {
   if (options.sort) params.set('sort', options.sort);
   const res = await feedFetch(`/api/blog-feed/books?${params}`);
   if (!res || !res.ok) return [];
-  return res.json();
+  const json = await res.json();
+  return json.data ?? [];
 }
 
 export async function getRecentBooks(days = 30, limit = 50): Promise<Book[]> {
   const res = await feedFetch(`/api/blog-feed/books/recent?days=${days}&limit=${limit}`);
   if (!res || !res.ok) return [];
-  return res.json();
+  const json = await res.json();
+  return json.data ?? [];
 }
 
 export async function getGenres(): Promise<Genre[]> {
   const res = await feedFetch('/api/blog-feed/genres');
   if (!res || !res.ok) return [];
-  return res.json();
+  const json = await res.json();
+  return json.data ?? [];
 }
 
 export function starRating(rating: number | null): string {
