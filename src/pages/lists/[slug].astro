@@ -18,7 +18,7 @@ if (!config) {
 
 const books = await getBooks({ genre: config.genre, sort: config.sort, limit: config.limit });
 
-const schema = {
+const listSchema = {
   "@context": "https://schema.org",
   "@type": "ItemList",
   "name": config.title,
@@ -32,24 +32,44 @@ const schema = {
     "url": book.amazon_url || `https://www.amazon.com/s?k=${encodeURIComponent(book.title)}`
   }))
 };
+
+const faqSchema = config.faq?.length ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": config.faq.map(({ q, a }) => ({
+    "@type": "Question",
+    "name": q,
+    "acceptedAnswer": { "@type": "Answer", "text": a }
+  }))
+} : null;
 ---
 
 <BaseLayout
   title={config.title}
   description={config.description}
-  schema={schema}
+  schema={listSchema}
 >
+  {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head-extra" />}
+
   <div class="max-w-3xl mx-auto px-4 py-10">
     <a href="/lists" class="text-sm text-[#555] hover:text-[#e85d2f] transition-colors">← All Lists</a>
 
     <p class="text-sm font-semibold text-[#e85d2f] uppercase tracking-wider mt-4 mb-2">Ranked List</p>
     <h1 class="text-3xl sm:text-4xl font-bold text-white leading-tight mb-4">{config.title}</h1>
-    <p class="text-[#888] mb-6">{config.intro}</p>
+
+    <!-- Editorial intro -->
+    <div class="text-[#999] leading-relaxed mb-6 space-y-4">
+      {config.intro.split('\n\n').map(para => (
+        <p>{para.trim()}</p>
+      ))}
+    </div>
+
     <p class="text-xs text-[#555] mb-8">
       {books.length} books · Ranked by community rating ·
       Data from <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="hover:text-[#e85d2f]">LitRPGTools.com</a>
     </p>
 
+    <!-- Book list -->
     <div class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg px-4">
       {books.length > 0 ? (
         books.map((book, i) => (
@@ -59,5 +79,35 @@ const schema = {
         <p class="py-8 text-center text-[#666]">No books found for this list.</p>
       )}
     </div>
+
+    <!-- FAQ section -->
+    {config.faq && config.faq.length > 0 && (
+      <section class="mt-14">
+        <h2 class="text-xl font-bold text-white mb-6">Frequently Asked Questions</h2>
+        <div class="space-y-6">
+          {config.faq.map(({ q, a }) => (
+            <div class="border-b border-[#2e2e2e] pb-6 last:border-0">
+              <h3 class="font-semibold text-white mb-2">{q}</h3>
+              <p class="text-[#999] leading-relaxed text-sm">{a}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Related lists -->
+    <section class="mt-12 bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg p-5">
+      <h2 class="font-bold text-white mb-3 text-sm uppercase tracking-wider">More Lists</h2>
+      <ul class="space-y-2 text-sm">
+        {Object.entries(listConfig)
+          .filter(([s]) => s !== slug)
+          .slice(0, 5)
+          .map(([s, c]) => (
+            <li>
+              <a href={`/lists/${s}`} class="text-[#888] hover:text-[#e85d2f] transition-colors">{c.title}</a>
+            </li>
+          ))}
+      </ul>
+    </section>
   </div>
 </BaseLayout>

@@ -61,6 +61,8 @@ const fullTitle = title.includes('LitRPG Critic') ? title : `${title} | LitRPG C
 
   <!-- JSON-LD Schema -->
   {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+  <!-- Additional head content (e.g. extra JSON-LD schemas) -->
+  <slot name="head-extra" />
 </head>
 <body class="min-h-screen flex flex-col">
   <!-- Nav -->
