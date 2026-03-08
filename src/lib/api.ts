@@ -30,35 +30,47 @@ async function feedFetch(path: string): Promise<Response | null> {
   });
 }
 
+function toArray<T>(json: unknown): T[] {
+  if (Array.isArray(json)) return json as T[];
+  if (json && typeof json === 'object' && 'data' in (json as object)) {
+    const data = (json as any).data;
+    if (Array.isArray(data)) return data as T[];
+  }
+  return [];
+}
+
 export async function getBooks(options: {
   genre?: string;
   limit?: number;
   offset?: number;
   sort?: 'top_rated' | 'recent' | 'featured';
 } = {}): Promise<Book[]> {
-  const params = new URLSearchParams();
-  if (options.genre) params.set('genre', options.genre);
-  if (options.limit) params.set('limit', String(options.limit));
-  if (options.offset) params.set('offset', String(options.offset));
-  if (options.sort) params.set('sort', options.sort);
-  const res = await feedFetch(`/api/blog-feed/books?${params}`);
-  if (!res || !res.ok) return [];
-  const json = await res.json();
-  return json.data ?? [];
+  try {
+    const params = new URLSearchParams();
+    if (options.genre) params.set('genre', options.genre);
+    if (options.limit) params.set('limit', String(options.limit));
+    if (options.offset) params.set('offset', String(options.offset));
+    if (options.sort) params.set('sort', options.sort);
+    const res = await feedFetch(`/api/blog-feed/books?${params}`);
+    if (!res || !res.ok) return [];
+    return toArray<Book>(await res.json());
+  } catch { return []; }
 }
 
 export async function getRecentBooks(days = 30, limit = 50): Promise<Book[]> {
-  const res = await feedFetch(`/api/blog-feed/books/recent?days=${days}&limit=${limit}`);
-  if (!res || !res.ok) return [];
-  const json = await res.json();
-  return json.data ?? [];
+  try {
+    const res = await feedFetch(`/api/blog-feed/books/recent?days=${days}&limit=${limit}`);
+    if (!res || !res.ok) return [];
+    return toArray<Book>(await res.json());
+  } catch { return []; }
 }
 
 export async function getGenres(): Promise<Genre[]> {
-  const res = await feedFetch('/api/blog-feed/genres');
-  if (!res || !res.ok) return [];
-  const json = await res.json();
-  return json.data ?? [];
+  try {
+    const res = await feedFetch('/api/blog-feed/genres');
+    if (!res || !res.ok) return [];
+    return toArray<Genre>(await res.json());
+  } catch { return []; }
 }
 
 export function starRating(rating: number | null): string {
