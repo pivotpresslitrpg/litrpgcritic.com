@@ -1,0 +1,453 @@
+TITLE: Spite the Dark Book 1
+AUTHOR: Aaron Renfroe
+SERIES: Spite the Dark (Book 1)
+WORDS EXTRACTED: 6008
+============================================================
+
+Assassin Summoner (An Isekai LitRPG Series); Spite the Dark Book 1
+
+Introduction
+
+Spite the Dark is an anthem of violence squarely aimed at forces that seem destined to destroy the world. It’s got a hint of Recursion, a splash of Apocalypse and a ton of awesome. Please be aware that this story includes gory violence.
+
+Blurb
+
+Kaden knows the fate of the world and he’s trained to stop it.
+
+The day the HUNT came to Earth, giving regular people superpowers, Kaden went to war against the evil forces destined to bring the apocalypse. But every discovery he makes along the way undermines what he’s been told. When he learns the truth about the otherworldly place known as the Madness, he must decide: will he become a weapon of tyrants, or will he SPITE THE DARK?
+
+Other Books
+
+If you enjoy this series, we recommend picking it up on Audible (Whispersync enabled!). Our production partner absolutely knocks it out of the park.
+
+If you’d like to pre-order the next book in the series, you can do so here: https://a.co/d/5xoJVn7.
+
+Our next LitRPG series “Father of Constructs” has already launched. You can find that here: https://www.amazon.com/dp/B0CDK3MQTF
+
+An old series “Blood of Heroes” has seen a bit of a resurgence. I promise if enough folks show interest, we’ll prioritize sequels in that universe. You can find it here: https://a.co/d/aOMzgmm
+
+If you like the book, you can find new ways to support the project (along with early access to future Resonance novels and other WIP projects) on Patreon. We also love chatting with fans and collaborators alike on Discord at https://discord.gg/GXn8csy2gg.
+
+Dedication
+
+This book is an unapologetic love letter to anime and action movies of the 90s and early 2000s. If you liked American Ninja, Guyver, Terminator, and Mortal Kombat, this book is for you.
+
+Book 1 Starting Character Sheet
+
+Name: Kaden Yamaguchi
+
+Age: 31
+
+Class: N/A
+
+Level: 0 – Catalyst not detected
+
+Hit Points: 5
+
+Innate Physical Attributes
+
+Strength: 14 (Above Average)
+
+Agility: 13 (Above Average)
+
+Endurance: 14 (Above Average)
+
+Speed: 13 (Above Average)
+
+Vision/Visual Acuity: 15 (Excellent)
+
+Reflexes/Reaction Time: 15 (Excellent)
+
+SPITE Attunement: N/A
+
+Innate Mental Attributes
+
+Discipline: 17 (Peak Human)
+
+Intelligence: 11 (Average)
+
+Intuition: 8 (Below Average)
+
+Charisma: 8 (Below Average)
+
+Madness Attunement: N/A
+
+Innate Skills
+
+Diplomacy: 3 (Proficient)
+
+Driving (Stunt): 6 (Advanced)
+
+Explosives: 5 (Advanced)
+
+Global Politics: 4 (Proficient)
+
+Gymnastics/Acrobatics: 3 (Proficient)
+
+Military (Special Operations): 7 (Expert)
+
+Martial Arts: 6 (Advanced)
+
+Marksman (All): 8 (Expert)
+
+Technology (Standard Computers and Smart Phones): 5 (Advanced)
+
+Security (Computers): 5 (Advanced)
+
+Security (Physical/Military): 7 (Expert)
+
+Stealth: 7 (Expert)
+
+Non-Projectile Weapons: 5 (Advanced)
+
+Hunting and Tracking: 7 (Expert)
+
+Linguistics (English, Japanese, German, and Russian)
+
+Note: “Innate” attributes and skills are listed to provide details about the character’s base capabilities. They may be augmented as the story progresses. Entries listed as innate remain even if the character’s other abilities are suppressed or consumed.
+
+Chapter 1: The First Seeding
+
+We scoured countless timelines to find you, Vasilis. You have the resources and opportunities we require. More than that, your son’s timeline will overlap dozens of key intersections. With our help, he will achieve greatness. With the knowledge we will give you, he will become the Steel Shadow, the King of Assassins.
+
+You will not live to see the end, but you should take great comfort in knowing that your efforts will save important lives. Each Chronarch who dies represents a monumental waste of timeless potential. ~ Chronarch Missive, Post Hunt
+
+Inching through the forest on his stomach, Kaden cursed the weather. His ghillie suit, tightened down until it threatened to cut off circulation, wasn’t designed for breathability. The armor he wore beneath only added to the feeling of being baked alive. Rivers of sweat ran down his spine and neck, making everything they touched itch.
+
+It’s Russia in July. Why didn’t he warn me it would be this hot?
+
+The thought came and went, suppressed along with his discomfort. He’d spent years training for this mission and wasn’t about to let sweat distract him from the goal.
+
+Woooosh!
+
+A trio of Sukhoi Su-57 fighter jets zipped overhead, engines roaring. Their arrowhead-shaped silhouettes vanished behind the tree line a moment later. That meant the drones would fly by in three minutes, followed by several cargo planes shortly after.
+
+Unless the Deltas do something to create a Fork. Pushing the thought away, he focused on moving. Deltas or not, I have to hurry. Extending both hands, he inched forward, eager to close the last hundred feet of distance to the derelict nuclear site. The area was covered in leaves and fallen debris, making it difficult to see just what he was crawling through. A glove came down on a roll of ancient barbed wire, still sharp enough to push through the thick padding. He pulled back, then used the butt of his rifle to shove the metal aside.
+
+The wire shifted, revealing that its length continued for dozens of feet along the perimeter. Likely, it had once been part of a fence around the target zone. His only choices were to crawl over the barbs or stand.
+
+The drones will be here any minute. His intelligence on the drones told him they saw in infrared, and were AI powered. In theory, the technology in his gear should scramble their sensors. Kaden knew better than to plan for a perfect mission, which told him he had one option: stay as low as possible.
+
+Glad he was up to date on his tetanus shots, Kaden crawled across the barbed wire. Lifting his torso until it barely cleared the barbs, he hooked a leg over the rusted metal. With just the tip of a boot in place, he held himself up with his fingertips as he shifted and rolled to the other side. A few of the sharp tines got him anyway. A couple drops of blood leaked free, but his armor protected him from the worst. Despite taking care, he made it to the opposite side of the clearing before the drones arrived.
+
+The woman and her men hadn’t arrived yet, which meant his window to get the Catalyst was still intact. In the brief calm before the Seeding, his adrenaline began to settle. A dozen small injuries, both from the long hike to get here, combined with the few from the barbed wire, vied for his attention over the itching.
+
+Blood is not weakness. It is strength. It is the proof of our struggle. Embrace it. His father’s fanatical recitations threatened to surface. He shoved them back down.
+
+Why am I thinking of him now? It’s time to focus. This was it. In another minute and a half, everything they’d planned for would come to fruition. The next few years would be full of violence and flight from tyrants. Saving the world from the apocalypse would make his sacrifices leading up to this moment, and the ones to come, worth it.
+
+Eagerness swept down his spine, interrupted by a loud humming sound.
+
+Buzzzz
+
+The trio of drones flew by. Red lights flashed across the ground barely twenty feet away. One of them jerked to a halt, then rotated around to point its sensor array at the ground.
+
+Father didn’t foresee this. They’d expected there would be changes, just not so soon. It must be me, he realized. Kaden hadn’t been there in the old man’s vision. If there was a Fork at play here, it was because of Kaden himself. What was important was ensuring he didn’t contribute to too many more deviations.
+
+The drone’s laser crept toward him, chasing something. It settled on where he lay, the red dots moving across his back. A gentle hissing sound came from the machine gun on its undercarriage as it rotated in place, taking aim.
+
+Fuck me, he thought, forcing himself to remain still. At this point, anything he did would trigger the guns. His only hope was for the AI to register him as an animal.
+
+Fwwwooom!
+
+The meteor shower had come on time. A rock the size of a bowling ball punched through one of the cargo planes. Everything sped up. The plane spun out of control as the meteor passed through the fuselage and continued in a direct line to the ground. Fire bloomed in the sky as the cargo plane fell to one side of the nuclear site. The meteor landed with a near catastrophic impact barely five hundred feet from where Kaden lay. Tons of super-heated rubble and dirt flew into the air, pluming out to annihilate the drones.
+
+Dad didn’t mention this part, either. Silently cursing, Kaden curled up in a ball, wrapping his hands protectively around the back of his head, with his palms wedged against his ears. Eventually the ground stopped shaking. He uncurled, feeling smoldering dirt slide off his back and sides. Glancing to the side, he found a shard of still-hot rock sticking out of his body armor. It had gone through his ghillie suit and the thermal protection beneath it, but thankfully stopped short of skin.
+
+Nothing vital, he thought, tugging the rock out, as he looked over at the source of the impact.
+
+A crater nearly two-hundred feet across dented the ground. At the bottom, in the center, was a writhing serpent of liquid silver. The Catalyst was, as predicted, barely six inches long and half that around; closer to a worm than a snake.
+
+“It’s time!” a woman’s voice called from the other side of the reactor.
+
+Ignoring a litany of pains, Kaden sprang to his feet and sprinted into the smoldering pit.
+
+His boots were thermally resistant, and he was wearing two layers of protective clothing beneath his armaments. It was still blistering hot. The ground crunched and sweat burst from his every pore. He’d only thought he had been uncomfortable before.
+
+“Who the fuck is that?” A man’s loud voice, speaking Russian, came from behind.
+
+The woman called back in reply, “Who cares? Kill him!”
+
+Bullets sprayed the ground behind and beside Kaden’s path. Something punched him in the back, shoving him forward. He’d been shot, but his body armor had done its job. Leaning forward, he redoubled his pace.
+
+When he got fifty feet away, the silver thing started flopping around. It elongated into a thin tube, then coiled upon itself, effectively sitting up. The elevated, rounded tip formed a pair of antennae-like tubes and waved them in his direction. Ripples slid through the metallic substrate as strange glyphs appeared. Little structures, like ten thousand claw-tipped legs, grew out of the coiled body. Each flexed, as if in anticipation.
+
+“Kill him!” The woman’s howling demand followed a new flurry of gunshots. “Shoot his head!”
+
+Kaden varied his running pattern, juking from side to side, all while leaning further forward to protect his head. Another bullet hit him in the back. This one got through the armor, sending burning, dangerous pain into the area. Desperate, he leaped for the Catalyst.
+
+The woman’s scream of outrage was the last thing he heard.
+
+Chapter 2: The Catalyst
+
+We believe there is a traitor among us. They have helped establish an Earth-based group calling themselves “Deltas.” This group has discovered a way to avoid Time’s Eye, meaning our perceptions of them are skewed. Your son’s mission is this. He will discover our enemy’s secrets, uncover the traitor, and kill all who would end the Hunt.
+
+We will provide you with a roadmap so he can acquire the Catalysts and tools required to do that.
+
+But first, for your son to succeed, he must have the correct mother and grandparents. Harden your heart. What comes next will be painful.  ~ Chronarch Missive, Post Hunt
+
+“Welcome, Seeded Contestant! Congratulations on being among the first wave. Your cohort are the only ones who will ever visit the space beyond Time’s Eye. Rejoice in this momentous gift, as the Hunt begins now. We are sure you have questions. Bear with us and we will answer them shortly.”
+
+It was Kaden’s first time hearing the voice, but it sounded just like his father said it would: ambiguous and God-like, coming from inside his head.
+
+He looked around. Soft, ambient light shone in the air, revealing the interior of a haphazardly crafted wooden box, barely big enough for him to stand. He was naked, with no sign of his recent injuries.
+
+Doing his best to look surprised and infuriated, he demanded, “What the fuck is going on here? Why am I naked?” he called, hitting the walls with about half his normal force. They weren’t wood, but some sort of synthetic metal with a wood pattern on top. Even pulling the blow, it hurt.
+
+Seeded contestant, do not self-harm. We require all our participants to begin the Hunt in pristine health.
+
+“I’m going to keep hitting this wall if you don’t tell me what’s going on!” Kaden pitched his voice into a sullen, bestial growl. They had to think he was serious.
+
+Very well. We will begin your orientation. Please pay close attention. We will not repeat this message.
+
+The far wall of the room became a transparent display showing the Earth. A giant craft, long and boxy, hovered in orbit above the planet. The edges of the spaceship were blurry, with lines of mist evaporating into the ether. Slivers of light irised open all around the vessel, and thousands of objects shot toward the Earth.
+
+Your planet has been Seeded. The Hunt has begun.
+
+Something shifted behind Kaden’s eye. It felt like a worm crawling into place. A sensation that probably should have been painful slid through his body, rolling down his spine and into his every nerve.
+
+This is your Catalytic status interface.
+
+A semi-transparent box floated into view, just within the periphery of his vision. With a small mental effort, he focused on it and the text in the box became legible. He knew he wasn’t reading the words; rather, he was intuiting their meaning at a level faster than thought. According to his father, the Catalyst was rewiring parts of his brain to make this happen. Everything he saw in the HUD would come faster than thought, even if it felt like normal speed.
+
+It is your heads-up display and will show you contextual information about your abilities.
+
+Name: Kaden Yamaguchi
+
+Class: N/A
+
+Base Hit Points: 5 of 5
+
+Unallocated Catalyst Components: 1
+
+Active Catalyst Abilities: None
+
+Passive Catalyst Abilities: Heads-up Display, Detect Captured Catalyst (1-mile radius), Passive Resilience (Earth-Standard)
+
+You will be allowed to select a class once we complete the overview. This will provide you with starting skills and help shape your Catalysts as the hunt progresses. Classes…
+
+“Steel Shadow. I want the class called Steel Shadow.” This part was a risk, but a necessary one. There were a few classes that were only available upon request. They were unique; only one person could possess them for the duration of the Hunt. If someone else got the class before he took it, everything they’d planned might fall apart.
+
+You wish to bypass the briefing and select the Steel Shadow class. Is that correct?
+
+“I do. It’s a super cool name and reminds me of a TV series I watched as a kid. One with ninjas, you know?” It was a blatant lie, but an innocuous one. According to his father, the administrators of the Hunt at this stage were automatons or low-level stooges. They probably wouldn’t probe.
+
+Very well.
+
+His heads-up display changed.
+
+Class: Steel Shadow (Unique)
+
+Granted Catalyst Skills
+
+As the Steel Shadow, you begin with the following class skills. This is not a measure of your current capabilities, but an enhancement on top of them. Capture additional Catalysts to improve them. Each additional Catalyst will raise your level by 1 and grant you 30 discretionary skill points.
+
+Assassination (10 out of 100)
+
+Disguise (10 out of 100)
+
+Espionage (10 out of 100)
+
+Exotic Weapons (10 out of 100)
+
+Linguistics and Dialects (0 out of 100)
+
+Stealth (10 out of 100)
+
+Technology (10 out of 100)
+
+Class Abilities
+
+Dark Sight: You can see in darkness.
+
+Shadow Meld: You are invisible against most forms of detection other than natural ones. This conceals you from radar, infrared, AI, and so on. People may still see, hear, and feel you normally. Limitation: Some Catalytic powers or specialty objects may pierce this stealth.
+
+You may read additional details about your skills and abilities at your leisure. You will find these in your HUD interface. To gain new class abilities, you must acquire additional Catalyst units. Catalytic abilities are unique. Different Catalysts will provide different functionality. This functionality will be adjusted to fit your class and current loadout. Thus, each participant in the Hunt will be unique and there is a significant incentive to locate special Catalysts and claim them for yourself.
+
+Be aware, unless you have the help of a Metacatalytic ability, new Catalysts may only be earned through the absolute defeat of another participant. No additional details will be provided. Enjoy the Hunt, contestant.
+
+The room vanished, becoming an ambient, undulating mist. The location you left is unsafe. In the interests of a fair and fun Hunt, we may send you anywhere you wish to go. Where on Earth shall we send you?
+
+“Home.” He thought of the training farm in North Dakota.
+
+There was a sense of motion and a flash of light, and he was standing just down the road from home. It was late evening, and the sky was filled with swirling clouds. Light flashed in the distance, suggesting more Catalysts entering Earth’s atmosphere.
+
+His father stood just down the lane, leaning hard on his cane. His voice, still strong despite his years, carried that all-too familiar Greek accent as he called out, “You did it. Good. Did you do as we discussed?”
+
+Kaden looked down. He was back in his ghillie suit, his rifle slung over one shoulder. Other than the HUD floating out of the corner of his vision, and the fact that his wounds had been healed, everything was precisely as it had been prior to the event.
+
+Jogging to meet his father, Kaden barely suppressed a savage grin. “I did.”
+
+Chapter 3: The Doctor
+
+Limit your impact on the timeline. Lay low. Any branches, or forks, that change what we have seen may endanger the roadmap we have prepared for you.
+
+Now, we come to a moment of opportunity. Your son must take Doctor Huarez’s briefcase after he leaves the Gentex building. This order of events is paramount. Once he has the case, he must kill Huarez. ~ Chronarch Missive, Post Hunt
+
+“David, are you sure it’s safe to drive in this weather?” Snapping his umbrella shut, Doctor Aldo Huarez slid into the backseat of Kaden’s black Toyota Camry. Rain hammered the windshield and thundered outside. Between that and the late hour, visibility was practically zero.
+
+Adjusting the rear-view mirror so the Doctor could see his face, Kaden flashed a smile. “No worries, Doc. I did six months in stunt driving school. Plus, we’ve got performance tires on. What’s got you coming out so late? This isn’t normal for you.”
+
+Affecting the casual affability of ‘David’ had grown easier over the past few weeks, although Kaden would be glad to drop it once Aldo was dead. Which, if everything went according to schedule, would be this evening.
+
+“Ah, good, good.” Aldo settled into place. His normally crisp suit was crumpled, with several buttons undone. Resting a hand atop his slate gray briefcase, he turned to look out the window, his expression troubled.
+
+Kaden tracked the briefcase. Despite its mundane appearance, he knew it was heavily armored. Thankfully, the tools he’d packed in the glovebox would make quick work of its defenses.
+
+The other rear door clicked open. “I’m coming!” Aldo’s daughter, Nessa, shoved her way into the car. She was soaking wet and still wearing her school uniform. It was a modest red and black plaid thing, with a long skirt. At eighteen, the athletic young woman had a build well-suited for her background in dance and martial arts.
+
+“Nessa, what are you doing?” Aldo asked, trying to be gentle and usher her back out of the car at the same time. “There’s no way security will let you in this late.”
+
+She rebuffed Aldo’s attempts, wiggling past his hands and closing the door behind her. Squarely seated, she smiled at Kaden. “David, you’re here! Did you know you’re practically the only driver who shows up for Dad? Not that I’m complaining.”
+
+Kaden returned her smile even as his guts clenched. Nessa wasn’t on the roadmap. She wasn’t supposed to be in the country, let alone in the car. “Ah. Nessa. I didn’t know you were here. Didn’t you tell me a few weeks ago that you had a big trip planned?”
+
+Settling her seatbelt on with a loud click, she wiggled into place. Speaking to both her father and Kaden, she said, “I got this really strange call from Ms. Aiko this morning, right before my flight. She said I had to come in today. Something about Dad having an urgent project and him needing my help.” Shrugging, she waved her hands in a helpless gesture.
+
+“And how much did she bribe you to do this?” Aldo asked suspiciously.
+
+Kaden, his smile freezing, thought he heard a note of worry beneath Aldo’s tone. You should be worried, murderer, he thought spitefully, trying to adjust tonight’s schedule in his mind. This was a Fork, a place where a thread of the established timeline changed. It was the very thing they’d worked for years to avoid.
+
+The problem was the Chronarchs had told Vasilis very little about tonight’s events. According to them, he had to have the briefcase by eight-nineteen. They hadn’t known, or had been unwilling to divulge, what was in the case. It was supposed to be some sort of serum or pill. Whatever it was would boost Kaden’s Catalyst. If it escaped containment, the results would be dire. If he didn’t have the case open, and hadn’t activated the contents by nine, it would be too late. Anyone involved would need to be pruned. That meant killing everyone to prevent the containment breach.
+
+I won’t kill the innocent, he thought, determined to keep Nessa safe.
+
+“Oh, you know. About a years’ worth of tuition to Harvard.” Nessa said, unaware of the risk she was in by simply sitting in that car.
+
+“They do genetics research out there now?” Kaden asked, forcing affability.
+
+“Of course they do,” Aldo said flatly. “David, go ahead and drive. If I can talk her out of it, I’ll have you drive her back.”
+
+“Sure thing, boss.” Kaden tried not to grit his teeth as he began the twenty-minute drive to the laboratory. Heavy rain obscured most of the windshield, forcing him to rely on his reflexes and instincts. Both were good; he hadn’t been lying about stunt training.
+
+Behind him, the pair went back and forth. Aldo argued Nessa was basically allowing Ms. Aiko to treat her as an unpaid intern, and a highly valuable one at that. Nessa’s stance was that working for a bio-medical firm would look great on her resume. Plus, Aiko’s connections would guarantee her a high paying job upon graduation.
+
+“Never mind the pay,” Aldo said. “Your scholastic achievements alone put you well ahead of any competition. You can get a grant if you’re still unwilling to let me pay your way. Actually, if you want to use some of the technology you’ve helped develop, we might be able to skip college all together. I’m sure Aiko wouldn’t mind, considering all we’ve done for her father’s company. Wouldn’t you prefer a high paying job in the real world?”
+
+“Dad, we’ve been over this. I want to go to college. This is the same thing we talked about when I got to high school. What’s the point of being smart if you don’t have any friends?”
+
+Kaden could practically hear Aldo’s eyes roll. “Love, the lab isn’t as safe lately, you know that. We’ve got biologics in there that shouldn’t come in contact with human DNA. You shouldn’t be in the building, let alone helping me tonight.”
+
+“You didn’t say that when I helped you get reproduction working last week.”
+
+“No!”
+
+Kaden glanced back in time to see Aldo clamping a hand over his daughter’s mouth. The older man’s expression was horrified as he leaned in to hiss something into her ear.
+
+When Aldo saw Kaden looking, he swallowed and tried to smile. “Ah. It’s nothing, David.” Releasing his grip on Nessa’s mouth, he shifted a hand and typed something on his phone. Kaden’s driver app, which was attached to the center console, dinged. The display flashed a huge tip. “Just pretend you didn’t hear any of that, okay?”
+
+Kaden thought it was a nice gesture. If Gentex security found out he knew anything about their experiments, they’d kill him. Aldo was trying to save his life. Strange that a man who has murdered so many would still have kindness in him. Or maybe it’s pragmatism. I could be the best driver he’s had.
+
+“Sure thing, Mr. Huarez,” Kaden said, nothing of his thoughts in his voice. “I didn’t see or hear anything, promise.”
+
+Aldo’s expression relaxed. He shook his finger at Nessa and showed her his phone. Whatever was on it made her pale. They were quiet after that.
+
+Gentex was a huge corporation, with labs all over the world. This one was just outside of Tacoma, Washington. Nestled between sharply sloped, forested hills, the building had a basic corporate design. Made entirely of chromed, reflective metal and windows, it was five stories tall and shaped like a deck of cards. Access roads flanked the building on either side, leading to docks around the back. Another road, one directly ahead of the security gate, led to a roundabout at the front doors.
+
+Kaden pulled up to the security gate, and Bruce stepped out. The armed guard was all muscle, with a flat-top haircut. He looked Kaden over briefly. As his “David” persona, Kaden wore glasses and had allowed his naturally curly black hair to grow out. Padding stuffed his button-up shirt, giving him a fake gut. He slouched, affecting an unthreatening posture, and even waved affably.
+
+Ignoring “David,” Bruce tapped the back window. “Key card.” Despite how often Aldo had to come into the office, this remained a daily ritual.
+
+“Ms. Aiko says you’re clear to bring your daughter in with you,” Bruce announced, stepping back and buzzing the gate. A thick yellow bar swept up, allowing them access to the compound.
+
+“You’ll want me to wait again, Mr. Aldo?” Kaden asked. Normally, when Aldo came into work late, it was to pick up or drop something off. He regularly had Kaden wait for him to return, rather than going through the arduous security process to get him back through the gate.
+
+“That sounds good.” Also flashed him an appreciative, if troubled, smile. “Why don’t you wait out the east side this time, maybe?”
+
+“Not the west? I thought your offices were over there.”
+
+“No, no. Not today. The east.”
+
+Nessa gave her Dad a strange look, but shrugged and accepted it when he offered her his umbrella.
+
+Stopping at the front doors, Kaden watched as the two made their way into the building. Aldo hunched forward, clearly uncomfortable getting drenched in the chilly rain. His daughter, meanwhile, skipped in the puddles beside him. Three big men in suits met the two, ushering them inside.
+
+Kaden spoke to the air. “You heard all that?”
+
+“I did,” Vasilis’s voice crackled over Kaden’s earpiece. Signal was bad near the building.
+
+“I think we’re at a Fork.”
+
+“Obviously. Good news, I checked the newspapers. It’s not bad. Yet.”
+
+“Not bad? Sure. There still could be Deltas. All evidence points to them being involved.”
+
+“Or it could be us, yet again. You remember what happened in Florida, right?”
+
+Forks happened whenever they made a different decision than the currently established timeline. If Kaden took a left turn instead of a right one day, it could ripple into a thousand after-effects. Deltas, the mysterious group behind the apocalypse, could also cause Forks, although they did so only sparingly. Each time either group made a ripple, there was a chance that their desired fate could be disrupted.
+
+“What are you going to do?” His father’s voice was a dry, hard rasp. The tone made it clear: if Kaden judged that both the Doctor and his daughter had to die, Vasilis would accept it as a necessary evil.
+
+“I’m going to park on the east side, just like he asked.”
+
+“And the package? What if you have to go in to collect?”
+
+Kaden took the roundabout and made his way down the east road. He drove until he came to the back of the building, where there were a series of loading docks. Several trash containers, the kind with compactors and incinerators attached, sat off to one side. There was just enough of a gap between two of them for him to reverse his car into their shadow. Between those, plus the thick tree cover and the darkening skies, it should be enough.
+
+“Kaden, what about the package?” Vasilis demanded. “You know what has to happen. Huarez has to die. Tonight. And you have to take the contents of that case before anyone else does.”
+
+“I know.”
+
+Something in Kaden’s voice must have revealed his reluctance. Vasilis said, “The girl is dying. She has maybe six months left. Her father knows it and we know it. Killing her now, quick, will be a mercy.”
+
+Kaden ground his teeth. This was the part he didn’t like. “What if he’s cured her? We know that’s why he took this job. What if she won’t die? What if there was a Fork, back when I became their driver?”
+
+“You can’t know that. And you can’t bet the world on it.” Vasilis spoke with cool, unflinching certainty.
+
+“I’m going to get ready.” Collecting the phone and sliding out of the car, Kaden made his way to the trunk. He didn’t bother trying to hide. Through extensive testing, they’d discovered even manned security cameras couldn’t detect Kaden. They simply wouldn’t transmit data showing him there. This made him effectively invisible to anything but direct human senses. That included anything he was touching up to an area of about eight feet around him in any direction. If he was touching the trunk of the car, none of the local devices would see that it was open.
+
+There was a single duffle in the back. He hoisted it out and closed the trunk, then ducked behind one of the trash compactors.
+
+This was a point of danger. If the Fork changed enough things, Doctor Huarez might call him back sooner than expected. He’d be with his daughter. If that happened, Kaden would have to swap clothes again. That would introduce unscheduled risk.
+
+Kaden did not like unscheduled risk.
+
+He put his body armor on. It was designed for mobility, with light padding on the arms and elbows and heavier Kevlar on the front and back. Strapping pads on his thighs and shins, he secured each piece. They had to be tight enough to pinch, otherwise they wouldn’t be doing their job.
+
+His handguns, two under each arm, came next. Extra ammunition, six magazines in total, went on his belt. Three were for the pistols, and the others were for his rifle. Retrieving the rifle, he slung it over his shoulder, then put the duffle back in the trunk. He was careful to keep his hip against the bumper the entire time.
+
+Armed and armored, he slid into position to see what happened next. Unlike his father, Kaden wasn’t a man of worship. As far as he was concerned, any god that would allow the Hunt was not a god worth worshipping. He prayed anyway.
+
+Dear Lord, you spiteful bastard, please. Don’t make me kill Nessa. She is the only innocent in all of this. Don’t make me kill one of your flock to save the world. Amen.
+
+Dark began to fall, giving the world a dusky orange hue. At seven thirty, a van circled into view around the back of the building. It was a nondescript baby blue color and had “Ruth’s Cleaning Service” on one side. Lifting the rifle, Kaden looked through the scope as a team of men in gray jumpsuits appeared out of a rolling side door.
+
+The gate security guard’s body was briefly visible inside before one of them slammed the door shut.
+
+Kaden whispered, “We’ve got Deltas.”
+
+Chapter 4: Deltas
+
+Once the Hunt begins, the timeline becomes fixed. We cannot directly interfere until it is over. We are communicating with you from after the Hunt, in the instant before the end of all things.
+
+Any changes that occur after your son gains his first Catalyst will be beyond our predictions or ability to influence directly. Our enemies will adapt, likely altering timelines as well.
+
+This leads us back to the Deltas. They may have similar, but inferior foresight. Your son should be prepared to deal with any of them he encounters quickly and with extreme prejudice. ~ Chronarch Missive, Post Hunt
+
+Kaden had encountered Deltas twice. Neither time had been pleasant. He waited as the team poured into the building, letting events unfold. In the worst scenario, he’d end up murdering everyone who walked back out of that door.
+
+Minutes passed. Exterior flood lights came on around the building perimeter, throwing deep shadows across the van. Still, nothing happened. Time seemed to crawl as the adrenaline edge softened. When the urge came, he unzipped his pants and turned, going against the trash compactor. This was too important to lose focus.
+
+Bang! BANG BANG BANG!
+
+One shot, then three quick ones, rang out a moment before two men came running out of the open door. One of the two swept the perimeter as the other got into the van. Aldo appeared in the doorway. He was disheveled, and his mouth was bloody. An armed man was shoving him forward, into the open door of the van. The Doctor was babbling and protesting as he fell over the security guard’s corpse.
+
+Nessa came out a few seconds later. She had the briefcase handcuffed to her wrist. She looked terrified, yet she clutched the case to her chest as if determined not to let it go. Two more of the Deltas, wearing full tactical gear and balaclavas, followed her.
+
+Seeing the case made everything simple.
+
+Kaden adjusted the rifle and took aim. His shot took one of the two men behind Nessa in the head. His next took the other in the shoulder. Nessa dove out of the way, dropping out of view as she went over the edge of the metal stairs.
+
+“Ryan! Paul!” The voice came from inside the van. It was the driver, looking back at his closest companion, who was at the door, covering Aldo.
+
+“Down,” the man standing near Aldo called back. “Go! We’ve got all we need.”
+
+“This isn’t what we…” Aldo’s shouted protest was cut off as one of the Deltas slammed the van door shut.
+
+Ffffst!
+
+The man Kaden winged was still up. Pivoting, he drew a gun and fired in Kaden’s direction as he ran after the van. The shot went wide. Kaden ducked, but came forward, angling to get a view of the retreating man and the van. It had picked up speed, leaving the last shooter behind as it vanished out of view around the side of the building.
+
+“Stop! Hey! Stop!” The running man screamed, splashing through rain puddles as he sprinted after his companions.
+
+Dropping his rifle and pulling his HK45 Tactical from his side holster, Kaden took aim, waiting as the target ran through a pool of light and into shadow. As the man emerged into the next cone of light, maybe sixty feet away, Kaden squeezed the trigger.

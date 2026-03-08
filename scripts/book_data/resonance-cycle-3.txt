@@ -1,0 +1,445 @@
+TITLE: The Resonance Cycle Book 3
+AUTHOR: Aaron Renfroe
+SERIES: The Resonance Cycle (Book 3)
+WORDS EXTRACTED: 6017
+============================================================
+
+The Resonance Cycle Book 3: Past’s Price
+
+Dedication
+
+This book is dedicated to epic moments, and the patience it sometimes takes to earn the payoff.
+
+Introduction
+
+The idea behind Resonance was simple: tell a complete story. Book three represents the end of the first arc of the series. By the end, I hope you can see where the next arc will take us, and the promise of the books to come. If you’re interested, I encourage all my readers to join our Discord (link in the author’s note) to discuss the books. You can also sign up on Patreon to support the work and get advanced releases of earlier drafts.
+
+About that abilities list: Ty’s list of powers is daunting. His class affords him incredible diversity, and keeping track of what he can do can be difficult, even for me. You can find a list of his abilities, along with summaries of their functions, in the Appendix. You can also find definitions of key words in the Glossary.
+
+What Came Before (Book 1)
+
+Ty was chosen by the gods to be a scion. The fire script gave him all the information he would need to survive and thrive in the new world. After prepping for six months, he walked through a portal that led to the new world. Upon his arrival, and through a series of trials, he was given an arbiter-his personal game master- and selected the god Inspiration to follow.
+
+Throughout the course of his travels on the new world, he inadvertently became the host for almost thirty thousand akkoan souls and discovered another god that seemed to be interested in helping him along. Near the end of his time on the new world, he found host bodies for a handful of his akkoan allies who assured him they would protect his town and resources until he returned from Earth, three whole years later in the new world time.
+
+What Came Before (Book 2)
+
+Ty arrived back on Earth with six more months to prep before returning to Volar. Using creativity and proving his experiences with his Verdant Touch, he gathered a group of humans to help him prepare. He also met Meredith, who became a friend and his therapist. She worked him through his trauma before they both returned to Volar.
+
+Ty slid further down the druid path during his experiences on Volar, but also used his newfound therapy to subvert more of the Monster god’s plans. Finally, he put his akkoan allies to rest or placed them into new bodies and sealed away their trauma. Near the end of his time across the bridge, he met and befriended a dragon princess and her father, lost Hagemi and discovered what could be his most powerful ally in the fight between the gods.
+
+His final character sheet from book 2 is included below. A list and summary of his abilities is provided at the back of the book. Portions of the sheet will be updated and re-stated as needed in the book, and again completely at the end of the book with his final attributes and score.
+
+Name: Ty Monroe
+
+Class: Merit Hunter
+
+Race: Human-Akkoan Hybrid
+
+Category: 2
+
+Level: 5
+
+Status: Harmonious
+
+Progress to Next Level: 100% (Contingent upon return to Volar)
+
+Hit Points: 18
+
+Projectile Shield: 7 Charges
+
+Mana: 50
+
+Mana Shield: 25 (Racial cap 50)
+
+Strength: 19 (+2 Alunite Gauntlets; Lesser Supernatural)
+
+Agility: 13 (Highly Trained)
+
+Vitality: 13 (Tough as Nails, +1 hit point per level)
+
+Intellect: 13 (Standard High IQ)
+
+Spirit: 10 (Wild-attuned; Human Guru)
+
+Luck: 0
+
+Applicable Skills and Abilities
+
+Mixed Martial Arts (Sambo Focus): Proficient
+
+Krav Maga: Master
+
+All Martial Weapons: Adept
+
+Guns: Master
+
+Survival: Adept
+
+Tactical Techniques: Proficient
+
+Meditation: Master
+
+Body Shaper: Night Vision, Akkoan Joints and Vocal Cords (+2 Agility)
+
+Law Keeper: 0.00% enhancements allocated; 3% available
+
+Unassigned Attribute Points: 0
+
+Unspent Merits: 1
+
+Attribute Enhancement Note: Increasing strength, agility, or vitality above 18 costs 2 discretionary points per effective point gained. Increasing Intellect, Spirit, or Luck above 10 costs 2 discretionary points per effective point gained.
+
+Prelude: To Strive
+
+Silver and white froth coated the crystal sarcophagus, obscuring the occupant from view. Tiny cracks popped, echoing through the massive, tomb-like chamber around the gestation tube. A floating figure, hands folded behind its robed back, appeared nearby, cowl tilted in curiosity.
+
+A bronze palm, the flesh covered in a tight mesh of fractal script, slammed against the crystal from the inside. Fissures ripped through the container, and embryonic fluid leaked. Bubbles oozed from the thin layer of living metal at the bottom of the tube. They streamed up, spiraling around the outline of a shape. The hand curled into a fist.
+
+Liquid metal magnetized upwards, surrounding the body. Tendrils of the stuff flowed down the fist, becoming a second skin. The creature in the glass struck again, with deliberate force.
+
+The glass shattered, gushing its contents across the floor. Steam rising from his body, the newborn looked around the empty Creation Chamber.
+
+“How extraordinary,” Seeker mused, studying the being. “A more Earth-traditional angel, are you?”
+
+With the peak height of an akkoan, nearly ten feet tall, the newborn was densely muscled. Huge, metallic-tipped wings sprouted from his back. The wings flexed, split, revealing a second layer just beneath the uppermost set. Wearing the True Essence metal like a bodysuit, the angel’s face was handsome, with a square jaw. His chin was dimpled, and long black-blue hair framed his face. A single curl brushed across his forehead, right above hazel eyes.
+
+“Archangel,” the newborn said, deep voice resonating with absolute certainty.
+
+“Ah, my mistake. I fail to understand the difference.”
+
+The angel flexed a closed hand. A fractal pattern glowed through its silver wardrobe, revealing tiny script. To Seeker’s discerning gaze, the phrases of that script were clear, if meaningless.
+
+“What does it mean to become the light in the darkness?” Seeker asked. “I mean, I know what it says. I get the idea. But what does that mean for you?”
+
+“Where is dad? I can feel him,” the angel pointed up, “but I cannot talk with him. I was with him in my sleep. Now, he is too far from me.”
+
+“Ah, I have reason to believe he’s on the moon. Something to do with dragons.”
+
+The angel nodded. “I believe he wanted me to help our people in a task. The thought isn’t clear.” He touched his head, eyes closing in concentration. “So many thoughts. Unorganized. Disassociated.”
+
+Seeker tapped a foot at a specific location on the floor, in a precise sequence. A pedestal slid out of the ground, revealing a tiny triangular gem with a swirling interior. “Mind Fortress?” he said, gesturing.
+
+Looking from the gem to Seeker, the angel frowned. “Will it help?”
+
+Seeker nodded. “It will. To be honest, it will help me too. I need to regain my footing. The Fortress will absorb ambient energy and send it to me. Slowly. This variety cannot be upgraded.”
+
+The angel’s eyes glowed blue, the green hues obscured. “Will you help with dad’s plans?”
+
+“Is that a condition? Are you negotiating?”
+
+“I feel certain he would.”
+
+“Do you even know his plans?”
+
+The angel’s brow furrowed. “There are many. I think, maybe.”
+
+Shrugging, Seeker said, “Fine. For the duration of the Resonance Cycle, I agree to aid your father in his plans. I will not actively work against him or you. All of this must be within the limitations of my nature.”
+
+“Ah. That was a lot of words.” Stepping uncertainly, the angel walked to the pedestal and took the tiny gem. Inspecting it briefly, he pressed it to his forehead, absorbing the magical device.
+
+Convoluted thoughts, memories across the lives his father had given him, surfaced as the Mind Fortress worked. Holding his head at the uncomfortable sensation, the angel complained, “I do not believe this is a typical Mind Fortress, Seeker.”
+
+“I didn’t say it was. These rooms,” he waved a hand, indicating the Creation Chamber with its myriad body parts, all waiting to be assembled into new creatures, “come equipped with a few of that version. They help newborn creatures acclimate faster. Consider it a lesser Arbiter, in that regard.”
+
+Even with the supernatural help, it took hours for the angel’s Mind Fortress to do its work. His father’s memories, hopes, and intentions rested atop decades of martial knowledge. There were bits of song, dance, and music in there as well, joy to balance the horrors of battle.
+
+“Did he name you?” Seeker asked once he saw signs of clarity on the angel’s face.
+
+“No. He didn’t think that far ahead. I don’t believe he thought this would work as it did.”
+
+“Well, drat. Can I name you? I’d give you a glorious name.”
+
+The angel gave Seeker a wry look. “Absolutely not, uncle.”
+
+“Ah, you realized, then.”
+
+“That you helped bring me to life? Yes. My senses are acute.”
+
+Seeker shrugged nonchalantly. “I was curious. It’s in my nature to poke around a bit.”
+
+“Clarion. My name is Clarion.”
+
+“Maybe that name is for the best. I had other, less subtle ideas.”
+
+Clarion shook his head at the god’s antics. “I have a mission. I hope to see you again, uncle.”
+
+Seeker pointed to a door. “Follow me. I’ll show you the way out.”
+
+Clarion surfaced in his father’s village. Akkoans greeted him as he walked up the stairs and into the light. A penumbra of golden sparks cascaded around him as he emerged, creating a roiling halo.
+
+Voice raised, pitched to fill the space, he said, “I am Clarion. I am here to help.”
+
+A group of akkoans, three with bodies nearly as unique as his, came into view. One of them, a lovely woman with beautiful plumage, cackled, “Oh, he really did it this time, didn’t he?”
+
+A smile tugging at the corners of his lips, Clarion said, “Cleozun, is that you? I remember you, vaguely. But I did not remember you being so beautiful.”
+
+Cleozun froze, mouth working. Rosey purple spots slowly colored her cheeks.
+
+“I’ve never seen the mage speechless before,” Theontsu said from nearby.
+
+Meridian, the human woman staggeringly lovely in her dark leather armor, peeked around her lover’s broad back. She looked Clarion up and down, taking in the perfect physique and the glowing aura. “Ty didn’t dream small, did he?”
+
+Clarion chuckled. “I have work to do. Daddy created me to help. What is first?”
+
+“Oh, he’s not going to like you calling him daddy,” Meridian said with a wry grin.
+
+“Maybe father would work?” Omendine said, voice even deeper than Clarion’s. The llama-looking humanoid pushed between two of the towering bodies, his three-and-a-half-foot form dwarfed by the congregation. A bright white bunny with a smoking pipe between its teeth perched on his shoulder, watching the proceedings with interest.
+
+Clarion said, “Oh, I know he won’t like me calling him father. You know, he’s in his twenties.”
+
+A muscular akkoan, body augmented with intricate fractal tattoos, cleared his throat. “Clarion, I am Uneth. I am one of your father’s generals. Our scouts have found a prime location for your aid. Celestial City is about to be overrun. The place has several of the Celestial god’s high priests. Losing them could make future victories difficult.”
+
+Opening a hand, Uneth held his palm up. He nodded at Cleozun, who continued to study Clarion with a thoughtful, half-lidded gaze. Gesturing without breaking eye contact with the angel, she cast a spell.
+
+A three-dimensional image, a projected memory from one of the scouts, showed the landscape. Sitting on the edge of a cliff overlooking a surging ocean, the Celestial city radiated a pure white aura. Tumultuous, black clouds filled the rocky, open landscape leading to the city. Tines of malevolent lightning struck out, hitting a globe surrounding the city. The memory moved, showing a time lapse of events. More lightning struck, each hit noticeably reducing the aura.
+
+The gates of the city opened and a horde of eggshell white beings, Volar’s version of angels, stormed out. Opposite the angels, beneath the clouds, a second army came into view. Nightmarish creatures of all sizes and shapes, from skinless giants with vast black-fire swords, to Warped humans, became visible. Akkoan Vat Masters, wearing sleek green and teal robes, stood among the gathering, their clawed hands trailing the raw, dark smoke of their god.
+
+“I give them five hours until the city is overrun, at best,” Uneth said. He furrowed his brow, concentrating. The projected image changed color, showing phantoms of how he believed the battle would proceed.
+
+Clouds parted and flying shapes began strafing the city, dropping vats of blackened fluid that exploded upon impact, devastating the structures below. Vat Masters raked their hands, summoning fresh nightmares in droves, each custom-made to counter the Celestial’s defenses. In the projection, the Celestials fought desperately, using legendary items and powerful spells, but without the direct intervention of their god, they perished.
+
+“I shall not allow this to pass,” Clarion said. He looked at Cleozun and pointed at the image. “Teleport me there. Near the clouds. Follow with aid when you can.”
+
+Licking her lips, Cleozun considered her next words with care for once. “When we win this battle, would you have dinner with me?”
+
+Clarion’s eyes widened. “With you? That sounds amazing. I’ve never had dinner before.”
+
+* * *
+
+The Divine City, holy home to the Celestial god’s priesthood and the seat of her power on Volar, trembled. Lightning struck the protective barrier above, threatening to shatter it. Earthquakes shook the ground, tearing through buildings and unnerving the populace.
+
+“You must leave, holy one. Our city is not safe,” Zeta said. The Celestial, typical of his kind, was alabaster colored, with silver joints. His rounded, eyeless face turned toward the Arch Priest, a subtle expression of worry in his stance.
+
+The Arch Priest of the Celestial god, dressed in fine robes over a muscular, angelic frame, shook its head. Resembling Zeta, the featureless being glowed with a faint aura of purity and devotion. “I cannot. We must purify the tainted. My magic will be necessary here. We may die, but we will deal such damage that the Monster god curses us for all time.”
+
+Zeta looked at the palace window. Stained glass, replete with images depicting the holy incarnation of their tribes, glowed briefly before becoming transparent. An army appeared on the horizon, darker and more malevolent than anything the angelic host had known.
+
+“She comes in force,” Zeta murmured, awed by the force arrayed against them.
+
+“But not in person,” the priest said. “It is possible that we can make a stand here.”
+
+“Will our god join, finally?”
+
+“No. We are alone to hold the faith.”
+
+Squaring his shoulders, Zeta began the long walk from the Sanctorum. The high priest followed.
+
+The inhabitants of the Divine City rushed through the streets. Men, women, people of all races and creeds, including a couple rehabilitated akkoans, moved with purpose. They’d known such an attack was likely for a while and had prepared. Safe rooms were already full of children and small animals. Any able-bodied man or woman wore the lambent white arms and armor of the Celestial order, each imbued with a short-term spell from the clergy. The very aura of their gear would be harmful to the enemy.
+
+A staccato burst of lightning struck, sending tortured booms through the protective magic. Cracks splintered the magical shell, acid-etched holes growing in the smooth surface until, with a world-ending boom, the shielding enchantment broke.
+
+Clouds rent in the distance, disgorging dragon-bodied hydras. Flying on multiple pairs of vast, leathery wings, the hydras had gleaming blue mind gems at the apex of their torsos. Beneath them, clutched precariously, were cart-sized casks of the Monster god’s essence. Warped shadows oozed from the casks, filling the air with ambiguous nightmares.
+
+“In the Mother’s name, we shall eradicate the Celestial pestilence at last!” One of the Vat Masters called, voice screeching through the army. Standing on one of the few nearby hills, surrounded by her cabal, the she gestured, robes fluttering oddly around her mutated body.
+
+Three hydras started forward, ponderously lugging their hefty cargo. Arrows and a fusillade of spells shot from the Celestial city toward them, only to fail as soon as they came near the storm clouds. One of the Vat Masters smirked, lazily drawing a hand down, changing the trajectory of the arrows. They parted, falling harmlessly on either side of the dark army.
+
+Something struck the ground behind the Vat Masters, distracting them from their foe’s doom. Looking back, they saw a simple silver hoop. A teleportation ring. It glowed faintly, showing signs it had been used recently.
+
+Frowning, one of the high priests reached out and pointed at the ring, prepared to destroy it with a low-level spell.
+
+The pealing voice of a singing choir erupted in the air above. Golden light, like a new sun, flared as a figure flew into view, distracting the tainted cabal.
+
+A man-shaped creature hovered briefly above. His hands outstretched, head back, he roared. “I am the light in the dark!”
+
+Lightning reached down, striking at the flying man. He moved smoothly, sliding to the side, away from the bolt. Extending a hand, he pointed at one of the hydras, releasing a pencil-thin stream of pure white energy. The Celestial power punched through its cargo and exploded, shredding the hydra.
+
+A monstrous cabal chanted, all their attention on the strange newcomer.
+
+“Oh, no you don’t,” Cleozun’s half-mad voice shrieked from nearby. The cabal felt the strange sensation of their bones melting. It was a brief, sharp pain that did not last long. The leader fell to the ground in time to see a stream of strangely armored people step into view.
+
+“You don’t think he’s going to try to take all the hydras on himself, do you?” Uneth asked.
+
+“Given who his dad is, what do you expect?” Meridian replied.
+
+Theontsu slid a sword through the dying Vat Master’s neck. “Yeah, this does sound like a Ty sort of thing to do. I’ll make it a point to talk to him about the value of stealth when I see him next.”
+
+“Probably smart. Ty doesn’t have wings or archangel powers. Or that body. Plus, he’s considered what, level five, according to his Arbiter?” Cleozun followed Clarion’s assault on the hydra swarm with an expression bordering on adoration.
+
+One hydra slammed into Clarion, claws raking, crocodile heads biting. White blood burst from the Archangel, burning the demonic beast’s mouth. Rage filling its expression, the hydra came on, wrapping more heads around the angel, determined to bring him down.
+
+Another akkoan stepped beside the group. Moving her six arms in a complex pattern, Lila said, “He might be level six now.” The Knife Whisperer’s spell shot away from her and into the massing army.
+
+“Oh, good. He’ll benefit from your wisdom.” Uneth said.
+
+Meredith squinted, looking up at the clearly wounded angel. “His dreams are... lovely,” she said. The Mistress of Dreams, a level fifteen akkoan from the old world, reached out and plucked a vision from Clarion’s mind.
+
+A song exploded across the battlefield, notes ringing distinctively. It was a powerful song, one from Ty’s world, she thought. It would become the symbol of this battle, a heartbeat to unite behind. The very sound of it, enhanced by Clarion’s nature, deafened half the enemy army in an instant.
+
+“It’s a shame Yunnu is on assignment. He’d love to see this, I think,” Uneth said.
+
+Lila grinned over at Uneth. “I’m sure he’s having fun.”
+
+“Let’s go fuck that bitch’s plans up,” Awon said with a booming snarl, his rune-covered armor glowing as he grew to a size to match the enemy giants.
+
+The battle did not go well for the god of Monsters that day.
+
+Chapter 1: Warm Welcome
+
+Time Until Portal Opening: 3 Months, 0 Days
+
+Warning: Earth now has a moderate-magic environment. You will recover 1 mana per hour, except in nodes where magic is being transferred from Volar to Earth, where it will be significantly higher. Legendary items and effects will not function except under special circumstances.
+
+Notice: You have been fast-tracked. Due to your extremely low level, your new Arbiter has been authorized to significantly expedite your progress. Prepare accordingly.
+
+Ty stepped through the portal and sagged onto the damp, ankle-high grass. He was back at his rental house, in the fenced backyard. Security cameras gleamed at him as he set down his cargo. He’d carried most of it, including overstuffed bags and a ceramic pot, and the sheer volume of it weighed even him down. Like the first time he’d initially returned to Earth, nearly everything he’d brought to Volar ended up being destroyed or left behind.
+
+On the positive side, at least I brought a suit back with me. The black, three-piece suit was custom tailored to fit his impressive physique. It wouldn’t have looked out of place in a John Wick movie.
+
+Inhaling, Ty waited a beat. He knew what to expect this time. Magic pulsed out of him, first blossoming into a milky sphere fifteen feet in diameter, then vanishing into transparency at his thought.
+
+Words of fire appeared in the air, flickering and tossing sparks on the grass.
+
+“You have been selected to fight for your world. Prove yourself and your loved ones may survive the Resonance. In precisely three months, a portal will open for three minutes. The portal will appear wherever you are located. No other sentient being may go through that portal with you. This offer will not come again.”
+
+A two-dimensional image, like a computer screen, flashed beside the words. The covers of books he’d read flashed up, creating a simple collage. They were A Knight of the Word, Of Saints and Shadows, Black Sun Rising, and Rhapsody: Child of Blood. Those books, he knew, were the god of Technology’s way of warning scions of the various gods what they should expect from the next ‘round’.
+
+Making a note of the books on his phone, he called out, “Grandma, I’m home!” They’d agreed that she would stay at the rental until construction was complete on her new home in Taylorsville.
+
+Something growled nearby.
+
+Ty looked over and saw an enormous beast, like a mutated werewolf covered in melted hunks of flesh, clawing over the fence. Sharp bone protrusions clicked against the wood, digging furrows as it slid over the top and onto the ground. Breathing heavily, the abomination was so muscle-bound that it couldn’t stand straight. Even hunched, it was nine feet tall.
+
+Taking a few steps away, he lowered his belongings to the ground. The werewolf watched, head canted to the side, ears twitching. Scuffling sounds behind the fence hinted at more coming to join in the fun.
+
+“I have until level ten,” Ty said, moving away from his stowed belongings. He held his hands out. The Alunite gauntlets sheathing his arms adjusted shape, flowing to cover his knuckles and fingers in razor-sharp barbs. His joints clicked, unlocking, giving him the supernatural flexibility of an akkoan. He deliberately left his rifle on the ground. The last thing he wanted was neighbors becoming collateral damage.
+
+Another clawed hand slid over the top of the fence.
+
+I must inform you these are not scions. They have been mutated by the Monster god. The emotionless voice came from Ty’s new Arbiter.
+
+Does that mean they aren’t bound by her agreement to not attack me or my family until level ten?
+
+She never made that agreement. What her scion told you was not binding. It merely suggests she is willing to deal with the consequences of this activity.
+
+Their communication was nearly instantaneous. Between Ty’s high Spirit attribute and mental discipline, he thought as much in images and ideas as words. Realizing he would soon face two opponents rather than one, he leaned into a run, closing the distance to the werewolf.
+
+Jaws opening, clawed hands spread wide, the werewolf clawed at him. The monster was fast, inhumanly so. It was not, however, experienced. The telegraphed attack made a whooshing sound as it sliced the air above Ty’s head. Leaning forward and low, Ty punched the werewolf’s knees. One, then the other, each hit conveying the full power of his supernatural strength, coated in sharp metal.
+
+The werewolf howled, raking down with both hands, teeth snapping. Behind it, another werewolf lumbered atop the fence.
+
+Ty took the hits. His Arbiter flashed a mental display, allowing him to track his status.
+
+Hit Points: 12
+
+Projectile Shield: 7 Charges
+
+Mana: 50
+
+Mana Shield: 21
+
+The werewolf hit hard. Ty couldn’t afford to let the fight linger. He drew his assassin’s short sword, the serrated black blade oozing palpable killing magic, and sliced upward, gutting the werewolf in a single, smooth motion.
+
+Howling, the monster snapped at him, catching the tip of his sword as it completed the upward arc. Ty extended his arm, pushing the blade through the werewolf’s upper palette and into its brain. It shuddered and thrashed, falling to the side. Snapping teeth dragged the sword out of line, allowing the second werewolf an opportunity.
+
+Six-hundred pounds of werewolf, backed by supernaturally enhanced strength, slammed Ty into the ground. Claws savaged his new suit. To the suit’s credit, it soaked some of the damage, resisting the claws as a byproduct of high-quality, magical tailoring.
+
+Grunting, flattened and rapidly suffering unsustainable damage, Ty slapped his hands to the werewolf’s paws. He activated Verdant Touch through his gauntlets. Righteous rage, a feeling of absolute moral clarity, flooded through him as he forced the mana through his magic prism, transforming it from Wild to Celestial.
+
+The werewolf’s paws smoked. Unlike past enemies, which had been incredibly vulnerable to Celestial magic, the wolf was resistant. It still howled as chunks of flesh burned away, but it did not explode or flee, as he’d hoped.
+
+A claw mauled Ty’s exposed face, slowed slightly by his magical shield before taking off his nose and lips. It was a miracle that the wolf missed his eyes.
+
+Excruciating pain nearly blinding him, Ty stopped his magical assault. It just wasn’t working as effectively as he needed it to. Redirecting the power inward, Wild magic poured into his body, healing the superficial wounds. His nose and mouth began to reform, too. His magic couldn’t regenerate whole limbs at his level, but it could handle the smaller stuff just fine.
+
+Gritting his teeth in a rictus grin, he pulled his arms in front of his face in time to block another swipe. His Alunite gauntlets covered his arms from fingers to shoulders, and the werewolf’s claws smacked into immutable metal. It growled in frustration, adjusting its footing to grab at his guts. One foot slid off his legs to the ground as it pivoted to make room.
+
+The moment it moved, Ty grabbed the foot on his chest and twisted. Not only was he supernaturally strong, but he was also an expert at Krav Maga; he knew how to move joints in close combat. The wolf squealed as he twisted its leg. Bones popping, the wolf turned with the move, fighting to reduce the pain.
+
+“Regenerate,” Ty growled, slamming his fist into the werewolf’s twisted knee with bone crunching force. “From,” he hit it again, picking up speed as the wolf fell away. “This,” the third hit was enough to send the werewolf toppling to the ground, knee pulped.
+
+Slapping his hands down to the ground, Ty used the motion to practically fly to his feet. The monster whined and slashed in his direction, warning him away. “I’m being presumptuous. Your flavor of werewolf might not regenerate, eh?” He walked to the dead werewolf and leaned to grab the hilt of his short sword.
+
+The surviving werewolf turned, using its good leg and hands to orient at him. Raw rage and bestial intelligence glowed in its red eyes as it watched him.
+
+“How much of you is left in there? Are you still human?”
+
+Growling, the werewolf made an experimental lunge at his legs. Ty stabbed it through the hand, wrenching the sword through the joints of two fingers. Blood sprayed, smoking on the grass.
+
+“What gods are you part of? My powers normally work against the Monster bitch. Clearly, you’re a hybrid.”
+
+Another growl and a swipe. Ty cut the werewolf’s hand off. It showed no signs of regenerating. Exhaling, He executed the inarticulate monster.
+
+“Arbiter, will you tell me what level and which gods created these creatures?”
+
+His new arbiter was gold colored, with Inspiration’s magenta and silver hues fluctuating in its core. It flashed a light across the corpses. “Level one werewolves. This pair represents a modest collaboration between Monsters and War, with the Monster god paying most of the relatively small cost. These transformations consumed most of the mortal’s souls and minds, reducing the tax on divine magic.”
+
+“Werewolves? Like, silver and moonlight and such?”
+
+“Not these. These are drawn from people’s nightmares. I should also note that these are a Generative type. They can self-replicate in wounded mortals with almost no further investiture. Based on the energy signature of this pair, I assume they’ve both been in their current shape for several months and have spread to five or six others. Also, would you like to loot them? If so, where shall I put it?”
+
+“Five or six others?” Ty mouthed. “So, there could be an army of these things already invading the planet?”
+
+“Unlikely. Generative magic attenuates over generations. Still, with her reach and power, the Monster god may have a significant force prepared.”
+
+Exhaustion weighed Ty down. The Monster god continued to out-play him at every turn. Channeling the last of his magic into healing himself, Ty pointed. “Loot them. If you’ll deal with the bodies, I’d appreciate it.”
+
+“Corpse hiding is not part of my loot function.” A stack of bills appeared on the ground. “Five hundred dollars. As much as the duo had on them prior to being transformed, plus the value of their wardrobe and phones.”
+
+The werewolves didn’t transform back into humans, which was fortunate for Ty. It was easier to label the creatures as simple, mindless monsters that way. The Arbiter vanished as soon as it was done delivering the goods.
+
+He found a shovel in the rented house’s garage and buried the corpses. Halfway through it, at nearly one in the morning, the glass door opened, and Blaire peeked out at him. She was wearing a thick cardigan, fuzzy pants, and slippers. One of her hands was tucked behind her back.
+
+“Ty, you doin’ okay?”
+
+Do I still have to lie to everyone about what I’m doing? Ty sending his Arbiter a mental inquiry. Until now, he’d had to mislead everyone about the exact details of the Resonance Bridge.
+
+No. The gods are actively involved. Prohibitions against speech have been revoked.
+
+“Ah, I’m burying two werewolves, grandma. They snuck over the fence.” Ty hoisted the bloody shovel into the backyard flood light.
+
+“Oh, you got them. Good.” Blaire untucked her arm and sagged against the door frame, the shotgun muzzle grating across the linoleum kitchen floor. She was in her mid-sixties and had been wearing it heavily even before Ty’s first trip to Volar. His Verdant Touch had restored some of her vitality, but it could not restore her youth.
+
+“You knew about them?”
+
+“Oh yeah. The security cameras picked ‘em up right after you stepped through that portal. By the time I had the gun, you had handled business, so I took a break to make coffee.”
+
+Blaire’s faith restored some of his resolve. “Did you say you made coffee?”
+
+“Sure did.”
+
+“I’ll be in once I finish out here. Why don’t you get some rest? I doubt we’ll see more of these.” He took his phone out and checked it. The map Technology had given him last time, the one showing nearby scions, had not reappeared. He couldn’t be certain that they weren’t about to be attacked again, which left him worried.
+
+If werewolves were on the table, what else was? Anyone he loved, everyone he cared about, could be in danger. And none of them were equipped to defend themselves. Once he reached level ten, the Monster god’s assassin scion had made it painfully clear that everyone connected to him would become a viable target. Only Technology stepping in had granted even that concession.
+
+Troubled, he finished burying the bodies. Once he was done, he walked to the edge of the house. Looking into the security camera, he said, “Technology, I need evidence of what’s going on. This isn’t to put on television or the internet. It’s to protect my people. You’ve helped balance the scales before. Maybe do it again?”
+
+The light on the camera blinked from green to red. Ty’s phone buzzed.
+
+Provided you do not attempt to distribute or share information, I will give you what you ask.
+
+“Huh. Well, that worked.” It wasn’t Ty’s first time talking directly with the AI god, but it was his first time negotiating with the entity. The idea of him, a regular scion, just talking with the other gods like people hadn’t occurred to him.
+
+Other than Seeker, he amended mentally. Then again, Seeker basically acts like an ADHD teenager with a penchant to give romance advice. He deserves to be treated that way.
+
+He brought his belongings inside and took a shower. The suburban house they’d rented was in a pleasant area, with a private lot. The hot water lasted a long time.
+
+Ty’s room in the house was bigger than it had been back in the city, but it still wasn’t huge. He had a simple twin-size bed, a chest of drawers, and walls covered in post-its. He looked the notes over, noticing that Blaire had added a few new ones. They were all about news clippings and YouTube videos circling the internet.
+
+Dressed in a shirt that strained to contain his new muscularity and athletic shorts, he went down the stairs to the kitchen. Blaire had followed his suggestion, or just gone back to her bedroom, leaving him to review the stacks of newspapers she’d left on the dining room table.
+
+Before he sat down to coffee and research, he collected his rifle and short sword. He’d be keeping those nearby permanently. As soon as he could, he’d reach out to Mr. Bradley and replace the double Desert Eagles he’d left back on Volar.
+
+He read, researched, and made notes until Blaire woke up.
+
+“Coffee?” she croaked, shuffling into the kitchen. It was barely after dawn, and the orange pink hues of early morning barely peeked through the window slats.
+
+“Still on military time?” Ty asked. Standing, he went to prepare the morning coffee for her. Grandma Blaire and her late husband, Grandpa Billy, had both been in the Air Force for thirty years. He was used to her waking up early and passing out in front of the television most nights.
+
+“Nah. Worried about my boy and all this trash,” she gestured at the tattered remnants of newspapers. Ty had taken clippings. “Monsters showing up. Little girls proclaiming themselves witches. Faith healers. People coming back from the dead. What a mess.”
+
+“I guess that explains the shotgun.”
+
+“I got that from your friend, Mr. Bradley. He seemed to think I might need it for some reason.” Blaire took a seat, her limbs shaking a bit from the effort.
+
+“Zombies?”
+
+“Yeah. He mentioned zombies, or bodybuilders in fetish leather, or something coming after me. I didn’t really pay attention. He had all his folks doing maneuvers around the town square.” She paused for dramatic effect, leaning in to give Ty the stink eye. “They were even doing drills during my inauguration.”
+
+“Well, that went quick. Congrats, Mayor Blaire?”
+
+Blaire snorted. “During the inauguration, Ty. Don’t get off topic!”
+
+Ty poured a cup of coffee, added a splash of milk, and sat it down in front of her. “How many people were there to see, besides the special operators?”

@@ -1,0 +1,393 @@
+TITLE: The Resonance Cycle Book 2
+AUTHOR: Aaron Renfroe
+SERIES: The Resonance Cycle (Book 2)
+WORDS EXTRACTED: 6017
+============================================================
+
+Theater of War
+
+The Resonance Cycle: Book 2
+
+Dedication
+
+This book is dedicated to the gamers who think of rules as firm suggestions, rather than hard limits.
+
+Introduction
+
+Welcome to the Resonance Cycle. This series is a love letter to my youth; a time when I read every book in the Fantasy section of the store and played Dungeons and Dragons religiously. I decided to use the LitRPG framework for the series for a lot of reasons, the primary one being that I enjoy writing a lot like I DM tabletop adventures. Thank you for listening, and I hope you enjoy the twisting adventures ahead.
+
+Abilities Note: Over writing the series, our cunning protagonist has developed many abilities, quite a few of which are situational. Some he’s crafted himself, through his Merit Hunter class; others have been given to him or evolved through use. To keep the narrative tight and avoid rehashing, I’ve added an appendix and a glossary. In Appendix 1, you’ll find a summarized list of his abilities up to the current book. The Glossary contains terms and definitions.
+
+What Came Before (Book 1)
+
+A fire-written prophecy interrupted Ty’s casual browsing of the internet to tell him world-altering news. He’d been selected by the gods to become a scion and save those he loved on Earth. Armed with the words of a vague prophecy, he spent six months preparing for what would come next. Upon his arrival to the world of Volar, and through a series of trials, he was given an Arbiter. This magical device would act as his personal Game Master, customizing class abilities, achievements, and other rewards for him. It would also act as a translator and guide to ensure he did not die due to lack of local knowledge.
+
+During his first dungeon delve, Ty stumbled across an ancient, forbidden repository of thousands of souls. Trapped in a thing called a Soul Battery, the souls were being tortured and used for fuel. Unwilling to leave the spirits behind, despite all warnings to the contrary, he freed them. In doing so, he became their temporary host and may have befriended their mysterious god in the process. Later, after a fight with local demons, he discovered that he could embody some of the souls into the demons. With some of the akkoans reincarnated, he set about establishing a safe zone for his eventual return to Volar. He was also told that there was a time differential between the two worlds. When next he returned to Earth, six months would pass there, but three years would pass on Volar.
+
+His final character sheet from book 1, which includes spoilers for that book, is included below. Portions of the sheet will be updated and re-stated as needed in the book, and again completely at the end of the book.
+
+Name: Ty Monroe
+
+Class: Merit Hunter
+
+Race: Human
+
+Level: 3
+
+Status: Mentally Unstable
+
+Progress to Next Level: 25%
+
+Hit Points: 14
+
+Health Shield (Lesser): 21
+
+Mana: 18
+
+Mana Shield: 9 (Racial Maximum: 30)
+
+Strength: 13 (Above Average)
+
+Agility: 9 (Average)
+
+Vitality: 10 (Average, +1 hit point per level)
+
+Intellect: 13 (Standard High IQ)
+
+Spirit: 6 (Wild-attuned)
+
+Luck: 0
+
+Applicable Skills and Abilities
+
+Mixed Martial Arts (Sambo Focus): Proficient
+
+Krav Maga: High-Adept
+
+Edged Weapons: Skilled
+
+Bows: Proficient
+
+Guns: Adept
+
+Survival: Adept
+
+Meditation: Proficient
+
+Unassigned Attribute Points: 0
+
+Unspent Merits: 6
+
+Achievements and Powers: Wild Touched, Magic Prism (Divine, Monstrous, Wild), Magic Siphon, Knight of the Wild Ability Package, Verdant Touch, Moderate Life Leach (Death-Attuned), Undead Clone – Single Use Surrogacy, Custom Quest: Collect the Blood (1 of 3 collected), Defeat the Invading Army – you have one free upgrade to an existing ability, up to an equivalent enhancement of two merits.
+
+Quests: Protect the Dungeon (Ongoing)
+
+Notable Equipment: Two handguns, Gambler’s Monocle X 5 (unshielded), Shielding Amulet (Lesser), Mind Fortress (Unknown), 1 Personal Locket, Nightmare Silk, Forbidden Book of Necromancy, Monstrous Manual
+
+Notable Equipment on Volar: Armor of (Unknown, Sealed), Black Sword (Unknown, Sealed), Ward Robe (Epic; 20% integrity), Magic-Breaker Dagger (Epic; 45% integrity), Shielding Amulet (Lesser), Alunite Gauntlets (Legendary), Divine Anchor (Legendary), 2 Demonic Crystals, Hellstone X 5
+
+Spiritual Assets: akkoan minds (29,534), akkoan souls (29,534)
+
+Chapter 1: A New Prophesy
+
+Time Until Portal Opening: 5 months, 30 days
+
+Ty stepped through the portal and onto the pavement. Before he got his bearings, words of fire appeared in the air.
+
+“You have been selected to fight for your world. Prove yourself and your loved ones may survive the Resonance. In precisely six months, a portal will open for three minutes. The portal will appear wherever you are located. No other sentient being may go through that portal with you. This offer will not come again.”
+
+Unlike last time, the fire didn’t simply vanish. Instead, it coalesced into a flat pane resembling a computer monitor. The screen was a replica of his computer at home. The files flickered as if someone were rapidly inspecting everything on his hard drive. Books covers appeared on the screen in a collage. They were Game of Thrones, Alien, Dune, Elric of Melniboné, and Caine Black Knife.
+
+Warning: While on Earth you cannot gain experience or levels, although you may still earn achievements. Your time here is to act as an anchor for your god, not consume more of his power.
+
+Well, that’s fine. I didn’t intend to grind experience on Earth anyway, he thought.
+
+Taking his cell phone out of his pocket, Ty checked the battery life. It was down to four percent. He’d forgotten to turn it off for his last days on Volar. Thankfully, it was still on airplane mode. The date told him he’d been gone to the other world for four days. It was Tuesday, and nearly eleven at night.
+
+That explained the dark and crisp chill in the air.
+
+Opening a notepad app on his phone, he wrote the names of the books down. It was important to collect information and plan, and he couldn’t plan if he didn’t make notes. If it was anything like the last time, those books were the god of Technology’s way of warning him about what was likely to come next. Unlike the last time, other than Game of Thrones, Ty didn’t even remember having read the rest of the books. He’d have a lot of research to do over the next six months.
+
+Once he had the note saved and sent to his email, he checked his bank account. The nearly seventy-grand in predatory loans he’d taken out to purchase equipment weren’t due for another month, which was good. He even had a few hundred left over in the account, just enough to cover the interest on the loans if he didn’t return in a timely manner.
+
+If things went the way he intended, that loose end wouldn’t be a problem for him or Grandma Blaire.
+
+Straightening his now too-tight shirt, one of his favorites with “My Charisma Score is 18, Honest!” on the front, Ty made his way to the nearest curb store. He needed an ATM and a few supplies before he went home.
+
+Hagemi, the Arbiter living inside his mind, manifested nearby. His personal Game Master, the Arbiter acted as his connection to his god, Inspiration.
+
+“Stay still,” Hagemi said. The Arbiter looked like two crystalline pyramids stuck together in a classic D8 style. Magenta and silver light pulsed within its depths, revealing small indentations and hints of erosion he hadn’t noticed before.
+
+Stopping, he said, “What’s up?” He was impatient to get started. Six months was not enough time to enact the plans he’d made. He wanted to start immediately.
+
+Hagemi’s mental presence, the part of the Arbiter that remained inside Ty’s mind even if it was manifesting in a physical shape, pulsed. Energy, like pressure mixed with raw joy, pulsed from it and into his body.
+
+Ideas blossomed and cartwheeled through his imagination. He saw his current, well-organized plans, then saw a hundred dovetailing possibilities from each of them. The power passed through his body and out, taking all his mana and abilities with it.
+
+A dome of translucent, milky light swirled into place around him. Shapes rolled through the bubble, several of them coalescing into opaque bumps. Ethereal tendrils extended from the bumps, unspooling, and connecting with Ty’s torso.
+
+Reaching down experimentally, Ty rested a hand on one of the tendrils. It wasn’t solid. His hand passed through it, but when he concentrated on the tendril, he felt something strange. It was as if his mana had been externalized. When he touched the tendril, he could sense the wellspring of his power and drink it in, just as if it were inside his body. Only now he had to concentrate differently. He moved his hand away from the tendril and, after a few attempts, found he could pull on his pool of mana without actively touching it.
+
+“Those clusters represent your abilities,” Hagemi said.
+
+“What? How?” He extended a hand to the edge of the dome, trying to touch it. The sphere expanded as he moved, avoiding contact.
+
+“The places where the energy pools, those represent your abilities. Here, let me help.” Hagemi’s mind-space duplicate thrummed with magenta and silver light as it adjusted his perceptions. One moment, he was uncertain about what he was seeing, the next he understood. The tendril he’d been touching was his Mana Prism ability. Interestingly, looking at it from this perspective helped him see the power with fresh eyes.
+
+On Volar, the Arbiter had helped him use all of his abilities efficiently, taking the burden of actually learning how they worked from him. Seeing them this way helped him understand how they worked better. When he moved mana into the space associated with the Mana Prism, he could deliberately align himself with one of the godly powers he’d come into contact with. Essentially, a part of him re-lived the experience of being nearly possessed by Celestial blood or Monstrous power. The process was seamless when Hagemi helped trigger the power, bypassing conscious effort on his part.
+
+Perhaps being on Earth will help me learn to be more independent. He paused, looking over the Mana Prism ability. “What about the Wild? I don’t see it in here.”
+
+“All of your abilities are infused with it. It’s not an option for your Mana Prism because it’s the default. Switching from Celestial mana to Wild is effortless because that’s your natural state.”
+
+“Ah.” On Volar, he’d asked a dragon for a blessing. That blessing had aligned him to the Wild, a force that he still did not entirely understand. According to Hagemi, the gods were not pleased by his choice, since the Wild came from a source other than faith.
+
+“Hagemi, what is this? I can’t see through it and it’s going to distract people.” He waved a hand at the bubble.
+
+“What you’re seeing is the effort your god is putting in to build its anchor on this world through you. Every god is doing this now, using any conduit available to establish itself. Think about how you want the bubble to look. I’ll help with the rest.”
+
+Ty concentrated, and the bubble vanished.
+
+“Okay, nice. The gods are all doing this?” He waved his hand in the air. “Is there anything special I should know, or be doing, to help Inspiration?”
+
+Hagemi rotated in the air, glowing light pulsing as it considered what to tell him. “I cannot understate enough how much power each god has put into this. It’s their only hope of survival. You should expect your aura to influence others around you, potentially inspiring them to greatness. A few may even discover Inspiration in their dreams and become miniature anchors. Some of the other gods will use their scions to convert followers. That isn’t Inspiration’s way, but if you encounter any forced converted, this is why.”
+
+“People can become anchors without me selecting them?” Ty asked. He could choose up to sixty people to protect, based on his performance the first time in the other world. Those people would become anchors for Inspiration. On the positive side, they’d be protected from the Resonance, which would cause millions of people to be exchanged with those on the other side.
+
+Although the bubble was transparent, he could still sense it through his link to the mana and abilities it held. The externalized distance gave him the impression that using the abilities might have a slight delay.
+
+He hesitated at the mouth of the alley, considering asking more questions, then reconsidered. Time was short, and there’d be opportunities to ask more questions later. As he exited the alley, Hagemi’s physical manifestation vanished, leaving only the copy in his mind-space.
+
+Shivering in the chill of night, Ty longed for the balmy, gentle temperatures of the forest he’d spent most of his time in on Volar. Tucking his hands in his pockets, he grumbled, “Definitely getting a movement power as soon as I can.” A flash-step or shadow jump ability would be a big help in combat, not to mention getting him out of the cold faster.
+
+The store wasn’t far away. Thankfully, he and Grandma Blaire lived in a metropolitan city, and finding the right store wasn’t an issue. His phone was down to three percent when he finished at the ATM.
+
+Bells and chains on the door jingled as he walked through the iron-caged glass doors. Looking around, he saw the store had one customer sitting near the gambling machines, and a clerk behind a plastic enclosed security desk. Waving to the clerk, he asked, “Hey, what’s the big lotto up to? Do you have one closing out soon?”
+
+The woman had caramel skin, and a red Bindi stood out as a bright spot of red color on her forehead. Smiling, she said, “Oh, the Mega Millions? It closes out in fifteen minutes. You just made it in time. The last draw is up to just under a billion.”
+
+Step hitching at the number, Ty made a soft ‘meep’ sound. “That’s a lot of money.”
+
+The woman gave him a wry look. “It sounds like a lot, but only if you take it in payments. Most winners cash out, which costs. And then there’s taxes and splitting it between the other winners.”
+
+“Still…”
+
+Laughter made the woman’s smile positively shine. “Yes, yes. You’re right. It would make a lot of peoples’ lives better.” She gestured at the store, taking in the dirty floors and barred windows. “If I won, I’d hire someone other than my daughter to help me clean.”
+
+Returning the woman’s smile, Ty grabbed two of the lotto tickets. He’d need to fill them out with his bet before the clerk could enter them in the system and register his wager. Walking to the bar-style sitting area next to the vending machines and gambling games, he nodded to the one other patron. She was a thin black woman in all denim. Her brows furrowed when she looked over to see him pulling a glass monocle from his pocket.
+
+“You got a suspicion too, eh?” the woman asked. “I use the birthdates of my grandbabies. One of these days, I know it’ll work out. They live off with their daddy now, since, you know, bad things with my daughter. Anyway. You better hurry, she’s about to close it down.”
+
+Ty grinned at the woman, not correcting her use of the word ‘suspicion.’ She looked like a good type, one of the locals. A lot of the city had suffered from gentrification in recent years and rent had skyrocketed. That, plus the recession.
+
+Times were tough. It made him feel guilty, knowing that things were only going to get worse.
+
+Lifting the monocle to his face, Ty peered through it at the matrix of numbers on the lottery card. The little glass disk warmed between his fingers and two numbers glowed red. He marked the numbers and tried the monocle again. Nothing happened. A red ring wrapped around the edge of the glass. He guessed that meant the ‘charges’ or whatever were spent.
+
+“Just two, eh? Like most dice games, I guess,” Ty muttered, moving to the next monocle. There were six numbers in this one, so he’d have to use three of his five if he wanted to get the maximum payout.
+
+Once he had all the numbers figured out, he walked to the counter and paid to submit the ticket to the clerk. “Hey, before I go, would you do me a favor?”
+
+“Depends, sir. What would you like?” The clerk had a warm voice but looked at him with thinly veiled suspicion.
+
+“Would you unroll the scratch off cards so I can pick my lucky two?” He held up one of his two remaining monocles. “I’m suspicious,” he said, deliberately using the strange woman’s term.
+
+“I don’t know. That’s very unusual, sir.”
+
+Ty reached into his pocket and pulled out two twenty-dollar bills. “For your trouble?”
+
+The offer of money was enough. She unrolled the scratch offs and let him use his monocle. Oddly, the monocle only highlighted one ticket in the roll. It did, however, highlight another one still behind the plastic case. Blushing and trying to look as nonchalant as he could, Ty tapped the one on the sheet in front of him, then pointed out the other.
+
+“Sorry, my glass eye tells me that the other one I want is in there. That one in particular.”
+
+“Fine, but that’s all you get tonight, sir. No more strange behavior, okay?”
+
+Ty kept one of the cards without using it and dropped the other off next to the ‘superstitious’ grandmother. “If you win,” he said on his way out, “be sure to tip the woman behind the desk for me.”
+
+Pocketing the second ticket, Ty made his way back to the apartment he shared with Grandma Blaire.
+
+Hunching his shoulders against the cold, he kept his eyes down. He lived in an older section of the city, with tall brick apartment units that were built decades ago. Each of the apartments was three stories tall and had maybe fifteen discreet units in them. Over the last few years, as rent went up and jobs vanished, more people lived in fewer houses. It could take whole families to pay for a unit. There was crime, too, but Ty wasn’t worried about that. He didn’t keep his head down because of fear some local would mug him. He kept his head down because he didn’t want to see the homeless people sitting out in the cold, tucked between the buildings, or hiding behind trash cans.
+
+The Resonance will bring magic here, Ty consoled himself. That will fix things.
+
+He made it to his rent-controlled apartment complex around midnight. He and Grandma Blaire shared a tiny unit on the third floor. Ty’s time training and increasing his Strength attribute made gliding up the stairs effortless.
+
+Standing outside the door, he heard cries from the apartment next door. The neighbors had two families in their single-family space. Both had young children. Fumbling at his pockets, he searched for his keys. He was lucky both his keys and his wallet had survived his visit to the other world. Various monsters had clawed apart most of his gear within days of his arrival.
+
+He found his keys and went inside. The apartment was small, barely a living room with a connected kitchen that was smaller than some people’s closets. His grandmother, somewhere in her sixties and looking small and frail, sat in her chair in front of the television. She’d fallen asleep in her clothes.
+
+Blaire’s eyes snapped open at the sound of the door clicking shut. She’d been in the military for years, and was still a hard woman to sneak past, even if she used a hearing aid.
+
+“Ty, you’re back, honey?” Blaire came to her feet, moving weakly but with determination.
+
+“I’m back, grandma,” Ty said warmly. He hesitated a beat before giving her a gentle hug. He had never been big on touch. Something about it made him feel vaguely uncomfortable. Ironically, he didn’t have that issue when he was in a fight or sparring.
+
+Blaire and his grandfather, Billy, had raised him for years when his father passed, after his mother left. His grandmother had been his first tabletop Game Master. She’d read his father’s fantasy books, just so he’d have someone to discuss them with. She and Billy had done their best to teach him how to live a good, just life.
+
+Ty only hoped that the choices he’d made, and the person he was becoming, would make them both proud.
+
+Blaire reached up, gripping his biceps. They stretched his t-shirt now. “You look different. What have you been doing? Or did a weekend hike take the last of that baby fat off you?”
+
+“Well, not exactly.” Ty’s tongue froze as he tried to tell her about Volar.
+
+Not yet. No direct discussions about the Resonance. Give it another month of subjective Earth time, maybe two more of your visits. Everyone will suspect by then, making it pointless to conceal. Hagemi communicated via their mental link. Thanks to their intimate connection, any messages or powers the two exchanged happened near instantly.
+
+Can I be indirect?
+
+You have magical powers, Ty. Use your imagination. Just avoid starting a fire. If you go off the rails and alerting people in ways you shouldn’t, I’ll have to step in.
+
+“I have a present for you, grandma.” He passed her the scratch off.
+
+Blaire held the ticket, frowning. “Ty, you know I don’t like gambling. It’s a tax on the poor is all it is.”
+
+“Play the card, grandma. Think of it like that old movie with Gene Wilder, the one you showed me so much as a kid. What’s the worst that could happen?”
+
+“Willy Wonka? You don’t remember the name of the movie? That’s not like you. You’re a little devil for the details.” Blaire walked over to the kitchen to get a butter knife for the card.
+
+Not much had changed about their little apartment since he’d left. The red indicator on the water filter was still flashing, and the trash was full. Stairs hurt Blaire’s knees and back, and the apartment didn’t have a working elevator most of the time.
+
+She scratched the ticket off and glared at the result like she didn’t trust it. “Looks like we just won ten-thousand dollars.” She held the little cardboard up for him to inspect.
+
+No wonder the monocle had directed him there. For a moment, Ty hated he hadn’t purchased more of the things.
+
+“Yup. We’ll collect it tomorrow, along with whatever we win from this.” He held out the receipt for his lottery card.
+
+“You put money on the Millions and won?” Blaire asked, dubious. “What have you been up to, boy? Nothing illegal, right?”
+
+He laughed, “Nothing illegal. Nothing they could catch me at, anyway.”
+
+Blaire was about to say more when Ty had an impulsive idea. He put his hand on hers and activated his Verdant Touch ability and selected her as his first official designated ally on Earth. A prompt splashed across his mind-space.
+
+Undesignated Allies: 59
+
+Verdant Touch was his first useful power. It allowed him to spend a point of mana to heal two hit points. Only, hit points weren’t a real thing. Sure, Hagemi told him he had them. They displayed on the Arbiter’s crystal surfaces in his mind whenever he thought about them, as clear as a character sheet from a tabletop game. He currently had fourteen of them. But a hit point represented something bigger. It was a holistic way of describing a person’s body. Healing someone with Verdant Touch didn’t just remove injuries, it energized them, soothed their minds a bit, and more. The Touch couldn’t regenerate lost limbs or remove curses and diseases yet. It would once he reached a high enough level.
+
+Emerald-colored, Wild energy flowed a bit sluggishly through the invisible shell of his power and into his hands before settling into Blaire. By default, his abilities used a type of magic that was ‘Wild’ attuned, because of an interaction he’d had with a dragon. According to Hagemi, the gods considered the Wild type uncontrolled and chaotic, and thus inferior to their unique ‘flavors’ of magic. As far as Ty could tell, Wild-attuned healing worked just fine.
+
+Blaire gasped, eyes clearing and posture straightening. Her back popped as she stretched, elongating to nearly her full height for the first time in years.
+
+“I can’t explain,” Ty said to Blaire’s wondrous expression. “Don’t ask. I can’t explain. Just… please trust me. We’re going to need every dime we can get, and we’re going to need it right away. There’s a lot we need to do, and I’m going to need you to trust me until I can explain more, alright?”
+
+“Ty, what are you talking about? What is this? I feel amazing. What did you do?”
+
+“I can’t say, grandma. Not right now. Tell you what, let me get some sleep and I’ll try to explain tomorrow, if I can find the words.”
+
+Blaire, eyes and head clear, and probably feeling like she’d had a full night’s rest on top of it all, glared at him. “You better explain tomorrow or else I won’t make eggs for breakfast. We both know how shitty you get without your eggs.”
+
+Chuckling, Ty took a step toward his room. Once he was in the shoebox space that held his bed, computer, and extensive collection of notes, he checked his phone for the lotto update.
+
+He’d won, and there was no split. Only Ty had gotten lucky that night. He thought he heard a distant chuckle from Hagemi’s direction. It sounded like Inspiration.
+
+Chapter 2: Plans with Grandma
+
+Time Until Portal Opening: 5 months, 28 days
+
+Ty’s alarm woke him four hours later. Pulling in the bubble of mana around him, he lethargically used his Verdant Touch on himself to reclaim the hours of rest he was missing. The mana would recharge slowly on this side of the portal; he’d noticed that regaining the one he’d given Blaire had taken nearly three hours.
+
+He’d been told the mana density on Earth would grow as the Bridge stabilized. In another trip or two, Earth would be nearly as magical as Volar. For now, however, he’d have to plan around the slow drip of mana, versus the veritable fountain in the other world.
+
+Dressing in a brown t-shirt and jeans, Ty went to his computer. GOTProphesy.uww was still on the desktop. When it opened it this time, it showed him the old book covers along with the new ones.
+
+“Like the Tech god is updating things as I progress, eh?” Ty muttered to himself.
+
+Looking over at the wall next to his desk, he studied the notes he’d prepared for the last trip. They were as he’d left them, covering the wall. He was a compulsive planner and a note-taker; without the comfort of research and clear definitions for the moving parts, he simply didn’t function as well. Last time, he’d only known the variables on Earth, and had taken days to map and chart every outcome he could imagine. This time, there were variables on both sides.
+
+He went to work. He looked up how much money he should expect to take home from his winnings, tracked the news for signs of the Resonance or people like him, and began revising his old plan. Most of the notes had to come down. Either he’d exhausted the ideas associated with them, or they led down paths that hadn’t come to fruition. Eight-hundred cheap watches, which he’d imagined trading for magical gear, had proven useless. Not only did Volar have twenty-five and a half hour days, but the people he’d met hadn’t needed watches. Their society was different.
+
+Hours, and one big headache later, he made his way out to the kitchen. Blaire wasn’t up yet, so he poured some stale cereal into a bowl, grabbed a glass of water, and got his phone out. The books the new prophecy had used were all titles he owned in one electronic format or another. He just had to pull them up.
+
+“So, what’s the plan? You figured out how to tell me what’s going on?” Blaire said, padding into the dining area wearing her fuzzy slippers. She was wearing her Mickey Mouse pajamas. Ty looked up from his pile of post-it notes, setting his spoon in an empty bowl.
+
+“Plan?” he asked, trying to look innocuous. “Eggs? Can that be the plan?”
+
+Blaire grinned and held out her hearing aide. She’d heard him without it.
+
+“But my ability shouldn’t regenerate permanent hearing loss, it can only heal damage,” Ty protested weakly, feeling a surge of joy. Many of his encounters on Volar had been wonderful, eye-opening experiences. This was the first time he’d felt like that on Earth.
+
+“I was on the deck where the airplanes lifted off for years,” she said, taking a seat next to him. She started leafing through the notes. “Sounds like damage to me. Don’t you think?”
+
+“Grandma, you’re brilliant!” Ty beamed at her. She was right. The injuries she’d taken, even if it was permanent for modern science, had been reversed by magic. Verdant Touch hadn’t cheated. It just worked the way it was supposed to.
+
+“Sometimes, I have a good idea or two. Looks to me like you’re building an idea web. Comparing notes. Looking for things in common.”
+
+“Yeah. So far, no luck, other than the obvious.”
+
+Blaire furrowed her brow, pointing to the list of defining characteristics of each of the new books. “Deserts. Dragons. Curses. Demons. Magic and sci-fi. Oh, and a lot of people killing people, politics, and intrigue. That’s a pretty diverse subject matter.”
+
+He nodded, not saying anything.
+
+“Are you saying these might be connected to your zappy-touch thing?”
+
+“Maybe.”
+
+“And you clearly can’t talk about it, but if I guess, can you nod your head?”
+
+Ty shrugged. “Maybe.”
+
+“If you’re in planning mode, do you think these -” she indicated the list of book titles “- are important to something in the future?”
+
+“Very,” he said, with a small wince as a warning headache spiked through his skull.
+
+She pointed to Heroes Die. “I haven’t read that yet, but I know what you told me. Kinda gritty, post-Earth stuff, is that right?”
+
+Ty nodded.
+
+“Need help planning?”
+
+Grinning, Ty said, “I’d love that.”
+
+Blaire was a brilliant strategist, at least in Ty’s estimation. She and Billy had both been in the Air Force for thirty years, and they had made their way up the ranks. Her education had been thorough, and the fact that she’d been his personal dungeon master and book buddy for years made her an ideal candidate to bounce ideas off, assuming he could skirt the truth enough for Hagemi not to step in.
+
+“It sounds like you want to build a bunker in the middle of nowhere to fight off zombies or something,” Blaire said much later.
+
+“Zombies. That’s a good thought experiment. Yeah, that.” If he talked in abstractions, he could theory craft with Blaire with little discomfort.
+
+She narrowed her eyes and looked at the book list again. “A lot of these books feature mainly people. And a lot of them have magic. Am I in the ballpark?”
+
+Ty gave her a weak smile.
+
+“If it’s people with magic and, I’m assuming, resources, you’re going to want to go the opposite direction you’re thinking.”
+
+“Oh?”
+
+“You’re forgetting scrying and location spells. Don’t leave the city and make yourself a target. If magic is at play, assume someone will find you, and use the resources you’ve got accordingly. Be ready for the inevitable. Ambush the fuckers to death when they inevitably use some spell or trick to find you.”
+
+Grinning, he said, “It’s nearly lunchtime. How about getting some lotto money? I’m pretty sure the Mega Millions is going to make me come forward, so my name will be out there, at least. I’m worried it could give bad… zombies a clue about my whereabouts.”
+
+Blaire tapped the list of book names. “If these types of things are what we’re going against, assume they will know anyway. Plan for the worst.”
+
+“Hope for the best,” Ty concluded, reaching down to tap his thigh.
+
+The tattoos he’d gotten before leaving were gone. Verdant Touch had healed them at some point, but he remembered them. He’d gone days before the first portal, inking the names of people he cared about and things to remember on his body, to ensure he wouldn’t lose track of what was important.
+
+‘Plan for the worst, hope for the best’, had been one of Billy’s favorite aphorisms. The text had been just below the, ‘If there is only dark, you must become the light,’ line that Ty found so important.
+
+Blaire had seen the tattoos and had probably noticed they were gone. “Did getting all that ink help wherever you went?”
+
+“The ink? Maybe. What you and Billy taught me? Definitely.”
+
+Things had gotten dark on the other side of the portal. His first dungeon-delve hadn’t gone the way he’d expected. Instead of low-level goblins or simple traps, he’d discovered a vessel called Sanctuary. It was powered with Soul Batteries, the literal captured souls of a race of beings called akkoans. The souls were insane, driven mad by thousands of years of torment inside the batteries.
+
+When Ty had tried to free those souls and nearly gone mad their god had intervened, somehow forcing Hagemi to give him a Divine-level artifact known as a Mind Fortress. The Fortress lived in his mind-space and acted like a hard drive for memories. When he freed the trapped spirits, the Fortress allowed him to pull their collective memories into it, while their spirits went into a thing called his Soul Cage. Separated from their madness, the souls could finally rest.
+
+In theory, he could recombine the minds with their souls, allowing them to move on to their next lives. He did not yet have a proper place to put them. For now, he had access to their memories and spiritual presence. With the retrieval ability of his Mind Fortress, that meant he could receive specialized, one-on-one training from highly advanced aliens. Using it took time, however. One real-time hour equaled six subjective hours. If he trained with an akkoan martial artist in his mind for a day, he’d experience six days of tutelage. Time was a big factor now, considering all he needed to get done.
+
+Ty swallowed hard, feeling the gentle pressure of all the souls inside his Cage. They were at peace, at least for now. Ultimately, he had to give them a resting place that wasn’t inside him. If he died, they would die with him. On their home world, akkoan souls lingered, teaching the younger generations until they finally passed into the bodies of newborns, which they infused, uplifting with their essence. Every generation of akkoan, through their Mind Fortresses and spiritual reincarnation, had been smarter and more aware than the last.
+
+Thinking about their lives and what they’d lost made him ache. Speaking softly through the pain, he said,	“How about we go and collect the money? We can plan more on the way.”
+
+Blaire, moving as lightly as he’d seen in years, went to her room. She emerged dressed in sweater and slacks, with her purse slung over her shoulder.
+
+“You know, I’ve been following politics. Do you know how some of those absolute idiots get elected?”
+
+“No, how?”
+
+“Well, let me tell you…”
+
+Blaire had ideas. Big ones.
+
+Chapter 3: Recruiting
+
+Time Until Portal Opening: 5 months, 22 days
+
+Ty and Blaire spent the next few days on the move. Once the lottery officials confirmed the win the two had gone into full-time planning. Blaire’s advice helped him steer clear of many of the obvious, and probably impulsive, choices that would have squandered the new wealth.

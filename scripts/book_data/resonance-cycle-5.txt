@@ -1,0 +1,411 @@
+TITLE: Torn Shroud (The Resonance Cycle Book 5)
+AUTHOR: Aaron Renfroe
+SERIES: The Resonance Cycle (Book 5)
+WORDS EXTRACTED: 6030
+============================================================
+
+The Resonance Cycle Book 5: Torn Shroud
+
+Introduction
+
+Dear Reader,
+
+It’s time to show you what the Resonance Saga could become. Much like Divine Invasion, Torn Shroud is about pulling back the curtain and revealing what might come next.
+
+Remember, this series spans three separate worlds, each with its own timelines and characters. Use the Appendix to keep track of Ty’s powers, and the Glossary to track terms. We update those terms at the end of each book to reflect the revelations in that book. This may mean that some terms from previous books change slightly or expand to include new mechanics. This is intentional.
+
+P. S.: Stay to the end for the first Interlude of book 6.
+
+Other Books
+
+If you enjoy this series, we recommend picking it up on Audible (Whispersync enabled!). Our production partner absolutely knocks it out of the park.
+
+If you’d like to pre-order the next book in the series, you can do so here: https://a.co/d/5xoJVn7.
+
+Our next LitRPG series “Father of Constructs” has already launched. You can find that here:
+
+An old series “Blood of Heroes” has seen a bit of a resurgance. I promise if enough folks show interest, we’ll prioritize sequels in that universe. You can find it here: https://a.co/d/aOMzgmm
+
+If you like the book, you can find new ways to support the project (along with early access to future Resonance novels and other WIP projects) on Patreon. We also love chatting with fans and collaborators alike on Discord at https://discord.gg/GXn8csy2gg.
+
+Dedication
+
+Over the course of my life, I’ve run many tabletop games. One of them changed my life and shaped me as the storyteller I am today. Back then, one of my favorite players described my Game Master style as, “Bright, candy-coated, insanity-filled rollercoasters of death.” Dear readers, I hope you will enjoy (or perhaps forgive) a bit of fun indulgence in this book. It was the only place that it made sense.
+
+Torn Shroud is dedicated to Wes, Christine, Robert, Jacob, Bin, Devin, John-Boy, and Tom. It’s the people we tell stories to who give them meaning.
+
+What Came Before
+
+Divine Invasion
+
+Ty was chosen by the gods to be a scion. The fire script gave him all the information he would need to survive and thrive in the new world. After prepping for six months, he walked through a portal that led to the new world. Upon his arrival, and through a series of trials, he was given an arbiter-his personal game master- and selected the god Inspiration to follow.
+
+Throughout the course of his travels on the new world, he inadvertently became the host for almost thirty thousand akkoan souls and discovered another god that seemed to be interested in helping him along. Near the end of his time on the new world, he found host bodies for a handful of his akkoan allies who assured him they would protect his town and resources until he returned from Earth, three whole years later in the new world time.
+
+Theater of War
+
+Ty arrived back on Earth with six more months to prep before returning to Volar. Using creativity and proving his experiences with his Verdant Touch, he gathered a group of humans to help him prepare. He also met Meredith, who became a friend, and his therapist. She worked him through his trauma before they both returned to Volar.
+
+Ty slid further down the druid path during his experiences on Volar, but also used his newfound therapy to subvert more of the Monster god’s plans. Finally, he put his akkoan allies to rest or placed them into new bodies and sealed away their trauma. Near the end of his time across the bridge, he met and befriended a dragon princess and her father, lost Hagemi and discovered what could be his most powerful ally in the fight between the gods.
+
+Past’s Price
+
+Ty’s arrival back on Earth immediately thrust him into an ongoing fight between the Monster god and her allies. Through his abilities to plan several steps in advance, he used his Domain on Earth and his own allied gods to briefly borrow the powers of a god and tilt the balance of power.
+
+He went through the portal to Volar, only to discover his trip had been redirected to Ako, the akkoan world. During his fight to return home, he discovered ancient secrets about the origins of the Resonance. In his last, desperate clash with the Monster god’s shadow, he managed to help create the Greater God of the Wild, Numera. With her help, he returned to Volar and was reunited with his son. This book picks up immediately after the last battle, with his son and army away to help protect Divinity’s remaining people.
+
+This Dark Shore
+
+Enemies attacked Deathgate, forcing Ty to strike back. During the exchanges that followed, the Monster god was tricked into believing that Time had betrayed her. In a fit of rage, she killed him while in the presence of the Great Arbiter. She, and most of her god allies, were bound for an entire cycle (approximately 3 months of Earth time or a year of Volaran time). This left them able to grow their following, but not directly interact with either world.
+
+Ty rescued hundreds of dragon eggs and earned a special reward from the King of the Constellation Hierarchy, provided he would take part in a tournament. Time is ticking, however, as the Monster god’s allies have captured Blaire. With a small window to act without the Monster god’s interference, he faces a race against time to turn the tides before she is freed from her restraints.
+
+His final character sheet from book 4 is included below. Portions of the sheet will be updated and re-stated as needed in the book, and again completely at the end of the book with his final attributes and score.
+
+Starting Character Sheet
+
+Name: Ty Monroe
+
+Class: Merit Hunter
+
+Race: Divine Scion of the Wild
+
+Category: 3 (4 with Law Keeper activation)
+
+Level: 12 (25% to level 13)
+
+Status: Tri-Herald
+
+Progress to Next Level: 25%
+
+Hit Points: 56
+
+Projectile Shield: 7 Charges
+
+Mana: 204
+
+Mana Shield: 60 (Racial Maximum: 60)
+
+Strength: 26 (+2 Alunite gauntlets; High Supernatural)
+
+Agility: 23 (Mid-Supernatural)
+
+Vitality: 22 (Low Supernatural, +3 hit points per level)
+
+Notice: Increasing physical attributes further costs 2 discretionary points per increase.
+
+Intellect: 17 (Genius)
+
+Spirit: 17 (Wild-attuned; Enlightened)
+
+Notice: Increasing this attribute further costs 2 discretionary points per increase.
+
+Luck: 0
+
+Applicable Skills and Abilities
+
+Mixed Martial Arts (Sambo Focus): Master
+
+Krav Maga: Peak Mortal Mastery
+
+Akkoan Martial Arts: Peak Mortal Mastery
+
+All Martial Weapons: Adept
+
+Guns: Master
+
+Survival: Adept
+
+Tactical Techniques: Master
+
+Meditation and Mental Fortitude: Peak Mortal Mastery
+
+Body Shaper: Night Vision, Akkoan Joints and Vocal Cords (+2 Agility), Akkoan Alunite Battle Skeleton Fusion, Akkoan Eyes, Awakened Superior Salient Kestrel Symbiote Familiar
+
+Law Keeper: 7% available
+
+Unspent Merits: 11 (0 out of 20 earned for defeating enemy scions; see note)
+
+Unspent Physical Attribute Points: 4
+
+Unspent Discretionary Attribute Points: 4
+
+Fractal Charge: Synthesis (0 out of 500), Zalax (0 out of 500), Inevitability (250 out of 250)
+
+Achievements and Powers: Wild Touched, Magic Prism (Divinity, Monstrous, Wild, War, Fire, Darkness, Venom, Death, Chaos, Mystery, Guardian, Love, Life, Hope, Inevitability), Magic Siphon, Knight of the Wild Ability Package, Verdant Aura (Magic Activation, Anti-Demonic Properties), Read Magic, Moderate Life Leach (Death-Attuned), Undead Clone – Single Use Surrogacy, Custom Quest: Collect The Blood (2 of 3 collected), Divine Temporal Resistance, Fractal Awakening (Synthesis, Zalax, Inevitability), Psychic Barrier, Fractal Mesh, Triplet Arbiter, Resonance Teleportation, Chaos Wielder
+
+Law Keeper Unlocks: Mental Resiliency 1, Organic Adaptation 2, Stasis and Evolution 1
+
+Notable Equipment: Alunite Gauntlets (Legendary), Springfield Armory Saint Victor with 18 magically engraved rounds, Mind Fortress (Divine) with Technocratic Mind Gem Enhancement, 1 Personal Locket, Nightmare Silk, Forbidden Book of Necromancy, Monstrous Manual, Berserk Potion
+
+Unequipped Notable Equipment: Shielding Amulet (Lesser), Divine Anchor (Legendary), 2 Infernal Crystals, Hellstone X 5
+
+Special Note: Due to the speed with which you gained your last two levels, you will be allowed a 5-day period to recover the unclaimed merits for defeating scions. After that time, the maximum number of merits you can earn for your level will revert to the typical 10.
+
+Chapter 1: Planning
+
+Days Remaining in Cycle: 1 Month, 17 Days
+
+Days Until Tournament: 2
+
+“You know we’re going to have to take advantage of every minute we have.” Ty looked down at a table strewn with the gear and loot he’d accumulated over the past few years. He’d had it moved outside of the city, currently shrouded in a toxic dome, and into Aquamarine’s forest. Tree branches swayed, dappling the early evening shadows across the gathering.
+
+The leadership team was all there. Uneth, the akkoan general, stood at the head of the table, next to Deathgate’s Seneschal, Omendine. The traesap looked like he’d aged decades in a matter of weeks. His llama-like features had grayed around the muzzle and the nails of his thick hands looked chewed. Clarion and Cleozun occupied the bottom of the table, occasionally holding hands. The archangel looked handsome in his enchanted breastplate. Cleozun had a new robe, all hunter green and covered with elaborate ritualistic symbols. Aquamarine, the dragon, coiled around a tree nearby. Signy, the dragon princess, sat on a high-backed throne off to one side. Two of her armored protectors, the giant zalantar, flanked her.
+
+Meridian was gone, entirely absent from group chats and the Domain interface. It meant she’d removed the mind gem connecting her to the rest of his army. Ty felt her loss, along with that of her lover, Theontsu, keenly. He still hadn’t had time to process or grieve over what had happened between the three of them.
+
+“What do you propose?” Uneth asked. He and Azalea, the demon trapped inside a beautiful giant’s body, had spent the past few days working on assessing the capabilities of the demonic army she’d given them. According to his report, acquiring them was quite the coup, even if the Monster god’s legions would likely prepare to counter their presence.  Azalea was away, meeting with her offspring.
+
+“Cleozun, can I get a whiteboard or something to write on?” Ty asked the mage. Reaching out, he picked up one of his first loot rewards on Volar. It was a fist-sized emerald covered in golden runes. Holding it by his side, he ran his fingers across the inscriptions. According to everything he’d learned, plus what Zalax had told him, he wouldn’t need to replicate every bit of the pattern to create the effect he wanted.
+
+Eager to be useful after recent events, the mage grinned and cast the spell. A rectangle of dark space appeared in the air near him. “Point and draw and focus on what you want to appear.”
+
+Warning: A low-level spell wishes to use your surface thoughts to create projections on a collaboration spell. Do you wish to allow this?
+
+He allowed access. Once he felt the connection, he focused and drew. Three words appeared on the rectangle: Volar, Earth, and Ako.
+
+“Aisling has her zalantar, the miscreated, and various monstrous armies on Volar.” The list of threats appeared next to the world’s name. “We can assume she will keep most of those here.”
+
+“Why can you assume that?” Signy asked. The dragon princess wore an elaborate gown that still managed to show her impressive physique. She was more muscular than Ty had thought, with arms that looked at least as strong as any of the Akkoan fighting women.
+
+Focusing, he made a metal rod, three feet long, appear on the rectangle. “I believe her current plan is to use Chaos Tunnels to access Earth within the week. Her generals will then send elite units to influence the population. Their goal will be to change their faith, not kill them.”
+
+“Even with all the damage you did to her installations recently?” Omendine asked.
+
+Ty, along with Meridian and Lilla, the reborn one and not the spiritual copy living in his Arbiter, had dealt significant damage to Aisling’s infrastructure.
+
+“Yeah. Even with all that. There are other control rods, and she’ll have other Chaos priests under her sway. We can assume they will be trying to give birth to a new version of Chaos soon, too. At best, we delayed the plans for invasion.”
+
+Uneth made an akkoan gesture of affirmation, the feathery frills framing his grizzled face flexing as he bobbed a half-nod. “That is truly a grim assessment, but I agree.”
+
+“And her goal for Volar is domination?” Signy asked.
+
+“Yeah.” Ty pointed to the sky. “The doom everyone knows is coming? It’s some sort of demon-Wild hybrid. Something more powerful than a demon god. It’s coming here, not Earth.”
+
+Clarion glanced up, then back at the board. “It sounds like you think Volar will be sacrificed?”
+
+“One demon queen per world,” Cleozun pointed out. Like insects, no demon queen would tolerate another on the same world for an extended period. When Aisling had consumed the previous demon god, she’s taken on that role for Volar. The goddess had been infested with the Wild by the greater gods. That allowed her to bend the normal rules, but it still made sense that the demon would want its own territory.
+
+“It lines up with the prophecy about Volar’s destruction,” Aquamarine said in his posh English accent. The dragon’s cunning hands danced as he contemplated the board. “If Volar will become the playground of some sort of mutant demon god, and Earth will become Aisling’s world, what of Ako?”
+
+“The Border Guard. They are one of Aisling’s aces.” Glancing over at Signy, then back to his allies, Ty said. “Most of you have heard a version of the story before, so I’ll be brief. The Border Guard are a humanoid race that has an innate ability to consume divine energy, including the gods and their Arbiters. Somehow, the Guard figured out how to reprogram Law Keepers to give themselves superpowers. They aren’t magical in the traditional sense. They don’t need mana to survive, but somehow tap into deeper, more fundamental physical rules beneath everything. I believe the gods built the original Resonance Bridge to flee them. With Time’s help, they encased the entire region of space in a temporal well to trap them in place. I think Aisling means to summon some of them to deal with the gods she can’t fight.”
+
+Signy leaned forward, watching him with her oversized, reptilian eyes. “And how do these magic-devouring god-eaters play into Aisling’s plans? Wouldn’t they turn on her?”
+
+The dragon princess’s eyes were intense, yet oddly captivating. Looking into them made Ty vaguely uncomfortable, so he focused instead on her eyebrows. “According to Azalea, the Monster god made a deal with the Guard. I don’t know the details, but we can assume she’s going to free a handful of them to deal with the greater gods.”
+
+“And then use her Wild demon or miscreated to handle the Guard, should they rebel.” Clarion said.
+
+“Miscreated? You mentioned them before. Clarify.” Signy asked.
+
+One of her zalantar leaned down to whisper in her ear.
+
+“Ah,” she said, “those.” Addressing Ty, she said, “Tell me of these miscreated.”
+
+Ty waved at Cleozun, who stepped over to the magical whiteboard. She gestured and an image of a smooth-featured Divinity appeared, all white and with silver lining the joints. “The Monster god corrupted several Arbiters and used them to extract Divinity’s mana from her angels.” The image changed, becoming a chitin-covered version of the angel. It had a hole in the center of its chest. “At some point, she discovered the husks she left behind could use divine mana, not unlike scions. But unlike scions, they had no souls.”
+
+Picking up where she left off, Ty continued, “She created a shadow of herself and sent it to Ako, presumably to negotiate with the Border Guard. At some point, she discovered the captive demon god-wild-thing. We’re uncertain how. Regardless, she figured out a process to infuse the emptied angels with the essence of both Time and the Wild.”
+
+“Just to clarify, this is in addition to Monstrous power?” Clarion asked.
+
+“It is.” Ty willed the image to shift, showing a version of the mutated angel with cockroach wings and a golden aura. It glowed with an oily green light, and a sharp-toothed mouth split the once seamless shell of a face. “I fought one of these when it was a newborn. Divinity’s mana didn’t do more than scratch it, which means she’s made them immune to the flaws most of her creations have. On top of that, it adapted to my fighting techniques and used temporal powers against me.”
+
+Signy arched a brow. “I have a question.”
+
+“Yes?”
+
+“You’re a tri-herald, yes? A scion of three gods.”
+
+“Yes.”
+
+“And you are limited from gaining a fourth, why?”
+
+“My spirit. It has to be strong enough to handle the burden of extra gods.” Technically, Ty’s Spirit score would need to be at least six points higher to even survive bonding with a fourth god, which he had no intention of doing.
+
+“And these creatures have no souls?”
+
+“Correct.”
+
+Speaking slowly, as if to a crowd of children, Signy said, “And what is to keep these ‘miscreated’ from taking on the aspects of more gods? Aisling’s hand-crafted variations, for example?”
+
+Cleozun considered, looking at Ty. “When you came to us with this story originally, you mentioned a device used in a ceremonial fashion. A star-shaped thing that injected divine mana directly into the creatures. Do you know if the Monster god has more such devices?”
+
+“I don’t.” Ty briefly accessed his therapy-space to speed up his perceptions and scoured a few memories stored in his Mind Fortress. “Lilla, Meridian, and I set off a lot of bombs in her base, but we didn’t visit her other strongholds. She could have more of them. With her Arbiters, she might have manufactured more, even if she didn’t save any.”
+
+“Therefore,” Signy said, “Aisling could manufacture an army of miscreated, each custom-built with a unique array of capabilities?”
+
+“She could,” Cleozun affirmed.
+
+“During the convention of dragons, she offered the dragons the chance to be worshipped by the gods, if they helped her assault Earth,” Ty said. “If this line of thought is correct, it means she’ll want to establish a forward base on Earth and begin manufacturing these new monsters immediately.”
+
+“And then expand to other worlds,” Uneth added. “Nowhere, no place, will be safe. If she ropes dragons in, she’ll have draconic versions of the miscreated. That means they could expand to other realities.”
+
+Signy’s already hard expression went flat. “I often believe you people use the word abomination too freely. This is one time where it would be accurate.” She looked at Ty. “How do you mean to stop this?”
+
+“Give me a second and I’ll tell you.” Reaching down to the table, he picked up a golden spear and tossed it to one of her zalantar guardians. “Can you unlock this for me?”
+
+Lafay, Signy’s personal guard, caught it and looked to Signy. At the princess’s nod, the zalantar said, “I cannot. Many zalantar have some magical abilities, but we are not magicians. The Princess, however,…”
+
+Before she could finish the statement, Signy interrupted, “It’s done.”
+
+Lafay tossed the spear back.
+
+Ty caught the weapon and read the text that was displayed on one of his three mind-space Arbiters.
+
+Congratulations! You have acquired the legendary Swordstaff of Assault. It has the following properties. It is nearly indestructible, eternally sharp, and self-heals even when significantly damaged.
+
+Epic Enhancement: For 25 mana, the wielder may activate a multistrike ability for 1 minute. This creates five blades imbued with any of the combat abilities the wielder possesses. Activating these abilities still costs the requisite mana. Each blade can fly up to three feet from the spear and can perform attacks and defenses independently of the wielder. They use the wielder’s skill to execute these maneuvers.
+
+Legendary Benefit: For 100 mana, the weapon bonds with the wielder, becoming sealed to them. Whenever it defeats an opponent, it restores 10 mana to its bonded wielder. It can also be summoned at will, from any distance, for 35 mana. This is a legendary, protected, teleportation effect.
+
+Addressing his Arbiters mentally, he asked, Will this work with my touch-based powers?
+
+Mummat answered, No. It will exceed the current range for most of them and will not transmit powers that require touch in the same way Alunite does.
+
+Exchanging the green gem he’d still been holding with a mana gem, he tossed both the gem and the spear to his son. “Think you could make use of this?”
+
+Clarion caught both with an ease that expressed both his supernatural attributes and deep knowledge of combat. He studied the spear. “It could quicken my path to recovery. It would also be quite useful, in some circumstances.” The archangel owed the god Magic several hundred god-tier divine mana for breaking his scion bond. Until he paid it off, he couldn’t use any of his special abilities, which were substantial and crucial to their success. To Clarion’s credit, he didn’t try to give the gift back. “Thanks, dad. I’ll make good use of it.”
+
+Squeezing a hand around Clarion’s impressive bicep, Cleozun cackled softly.
+
+“And this expresses your plan, how?” Signy asked, a mixture of amusement and impatience in her voice. “Also, you never formally told me about your son. I will require that information.” Tipping her chin at the angel, she continued, “For a being as limited as you to give birth to an archangel isn’t normally possible.”
+
+Impatient with the princess’s demands, Ty retorted without thinking. “You want to know about family business, you’ll need to take me to dinner first.”
+
+Lafay’s eyes bulged, and her hand slid to her hip. The zalantar was probably level forty and had defeated Ty in their earlier sparring match effortlessly. Shifting from one foot to another, as if impatient for a rematch, he met her outraged expression with something like eagerness.
+
+Signy held her hand up, palm out. “At ease, my Executor. The tri-herald is correct. We are near his Domain. Perhaps I spoke out of turn. Please accept my apology.” She blinked, bobbing her head in the barest nod.
+
+Lafay and the other zalantar guard gawked.
+
+“Apology accepted,” Ty said. Part of him felt vaguely disappointed that he hadn’t had that rematch with Lafay. He might lose again, sure, but she would inevitably make a mistake at some point. When she did…
+
+Forcing his attention back to the board, he resumed his explanation. “I’m going to the tournament. Signy’s illustrious father and my gods have made some sort of arrangement to give me a special reward, but only if I attend.”
+
+“And my father will be sending us both to Earth together,” Signy added.
+
+“That too.” He waved at the group around the table. “You all are responsible for coordinating our resources and helping protect as much of Volar as we can. Uneth, Omendine, and Clarion–you three represent enough tactical genius to fight against an enemy with the odds twice as tilted. I plan to visit our scion guests after this meeting. I have ideas involving mind gems that we’ll need help with.” He looked at Cleozun, “Cleo, would you mind accompanying me? I’ll need your help.”
+
+Cleozun’s mouth worked. “Did you just call me Cleo?”
+
+“You’re dating my son. Am I not allowed some familiarity?”
+
+Cleozun looked at Clarion, who grinned until his cheeks dimpled. “Technically, you were inside dad, Cleo. That’s just about as familiar as you can get.”
+
+Uneth chuckled, even as Ty growled, “Why did you have to word it like that?”
+
+“I’d be happy to join you,” Cleozun said, once the general round of amusement had quieted.
+
+“I need to prepare for the tournament, and getting back to Earth, where we’ll be intercepting the Monster god’s insurgency.” Ty focused and a map of Earth, complete with each of the Chaos Tunnels, appeared in the air. “My teams on Earth will need to help me with that. If they can. We’ll need to capture their anchors and any equipment they bring over.”
+
+Earth was the biggest hole in any version of their plans. Without the scions from the Resonance Cycle, and only Ty and whatever levels the locals had gained over the past few months, fighting elite armies from Volar would be difficult, if not outright impossible. Signy might help turn the tide a bit. But with so many portals to guard, and a dozen avenues for defeat, things would be tough.
+
+Thankfully, Aisling and her more powerful god allies had made a mistake recently and had been bound by the Great Arbiter. Ty had until the beginning of the next cycle, about two years of Volaran time or three months of Earth time, to try and outmaneuver her. During that time, in theory, she shouldn’t be able to act or even communicate with her minions.
+
+Assuming she didn’t plan for this. Assuming she doesn’t get free sooner. Aisling had proven capable of just as much foresight as Time more than once already.
+
+“Ambitious, but sensible,” Signy said. “And Ako?”
+
+“I’m not sure.” Ty sighed. “Getting down to the bottom of the temporal well will take a lot of mana. Getting out takes even more. One way or another, I’ve got to get back there and stop the Border Guard.”
+
+“Why?” Omendine asked. “Didn’t you say Aisling planned to bring a few over, just to deal with the greater gods? They are weak to the Wild, right? With Numera here, and you to help them, that shouldn’t be an unstoppable problem. Why go back there at all? We’ve got enough to deal with here.”
+
+Ty opened his mouth to reply, but it was Signy who spoke. “Underestimate an enemy who devours gods at your risk, friend traesap. If Aisling plans to use the Border Guard, there can be no doubt they will have their own ambitions.” She waved at Ty. “If the Wild is the chief weapon against them, who better to undermine their plans than its Knight?”
+
+“Ah.” Omendine bent his chin, masking mild embarrassment.
+
+“What of the dragons?” Uneth said to her. “Your kind has already made the odds worse. Their attack devastated our city. Their presence will threaten any plans we have.”
+
+Signy spread her hands, as if to indicate herself. “My people value strength and respect. If I, the daughter of the dragon King, can show my people my strength, and the strength of our allies,” she waved at the gathering, ending at Ty, “we may change minds.”
+
+“And the minds already corrupted by Aisling’s influence?” Clarion asked.
+
+“Oh. That’s simple. Any who gave in to her temptations proved themselves weak-willed. We kill those.” Signy’s grin was positively feral.
+
+Chapter 2: Convocation of Scions
+
+Days Remaining in Cycle: 1 Month, 17 Days
+
+Days Until Tournament: 2
+
+After the meeting adjourned, Ty made his way through the barrier surrounding Deathgate. He had the gold-wrapped gem out again, this time holding it up so he could passively memorize the rune patterns. According to Cleozun, the pervasive yellow fog was the result of four “artificial” gods spending every iota of their divine mana in tandem. Their worshippers would, over a matter of hours or days, regenerate the gods, making their sacrifice a relatively low price to pay in the grand scheme of things.
+
+“Weaponized gods,” Ty muttered as he walked through the desolation of his once stalwart city. Ruined buildings lay strewn about, burned and crushed by dragons and enemy scions. The yellow miasma added a noxious feeling, an ambient rot that dug at his self-control. Passing the tavern he’d called home for his last visits to Volar, he couldn’t help but remember the morning of the attack.
+
+I’m so tired of feeling helpless, Ty said into his mind-space, where Synthesis, Inevitability, Zalax, and his Arbiters could communicate with him at the speed of thought. We’ve come so far, achieved so much, and somehow, we still can’t do enough. Lifting a hand, palm up, he swirled it in the air. I should be able to unlock this curse, to counter it or absorb the mana or something.
+
+The mind-space looked like a spacious game room, complete with a table for roleplaying games. Three doors flanked the room. Embedded into the one on the left was a twelve-foot tall, muscular, akkoan with blood red plumage framing an avian featured face. Ahead was a blank door, its occupant simply standing in the room as a cloaked figure. To the right was a beautiful man, like some sort of picture-perfect personification of a theatrical vampire, complete with sculpted cheekbones.
+
+Zalax, the figure on the right, spoke. As he did, the one hand that wasn’t merged with the door, gestured grandly. I felt the same for many years. It motivated me to overcome. My doubters held me down, expected me to fail. I had to prove them wrong. My empire would have never arisen without the sensations you feel.
+
+That is not the motivational speech you might think it is, Ty replied.
+
+The hooded god, who had recently merged with Ty’s Fractal Mesh to avoid becoming one of Aisling’s pawns, spoke. Inevitability had a grand voice, one that lent itself to a preconception of masculinity, though the god itself showed no signs of gender. Patience. Inevitability is about patience.
+
+The god isn’t wrong, Synthesis added. His tone and expression suggested unease with the newcomer. Akkoans, particularly militant ones like Synthesis, had warred with the gods for hundreds of years. They specialized in subverting or murdering them. He barely trusted the gods they’d become scions of, much less this newcomer.
+
+As if reading Ty’s thoughts, Synthesis said, Inevitability is part of us now. Thrown its lot in. Worship can’t change gods in the Mesh, so it should be reasonably safe. Other than Seeker, Inspiration, and mom, I probably trust this one the most of them all.
+
+For some odd reason, Zalax looked mildly smug.
+
+Zalax? Ty thought to the warlock.
+
+Hrm? Oh. Nothing. You’ll find out when we get to Earth. It’s going to be a mostly positive surprise, I think.
+
+You think?
+
+Mhm. The last time I checked in was when we made Azalea. I didn’t have much time, though, so all I got were bits and pieces. Like I said, positive surprise. I don’t want to spoil it. Also, don’t be cross with me. I used ethical techniques.
+
+You used ethical techniques? Zalax had been a demigod of darkness and evil, the sort of bad guy that epic roleplaying campaigns would focus on defeating. His version of “ethical” was dubious, even after he’d come to relish his part in Ty’s little spiritual family.
+
+I did.
+
+Ty turned his mind’s eye to Synthesis, who shrugged. Don’t ask me. I wasn’t part of either plan.
+
+Muttering beneath his breath, Ty shook his head. He was still walking, his body on autopilot. A distant, domed building was his destination. It sat on the edge, between what had been the Divinity district and Deathgate proper. Elaborate runes glowed around the circumference in a pattern similar to a circuit board. The god, Technology, had blessed the place personally, investing in it to create an embassy. Technically, the building fell within the god’s Domain, not Ty’s.
+
+There’s one thing I don’t understand, Ty sent into his therapy-space, resuming the discussion as he walked. You both have always seemed comfortable inside me. Why haven’t either of you, I don’t know, tried to escape, or wrestle me for control or anything?
+
+Zalax laughed. You don’t know?
+
+Obviously.
+
+The back wall of the therapy-space, as mutable as thought, dissolved to reveal a vista of rolling hills and mountains. Stone and steel buildings decorated the place, and strangely dressed people moved about. Atop one building, standing with his hands raised like some sort of benevolent god, was Zalax. The version in the door was incredibly handsome, but the copy in the display was even more so, with every hair and fold of clothing absolutely pristine.
+
+We live through you, Zalax said, waving at the image. The Fractal Mesh uses Arbiter technology, the stuff of gods, and ties to your Soul Cage and Mind Fortress. Inside you, we can live whatever lives we want. It’s a type of heaven.
+
+And if we somehow extricated ourselves, what would we be? Synthesis said. We’re demigods without worshippers. Sure, my soul would rejoin the akkoan cycle of rebirth, but what good would I be until the body had time to mature? And without my Mind Fortress? Even less useful. Zalax might haunt someone for a bit, but he’d either dissipate or find himself at the whims of whatever person gave him attention. Without continuity in devotion, gods die. This includes disembodied demigods. We’ve discussed this. It’s why the Resonance works the way it does.
+
+True. Ty thought back to his first days participating in the Resonance, not understanding his role. He got it now. As a scion, stuffed to bursting with a god’s magic, he became a focal point to expand the deity’s influence to others on Earth. Through Ty, Volar’s version of Inspiration had taught Earth people who the god was, and the best way to show devotion. It meant when the god traveled to Earth, Inspiration would be the same entity on the other side.
+
+I’m glad you guys don’t live inside those doors and suffer, he thought once he’d had a second to digest the implications. What Zalax was telling him wasn’t far-fetched. He’d acted as a safe harbor for thousands of akkoan spirits for a while. To do so for Fractal Spirits, in their upgraded Mesh, made sense.
+
+Inevitability watched the exchange, nonplussed. Beside the god, on one of the whiteboards, a diagram appeared. It was a three-dimensional copy of the green gem. The precise magical patterns were unclear; it was an epic artifact, and one he’d need to unseal to duplicate, but he figured Zalax should be able to infer quite a bit with the outline.
+
+* * *
+
+Ty arrived at the dome and tucked the gem away again. The temple to Technology was constructed of smooth, black stone with ivory runes, outlined in silver metal script. The cursed haze hovered around the exterior, unable to enter. As he opened the solid steel door and walked through, a series of spells slid over him.
+
+Warning: You have entered Technology’s Domain. You have been scanned. This scan includes insight into potential negative magical items, curses, mind-influencing effects, weapons of ill-intent, and so on. Thank you for understanding our security measures.
+
+Snorting at the divine warning, he walked into a room that looked like something out of a science fiction novel. Banks of computers rounded a curved wall, and medical tables another. Men and women in Earth garb, including a young Asian woman in overalls and an ancient old man in flannels, turned to look as he entered.
+
+The girl, Eva, flashed him an enthusiastic grin and waved. “Hold on a second, Mr. Ty. Our scan picked up some really weird shit.”
+
+Hearing that language from someone as innocent looking as Eva made him fight a grin.
+
+A projection on the wall popped up as the old man, Lawrence, made a gesture. Ty’s body appeared, X-ray style. Diagrams and readouts accompanied it.
+
+“This looks a lot like-,” Lawrence began, only for Ty to cut him off.
+
+“It’s an endoskeletal battle upgrade. My bones aren’t coated in metal or anything silly like that. I performed a ritual, and my skeleton was literally replaced with Alunite. No, I don’t have claws.”
+
+Lawrence chewed on Ty’s response as he looked down at his gauntlet covered hands. “No claws?”
+
+“No claws,” Ty said firmly.
+
+“Healing factor?”
+
+“I heal myself with mana. Like a cleric. I don’t automatically regenerate limbs, or anything fancy like that.”
+
+Rolling her eyes, Eva said, “I have zero idea what you two are going on about. Look, we know he’s not a cyborg or whatever. Can we move on to what made Beebop go crazy?”

@@ -1,0 +1,439 @@
+TITLE: The Resonance Cycle Book 4
+AUTHOR: Aaron Renfroe
+SERIES: The Resonance Cycle (Book 4)
+WORDS EXTRACTED: 6024
+============================================================
+
+The Resonance Cycle Book 4: This Dark Shore
+
+Introduction
+
+Welcome to the Resonance Cycle, an ongoing LitRPG series.
+
+Over the course of writing the series, our cunning protagonist has developed many abilities, most of which are situational. Some he’s crafted himself, through his Merit Hunter class; others have been given to him or evolved through use. To keep the narrative tight and avoid rehashing, I’ve added an appendix and a glossary. In the Appendix, you’ll find a list of his abilities up to the current book. The Glossary contains definitions and terms.
+
+Trigger Warning: I don’t intend to trigger anyone reading this book; however, I feel compelled to add a quick word of warning. Book 4 is the beginning of the ‘dark arc’ for Ty. We’re going to explore what it means for the Monster god (and her allies) to strike back. It’s going to get heavy, friends. Expect supernatural violence and mature themes (chapter 30 includes discussion of sexual violence, but the act does not take place–skip the scene in the barn if you are uncomfortable with the topic). It is my goal to tell an authentic story, but I promise not to let our gaze linger overly long. Thank you for all your support.
+
+What Came Before
+
+Divine Invasion
+
+Ty was chosen by the gods to be a scion. Armed with hints of the information he would need to survive and thrive in the new world, he prepared for six months. After a series of trials on the new world, he was given an Arbiter-his personal game master- and selected the god Inspiration to follow.
+
+Throughout the course of his travels on the new world, he inadvertently became the host for almost thirty thousand akkoan souls and discovered another god that seemed to be interested in helping him along. Near the end of his time on the new world, he found host bodies for a handful of his akkoan allies who assured him they would protect his town and resources until he returned from Earth, three whole years later in the new world time.
+
+Theater of War
+
+Ty arrived back on Earth with six more months to prep before returning to Volar. Using creativity and proving his experiences with his Verdant Touch, he gathered a group of humans to help him prepare. He also met a fellow scion of Inspiration, who became a friend and his therapist. She worked him through his trauma before they both returned to Volar.
+
+Ty slid further down the druid path during his experiences on Volar, but also used his newfound therapy to subvert more of the Monster god’s plans. Finally, he put his akkoan allies to rest or placed them into new bodies and sealed away their trauma. Near the end of his time across the bridge, he met and befriended a dragon princess and her father, lost Hagemi and discovered what could be his most powerful ally in the fight between the gods.
+
+Past’s Price
+
+Ty’s arrival back on Earth immediately thrust him into an ongoing fight against the Monster god and her allies. Through his abilities to plan several steps in advance, he used his Domain on Earth and his own allied gods to briefly borrow the powers of a god and tilt the balance of power.
+
+He went through the portal to Volar, only to discover his trip had been redirected to Ako, the akkoan world. During his fight to return home, he discovered ancient secrets about the origins of the Resonance. In his last, desperate clash with the Monster god’s shadow, he managed to help create the Greater God of the Wild, Numera. With her help, he returned to Volar and was reunited with his son. This book picks up immediately after the last battle, with his son and army away to help protect Celestia’s remaining people.
+
+His character sheet from where we left off in book 3 is included below. A list and summary of his abilities is provided at the back of the book. Portions of the sheet will be updated and re-stated as needed in the book, and again completely at the end of the book with his final attributes and score.
+
+Book 4 Starting Character Sheet
+
+Name: Ty Monroe
+
+Class: Merit Hunter
+
+Race: Divine Scion of the Wild
+
+Category: 3
+
+Level: 10
+
+Status: Tri-Herald
+
+Progress to Next Level: 0%
+
+Hit Points: 48
+
+Projectile Shield: 7 Charges
+
+Mana: 160
+
+Mana Shield: 60 (Racial Maximum: 60)
+
+Strength: 26 (+2 Alunite gauntlets; High Supernatural)
+
+Agility: 18 (Supernatural)
+
+Vitality: 22 (Mid Supernatural, +3 hit points per level)
+
+Notice: Increasing physical attributes further costs 2 discretionary points per increase.
+
+Intellect: 13 (Standard High IQ)
+
+Spirit: 16 (Wild-attuned; Enlightened)
+
+Notice: Increasing this attribute further costs 2 discretionary points per increase.
+
+Luck: 0
+
+Applicable Skills and Abilities
+
+Mixed Martial Arts (Sambo Focus): Master
+
+Krav Maga: Peak Mortal Mastery
+
+Akkoan Martial Arts: Peak Mortal Mastery
+
+All Martial Weapons: Adept
+
+Guns: Master
+
+Survival: Adept
+
+Tactical Techniques: Master
+
+Meditation and Mental Fortitude: Peak Mortal Mastery
+
+Body Shaper: Night Vision, Akkoan Joints and Vocal Cords (+2 Agility), Akkoan Alunite Battle Skeleton Fusion, Akkoan Eyes, Awakened Superior Salient Kestrel Symbiote Familiar
+
+Law Keeper: 7% available
+
+Unassigned Physical Attribute Points: 10
+
+Unassigned Discretionary Attribute Points: 10
+
+Unspent Merits: 21
+
+Achievements and Powers: Wild Touched, Magic Prism (Celestial, Monstrous, Wild, War), Magic Siphon, Knight of the Wild Ability Package, Verdant Aura (Magic Activation, Anti-Demonic Properties), Read Magic, Moderate Life Leach (Death-Attuned), Undead Clone – Single Use Surrogacy, Custom Quest: Collect The Blood (2 of 3 collected), Divine Temporal Resistance, Fractal Awakening (Synthesis, Zalax), Psychic Barrier, Fractal Mesh, Triplet Arbiter, Resonance Teleportation
+
+Law Keeper Unlocks: Mental Resiliency 1, Organic Adaptation 2, Stasis and Evolution 1
+
+Notable Equipment: Alunite Gauntlets (Legendary), Springfield Armory Saint Victor with 18 magically engraved rounds, Mind Fortress (Divine), 1 Personal Locket, Nightmare Silk, Forbidden Book of Necromancy, Monstrous Manual, Berserk Potion, Assassin’s Divine Blade
+
+Unequipped Notable Equipment: Stealth Armor (Rare), Assassin’s Sword (Unidentified), Breastplate (Unidentified), Shielding Amulet (Lesser), Divine Anchor (Legendary), 2 Infernal Crystals, Hellstone X 5
+
+Scion PVP Tracker
+
+1: Konstantin Igorevich (Monster)
+
+2: Botan Tanaka (Magic)
+
+3: Augusta Winn (War)
+
+4: Choi Jeong (Chaos)
+
+5: Tati Andino (Technology)
+
+6: Charles Ajayi (Shadow)
+
+7: Risold Holm (Monster)
+
+8: Maria Zakharova (Zalax)
+
+9: Arianna Duke (Monster)
+
+10: Seth Murano (Monster)
+
+Interlude One: Foreshadowing
+
+“Really, Magic?” Numera asked, looking to her peer.
+
+The greater god made a dismissive motion. “It’s one spell.”
+
+Balance looked between Numera and Magic, hesitating. It indicated the darkened corner, one where a group of newborn gods had been a moment before. “This threatens the balance, Magic.”
+
+Magic twisted until it faced Balance. Glowing motes of arcane power whirled and spun, exploding and flourishing back to life within Magic’s substance. “He is level ten,” Magic snarled. “Appropriate payment was delivered. I received twenty new Arbiters in exchange for one spell, Balance. Twenty Arbiters with which to increase my hold on Earth.”
+
+“The boy helped you,” Technology pointed out.
+
+“And?” Magic asked, gesturing to the gathering. New gods were appearing at a regular cadence. Now that both sides of the Bridge had access to the Divine Gallery, gods from both worlds bloated their ranks. Until the Bridge was dissolved, things would grow increasingly chaotic as each world struggled for godly dominion. “If we do not act decisively, there will be doubles of many of us. Personality conflicts. I cannot act selflessly in all things. None of us can.”
+
+Balance sighed, acknowledging Magic’s concerns. Turning to Numera, greater goddess of the Wild, it said, “Your son has enjoyed many benefits until this moment. It’s time for him to stand on his own.”
+
+“Against gods?” Numera asked, eyes smoldering with barely restrained rage. Her aura flickered, the Wild dancing across her skin. The implicit threat against the greater gods was palpable; it drew the attention of the gathering.
+
+Silence filled the space, broken only by the occasional mad laughter from Chaos.
+
+“Numera,” Technology said, holding up a warning hand. “If you do this, the Great Arbiter will turn against you, as will the unfettered gods. Your new mantle may survive, but you will not. Think of what will happen to him if you act rashly.”
+
+A gentle voice spoke above Chaos’ laughter. “Numera, we’ve prepared him. He’s ready. Like Magic said, it’s time to show trust and do what we can to help our allies.”
+
+Turning away from her peers, Numera hid her tears. It would not do to show weakness to this crowd. She whispered, words carrying only to her greater god peers. “When he survives this, you deserve the outcome. All of you deserve what will come next.”
+
+“They will,” Inspiration agreed.
+
+Chapter 1: Gentle Return
+
+Days Remaining in Cycle: 1 Month, 26 Days
+
+Ty watched Clarion vanish. It was late evening, but his akkoan eyes captured everything within the magical flashes of the teleportation ring. The Archangel, all ten feet tall of sculpted, silver-sheathed muscle, waved fondly before he was gone.
+
+“How did it go?” Theontsu’s question cut through his thoughts, echoing inside the stone walled teleportation space. Ty turned to look over at the taller man. Theontsu was the head of the akkoan military’s scouts. His lover, Meridian, was a Mistress of Dreams. Ty considered the two among his closest friends.
+
+“Well,” Ty said. His hand slid across his sides. He’d used one of his two ultimate powers, Synthesis, against an attack led by the Monster god and several of her newborn divine allies. The battle had left him wounded and drained. Despite his attempts to play off how much it had cost him to go on the offensive, Clarion had seen how spent he was.
+
+“You’re hurt. Shall I call for a healer, or ask Meridian to attend to you?” Meridian’s power was to make the imagination real. In a pinch, she could provide emergency aid.
+
+“No need. The mana is rich here. It’ll take a few hours, but I’ll top myself off.” Hoisting the loot he’d taken from the enemy scions with both hands, he nodded away from the teleportation circle. “Do you want to walk me home? I’m exhausted, but I’m here to talk if you want.”
+
+It felt strange offering Theontsu genuine companionship without some agenda or to mark off an explicit line-item on a task list. A year ago, Ty wouldn’t have made the offer and it still didn’t come naturally. Lilla, one of his three Arbiters, coupled with his adoptive mother, Numera, had helped him learn some nuances of being a ‘normal’ person.
+
+Don’t lie to yourself, Ty, Lilla chided from within his thoughts. You have a whiteboard for this. Tucked away in his therapy-space, where he kept volumes of notes and observations, one of the whiteboards had a line of text at the top. It read: ‘How to Treat Theontsu and Meridian.’ Directly below the line was a note that he should ‘Make Theontsu feel respected and special.’ There was a glowing green check next to that one.
+
+Okay, so maybe I made it into a list item a little, Ty allowed, with a hint of chagrin.
+
+“Sure.” Theontsu dipped his head in thanks. The motion ruffled the brown plumage that framed his angular cheeks. “Can I take some of that?” He reached out to help Ty with his gear.
+
+Accepting graciously, Ty handed over some of his loot and weapons. The burden shared, the two walked from the secure teleportation circle into the city proper. Gorgeous sunset hues streaked through the clouds, tinting the world vibrant shades of blue and purple. Deep shadows pooled around the duo as they walked through the bustling streets toward Ty’s rooms near the center of the city.
+
+Celestials, eggshell white, featureless humanoids with silver-ringed joints, moved about hurriedly despite the late hour. New houses, many of which had been teleported in intact, decorated the streets in neat rows.
+
+“How are things here?” Ty asked.
+
+“Moving quickly,” Theontsu said, the smile dropping as he adopted an official tone. “We’ve got ten thousand Celestials re-homed. We’ve also begun excavating the ruins that branched into the mountains. By the next season, Omendine hopes to have secondary escape routes in the event of a major attack.”
+
+Omendine was Ty’s Seneschal. The traesap, a vaguely llama-looking humanoid species native to Volar, was a brilliant logistician. Without him, Ty doubted they’d have been able to relocate the Celestials in a timely manner. Countless lives would have been lost.
+
+“That’s impressive progress,” Ty said. “You’d think I wouldn’t be surprised, given what I’ve seen magic do. Still, migrating a population and relocating a city in a matter of weeks feels like a feat.”
+
+“You should have seen how things were done on Ako,” Theontsu said.
+
+“Maybe I should access some of those memories and relive them, sometime.” He kept most of his akkoan memories in his Mind Fortress to protect his sanity. Sometimes there were unexpected side effects when he retrieved them.
+
+“You should.” Theontsu’s eyes were distant and sad. “If you can find memories before the war, I recommend them. Once, Ako was a paradise to outshine all others.”
+
+They walked in silence for a bit before Ty asked, “Have there been signs of further incursions against our borders? I know the bunnies reported regular attempts to sneak into the city.”
+
+“No. No new scouts. We believe the Monster god is focused on Celestial City and Earth. No doubt she felt discouraged after we repelled her incursions.”
+
+“Good.” Ty was preparing for the next phase of the Resonance Bridge. He’d been warned many times that since he was level ten, he should prepare for rival scions to come after him. The last thing he wanted was his presence to draw the attention of other god-blessed scions like himself to Deathgate.
+
+The duo rounded a corner, walking past the pens holding the six-legged spider-cats. A pair of the cats watched him walk by, one rolling on its back and presenting curled paws. “I just want to pet it,” Ty said.
+
+“I wouldn’t. Those claws can tear through metal.”
+
+Ty pouted a bit as they continued on, walking past the Seneschal’s residence. Through the window, he saw the three-and-a-half-foot tall llama-looking man knitting. The wall behind him was covered with woven murals, each depicting a different pastoral scene. Despite his apparent calm, the Seneschal was probably busy dealing with the affairs of the town.
+
+I wonder how he coordinates with the Celestials? Ty thought. With their limited supply of mind gems, most of the Celestials had to be left out. Probably the bunnies. An image of Dan, the white rabbit that Ty often dealt with, perched on a Celestial’s shoulder made him chuckle.
+
+Omendine paused in his knitting to salute them as they passed in front of his house. Ty returned the gesture.
+
+“He seems to genuinely like it here,” Ty said.
+
+“He does,” Theontsu replied. “Most of us enjoy the community we’re building.”
+
+“Even without the famous akkoan water gardens?” When akkoans died, their souls didn’t go into the afterlife. Instead, they lingered, merging with nature to provide guidance and insight into their descendants. When they became tired of that, the spirits could choose to integrate with newborn akkoans, adding a portion of their wisdom to the child. On Ako, water gardens were a symbol of reincarnation and nature.
+
+“Give us a few more weeks. Once Cleozun and her cabal have time, I have no doubt we will have a water garden installation to rival any you remember.”
+
+Ty flashed a grin. “I’d like that. Perhaps we can talk Nature into sending one of her scions to help.”
+
+“That may work. Having all the foreigners living so close has a few of us on edge already. I doubt Cleozun would allow anyone but an akkoan she trusts to help with that. If a god is involved, the odds of her letting it happen are even worse.”
+
+Despite their love of beauty and nature, akkoan culture was borderline obsessively xenophobic. Through Ty’s travels and experiences in their memories, he’d only encountered a couple of species that they tolerated.
+
+“I thought Cleozun was aligned with Magic and Chaos now?” The idea had been unthinkable when he’d heard it. Akkoans hated the gods, all but Seeker. For her to align with not one, but two, was atypical at best.
+
+Theontsu waved away the concern. “She hasn’t taken an Arbiter. I’d be willing to bet she’s just milking them for bribes.”
+
+“Maybe someone should tell Clarion that. He’s considering worshipping Magic.” Ty still didn’t know how he felt about his son’s inclinations. Other than the trio of gods he was bound to, and maybe Celestia or Technology, Ty didn’t trust any of them. Their personalities were influenced by their worshippers. Even the greater gods were subject to the ideology of their followers. It made for dangerous, ever-shifting alliances.
+
+“He’s young and impressionable, and Cleozun has a strong personality. I’m not surprised. Are you worried Magic might have a negative impact on our little Archangel?”
+
+“A little, yeah,” Ty admitted. “He’s powerful, but he’s also naïve. I wanted him to become a beacon of hope, a protector against evil. I wasn’t equipped to prepare him for everything else. Hell, I’m still out of my depth.” He’d never set out to create a son. What he’d gotten was overwhelming. He didn’t feel like a dad. But he’d provided the ideals and some of the memories to make Clarion. In many of the ways that mattered, he was the angel’s father.
+
+“It’s okay to start simple, Ty. We all do. It’s who we grow into that matters.”
+
+They rounded a street corner, turning to the tavern that had been the heart of Deathgate prior to the akkoans’ arrival. Three stories tall, with elaborate runes of protection glowing on each surface, the building radiated a subtly reassuring warmth into the night.
+
+“Let’s worry about the little things tomorrow, alright?” Ty said, stopping in front of the iron-reinforced entry door.
+
+Theontsu bobbed a nod of acceptance. It was a distinctly Earth-human gesture, one that many of the local akkoans had picked up from him. That was fair, he guessed since he’d practically become half-akkoan since the Resonance had begun.
+
+“I’ll see you and Meridian tomorrow for lunch, if that’s alright?” Ty asked, reaching out to put a hand on the taller man’s arm. “I want to get your advice on how to spend my discretionary attribute points and merits.”
+
+Why do you need them? Zalax asked, articulate voice whispering in Ty’s mind. The Fractal Entity had become increasingly chatty and helpful lately, a fact that made Ty vaguely uneasy.
+
+Tell you what, I’ll get relaxed, and we can all discuss where I am and where we should go next.
+
+Yunnu, one of his three Arbiters, replied, Ty, you know we can’t provide you with advice. We’re not your therapy-spirits anymore. We love you, but we’re bound by the same rules as all other Arbiters.
+
+Sure, but you can listen and maybe help price things, right?
+
+That we can do.
+
+“Lunch sounds good,” Theontsu said, interrupting the nonverbal planning session. “I’ll tell Meridian. She’ll be overjoyed.” He turned away, hesitating a beat to add, “You know she’ll want a long dessert too.”
+
+Ty blushed and waved his friend away.
+
+Laughing, Theontsu walked off.
+
+The interior of the tavern was spacious. There was a bar and well-stocked kitchen along one wall, upgraded and enhanced since his first visit to the town. Cleozun and Uneth had retrofitted the dining area into a war room. A table big enough to sit sixteen akkoans filled much of the space, an interactive spell-map hovering above it. The map reflected the current whereabouts of known Monster god agents and activities across Volar. From what Ty saw, things weren’t looking good. Aisling had an unfair advantage; she was unbound to the Great Arbiter, unlike most of the other Volaran gods.
+
+“Something to eat, milord?” A human man Ty didn’t recognize emerged from the kitchen behind the bar. Short, with brown hair and an amiable smile, the man was wearing a smudged white apron over a plain brown shirt.
+
+“Did we get a chef?” Ty asked.
+
+“That you did, sir. At least until we find a proper home of our own.” Wiping his hands on his apron, the man looked Ty up and down. “I’m Olem, and me and my family came in from Celestial lands. You’re Ty, right? I just want to say how grateful we are to have a place to stay. As long as me and my family are living here, I’ll give back the best I can, no problems. If that means staying up late to make meals, you better believe I’ll do it and be happy about it, too.”
+
+“Uh, I’d love a meal. Would you mind sending it to my room?” Spending time with Theontsu had drained what little social battery Ty had left.
+
+“Not a problem. Any requests, sir?”
+
+Ty looked away from the man, feeling increasingly awkward. “Uh. No. I’m starving though. Something with meat, if you have it?”
+
+“Sure, we have fresh fish and eel. I’ll fry something robust and be up in a few minutes.”
+
+Retreating up the stairs at the rear of the common space, Ty made his way to his room. Laughter and voices spilled from behind the doors of the few families that lived there. No doubt with the speed houses were being erected, they’d have proper homes soon.
+
+Ty mused, Interesting how both worlds include construction projects. I guess it makes sense. Prepare for the storm however you can, right?
+
+Synthesis, the second of his two Fractal Entities, rumbled a reply. If you cannot go on offense, an unbreakable defense is the only option.
+
+Ty pressed his hand to the door at the far end of the hall, deactivating Cleozun’s wards. Stepping inside the spacious room, he exhaled a slow, exhausted breath. Combat was one thing. During a fight, his mind could turn people into pieces on a game board. Person to person interaction was messy. Despite how far he’d come and how much he changed, he still didn’t find it easy to be around people.
+
+Unless they’ve lived inside your head, Yunnu corrected, manifesting nearby. The football-sized artifact was made of silvery metal. Each of its eight crystalline facets had shadowy, mysterious swirls of color floating within its depths.
+
+His suite had a connecting washroom, one Cleozun had custom retrofitted to his specifications. If things went his way, he fully intended to use as much hot water as her spells would allow, then sleep the rest of the night away.
+
+Even with his Verdant Touch to wash away his fatigue, Ty still needed rest.
+
+“Yes, well, that’s different,” Ty finally replied.
+
+Yunnu floated near, practically looking him in the eye. “Do you think you’ll be able to form romantic relationships with regular humans, ones that haven’t been inside you first?”
+
+“Why do you care?” Ty snapped.
+
+“Sorry, Ty. I was being too nosey.”
+
+“Yeah. I appreciate your advice. But some things I need to figure out on my own, alright?”
+
+Agreed, Lilla sent silently from within his mind. Since Yunnu’s power was active, neither she nor Mummat could manifest.
+
+Naked except for his gauntlets, Ty padded into the bathroom. All cool, smooth stone, the washing area had a tub and a spigot at eye level. Ignoring the brief, mild shock of the chill, he waved a hand to activate the shower.
+
+Warm water appeared in the air just in front of the spigot, projecting in a perfect, body-covering spray. The drops vanished once they hit the stone floor, magically cleaned and recycled. “A little hotter and harder,” Ty said, and the water adjusted accordingly. A few seconds later, he said, “Hotter.”
+
+“Ty, you realize it won’t get hot enough for you, right?” Yunnu said from nearby.
+
+“What, why?”
+
+“Your adaptation ability. You’ll acclimatize to anything a normal person would tolerate. Cleozun wouldn’t install a heating mechanism without safeguards. If you’re wanting to feel a burn, you’re going to have to ask her for some upgrades.”
+
+“Ah, yeah.” He’d forgotten about his passive ability. After a few seconds in a dangerous climate, his body would adapt enough to match a category 4 being. He hadn’t thought that the benefit would come with such odd consequences. All he wanted to do was feel the shower, to burn away thoughts of romance or violence.
+
+We cannot disable the benefits of the Law Keeper, unlike other abilities, Mummat sent. The scholarly Arbiter pulsed a gentle sense of reassurance through their bond.
+
+“I guess this is just going to progressively get worse, isn’t it?” Ty looked at his hands. He’d made the gauntlets, which covered him from hands to shoulders, so thin and transparent that they didn’t register to his senses.
+
+“What is?” Yunnu asked.
+
+Shifting seamlessly from internal to external dialogue, Ty replied out loud. “The distance between who I am now and who I was.” He flexed his fingers. “I’m stronger, faster, and tougher than any human ever born on Earth.” A significant portion of his attributes came from his Spiritual Warrior ability, which granted him benefits based on having a high Spirit score. One benefit he hadn’t expected was that the nature of the power conveyed a deep comprehension of how to use those incredibly high attributes. He hadn’t crushed anyone by accident so far, in part thanks to where his enhancements came from.
+
+“I would argue that you’ve been other than human since your first visit.”
+
+“Hold on, before anyone else chimes in, let me release Mummat and Lilla.” Ty concentrated, freeing his other two Arbiters so they could appear. Doing so cost him Yunnu’s passive power, which helped him see vulnerabilities in enemy targets. Given that they weren’t in combat, he saw no reason to restrict his friends.
+
+After the mandatory thirty-second waiting period, Lilla and Mummat manifested nearby. They both had the same basic shape as Yunnu, complete with metallic structure. Thanks to the differences between their divine connections, each shone with different divine light. Mummat, as a representative of Inspiration, had a magenta and silver hue. Lilla, reflecting the Wild, was green with an oily, rainbow sheen.
+
+“Alright, go ahead,” he said once all three were in his orbit. While talking with them inside his head was faster and simpler, sometimes it felt good to say the words.
+
+“Yunnu is right,” Lilla said. “When you saved our people, you took twenty-nine thousand, five hundred and thirty-four souls into your Mind Fortress and Soul Cage. Even accounting for the fact that you no longer have those minds or souls in you, aside from your Fractals, you retain enough of our memories that you’re predominantly akkoan in many ways.”
+
+Mummat bobbed in the air. “Not to mention your body. You’ve augmented yourself with an akkoan war skeleton and adjusted much of your physiology to match. You’re more akkoan than human now.”
+
+“Not here,” Ty said, touching his chest. “Besides, Hagemi told me that my human memories were dominant. I feel human in here, too.” He tapped his head, splashing water down his nearly bald scalp. During an arena fight near Ako, he’d fought a monster that could spray acid mist like a fire hose. He’d been lucky to survive that one.
+
+Mummat said, “You’re at the point where you must adapt to what you’ve become. We’re in a war of superheroes and supervillains, gods and monsters. You knew losing your humanity was a potential outcome early on, didn’t you?”
+
+“I did.” When the Resonance Bridge had barely begun, Ty had made lists of likely outcomes from a journey into a fantasy world. A version of this outcome had occurred to him. “Of course, back then I postulated what it might be like to be a level ten warrior, or mage, or rogue even. Not whatever hodgepodge I am.”
+
+“What, you don’t like being a Merit Hunter with a druid subclass?” Yunnu sounded amused.
+
+“I’m mostly not a druid. Also, we’re making it work. Speaking of which, shall we go through some of my powers and see which we think should be upgraded? Or if I should take new ones?”
+
+He felt Zalax’s eagerness in the warlock’s reply. Absolutely.
+
+“You know we love Zalax-,” Lilla began.
+
+“But he used to be a world-dominating, uber warlock demigod? Yeah. I know. But he’s reformed.”
+
+I sure am, Zalax piped up mentally.
+
+Ty turned his attention to his therapy-space. Zalax looked at him with a version of puppy-dog eyes. The vampire-looking man, with pale, refined features didn’t pull it off very well. You shouldn’t interrupt my conversations, you know.
+
+Hey! I don’t do it much.
+
+Synthesis smirked across the room as his companion. Inside the space, he appeared as a twelve-foot-tall akkoan with red plumage. Most of his impossibly muscular physique was concealed within the iron door he was merged with.
+
+You have something to add, Synthesis? Ty asked.
+
+Technically, I’m therapy-Synthesis.
+
+The truth was, the Synthesis he interacted with was a therapy-spirit, a duplicate of the real Synthesis who was stored behind the door. Without the therapy-spirit’s protection, the real one might do more harm than good, maybe even influencing Ty’s thoughts. That the therapy-spirit was separate from the demigod inside Ty’s Fractal Mesh had never been a complication worth addressing. Hopefully, it never would be.
+
+“Reformed or not,” Lilla said, continuing her thought, “the very nature of his powers are sinister. You can have all the good intentions in the world, but a spell called ‘melt their spines’ is always going to be sinister. Just so you know.”
+
+“Would it help if we renamed the spell ‘Soften the bad guys’ spines’?” Ty asked.
+
+“No,” Mummat and Lilla said together.
+
+Yunnu said, “From an objective perspective, some types of magic will always be considered taboo, forbidden, or evil. You should be aware of this, Ty.”
+
+Ty waved for one of the cleansing runes. It displaced the blood and grit covering his body. Another gesture turned the water off. He hadn’t run it out. A shame. He had been hoping to lord that over Cleozun the next time he saw the mage, just to keep her on her toes. She was dating his son now, after all. It was a father’s prerogative to want the best for his son.
+
+“Your concerns are noted,” Ty said with a sigh. “If it helps, I don’t plan to go full angst-bot. You all should know that. I want to survive, and there are some realities that come with that. It’s not like that means I’m going to go all heartless killing machine, alright? I’m a Merit Hunter. We adapt powers to suit our ambitions. It’s objectively less efficient for me to simply take a spell from him, right?”
+
+“True,” Mummat agreed.
+
+Using a rune to dry himself off, Ty walked back into his bedroom. Taking a seat he retreated into his therapy-space, where a whiteboard list of his abilities displayed. He sorted out the niche or useless ones first. While his abilities to read magic and speak with animals were interesting, neither was going to help him in fights with other scions.
+
+The whiteboard filled in with four items: physical combat, Verdant Aura, Mana Prism and maneuverability. Below the list was a section labeled ‘Familiar’.
+
+“I’m strong and fast, and competent with basically any weapon,” Ty said. He had supernatural attributes now, putting him at least on par with other scions, if not better.
+
+Zalax said, “Your Alunite is a significant advantage, since you can shift its shape and it armors you. I would argue that between your teleportation ability and your infighting, you’ve become quite deadly. Assuming you can teleport. Without mana, or in an area of teleportation resistance, you’ll be in trouble.”
+
+“It feels like the more powers I get, the more demands there are on my mana. I guess spellcasters feel that pinch too, eh?”
+
+“We do. Perhaps less than you, since so many of your abilities have huge variables in terms of cost.”
+
+Moving down the list, Ty said, “Verdant Aura is mainly used for healing. It can hurt the Monster god’s minions, or draw the attention of a god if I work hard enough. I don’t think that’s particularly useful right now.”
+
+Synthesis opened his mouth in a wide yawn, jaws cracking audibly. “Proximity is the problem with that. You need a remote way to use it. Or remote applications. Infighting at our level is dangerous, given how low our hit points are.”
+
+“As a healing technique, it’s gold,” Zalax cut in. “If we can make it offensive later, great. I wouldn’t worry about that for now.”
+
+“And now we come to the Mana Prism.” That was Ty’s surprise trump card. It had begun as an achievement, a gift from Inspiration. Through it, he could transform one type of divine mana into another. Combined with his Magic Activation ability he could, in theory, drain the magic from magical items, spells, and even enchantments, provided his will was strong enough.
+
+Zalax said, “Situationally, it’s one of the most powerful things I’ve ever heard of. Chaos’s scions could, in some situations, replicate it. Otherwise, it’s a power reserved for Arbiters.”
+
+“Again with the situational benefits. If I maneuver myself, use the terrain and insights just right, it’s wildly powerful.”
+
+“No weapon is universally useful,” Synthesis observed. “Even activating your ultimate abilities has weaknesses and flaws. On a positive note, as the warlock said, we have excellent maneuverability. Between speed and teleportation, we have significant tactical advantages, provided we don’t drain too much mana. I’d point out that we will need a way to deal with flying and other teleporting opponents eventually. Maybe sooner rather than later, given the tournament.”
+
+Thinking about all the specialized attacks he’d need to prepare for reminded him of several mid-to-high tier spells from the tabletop games he played. “Let’s add something to block teleportation to our list. What about instant death effects?” Ty asked.
+
+Zalax snorted dismissively. “Spells to instantly kill someone were rare, even during my time. They shouldn’t be much of a problem for you for a while.”
+
+“Synthesis, what’s your assessment of our overall capabilities?”
+
+The giant akkoan managed a small shrug. “Very solid. I’d say we’re a good B-tier assassin and healer, and an B+ fighter. We don’t have spells, or much protection against them, so we’ll have problems in that area. Our low vitality is hampering our survivability. I think we need to get protection against the specialists, people like Mildred. If we can keep those people from taking us by surprise, we’re on a good track. Defense soon, more offense after that.”
+
+Zalax said, “One thing we haven’t talked about is the Kestral familiar your skeleton granted you. It is an excellent scout and can drain mana. Given its maneuverability and the fact that it can’t permanently die, I think it should be your go-to offensive weapon for the foreseeable future.”
+
+“Good point.”
+
+“You’re forgetting one of your biggest opportunities here,” Lilla said.
+
+Ty looked over to see her grinning. She lifted a finger and the text of the reward appeared on a whiteboard.
+
+Achievement: Divine Alliance. You have negotiated a joint agreement between Magic, Nature, Technology, Inspiration, and Divinity. This is an unprecedented act for a single scion. Given your status as de-leveled and underpowered, the Great Arbiter has authorized a one time boon. You may request any single power, within the limit and scale of your level, of up to a twenty-merit value. The cost will be reduced to zero. You may only take a combat-oriented, non-world altering power with this discount. You’re being rewarded, not encouraged to continue your out-of-the-box insanity.
+
+“Oh.” Ty grinned.
+
+Knock Knock.
+
+“Food, Milord.” The gentle voice came through the door, reminding him that he still hadn’t eaten.
+
+Exiting his therapy-space, he padded over to the door and opened it to find a covered plate heaping with delicious, if strange food. There were leafy greens, some sort of potato, and thin slices of white meat. The chef had included a tall cup of water, too. Collecting both, Ty ate the delicious meal before returning to his meditations.

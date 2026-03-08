@@ -1,0 +1,556 @@
+TITLE: Apocalypse BREAKER Book 2
+AUTHOR: Aaron Renfroe
+SERIES: Apocalypse BREAKER (Book 2)
+WORDS EXTRACTED: 6018
+============================================================
+
+Apocalypse BREAKER 2
+
+A LitRPG Apocalyptic Saga
+
+Series Dedication
+
+We would like to dedicate this series to mentors. They come in all shapes and sizes but have one thing in common: without the gift of their time and guidance, many of us would not be where we are.
+
+Book Dedication
+
+Be the change you want to see in the world.
+
+About the Crunch
+
+Sean and I love LitRPG, and we’ve woven the unique mechanics for this series throughout the book. You’ll see stats, menus, screens, and so on. To compromise with readers who prefer limited crunch, we’ve moved non-essential system stuff (such as post-combat experience gains) to their own chapters wherever possible.
+
+Be Aware! This book introduces base management. We tried to keep those details as practical and streamlined as possible while keeping it meaty and engaging. In future books, we’ll move the Base Building details to the appendices, where fans can reference them if they want.
+
+Speaking (writing?) of which…
+
+As fans of stories written by people like Brandon Sanderson and Robert Jordan, and gaming rulebooks in general, we’ve made sure to update the World Lore sections in the back of the book. If you need a reminder for how things work, it’s waiting for you. We’ve also moved the full descriptions of Dean’s abilities there. Although we will weave reminders and key text throughout the story, if fans want the full text, it’s just a flip away.
+
+Disclaimer: Sometimes we nest little plot details in the mechanical text.
+
+P. S. Be sure to read to the very end for bonus content!
+
+Participate in future books!
+
+This story is being written in arcs, with most ending in at least 1 opportunity for fans to participate. You’ll have a window of about ~24-72 hours to vote on Patreon or Discord polls or make suggestions in the Apocalypse BREAKER channel in chat.
+
+Where to Read and See Polls?
+
+Aaron’s Patreon: https://www.patreon.com/AaronRAuthor
+
+Where to Participate in Discussions?
+
+Pivot Press Discord: https://discord.gg/GXn8csy2gg
+
+Disclaimer: All participation outcomes will be ones that make the story more interesting to write. Have no fear that a rogue vote will make Apocalypse BREAKER less epic.
+
+CLASSIFIED ASSESSMENT – Apocalypse BREAKER (Book 1)
+
+EYES ONLY
+SUBJECT: Dean Williams - Complete Strategic Assessment and Future Projections
+FROM: [REDACTED] - Senior Analyst, Department of Extraordinary Threats
+TO: Joint Chiefs of Staff
+
+Executive Summary
+
+Since the beginning of System incursions, this department has tracked the emergence and development of enhanced human operatives. Standard progression models suggest that even exceptional individuals require sustained System exposure, extensive training, and favorable circumstances to achieve significant capability enhancement.
+
+Dean Williams represents a fundamental deviation from these models.
+
+Initial Incident - Research Facility C
+
+Subject Williams entered our awareness as a courier delivering classified research components when hostile System forces breached Research Facility C. The nineteen-year-old civilian was subsequently Activated through proximity exposure to a dragon during an attack by a System operative designated "Vek." Williams eliminated the hostile with assistance from a newly unbound dragon entity.
+
+Standard protocols were followed for System Activation processing, though Williams immediately demonstrated possession of latent Mana Sensitivity—an extremely rare trait that dragon exposure had activated.
+
+Enhancement Protocol Authorization
+
+Post-incident analysis revealed Williams' unique genetic predisposition warranted unprecedented intervention. Commander Dennings authorized the dosage of Supplement Alpha for Williams' integration—three full canisters versus the standard 1/50th canister allocation. This decision, equivalent to enhancing 150 standard operatives, was based on scans showing Williams had earned maximum potential System rewards.
+
+The enhancement protocol resulted in all seven primary attributes boosting to 100+ (peak human theoretical maximum: 85).
+
+For context: our most elite operatives typically achieve 60-70 in primary attributes after years of enhancement. Williams achieved 100+ in all categories immediately upon Activation.
+
+In addition to incredible Attributes, once we disabled the disadvantages of Mana Sensitivity he gained access to a 50% boost to any effect that uses mana. And the best part? That’s not his cap. Thanks to the three canisters; his true maximum is 300%. Captain Nicholson, who oversaw his Activation, guessed that implementing too much of his true potential, too quickly, might result in direct System engagement. Thus, she built a plan to gradually unveil his true power.
+
+Tutorial Phase - First Anomaly
+
+Williams completed his tutorial by accessing what our researchers had only theorized existed: "Void Difficulty" quest content. The System's standard progression offers Easy/Moderate/High/Hell difficulty levels. Williams discovered and accessed a hidden tier beyond Hell difficulty.
+
+During this phase, Williams created the custom class "Apocalypse BREAKER," single-handedly eliminated multiple level 10+ Summanati operatives on a frontier world, infiltrated and destroyed an entire System invasion fleet, and acquired three relic-tier magical items including a daemon-corrupted weapon that permanently fused with his hand.
+
+Our monitoring equipment recorded a mana surge of over one million units during his return—readings that should be physically impossible for a level 3 operative.
+
+Initial Assessment - Captain Marvick's Evaluation
+
+Captain Marvick's evaluation revealed capabilities that defied our understanding of System mechanics. Williams demonstrated an ability to partially resist Marvick's Ultimate-class restraint ability—a level 20+ technique that has successfully immobilized our most dangerous hostiles.
+
+Williams was still level 3 at the time.
+
+Medical analysis confirmed Williams' unique trait combination allowed him to generate non-System mana through his "Override Engine" ability, making him a living anomaly that the System both empowers and cannot fully control.
+
+At this point, our models suggested we were dealing with an exceptional but manageable asset.
+
+We were... optimistic.
+
+First Deployment - Thanderkand Treasury Mission
+
+Given Williams' unprecedented capabilities, we assigned Lieutenant Sharon McFay (level 24) as tactical support for what planning classified as a "diplomatic assignment with limited combat exposure." The mission involved preventing two rival adventuring groups from looting an ancient treasury.
+
+Within 48 hours, Williams (with Sharon’s help) had advanced from level 6 to level 10 and eliminated threats with combined levels exceeding 80. His approach to "diplomacy" included single-handedly defeating a level 25 Elite takaltu commander and eliminating a Captain Jasteel Burstmeister in aerial combat.
+
+The Daemon Incident
+
+During this deployment, Williams successfully performed what our xenobiology department classifies as a "moderately suicidal" summoning ritual. HUD medical data confirms his heart stopped for over a minute during the process.
+
+Lieutenant McFay performed emergency resuscitation, preventing permanent death. The result was Williams binding a daemon entity he has named "Robin"—a creature resembling what he describes as "a small dinosaur with the disposition of an enthusiastic house cat."
+
+When asked about the wisdom of befriending a daemon, Williams replied: "He's a good boy. He only eats the bad guys."
+
+Mission Escalation
+
+The team successfully infiltrated ancient necromantic facilities, acquired pre-System magical knowledge, and established intelligence contacts with extra-dimensional entities. Williams demonstrated successful casting of spells he had learned minutes earlier, including Possess Interior, which caused a Greater Lich to tear itself apart from the inside.
+
+His combat log notes read: "Worked better than expected. Very gross. Would use again."
+
+Aside: During this mission, Lieutenant McFay was wounded with a life-threatening curse. Both she and Dean have proven reluctant to elaborate on the precise details.
+
+Surface Engagement Analysis
+
+Upon emerging from the catacombs, Williams encountered a three-way battle between elite clovash assassins, a diseased okaku barbarian, and an entity our xenobiology department believes was Telkazorin himself operating through a possessed shell.
+
+Rather than retreat, Williams chose to intervene against a Level 18 Elite Clovash Assassin while carrying his wounded analyst. Combat data shows him surviving instantly fatal wounds and defeating an opponent with four times his combat experience.
+
+The Champion Incident
+
+Gentlemen, what I must report next has been verified through multiple independent sources, yet challenges every mathematical model we possess.
+
+Williams encountered a System Champion—a wyvern variant enhanced with Unbreakable, Spawning, and Magekiller modifications. Rather than retreat, he engaged it in single combat.
+
+He won.
+
+His method, according to combat logs, involved crawling inside the creature's eye socket and manually destroying its brain with his relic weapon. When asked about his tactical reasoning, Williams explained: "The outside was too hard, so I went for the squishy bits. They didn’t taste very good."
+
+Our combat analysis department confirms the statistical probability of this victory approaches zero.
+
+Current Capability Assessment
+
+Williams has returned from deployment having completed objectives we classified as theoretically impossible. His demonstrated capabilities now include:
+
+·         Combat effectiveness against opponents 10+ levels above his classification
+
+·         Successful casting of pre-System magic with minimal training
+
+·         Natural resistance to mental influence and System manipulation
+
+·         Formation of alliances with entities existing outside normal space-time
+
+·         Mana readings that exceed our instruments' measurement capabilities
+
+His power progression follows no known curve. Each engagement results in exponential capability increase rather than incremental development.
+
+System Response
+
+The controlling intelligence has initiated an "Event Burst" in direct response to Williams' activities, accelerating mandatory System deployment timelines by 40-95% with dramatically increased difficulty scaling.
+
+This suggests the System either considers Williams a significant threat requiring accelerated response, or views him as an opportunity for enhanced challenge development.
+
+We can no longer determine which interpretation is correct.
+
+Psychological Evaluation
+
+Williams entered the program as a borderline sociopath. Activation appears to have granted him an ability to empathize; effectively “waking him up” from a narrow emotional spectrum.
+
+According to Lieutenant McFay, the man has a compulsion to protect children and those he deems his friends. He appears to take his goal of stopping apocalypses (whatever that means) seriously. Outside of those parameters, she warns that he has retained his sociopathic tendencies.
+
+To say that he has issues with authority is an understatement.
+
+Strategic Implications
+
+Williams represents either humanity's ultimate strategic asset or our most significant containment challenge. Current trajectory suggests his power growth will continue beyond our ability to measure, predict, or potentially control.
+
+The System's accelerated response indicates Williams' activities have fundamentally altered the cosmic conflict's parameters. We are no longer operating within established frameworks.
+
+Final Assessment
+
+Since the beginning of System incursions, I have analyzed hundreds of enhanced operatives. None approach Williams' trajectory. He doesn't just exceed our models—he suggests entirely new possibilities for human development under System influence.
+
+Williams has begun demonstrating capabilities our models suggest should be impossible: Elder Insights typically restricted to transcendent entities, relic corruption effects that modify System items on contact, and a daemon familiar capable of evolutionary enhancement through enemy consumption.
+
+Whether this represents humanity's salvation or extinction depends entirely on maintaining Williams' fundamental humanity while his capabilities transcend human limitations.
+
+Recommendations
+
+Based on comprehensive analysis, Williams will likely continue exponential development regardless of our intervention. We recommend maximum organizational support with prepared contingencies for scenarios beyond our current understanding.
+
+Most critically: Williams appears to genuinely care about protecting others. This may be our only reliable constraint on his development.
+
+We are in uncharted territory with planetary stakes.
+
+[SIGNATURE REDACTED]
+
+Starting Character Sheet
+
+Note: The comprehensive descriptions of Dean’s abilities are listed in the appendix. We will restate them as applicable in the text.
+
+Name: Dean Williams
+
+Class: Apocalypse BREAKER
+
+Level: 10
+
+Installed Experience Points: 52,316
+
+Total Acquired Experience Points: 286,468
+
+Hit Points: 295
+
+Mana: 600
+
+Titles: Far Too Lucky (Bonus System/Loot Options), Furious Killer (Attribute bump when defeating consecutive enemies), Unstoppable Force (Grants 1% penetration to subsequent attacks)
+
+Active Traits: Mana Sensitivity (100% out of 300% augmentation enabled; Enhanced Vulnerability disabled), Adversary Analysis (Perception), Indomitable (Focus), Destructive (Strength), Enhanced Destruction (Strength), Override Engine (Attunement), Evolution is My Weapon (Toughness), Daemonic Mana Influence (Specialty), Daemonic Insight (Specialty), Draconic Insight (Specialty)
+
+Passive Traits: Human
+
+Elder Trials Complete: 1 of 3
+
+Specialty Synergies with Mana Sensitivity: Mana Sensitivity synergizes with all daemonic and draconic powers; however, those abilities use old magic – the antithesis of the System. While Parasite Code will work to decode their functions and add them to your HUD, expect unknown variables
+
+* * *
+
+Active HUD Toggles:
+
+Auto-throttle (Physical) (This purchased enhancement allows you to limit your effective Strength score. It can be disabled based on a wide variety of triggers, such as “taking X damage” etc. Your maximum current Strength is capped at 100)
+
+Dynamic Naming/Tagging (Your HUD will automatically name targets, making it easier to strategize)
+
+Item Storage – 5 seconds (Your inventory storing items will automatically store items you hold near them after 5 seconds; you may override this in the menu options)
+
+* * *
+
+Other Achievements
+
+Blood Sanctification (Your next Attunement trait is guaranteed to enhance Override Engine)
+
+Spells: Summon Daemonic Companion, Possess Interior AKA Animate (Occupied Skeleton), Word of Command (AKA Commanding Word)*
+
+*Spell Note: Alternative spell names are listed as the System sees them. Those versions have reduced capabilities versus Dean's.
+
+* * *
+
+Available Traits:
+
+· Grace (Starter)
+
+· Mind X 2 (Starter and Standard)
+
+· Attunement (Standard)
+
+* * *
+
+Attributes*
+
+*Note: Due to Dean’s heightened magical capacity, thanks to Mana Sensitivity, he was Activated with three canisters of Sup-A, (Supplement-A); this grants him 15 attribute points per level, compared to the standard human 5. He also had 300 points to distribute at level 0, rather than the standard 100.
+
+Strength – 150: You can punch through engine blocks and leap across streets like it's a casual Tuesday.
+
+Endurance – 115: You shrug off falls that would hospitalize mortals and laugh at standard weaponry.
+
+Grace – 107: You move fast enough to make cheetahs jealous and possess an agility sufficient to make gymnasts weep. All the elegance of a ballet dancer, if ballet dancers specialized in ultraviolence.
+
+Focus – 100: You can maintain laser focus for eight hours straight while filtering out distractions like they don't exist
+
+Mind – 150: The Mind attribute doesn’t scale like other Attributes. At 150, you’re not a supercomputer, but you do have a massively enhanced ability to recall and process facts.
+
+Perception – 120: You detect magical energy and notice things others miss with supernatural awareness. You have the observational skills of a paranoid hawk on espresso.
+
+Attunement – 150: Magic flows through you like water through a very angry, very powerful dam.
+
+***
+
+Class (Custom): Apocalypse BREAKER
+
+Thematic Benefit: Apocalypse BREAKER is a custom creation forged with a Conquest. It unites the highly rare BREAKER class and the Apocalypse Bringer title.
+
+As one, you will receive a 20% bonus to your Strength attribute when overcoming any physical limitation, restrictive force, or when acting to defeat an overwhelming opponent. You may apply a 20% bonus to your Attunement attribute when overcoming any magical limitation, restrictive force, or when acting to defeat an overwhelming opponent.
+
+In addition to these benefits, you will receive a 20% bonus to all natural (non-System) skills you acquire following this same logic. For example: You will have 20% more skill and strength when wielding a sword to defeat a truly challenging foe. The skill bonus only applies to a skill you’ve trained outside of System Events.
+
+Expanded Definition (due to title upgrade): This class benefit also applies when you defend others against overpowered foes.
+
+Situational Limitation: This does not apply to standard offensive actions. The System does not perceive someone “battering someone to death proactively” as a trigger for this class ability.
+
+Mana Limitation: This class ability requires mana to function and will be limited based on the amount available to the wielder.
+
+Synergy: Mana Sensitivity synergizes with this class. With your current bonus, it would increase the thematic benefit from Apocalypse BREAKER to 40%.
+
+* * *
+
+Applicable Organic Skills
+
+Organic skills are listed as a % above baseline (Earth) human normal. Martial Arts of 10% indicates that Dean is 10% better than the average human. As this list could become comprehensive, it will be updated based on training, magical items, and use.
+
+·         Martial Arts: 10%
+
+·         Basic Survival: 5%
+
+·        “The Lore”: 45% (The System uses rules and mechanisms that overlap with many popular Earth games. This skill represents your overall familiarity with magical concepts and monsters)
+
+***
+
+Notable Inventory
+
+Exchange Credits: 16,800
+
+Inventory Management Pouch X 2
+
+Concealable Inventory Pouch X 4
+
+Unforged Rod (Relic)
+
+Zack's Belt of True Ambidexterity (Relic)
+
+Fanto's Frantic Footwear of Frenetic Frenzy and Floating (Relic)
+
+Shield of the Jade Queen's Guardian X 2 (Relic)
+
+Scholesis Daggers X 4 (Clovash-only Relic)
+
+Necklace of Elemental Protection (Lesser)
+
+Vambraces of Weapon Holding (Lesser)
+
+Headdress of Storms (Unclaimed – currently with Steward in the Crossroads)
+
+Okaku Intelligence Chit
+
+Pouch of Thongaku Spores
+
+Incapacitation Bombs (Okaku-only) X 20
+
+Shortsword of Grievous Wounds (Adds 10% Grace bonus to damage; critical damage increased by 5%)
+
+Amulet of Anti-Scrying X 1 (Resists remote viewing and probability effects)
+
+Killer Boots (+30% to stealth skills; +15% to tracking; +25% movement speed)
+
+Bow of Freezing Punition (Arrows fired from this bow do double damage against cold-sensitive creatures, such as the clovash, and apply a freeze effect)
+
+Quiver of Infinite Arrows (Stores up to 300 arrows; 5 mana can be spent to generate 10 new ones)
+
+Greatsword of the Lich Tyrant (Relic-quality old magic item)
+
+Enthraller's Music Box (Necromancy Enhanced) X 10
+
+Long Range Jumper X 1 (3 charges)
+
+Jumper Access Token X 1
+
+Augmentor Dagger (Summoning) X 1
+
+Short Range Jumper (3 Charges) X 1
+
+Survival Scroll X 2
+
+Prelude: Dangerous Negotiations
+
+System Zone: 15121B
+
+Adventurer Presence: Azagrand Crusade Deployment Fleet
+
+"What have you brought us, Squire Teluum?" Fleet Commander Kryst's magically modulated voice filled the space, echoing off yellow, exposed bones. Standing atop a dais carved directly into the hollowed-out remains of some asteroid-sized monster, the man lifted an armored hand. His spike-tipped fingers curled, urging the squire forward.
+
+Security Legates, each dressed in heavily enchanted full plate armor and bearing weapons exposed, rotated to follow the squire’s approach. Behind closed visors, a dozen sets of eyes fixed on the creature following the low-ranking officer.
+
+The guest was an anomaly. Among the Crusade, all wore full suits of plate armor. Even the squire's relatively slight body was concealed behind magically sealed steel. This newcomer wore a robe of shimmering red and orange, its pale, doll-like body featureless save for the overlapping scales that began between its eyes and flowed upward across its otherwise bald head.
+
+Moving with smooth, boneless precision, the creature followed the squire quietly, looking neither left nor right. If being surrounded by twelve beings outfitted entirely in relics bothered it, the outsider showed no reaction.
+
+Teluum drew to a halt ten feet from the base of the commander’s bone platform. Drawing his curled fist against his left breast, he spoke in a light, youthful voice. "Commander, this one was discovered by one of the scouts. It was piloting a vessel of unfamiliar design, resistant to analysis. This... thing calls itself 'Voice' and says it wishes to negotiate."
+
+The Commander studied Voice thoughtfully, helm flashing with subtle magics as he used the System to activate various spells. He spoke with wry curiosity, "Was it assessed?"
+
+"It was," Teluum replied quickly. "They have determined the creature is some sort of augmented bio-construct of old magic design. It is not Activated."
+
+"You are called Voice?" Kryst asked the creature, waving a hand to indicate the guest should speak.
+
+"We are." The pale, snake-like thing had a warm, melodious voice entirely at odds with its features. It flowed into a bow, arms spread wide, head tilted down in submission. "Voice has been sent to negotiate. The desire is to trade precious information in exchange for trinkets."
+
+"It is unusual for those who have not converted to entreat with us. It is even more unusual for the Crusade to negotiate at all." The Commander sounded amused, although some undercurrent in the delivery sent a wave of tension through the nearby soldiers.
+
+Straightening, Voice made a waving gesture. Its hand was as pale and flawless as cream, save for the silver claws that tipped each digit. "You are known to us, Commander Kryst. Seventy-five Events prior, you entreated with the one whom I serve. He assisted you in defeating a rival in exchange for a boon."
+
+Kryst inhaled sharply. "Telkazorin. You are his." It wasn't a question.
+
+"We are." Voice proudly agreed. "And through his greatness, you gained what the System calls a Conquest, did you not?"
+
+The earlier tension traveled to the Commander, stripping all previous warmth from his tone. "Our agreement was for concluded business, not future arrangements."
+
+"Perhaps it is time for new business, Commander." Voice turned, its pale eyes sliding across the chamber.
+
+Kryst's command bridge was large, nearly a hundred feet across. Control mechanisms jutted from various points in the tendon-covered walls, armored Experts manning them. There were no view ports, no screens with which to observe the stellar space the vessel occupied. Those with connections to the System, and the HUD provided by it, had no need for such things.
+
+If there had been such a view port, it would have revealed the crowded vastness of System space, a realm thick with migrated stars. Commander Kryst's fleet, nearly three hundred ships strong, would have orbited the flagship like planetoids, each laden with soldiers and servants.
+
+Voice paused, studying nothing, penetrating gaze appearing to take in the assemblage. "Your ranks have swollen since our master saw you last. We are most impressed by your climb to power. It is a shame that your rival commanders continue to outshine you in the eyes of the System, is it not?"
+
+At that, grips tightened audibly nearby. It was enough to cause Kryst to glance at his HUD, issuing silent orders to his warriors. They settled with reluctance.
+
+"Speak your purpose, creation of the Dragon Mage," the Commander demanded.
+
+Voice moved its attention to the tunnels lining either side of the chamber. Carved out of the corpse's bone and meat, each was secured with solid metal plating covered with inscriptions. It spoke thoughtfully, offhandedly, "We have information about your scout. Veknel was his name, we are told."
+
+Its emphasis on the past tense was unmistakable.
+
+A Legates, one still gripping an oversized sword too tightly, straightened. It was a subtle gesture, one nearly impossible to detect. Voice's lipless mouth twitched, betraying the creature's ability to discern the micro expression.
+
+Behind his visored concealment the Commander's eyes narrowed. "An Expansion Monitor sent Veknel to a pre-acquisition frontier planet. We have every reason to believe he may be gone for months, perhaps years. Does your master have information otherwise?"
+
+"He would not risk one of his creations without reason." Voice returned its attention to Kryst, the overlapping scales decorating its head briefly reflecting the ambient light with an oily shimmer. "You will provide us with two tons of post-refinement Containment Metal. Furthermore, you will allow us to accompany your fleet on any retributive engagements made. In exchange, we will provide you with guidance to the location of those who have despoiled Veknel."
+
+Inhaling, Kryst was about to speak when Voice lifted a hand, pressing on. "There are two others, each from rival fleets, who have faced a similar fate. Your ways are strange to us, but we understand there is a code of sorts, yes? That avenging them would grant honor to your fleet and reduce the standing of your rivals?"
+
+Of all the offers made, the last was enough to make the Commander hesitate. "Containment Metal is not exactly a cheap commodity. Risking the System's ire to assault a pre-acquisition could bring ruin to more than my fleet."
+
+With an amused glint in its eyes, Voice retorted, "Then you will need to raise funds and move with care. Our presence with your fleet will help with the second. Consider it a good faith gesture. As for the first, we believe you know how to grow capital and sharpen the edge of your invading force simultaneously."
+
+"You're suggesting I host a Jubilee."
+
+"We are."
+
+"That would require I spend the very Conquest your master helped me obtain. Do you comprehend the value of such a boon?"
+
+Voice studied Kryst silently for several seconds before replying, "And the opportunity I offer is not worth such a thing?"
+
+"Perhaps. Return to your vessel. I will send word when I've made my decision."
+
+"As you command." With another flourishing bow, Voice turned and followed the squire from the room to the teleportation chamber.
+
+* * *
+
+Voice's ship was a marvel of old magic composition. Resembling a floating house covered in scales, a pair of clawed feet folded beneath the main body. It floated in the vacuum of space confidently, openly defiant of its constant state of conflict.
+
+A corona glowed around the vessel, stretching for miles in every direction. The System's passive effort to infiltrate and assimilate the old magic pulsed and throbbed violently, creating a light show bright enough to be mistaken for a newborn star. For all it was akin to a submarine in the deepest of trenches, the house showed no signs of faltering.
+
+Appearing inside a teleportation circle, Voice's body briefly shimmered as cleansing spells removed the System's taint. An animated creation with a human skull atop a spider's body spoke from nearby, its voice tinny and smooth.
+
+"You have been purified, Voice."
+
+With a dismissive gesture, Voice strode from the chamber and into the house proper. Other than a few other constructs similar to the spider, the interior was mundane. Among standard humanoid races, it might have been considered well-appointed, if rustic.
+
+Wallpaper covered the walls, and the floors were decorated with spell-woven rugs thick enough to muffle sound. Ornamentation, from pictures to handcrafted furniture, artfully defined libraries, private studies, experimentation chambers, and much more.
+
+Passing through it all, Voice came to a stop at a bare wall. A gesture and whispered spell removed the illusion concealing the door and granted it access. Inside was a room lined with pulsing, throbbing tissue. In its center was a diamond-carved spell circle with a velvet cushion at its center.
+
+Although the ritual carvings would have been immune to anything short of a direct assault, Voice still moved gingerly across them. Taking up a position in the center of the spell, it knelt, hands folding before its torso as if in supplication.
+
+"Great Master, I have delivered your offer."
+
+A ripple of motion preceded a sense of presence flooding the room. Telkazorin's raw will, unleashed and focused, was akin to gravity: it changed the very physics of space and time around it.
+
+"Did he decode your true purpose?" The speaker's voice was rough, raw with anger.
+
+Voice smiled in earnest at the question. "Master, the System's hold blinds even those it holds in high esteem. Commander Kryst is an intelligent man, but once we baited the hook, his heart rate nearly doubled. We could smell his desire, and that of those in his thrall. There is little room for caution or sense in them."
+
+"Be careful, my Voice. Do not mistake an abundance of ambition for a lack of cunning." Telkazorin's rebuke was gentle, almost paternal.
+
+"As you say, Master. If I may?"
+
+"Go ahead."
+
+Phrasing the question carefully, Voice said, "It is a matter of orchestration. If we receive the refined Containment Metal, will we have sufficient time to prepare the infusions, collect them, and then locate and secure the vessel? Should the Crusade move quickly, it could undermine our efforts."
+
+"It is an excellent question, and a valid concern both. But I would not worry. The Jubilee will provide many opportunities." The Dragon Mage paused for several seconds before adding, "Although... there is one small concern in that direction. One I did not recognize until nearly too late."
+
+"Master?"
+
+"If my future vessel joins the Jubilee, he may inadvertently alter our plans. His premature death would be most... irksome. I will take additional steps to ensure that does not happen."
+
+Voice's smile wavered. "Is circumspection the best choice? Should he arrive, perhaps we could collect him. Our life would be but a small sacrifice to achieve your fruition."
+
+"If such an opportunity arises, you have my permission to make the sacrifice. Do so only if you are certain of success. Otherwise, remain in the shadows. The Jubilee will not be safe, not with whatever methods the vessel has used to blind the System to his true nature. Should one of its Monitors take note of our machinations, it could result in an unacceptable loss of resources."
+
+Head bowed in acquiescence, Voice murmured, "We live in service. Your will, our command."
+
+The pressure in the room eased as Telkazorin's spell came to an end. Soul-deep weariness stole into Voice's bones at its master's absence. Much of the mana required to fuel the communications spell came from within it; given the location, such a simple spell had cost it an ocean of magic.
+
+Climbing weakly to its feet, Voice staggered from the room.
+
+Chapter 1: Breakfast of Champions
+
+Time Since Last Event: 12 Days
+
+"That's enough warm up," Marvick shouted, his baritone voice carrying through the practice room. "Let's make Trip earn his breakfast."
+
+Fighting a tight smile, I spun in time to deflect a spinning kick from Tunde. Moving with speed more suited to anime, he flowed with my defense, landing on one foot, pivoting, and driving a side kick into my sternum.
+
+I inhaled, tightening my core so the blow wouldn’t take my breath away. It still stung and sent me stumbling a few feet.
+
+A whisper of motion was all the warning I had before Lieutenant Chantal Moreau joined the match. Wielding a blunted dagger made of black metal, I barely had time to register her proximity before she was jabbing me with the thing. Blunt or not, the woman's strength and skill combined to make the thrusts more than a little painful.
+
+Moving as she and Tunde had been teaching me, I brought both arms up. Rotating them in circular, rhythmic motions, I guided several strikes aside causing them to miss while blunting others. For several seconds, it felt routine, with the Lieutenant actively helping me push my defenses.
+
+"Come on, Easy-A!" Tunde called, his taunting interrupting the exchange. The nickname had started as a joke about my "easy" Activation—three full canisters of the upgraded serum rather than the standard dose, which was just a few drops from one. After a week and a half of training with the assassination specialist, I'd learned he only made noise as a distraction.
+
+Rotating my hips, I lunged at Chantal, reaching for her tactical vest. The maneuver left me open for a jab to the sternum. I accepted the punishment as a fair price for success when my fingers closed on her armor.
+
+Her expression immediately darkened. "I hate this part," she said, French accent thick.
+
+Chuckling, I whirled, effortlessly lifting her from her feet and using her body as a weapon. Her feet swung around, knocking Tunde's next attack off course. I released her at the moment of collision and both went down in a tangle of limbs.
+
+Arms wrapped around my torso as Captain Marvick joined the melee. If anyone at Counterstrike was nearly as strong as I was, it was the captain. The man's bulging muscles had more in common with steel pylons than flesh. He was an inch or two taller than I was, too, which gave him several advantages. Hands locked around me, he held me in place long enough for yet another member of the Scorched Mobility Battalion to get in on the fun.
+
+Wiz, the team's spellcasting specialist, adjusted his training rifle and fired from thirty feet away. The short young man was just as capable with the gun as he was with magic. Paintball pellets stitched down my stomach as he added insult to the pile-on.
+
+"Hey," I called as one of the shots rebounded off the protective armor between my thighs.
+
+"Oops! Sorry!" Wiz replied loudly. He meant it, too. We'd learned that things tended to go downhill fast if I got too angry.
+
+"All's fair in war," Marvick said at my back, clearly amused.
+
+"Oh, yeah?" Without waiting for a reply, I slammed my head backward, striking the man's chin. The audacious maneuver earned me two things. First, it sent lines of fire through my skull, triggering an instant headache. Second, it made him grunt and slacken his hold.
+
+Using the opportunity, I brought both of my hands to his wrists, forcing them apart. For a tense second, I thought I was going to win.
+
+Then, with a chuckle and a growled, "Almost," in my ear, he resecured his hold. My ribs groaned their displeasure and breathing became difficult. The HUD flashing in the upper corner of my vision offered a solution, although I resisted the temptation.
+
+I'd enabled the Strength limiter for a reason.
+
+Both Chantal and Tunde came into view, each taking a flanking position. Although Chantal wasn't officially a member of SMB, she moved with the same lethal poise, her knees bent and weight low.
+
+As Marvick adjusted his hold, twisting me to give my opponents a better killing angle, I caught sight of the final two members of the local SMB unit. Cruz and Texas were leaning against the far wall, both clearly enjoying the spectacle.
+
+"You go, Trip!" Texas drawled, the lanky man's eyes bright with mockery.
+
+I made a mental note to break one of his fingers in a future spar.
+
+"Ready to call it?" Marvick asked, shaking me from side to side as he lifted me far enough for my relic boots to no longer grant me purchase. Their levitation effect was reduced even in the mana-intensification zone of the training room, meaning he only had to add an inch or so before I lost all traction.
+
+I looked around, gauging my options. Chantal was just a few feet away, and Tunde had started that tongue-clicking thing of his. The mahogany-skinned man with his tiger stripe-scarred cheeks had dropped all pretense at play.
+
+If I didn't call it, he'd go all-out.
+
+SMB went hard during our training sessions. Being able to recover from a broken bone in a matter of hours took off almost all limitations, allowing us to push beyond anything resembling human limits.
+
+I hesitated, running through the scenarios as fast as my heightened Mind and Perception Attributes allowed. There were ways I could free myself, but most of them were what I'd have considered cheating. Unlocking my full Strength or deliberately putting myself in the mindset to trigger my class would undermine the purpose of this training. Our objective was to help me up my Organic Skills and to gain more practical combat experience, not remind everyone how lethal I could be with my abilities fully unleashed.
+
+Marvick tightened his grip as I assessed my options. Various scenes from action movies played through my imagination. The problem wasn't that reenacting those sequences was impossible; with my Grace and Strength, I could do a lot. No, the issue was that I hadn't learned enough to execute any of them properly.
+
+Raw Ability scores only got me so far, as the team had taught me time and time again.
+
+"Are we calling it?" Marvick pressed as Chantal came within striking range.
+
+"Call it," a new voice announced as Lieutenant Sharon McFay came striding into the facility. The petite, white-haired analyst waved. I couldn't tell if it was at me or the captain, so I went with the more likely answer and waved back.
+
+She gave me a flat look. "Dean, what are you doing? You’re being hugged to death by a tree. Why would I wave at you?"
+
+Resisting the urge to make a comment about wudgies, I just grinned. "Because Marvick knows if he let go long enough to wave back, I'd knock him on his ass."
+
+It wasn't precisely true, but neither was it impossible. I'd reduced my Strength down to a hundred, mostly to avoid accidentally breaking people. Even that was enough to do damage.
+
+The captain responded to my boast by tightening his grip. I felt a rib creak, probably on the edge of fracturing.
+
+Chantal laughed at my expression. It was a light, friendly sound that was entirely ruined when she flourished her dagger in my face. "I'm happy to stab you a few more times, if it helps."
+
+I twisted my neck far enough to catch Marvick's eye and rasped. "Sharon wouldn't interrupt without good reason, right?"

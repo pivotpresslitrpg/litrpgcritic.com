@@ -1,0 +1,465 @@
+TITLE: Shadow in Madness (Spite the Dark Book 2)
+AUTHOR: Aaron Renfroe
+SERIES: Spite the Dark (Book 2)
+WORDS EXTRACTED: 6044
+============================================================
+
+Shadow in Madness (An Isekai LitRPG Series); Spite the Dark Book 2
+
+Introduction
+
+Spite the Dark is an anthem of violence squarely aimed at forces that seem destined to destroy the world. It’s got a hint of Recursion, a splash of Apocalypse and a ton of awesome. Please be aware that this story includes gory violence.
+
+Other Books
+
+X
+
+Starting Character Sheet
+
+Name: Kaden Yamaguchi
+
+Age: 31
+
+Class: Steel Shadow
+
+Level: 6
+
+Hit Points: 5 (Base) +30 (Catalyst Level) + 10 (SPITE Augmentation) – Total: 45
+
+Innate Physical Attributes
+
+Strength: 17 (Peak Human)
+
+Agility: 18 (Peak Human)
+
+Endurance: 20 (Post-Human 1)
+
+Speed: 18 (Peak Human)
+
+Vision/Visual Acuity: 20 (Post-Human 1)
+
+Reflexes/Reaction Time: 20 (Post-Human 1)
+
+SPITE Attunement: 20% (First Evolution)
+
+Innate Mental Attributes
+
+Discipline: 17 (Peak Human)
+
+Intelligence: 15 (Above Average; with SPITE HUD and AI enhancements)
+
+Intuition: 8 (Below Average)
+
+Charisma: 8 (Below Average)
+
+Madness Attunement: 5%
+
+Innate Skills
+
+Diplomacy: 3 (Proficient)
+
+Disguise: 5 (Advanced)
+
+Espionage: 5 (Advanced)
+
+Driving (Stunt): 6 (Advanced)
+
+Explosives: 7 (Expert)
+
+Global Politics: 4 (Proficient)
+
+Gymnastics/Acrobatics: 8 (Expert)
+
+Military (Special Operations): 7 (Expert)
+
+Martial Arts: 8 (Expert)
+
+Marksman (All): 11 (Post-Human 1)
+
+Technology (Standard computers and smart phones): 8 (Expert)
+
+Security (Computers): 7 (Expert)
+
+Security (Physical/Military): 7 (Expert)
+
+Stealth: 14 (Post-Human 2)
+
+Non-Projectile Weapons: 11 (Post-Human 1)
+
+Hunting and Tracking: 7 (Expert)
+
+Linguistics (English, Japanese, German, and Russian, Mandarin, Hindi, Spanish, French, and Nix)
+
+Note: “Innate” attributes and skills are listed to provide details about the character’s base capabilities. Entries listed as innate remain even if the character’s other abilities are suppressed or consumed.
+
+Allocated SPITE Augmentations
+
+Physical Augmentation: 26 of 100
+
+Mental Augmentation: 20 of 100
+
+Global Biological Augmentation: 10 out of 100
+
+Weapons Augmentation: 30 out of 100
+
+Defense Augmentation: 30 out of 100
+
+Weapons Augmentation Inherent Bonus: Your Atticus now deals between 8-15 points of damage per strike. The chances of scoring a critical attack with any weapon are increased by 20%.
+
+Defensive Augmentation Inherent Bonus: You now suffer less damage from any attack that does not have a SPITE or Catalyst-based source. As cysts use both technologies, this passive benefit does not include them.
+
+Allocated Catalyst Skills
+
+Assassination (50 out of 100)
+
+Acrobatics (30 out of 100)
+
+Disguise (20 out of 100)
+
+Espionage (20 out of 100)
+
+Exotic Weapons (50 out of 100)
+
+Linguistics and Dialects (20 out of 100)
+
+Stealth (30 out of 100)
+
+Technology (30 out of 100)
+
+Acrobatics Bonus: You can perform complex acrobatic maneuvers roughly on par with Olympic level gymnasts. This includes heightened flexibility and joint mobility.
+
+Disguise: You may adopt the posture and dialect of others with significantly greater ease and effect.
+
+Assassination Bonus: You have obtained the following benefits:
+
+Attacks that are made while the target is unaware of you now deal critical damage automatically.
+
+You may make critical attacks against monstrous and inhuman creatures, including those in the Madness.
+
+Limitation: This skill does not apply to targets whose Perception or Reflexes skills are equal to, or higher than, yours. Some Catalysts and classes will also resist critical attacks.
+
+Exotic Weapons Bonus: Your SPITE weapons will respond to a combination of intent as well as skill, now. This will allow you to use your SPITE in increasingly flexible and creative ways. At 50 out of 100, this skill grants you an innate ability to wield alien or foreign weapons, including those originating from the Madness.
+
+Stealth Bonus: It is 20% more difficult to notice you in low-light or dark conditions. In addition, your shape is masked with a blurring effect when you attempt to hide. Reach a 60 Stealth score to earn a special toggle in your HUD.
+
+Technology Bonus: You can now identify any Earth-based technology up to “Classified.” Post-30 and you’ll be able to identify non-Earth based technologies, such as those created by Catalysts.
+
+Class Abilities
+
+Dark Sight: You can see in darkness.
+
+Heartfinder: Focus on a specific, concrete desire. This power will allow you to locate that object, person, or objective, on a map or diagram. If multiple targets are equally viable, you will be able to locate them all. You may also use this power to locate someone else’s desires, although you are the one who must locate the target. If you use this ability on another person, they must be within 90 feet. Limitation: You may not use this power to find Hunters who are 2 or more levels above or below you. You may not use this power to decipher or decode things, such as passwords or encrypted text. You may not use this power to bypass other Catalyst abilities that create concealment unless those powers originate from an opponent 5 or more levels below you. You may use this power once per day per your level.
+
+Spite Gravity: This ability grants you a new skill: Acrobatics. It begins at 30 out of 100 points automatically. You now generate a field of beneficial gravity. This means that gravity itself will work to assist you, allowing you to attempt maneuvers that would normally be impossible.
+
+Shadow Meld: You are invisible against most forms of detection other than natural ones. This conceals you from radar, infrared, AI, and so on. People may still see, hear, and feel you normally. Limitation: Some Catalytic powers or specialty objects may pierce this stealth.
+
+Sight-Blinding Mirage: You may transform any held picture or piece of text, altering it to suit your needs. This is a permanent change that takes 12 seconds to enact. It will not add information you do not know or create data out of thin air. If you devote 30 minutes of focused concentration on the object, you can replace both physical and digital copies of the picture or text to the updated version. Limitation: This replacement can apply to up to 100 physical copies and/or devices per your level (currently 600). You may select targeted copies you are aware of for this replacement. If multiple copies are stored on a single device, this power treats the device as 1 copy/device.
+
+Staggering Resolve: You gain passive, adaptive resistance to massive damage. This resistance increases an amount directly proportional to the damage dealt. For example: it will give you no benefits against standard weapons. Against cyst attacks, it will provide a small benefit. Against Titans or attacks from advanced weapons of mass destruction, it will provide a significant benefit.
+
+Summoning: You may have one active summon per 10 levels (currently: 1). Summoning pulls a being from a parallel reality known as the Madness. Summoned beings are bonded to you. This bond lasts until you die or until you replace them, which you can do at levels 5, 10, 15, and 20. Each summons takes a different amount of time to manifest and costs a permanent amount of hit points while they are active.
+
+Spite-Enhanced Summons: Because you have a SPITE unit, this ability has been enhanced. The suit itself functions as your menagerie, allowing you to store your summons within the unit itself.  This may also influence how they appear and their abilities.
+
+Enter Madness: As a byproduct of being a Summoner, you may now enter the Madness. You may do so once per week. Transitioning into the Madness takes several minutes, during which none of your other class abilities function. You will have limited access to class abilities in the Madness. You may leave the Madness at will. The process of exiting it takes several minutes, during which you must not move or suffer damage. If you do, the process will be disrupted for 1 hour, after which you may attempt to leave again. You may not exit the Madness within a claimed Domain Boundary. Upon exiting, you will arrive at the same location from which you entered, regardless of distances traveled on the other side.
+
+SPITE Upgrades
+
+Ablative Coating: Your SPITE unit has grown a second layer with an ablative feature. It will actively work to protect you, including deflecting or absorbing attacks from projectile weapons. This will effectively reduce damage you take by 3 points from any non-Catalytic or SPITE-based source.
+
+Armor:  SPITE provides massive protection and enhancements to the wielder. These enhancements are presented on your Augmentations screen. These passive benefits are logarithmic. At first, they will be incredibly powerful. Over time, the benefits will diminish. Upon reaching maximum Augmentations, you will unlock the Augmentations Plus screen. In addition to these benefits, SPITE has a number of other features:
+
+It is modular. Pieces can be replaced or enhanced.
+
+It renders you immune to the most common Earth-based toxins, poisons, etc.
+
+It also provides passive resistance to ongoing damaging effects, such as acids or nuclear fallout.
+
+It heals you rapidly and can even allow you to regenerate limbs.
+
+Atticus: Your suit has the ability to grow an Atticus (use your HUD or command the AI to assist). It may be projected from anywhere on your body, at will. These currently include: dagger, short sword, long sword, and chain blade. The chain blade form can extend up to 15 feet. Its cutting power and damage it deals are based on your Weapons Augmentation and your Exotic Weapons skill. These have a current combined total of 80 and will deal between 8 and 15 damage per slash. This damage may be mitigated by advanced armor and shielding.
+
+You may be disarmed, and this weapon may be destroyed. In either case, all the material used to create it will vanish. You may regenerate the weapon instantly by spending 3 hit points, or you may wait 24 hours for it to regrow normally.
+
+Evolutions
+
+First - Metabolic Graft: You may consume the flesh of a creature you kill. Doing so heals you hit points proportional to the creature’s size and level. This is an insanely inefficient way to heal, and you will benefit most from targets who have Catalysts or other similar enhancements. An average human will restore 3 hit points. Time to Effect: This consumption takes 3-5 seconds. Range: 8 feet.
+
+Helmet: The SPITE helmet provides protection to your head. You can make it visible or invisible, or color it along with the rest of the SPITE unit. It modulates your voice, and provides passive protection against any inhaled toxins.
+
+Momentum Array: As part of the Spite Gravity Catalyst, your SPITE unit has grown a Momentum Array. This adaptation allows you to create a point of gravity on any material surface, including SPITE created weapons. The amount of gravity created is proportional to your level and lasts for .2 seconds, or until you release the effect. At its current strength, the Momentum Array produces gravity equal to the pull of the Earth. Range: 30 feet. Note: Spite Gravity and Momentum Array will work in-tandem, allowing you to perform difficult or impossible attacks with your Atticus or other SPITE created weapons. To improve this quality, upgrade your Exotic Weapons and Acrobatics skills.
+
+Dedication
+
+This book is dedicated to my team of Alphas and Betas–who work with me to edit and update each book before (and sometimes after) you get them. Seriously–you guys make life happen.
+
+Chapter 1: On Mission
+
+You might have thought to yourself: Why don’t we just warn the previous versions of ourselves? Such a thing would lead to Recursion. The very act of sending a message back in time would require that we acknowledge time’s grasp. It would force us into a lesser state and make us vulnerable. We cannot send messages back, and neither you nor your son should attempt to warn any of us either.
+
+For one, the traitor might have created contingencies for such a maneuver. For another, your warning could create such Forks so as to derail everything about our plan. Finally, even indirect intervention could lead to Recursion. If given the opportunity, for any reason at all, you must avoid interacting with any Chronarchs or our agents. ~ Chronarch Missive, Post Hunt
+
+“I’m here,” Kaden rasped the words, just loud enough to carry to his earpiece.
+
+He was in the narrow alley between two brick buildings, in the wealthy suburbs just on the outskirts of Washington, DC. Both buildings were surrounded by shoulder-height wrought iron fences and topped with security cameras. Based on the cleanliness of the space, he guessed someone regularly maintained the area.
+
+Looking up at one of the buildings, he studied the narrow lip of a window. It was close to fifteen feet off the ground, on the second story. Above that was the sharply slanted slate roof. Kaden’s Spite Gravity ability made gravity itself work to assist him, enhancing his fighting techniques and acrobatics. Even with that, he doubted he could stand on that roof for long without falling.
+
+Clouds swam past, momentarily obscuring the sun. He still had hours to go before the target arrived. If he did. The past few days of tracking Senator Brad Daniels had been frustrating, to say the least. Not only was the man’s cabal of associates immense, but he also had a confounding network of presumed lovers.
+
+Not to mention the damn cysts and the Hunter bodyguard. One thing they’d learned since their first encounter with Brad: the cysts had showed no signs of trying to kill him. They didn’t openly interact with him, either. They’d showed up at every stop, including his visits to the Pentagon.
+
+It’s like they are waiting for something. Could it be me? He and Vasilis had discussed the possibility at length. Neither of them thought it was likely. For one, if the cysts knew he was there, they’d have come for him. For another, if Gentex was that far ahead of him, they’d have intervened with his previous targets.
+
+But the Deltas were there every time. We know Gentex and the Deltas have common interests, but it’s equally clear some Delta factions are working against Gentex. Just thinking about the tangled knot of factions, and who was backstabbing or working for whom made his head hurt. Kaden was an assassin who had a list of targets to kill. Trying to navigate the increasingly convoluted interactions between Earth, the Madness, and Chronarchs was beyond his skill set.
+
+That they were relatively certain Brad and his primary bodyguard were both at least level five Hunters, and there were multiple cysts nearby was plenty to focus on. Even if they weren’t waiting for him, risks for defeat on this mission were sky high.
+
+“Any signs?” Vasilis’s voice rasped out of the earpiece. The man’s lungs were healed now, but he’d kept the harsh voice.
+
+“None. No one’s here. If he keeps the rotation, we’ve got about an hour before the couple arrives. He should be anywhere from one to three hours after that.”
+
+Vasilis muttered a prayer against evil. That this mysterious Senator might have relations with a married couple went against his Catholic faith. Everything about this mission had grated on the old, conservative man.
+
+“Prude,” Kaden said with a small smile.
+
+“Leave an old man his last fig leaf,” Vasilis grumped back.
+
+Ever since their return from Japan, Vasilis had been acting off. Sometimes, he dropped his guard and showed Kaden a warmth that he’d never seemed to possess before. In other times, he seemed shaken, as if things he’d encountered had challenged his faith.
+
+Kaden left it alone. Knowing his father had kidnapped him from his mother, then denied her existence for his entire life made the subject a sore one. All of them, including Asami, understood that the Chronarchs had planned it all. Knowing didn’t make emotions just evaporate, though.
+
+Smirking, Kaden replied, “Fine. Fig leaf. Given what we know about Brad, I’ll make sure to censor anything I see in there. I’m going up.” He did a quick assessment of his kit, tightening the small pack on his back and the knife strapped to his thigh. Other than those, the only other things he carried were his holstered pistols and the clothes on his back. He was traveling for speed.
+
+Crouching, he leaped and activated the Momentum Array.
+
+Momentum Array: As part of the Spite Gravity Catalyst, your SPITE unit has grown a Momentum Array. This adaptation allows you to create a point of gravity on any material surface, including SPITE created weapons. The amount of gravity created is proportional to your level and lasts for .2 seconds, or until you release the effect. At its current strength, the Momentum Array produces gravity equal to the pull of the Earth. Range: 30 feet. Note: Spite Gravity and Momentum Array will work in-tandem, allowing you to perform difficult or impossible attacks with your Atticus or other SPITE created weapons. To improve this quality, upgrade your Exotic Weapons and Acrobatics skills.
+
+He practically flew to the top of the fence, coming within a few feet of a camera. It wouldn’t see anything. Shadow Meld gave him the edge against electronics.
+
+Shadow Meld: You are invisible against most forms of detection other than natural ones. This conceals you from radar, infrared, AI, and so on. People may still see, hear, and feel you normally. Limitation: Some Catalytic powers or specialty objects may pierce this stealth.
+
+Balancing briefly on the balls of his feet, he crouched and leaped again, arms stretching for the window ledge. His fingertips brushed the smooth brick and started sliding off.
+
+“I think it’s glazed,” Samantha observed helpfully, speaking in his other ear.
+
+“I can tell that now,” He muttered, using every iota of his enhanced strength to keep from falling. “Less chatter. Use the Atticus.”
+
+“Hrm. Demands like that are going to get you a spicy response.” Despite the banter, the AI built into his SPITE unit did as he commanded. The tip of his sword extended from his palms. It bit into the stone, knocking a chunk free. His fingers slid into the damaged gap, now with plenty of traction.
+
+Atticus: Your suit has the ability to grow an Atticus (use your HUD or command the AI to assist). It may be projected from anywhere on your body, at will. The forms currently available are: dagger, short sword, long sword, and chain blade. The chain blade form can extend up to 15 feet. Its cutting power and the damage it deals are based on your Weapons Augmentation and your Exotic Weapons skill. These have a current combined total of 80 and will deal between 5 and 10 damage per slash. This damage may be mitigated by advanced armor and shielding.
+
+You may be disarmed, and this weapon may be destroyed. In either case, all the material used to create it will vanish. You may regenerate the weapon instantly by spending 3 hit points, or you may wait 24 hours for it to regrow normally.
+
+“Thanks. Spice later if you please.”
+
+The AI made a huffing sound. “Fine. Spice later.”
+
+Dangling by two fingertips of one arm, he rotated to look at the adjacent building, a solid ten-foot jump from the first. “Where’s the window again?”
+
+“Here.” Samantha projected a three-dimensional schematic of the buildings, including the location of the target window, on the secondary HUD his SPITE unit provided. It was five feet into the interior of the roof, and on a slope so steep that no one in their right mind would try to use it to get access.
+
+“I’m going to Summon Paisley now. I’ll update you when it’s done.”
+
+“God be with you,” Vasilis said.
+
+Turning his attention to his Catalyst HUD, Kaden thought about Paisley. His Menagerie tab popped up, and he could feel the little entity shiver with anticipation. She was part of his SPITE unit. Somehow, the unit stored her in his back. Being part of his SPITE unit allowed the Ziltrax locksmith freedom from the agony of the Madness. That was the main reason most beings from the Madness would agree to such a restrictive bond.
+
+Summon Name: Paisley, Ziltrax Locksmith
+
+Rarity: Class 5
+
+Summon Time: 60 seconds
+
+Hit Points/Movement: 6; Supernaturally fast, with Flight Options
+
+Cost: 6 hit points
+
+Duration: 30 minutes (may be extended up to 3 hours by feeding her stickers)
+
+Class Specialization: Paisley can unlock up to one door, lock, or password per your level (currently 6) each time she is Summoned. Regardless of whether she has targets, you may choose to allow her to remain Summoned for the rest of the duration, or you may dismiss her to your menagerie. While Summoned, she may provide insight and advice but may not directly manipulate locks beyond the listed limit.
+
+Spite Menagerie Upgrade: SPITE has partially unbound the limitations of this spirit. If she is used to unlock access to computerized targets, she may also make you an administrator of them. Yes, this really is as incredibly powerful as it sounds.
+
+She may be Summoned once in a twelve-hour period. When her Summon duration ends, she will meld with your SPITE unit. Like most Summons, gaining a Catalytic level will reset the Summon timer.
+
+“It doesn’t say she can open windows,” he murmured to Samantha.
+
+“The window is locked. She can unlatch and open it for us.”
+
+“Really?”
+
+“Mhm. She can only manipulate one lock per your Catalyst level, but she has a physical presence while she’s manifested. I have no doubt that abilities to interact with the Madness, including Summons, are among the most powerful Catalysts in the Hunt.”
+
+Samantha was one of several AI intelligences stored in his SPITE unit. When he’d acquired the unit, they’d discovered a scientist had worked to install a failsafe on top of those. Samantha was an AI duplicate of the scientist’s sister, and helped protect him from any of the alien thoughts or urges the unit might push through to its host. She had wisdom and abilities that took his capabilities with the SPITE unit to a whole new level.
+
+She could also be extremely creepy.
+
+Pushing the distraction away, he Summoned Paisley.
+
+Zzzip.
+
+A soft sound, like tissue tearing, came from his back. His back tingled and clenched as the skin of his entire torso tightened. His shirt bulged, tugging up as a single spiked leg pulled the fabric up to make room. Over the next several seconds, Paisley wiggled and writhed free of his SPITE unit.
+
+It’s me now, he thought wryly. SPITE replaced skin and organs as it leveled up. She wasn’t just leaving his SPITE unit; she was tearing free of his flesh.
+
+Other than a little weakness as she consumed the hit points, her manifestation didn’t hurt.
+
+“My existence has become an endless series of tight spaces,” she commented in a high-pitched voice as she freed herself. Her mass forced him away from the wall, threatening to dislodge his hold. He adjusted, reaching up with his other hand and twisting to make room.
+
+Sixty seconds after he’d issued the command, Paisley was free. She flew around him, her body writhing in the air. The Ziltrax looked a lot like a three-foot-long, winged millipede. She was made of his SPITE material, all black and red, and each of her legs was tipped in a sharp point. One end of her wiggling body had an oval mouth with four limbs extending from it, each ending in a different type of hand. One of those was humanoid, but the others were alien, including one of white, gelatinous goo.
+
+She undulated, rotating until her underbelly came into view. Beneath the torso of the strange insect was a lovely young woman. It looked like she’d been buried within a cavity of the insect up to her hips, leaving her torso bare.
+
+Smiling with a mouth made of bright red SPITE tendons, she spoke in a voice that reminded him of Tinkerbelle. “What can I do for you?”
+
+“There’s a window over there. How about unlatching it and getting it open for me?” He pointed, ignoring the growing ache in his shoulder. Even with SPITE’s augmentations, he was still human.
+
+I really need to invest in physical Augmentations next. The SPITE unit had separate benefits from his Catalytic ones. His Catalyst provided skill enhancements and special powers. Those powers differed, depending on the Catalysts he gained from other Hunters, but were largely in-line with his class. The Catalytic HUD helped him manage those abilities.
+
+SPITE had its own progression. Each time he gained a new Catalyst, the SPITE unit evolved, gaining its own new properties. While it was less flexible than the Catalyst, it was also far more practical and consistent. It was a weapon, with few bells and whistles. It also provided its own HUD, which mapped to the world around him. The SPITE unit fed him tactical and locational insight that the Catalytic one could not.
+
+A person with a high-level Catalyst would be powerful. With both a Catalyst and the SPITE, they became more than the sum of their parts. That was one reason the Chronarchs had sent him - prevent Gentex and the Deltas from getting their hands on one.
+
+“Sure!” Paisley called as she zipped away, her four diaphanous wings blurring.
+
+“That’s one of her six uses,” Samantha said a moment later, as a flash of reflected light brushed across the bricks above his head.
+
+That’ll be the window opening, he thought.
+
+A gelatinous appendage waved over the edge of the roof.
+
+“She didn’t make any sound,” he mused, pleased.
+
+“Do I need to remind you it’s entirely possible that she’s been alive since before your planet cooled?” Samantha’s tone was sardonic. “The Chronarchs preserve beings in the hyperliminal for eternity. Paisley may not have done this precise activity before, but she’s quite wise. In her own way.”
+
+“In her own way,” Kaden said, smirking.
+
+Positioning both feet on the wall, Kaden kicked off and released the crumbling bit of brick at the same time. Extending both hands, he activated the Array. Pressure surrounded his body as gravity bent to assist his acrobatics, making the leap into a balletic dive that send him shooting across the alley and onto the adjacent roof.
+
+He cleared the roof with several inches to spare. Paisley opened the window and flew into view as his arc carried him several feet off course from his target.
+
+“Atticus,” he hissed. Interpreting his command, Samantha projected the weapon from his hand. The Katana-style blade looked like a series of jagged, yellow-metal teeth, each connected in a line with pulsing red tissue. It had little “accretion” nubs near the hilt, and a release mechanism that allowed him to dynamically control its length and whether it was in a fixed state or a whip.
+
+In an instant, it transformed into a sort of chain-sword with double the length.
+
+His momentum and precise timing sent the weapon flying just before he fell out of range. The tip of the blade closed the distance in a heartbeat, stopping just inside the target room.
+
+Once again, he used the Array. This time, he directed gravity to follow the path of the Atticus. His trajectory violently jerked to the side, giving him just enough proximity to reach out and catch the lip of the window with his free hand.
+
+He dangled, briefly, in clear view of civilians and the park across the street. With no time to inspect the room beneath, he pulled himself up and inside the room beyond. Paisley joined him, fluttering after and using one of her appendages to draw the window shut.
+
+The stench of decay and death filled Kaden’s senses as he fell a short distance, only to land among a collection of stacked body bags.
+
+“Helmet, please,” Kaden said, fighting back the urge to gag.
+
+Samantha obliged him. His helmet, with its six slanted eyes, appeared around his face. It immediately filtered out the stench, providing him with a neutral, blessedly clean supply of air.
+
+She said, “You’d think that you would be used to the smell of death by now.”
+
+“I’m normally a few hundred feet away from the corpses, and I certainly don’t stand around while they decompose.” His voice came out modulated and unaccented, just as filtered as the air.
+
+He looked around, the SPITE HUD updating with three-dimensional information about the location as he did.
+
+Paisley flew to a body bag and used the humanoid appendage to pull the zipper down, revealing the person within. It was a handsome man, maybe in his late thirties. His expression was frozen in a fusion of both pleasure and horror.
+
+“Ah, I recognize this type of Catalytic ability.” She flew over, landing on his shoulder.
+
+“Yeah? What is it?”
+
+“It looks like one of the Face Stealing ones.”
+
+Kaden turned to look around the room. They were in a large attic space, the walls and floor lined with plastic. When he turned to look at the window he’d entered from, he saw it was as well. The lock, dangling on the inside, was heavy-duty.
+
+I couldn’t have gotten that open without some serious help, he thought. Reaching back, he felt around his backpack until he found a side pocket. Fishing out a sticker, he offered it up to Paisley.
+
+“Ohhh! I love the purple ones.” Making a bird-like sound of pleasure, she grabbed the sticker with her more humanoid hand, then brought it beneath her torso. As close as they were, he heard her little jaws working on the sticker as he surveyed the room.
+
+Samantha spoke into his ear, “Paisley’s Summoning duration has been extended fifteen minutes.” A timer appeared inside his SPITE’s HUD, showing a running ticker for Paisley’s remaining duration.
+
+Moving across the killing floor, Kaden went to a thick flap of heavy tarp and peeled it back to reveal the outline of a door. He tried the handle, trusting his SPITE unit to conceal any fingerprints or DNA evidence.
+
+It was locked tight.
+
+He glanced over. Paisley’s mouth-hole was pointed at his face. Inside was a throbbing mess of black and red muscle. “Paisley?”
+
+“Yes?” Her sweetly chipper voice, which normally came from the human head, emitted from the other.
+
+It was a distinctly unnerving event.
+
+“Door, please?”
+
+“Of course!”
+
+She crawled down his shoulder and across his arm. The tips of her legs seemed to merge with his flesh with each step, almost as if her substance was in danger of simply melting into his body again at any moment. Using her legs to fasten herself to his wrist, she climbed out until her hand could reach the door. The white blob limb shot out, folding around and into the locking mechanism like putty.
+
+“Huh, that’s interesting,” Kaden said.
+
+Paisley’s back half rose, the armored segments overlapping and bending like flesh. Her human head appeared as her other one continued to work on the lock. “What’s that?”
+
+“You don’t weigh anything.”
+
+“Actually, she does,” Samantha said from his chest area.
+
+“I was about to say that.” Paisley pouted. “I probably weigh about thirty pounds in this form, as you’d calculate it.”
+
+“Why don’t I feel anything?” he asked.
+
+“Look at how her body is on your arm.” Samantha drew an arrow on his HUD, pointing at the bits where Paisley’s legs merged with his limb. “Your SPITE treats her like she’s part of it. It’s compensating in ways outside of standard human biology.”
+
+He considered the implications of that. “You mean the suit has its own muscular structure, or are you saying it’s magic?”
+
+“Easiest to say ‘both’. She inherits many of your SPITE unit’s passive properties. That’s because SPITE considers anything it manufactures part of itself.”
+
+Paisley piped up. “Does that mean I couldn’t hurt him?” She rapidly waved a hand, adding, “Not that I would. I’m just curious.”
+
+“I’m sure you could throw a wrench at him or something, but you couldn’t do anything directly physical to hurt him, no.” Samantha made a thoughtful, hrmming sound. “It’s possible that a Summon with distinct abilities could do something to the bits of SPITE that remain biologically Kaden. So maybe a mental power or attack could threaten him. But once the SPITE becomes his brain, that won’t be a viable method of attack either.”
+
+Kaden frowned, curious and a little worried about the course of events. He was due to go back into the Madness after this mission. He had obligations there, and that was the only place he could go to collect new Summons. “Why would a Summon even consider attacking me? If I died, wouldn’t they just go back into the Madness.”
+
+“He has a point,” Paisley said.
+
+Samantha said, “Hrm. Probably. I need more data. I guess the point of this discussion is to say that Summons have independent function that we should be aware of.”
+
+Click-click. Two distinct sounds came from the knob.
+
+“Unlocked,” Paisley said. “It was complicated. The other side is computerized and had mechanical components.”
+
+His HUD updated, displaying that Paisley had four of six locks remaining for the day. Ignoring a genuine spike of worry at Samantha’s comment about the SPITE taking over his brain, he opened the door and stepped through.
+
+Chapter 2: Brad Daniels
+
+!Data Hidden; Delta Genetic Encryption! Once they discover you exist, the Chronarchs will fight back. How could they not? There will be threats, promises, and enemies attempting to stop you. They may even task the Zeer and other Hunters with your destruction. You must prepare with all haste. There is no time. Time is theirs. The key is Madness. There are Catalysts that will let you access it. Prove your worth by finding one. Then, find a Guide who can take you to the Nix.
+
+“Any word from Peter or Debby?” Brad asked, resisting the urge to fidget. His suit had grown increasingly uncomfortable during the long day. Glad-handing senators was sweaty work.
+
+Anna gave him a hard look. The Icelandic redhead, with the sort of good looks that had once her gracing the covers of magazines, shook her head. “The last message said they’d be on time, with a fresh package.” She hesitated, looking ahead.
+
+They were in the back of a secure vehicle. The windows were tinted and the soundproof glass separating them from the driver was fully raised. It was unlikely the driver would overhear. Her frown made it clear how little she enjoyed discussing such things anywhere with risk.
+
+“Anna, darling, you really are overly protective at times.” With a put-upon sigh, Brad tapped at the glass with his wedding ring. It clicked dully, and the driver lowered the window.
+
+“Yes, Mr. Daniels?” the driver said in Indian-accented English.
+
+“Do us a favor and turn on some loud music? Anna is being paranoid again.”
+
+“Yes, Senator.” The window slid back up. The sounds of joyful Indian music blared briefly, before being cut off by the soundproof glass.
+
+“Better?” Brad asked his assistant.
+
+“A bit.”
+
+“Well? Spit it out.” He twitched in his seat, irritability growing, along with the anticipation.
+
+“I think you’re acting irresponsibly. Do you really need to keep collecting faces?”
+
+Brad froze, his twitching replaced with a look of cool anger. “We’ve been through this. I need faces. Without versatile memories, we wouldn’t be in the position we’re in now.” He avoided mentioning just how good it felt to consume the essence of other people. Who needed sex when you could take someone’s core being into you?
+
+He shuddered in ecstasy, both in memory and in anticipation of a new face.
+
+Ignoring her boss’s display, Anna said, “Fine. You say you need faces. Let’s assume you do. But have you considered the source? Isn’t it odd that Gentex is worried enough to have us followed? Isn’t it even odder where the bodies are coming from? You know who Peter and Debby work for. Something doesn’t add up.”
+
+The Senator smirked. “Are you seriously worried about those big goons?” Turning, he glanced out the back window. An unmarked, black SUV drove along behind, matching their speed. When he turned back to Anna, the shadows shifted.
+
+Instead of Brad, a handsome, middle-aged man was sitting in the chair. In the next, it was a gorgeous blonde closer to Anna’s age. She was still wearing a suit, but it had become a suit dress, complete with a high hem and enough generous cleavage to turn every head in congress. Her voice came out as a sultry purr. “All it takes is a little charisma and they won’t be a problem.”

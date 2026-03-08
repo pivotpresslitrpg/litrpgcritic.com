@@ -1,0 +1,473 @@
+TITLE: The Resonance Cycle Book 6
+AUTHOR: Aaron Renfroe
+SERIES: The Resonance Cycle (Book 6)
+WORDS EXTRACTED: 6059
+============================================================
+
+Resonance Book 6: Knight Unleashed
+
+Author’s Notes
+
+Thank you for listening to this unabridged recording of Resonance 6: Knight Unleashed. It was brought to you by real human artists. Your continued support of people is most appreciated. At the end, if you’ve enjoyed this recording, please remember to leave a review. These help us continue to produce more Resonance for you.
+
+Also, remember to check out other works by the artist – you’ll find information by searching for Aaron Renfroe on the Amazon store. Our series Assassin Summoner and Father of Constructs are out and available for audio as well.
+
+What Came Before (Abbreviated)
+
+Ty has been taken by a group of Law scions, who intend to strip him of his abilities and destroy his Domain. They have, in turn, been betrayed by Hadarken, one of the Monster god’s elites. Intent on capturing or killing Ty, his enemies have brought busses full of enemy scions, along with an assault force, to Law’s island prison.
+
+See the Unabridged What Came Before at the end of the book for more details.
+
+Starting Character Sheet
+
+Name: Ty Monroe
+
+Class: Merit Hunter
+
+Race: Divine Scion of the Wild
+
+Category: 3 (4 with Law Keeper activation)
+
+Level: 15
+
+Status: Tri-Herald
+
+Progress to Next Level: 0
+
+Hit Points: 64
+
+Projectile Shield: 7 Charges
+
+Mana: 300
+
+Mana Shield: 60 (Racial Maximum: 60)
+
+Strength: 29 (+2 Alunite gauntlets; High Supernatural)
+
+Agility: 23 (Mid-Supernatural)
+
+Vitality: 25 (High-Supernatural, +3 hit points per level)
+
+Notice: Increasing physical attributes further costs 2 discretionary points per increase. Your Strength attribute caps at 30 unless you obtain access to Divine attributes)
+
+Intellect: 20 (Low-Supernatural)
+
+Spirit: 20 (Wild-attuned; Supernaturally Enlightened)
+
+Notice: Increasing your Intellect or Spirit attributes further costs 2 discretionary points per increase.
+
+Luck: 0
+
+Applicable Skills and Abilities
+
+Mixed Martial Arts (Sambo Focus): Master
+
+Krav Maga: Peak Mortal Mastery
+
+Akkoan Martial Arts: Peak Mortal Mastery
+
+All Martial Weapons: Adept
+
+Guns: Master
+
+Survival: Adept
+
+Tactical Techniques: Master
+
+Meditation and Mental Fortitude: Peak Mortal Mastery
+
+Body Shaper: Night Vision, Akkoan Joints and Vocal Cords (+2 Agility), Akkoan Alunite Battle Skeleton Fusion, Akkoan Eyes, Awakened Superior Salient Kestrel Symbiote Familiar
+
+Law Keeper: 7% available
+
+Unspent Merits: 11 (0 out of 10 earned for defeating enemy scions; see note)
+
+Unspent Physical Attribute Points: 4
+
+Unspent Discretionary Attribute Points: 4
+
+Fractal Charge: Synthesis (0 out of 500), Zalax (0 out of 500), Inevitability (0 out of 250)
+
+Achievements and Powers: Wild Touched, Magic Prism (Divinity, Monstrous, Wild, War, Fire, Darkness, Venom, Death, Chaos, Mystery, Guardian, Love, Life, Hope, Inevitability, Law, Otherworldly+), Magic Siphon, Knight of the Wild Ability Package, Verdant Aura (Magic Activation, Anti-Demonic Properties), Read Magic, Undead Clone–Single Use Surrogacy, Custom Quest: Collect The Blood (2 of 3 collected), Divine Temporal Resistance, Fractal Awakening (Synthesis, Zalax, Shy), Psychic Barrier, Fractal Mesh, Triplet Arbiter, Resonance Teleportation, Chaos Wielder, Verdant Aura (Sustain, Shape, Redirect, Transpose, Sovereign Aura, Telekinesis)
+
+Law Keeper Unlocks: Mental Resiliency 1, Organic Adaptation 2, Stasis and Evolution 1
+
+Notable Equipment: Mind Fortress (Divine) with Technocratic Mind Gem Enhancement, Mantle of the Xotel (Divine+), Alunite Gauntlets (Legendary), Knight’s Raiment (Epic)
+
+Unequipped Notable Equipment: Shield Amulet (Lesser), Divine Anchor (Legendary), 2 Infernal Crystals, Hellstone X 5, Mind Fortress (Divine), 1 Personal Locket, Nightmare Silk, Forbidden Book of Necromancy, Monstrous Manual, Berserk Potion
+
+Scion PVP Tracker
+
+1: Knight Bethany Takada (Magic)
+
+2: Knight Choi Jeong (Chaos)
+
+3: Tati Andino (Technology)
+
+4: Lorn Hall (Death)
+
+5: Charles Ajayi (Shadow)
+
+6: Knight Maria Zakharova (Zalax)
+
+7: Arianna Duke (Monster)
+
+8: Gabriel Duke (Guardian)
+
+9: Knight Malar Haskins (Strategy)
+
+10: Draven Shah (Necromancy)
+
+Interlude 1: Unleashed
+
+The realm of the gods was utterly quiet. Not every god between Volar and Earth was present. Those without sufficient power, including most of the newborn demigods, had yet to arrive. All who could get access to that place did; it was the only space in all their reality with access to the Great Arbiter.
+
+The Great Arbiter was a magical, holy device containing power equivalent to hundreds of lesser creations and fueled with tens of thousands of points of divine mana. It was the ultimate adjudicator of the Resonance. Through it, the gods could track and trace the actions of nearly every participant in either world. It was what gave the gods their illusion of omniscience.
+
+Light shone from the Great Arbiter, which resembled a multifaceted gem over five-hundred feet across. The glow spilled out, illuminating the tiered platforms surrounding it. Alabaster walkways curved between those platforms, allowing the gods to maneuver and mingle as they saw fit.
+
+Numera, greater god of the Wild, stood with the other greater gods above the gathering. Unlike Balance, Magic, and Technology, who were only vaguely humanoid, she resembled a beautiful akkoan woman. Tall and slender, her angular face was softened by a fringe of green and blue feathers that framed her full lips. She wore a simple dress, one hemmed in a belt of magenta and ochre to reflect her alliances with Inspiration and Seeker.
+
+Below the floating platform, standing next to the Great Arbiter, Inspiration, Chaos, Divinity, and a plethora of other gods had gathered to talk. A newcomer, an Arbiter conveying the presence of the dragon king Vudon, had recently joined them. The conversation between Inspiration’s alliance and Vudon was private, but she was participating remotely. All her focus was on the nascent negotiations between them. What happened between the dragons, Earth, and her son’s akkoans could change the fate of both worlds.
+
+Pinch.
+
+Numera swatted the air reflexively.
+
+Pinch. Tug.
+
+Turning her attention from the conversation, she glanced at the Great Arbiter. Intuiting where to look, her brow furrowed. Seeing what was unfolding on Earth, she scanned around the room, looking for the offending god.
+
+Law, a severe middle-aged looking woman, currently wearing a business suit and holding a pair of yellowed scales, was every bit as engaged as Numera had been moments before. Surrounded by various newly born sycophants of the Monster god, she seemed to be arguing about something. As far as Numera could tell, Law had clearly thrown in with that lot, even if she had yet to declare it openly. Her worshipers on Earth had likely influenced her toward that path. Lesser gods, particularly new ones, had surprisingly little free will.
+
+Ahem. Numera cleared her throat, and stillness fell over the realm. Speaking slowly, precisely, she said, “I declare a breach of the Divine Pact.”
+
+Everyone, even the gods bound in the Great Arbiter’s draining chains, twisted to look at her.
+
+Balance, whose amorphous humanoid form was topped by a swirling mixture of light and black, scanned the Great Arbiter until it found a flashing marker. With focus and effort, Balance read the symbols, familiarizing itself with what was happening. “Breach acknowledged. A soul attack has been leveraged against a Knight in such a way to also strike the god of that Knight.”
+
+“You fucking idiot,” Numera said, rage pinking her cheeks as she glared Law down. Law looked flabbergasted.
+
+“How dare you!” Law said, indignation and anger momentarily overriding her caution. “I have no clue what you’re talking about. Everything I’ve done is well within the letter of the law.”
+
+Magic, hovering as far from Numera as it could, twisted its rune-filled cowl to the side, as if to study Law from an oblique angle. “She doesn’t know.”
+
+“Many of the new gods are not being adequately briefed before they are recruited,” Balance noted to its peers. Its voice did not carry beyond their gathering.
+
+“That is not an excuse,” Numera replied, also preventing her words from carrying.
+
+Balance signaled agreement.
+
+Lifting a hand, palm up, Numera raised her voice. “I have held him back. Taught him restraint at every opportunity, even after Magic’s betrayal in Deathgate. Yet now one among you, an upstart, thinks to strip my Knight of his mantle.” Curling her fingers, she left her pinky extended. The tip of the nail, a sliver no wider than a hair, slid down into her palm.
+
+“What are you talking about?” Law screeched, any hint of calm gone.
+
+Aisling, wrapped in enough chains so that only her leering grin was visible, called, “Look at the Great Arbiter, you dumb bitch. Your scions played into his damn hand.”
+
+It occurred to Numera that Aisling sounded oddly pleased. In fact, if she hadn’t known the insane goddess better, she might have thought there was a hint of desire beneath the proclamation.
+
+Reluctantly, as if unwilling to face the truth, Law turned and found the flashing marker. She froze, every muscle in her body locked in a rictus of panic.
+
+“I’m not going to demand satisfaction personally,” Numera said in a reassuring tone. “That would be within my rights, of course.”
+
+“It would be,” Balance agreed.
+
+The Great Arbiter, its fractal facets filled with a kaleidoscope of color, including hints of Wild green, announced, “The debt has been recognized. Numera is allowed an intervention.”
+
+Holding her palm up, revealing the barest sliver of the fingernail, Numera tipped her hand. The nail glowed phosphorescent emerald before it vanished. “I’ll give him this. Just this. The barest nudge.”
+
+“Why so little?” Inspiration called from the galley, on cue.
+
+“Because he doesn’t need my help to do what needs to be done. He just needs to be unleashed.” Focusing on her son, the Knight of the Wild chained in Law’s prison and surrounded by hundreds of the Monster god’s nightmare allies, Numera sent three sentences. Be unleashed, my Knight. They were warned before against crossing us and did not heed it. Teach them to fear you.
+
+Chapter 1: To Teach Fear
+
+Ty’s scream of agony filled the prison cell, reverberating off the walls until its echo was more bestial than human. Handcuffed, hobbled, and collared to a bench, the naked man thrashed until his every muscle stood in stark relief. Blood oozed from the cuffs and around his neck, where the collar and restraints bit in. A ragged tear gaped around the magical spike of metal piercing just above his clavicle.
+
+Francis watched, fixated. His god’s will, her Sovereign Domain, extended from the machine and into the trapped scion, digging out his abilities with ruthless force. In the past, extractions took minutes, at most. Sure, the recipients suffered a bit. Some screamed or cursed. None had resisted to this extent; not and survived sane, anyway.
+
+“Uh, Law? If you can hear me, I’m beginning to think he may not just be level five or eight or whatever.” Mouth abruptly dry, the agent ran his hands down his rumpled suit, groping for his gun.
+
+A sense of Law’s presence leaked through his connection to the god. There was urgency in her, a warning he could barely understand. His fumbling stilled as he drew his weapon and took aim.
+
+“Simmons isn’t going to like this.” He looked at the door to the cell. “Isn’t this against the law? Killing a prisoner.”
+
+The sending came again, frantic. KILL HIM! KILL HIM NOW! I DON’T CARE! WE CAN SURVIVE THE BACKLASH! JUST DO IT!
+
+* * *
+
+Be unleashed, my Knight. Teach them to fear you.
+
+Ty floated outside of himself. There was no therapy-space, no spirits, and no pain. He was beyond all of it, pushed down deep in his Soul Cage, where nothing could harm him. Emerald light suffused his universe, pulsing in time with some alien heart.
+
+Thud. Thud. Thud.
+
+At his core, stripped of the abilities he’d earned, the character sheet and the memories, there was one indomitable, undeniable truth. He was the Knight of the Wild. From the moment he’d stepped onto Volar, his every step had taken him down a singular path.
+
+What is the Wild? The question came from some faraway place. It made no sense. He knew the Wild with an intimacy that made the query absurd.
+
+The Wild was adaptation. It was growth and freedom. Where walls stood, the Wild found cracks. Where doom denied all success, the Wild would forge a champion. Light was the opposite of dark and hope, the enemy of despair. The Wild was the very fabric that gave light and hope tangibility. It was mass to their gravity.
+
+Be unleashed, my Knight. Teach them to fear you.
+
+He floated in it, his soul consecrated in Numera’s divine essence. Vaguely, as if he’d gone numb, he was aware of Wild mana roiling through his struggling body. It was not fighting Law’s invasion. The Wild was not a weapon in and of itself. It could no more free him than the mass of a planet could turn a door handle.
+
+There was a reason the Wild had appointed a Knight.
+
+Notice: You have adapted to Law’s restraints. You are unbound. The evolution has begun.
+
+Be unleashed, my Knight. Teach them to fear you!
+
+* * *
+
+Francis squeezed the trigger.
+
+BOOM! CRRRRACK!
+
+A furrow dug a deep wound in Ty’s cheek, revealing gleaming white metal and syrupy transparent blood.
+
+Boom! Boom!
+
+Two bullets slammed into the captive scion’s chest, hammering his back against the wall. More transparent blood splashed the cell, as metal-covered ribs flashed into view.
+
+It took Francis a beat to realize Ty’s screams had stopped. Glowing, vertical irises locked onto him as Law’s presence surged. Only this time it wasn’t from the device, or from within Francis. This time, it came from Ty.
+
+Thrum. Thrum.
+
+A sound like a heartbeat pulsed out of the scion, followed by an eruption of raw, aggressive music. Over his shoulders and across his arms, a curtain of lashing light appeared as silvery Alunite pushed free of his body and settled into place. Liquid silver lapped at the collar and cuffs, and with a burst of mana that mixed chaos and law, the restraints exploded. Bits of white-hot shrapnel sliced across Francis’ cheek the instant before he turned and ran.
+
+Looking down, Ty focused on the hobbles. Using his Verdant Aura, he layered law around the chains, then forcefully ejected chaos after. The two types of mana mixed about as well as divine and monstrous.
+
+Crack!
+
+Bits of metal rebounded against his Sustain ability.
+
+Sustain: For 10 mana per minute, you gain a passive field of protection against mundane, non-magical damage proportional to your level.
+
+Freed, he spent fifty mana to regenerate his raiment. Clothes appeared on his body, starting with a sleek bodysuit with glowing fractal patterns. Above the suit came an overcoat with a flared collar, open at the chest. His gauntlets became supple black leather, and his Mantle of the Xotel became a blackened steel set of pauldrons protecting his upper chest and back.
+
+“Through your eyes,” he murmured in a raspy voice, as his invisible familiar ghosted out of his body and after the sounds of retreating footsteps.
+
+It hurt to talk. His face, chest, wrists, and ankles ached where he’d been shot, and the heat from removing the restraints had scalded the skin. He needed more mana.
+
+Law’s divine-tier extractor filled the room with its glowing presence. A quest prompt appeared on the mental duplicate of one of his Arbiters.
+
+Congratulations! Your Mana Prism qualifies for an evolution. As this is already a Divine-tier item, upgrading it will require a unique sub-quest. Upon completing the quest, it will become an Awakened Mana Prism. This will unlock new abilities, including an item-unique ultimate.
+
+Evolution Requirements: Locate and sacrifice (destroy) a Divine-tier magic item. The energy will be consumed and used to awaken your Mana Prism.
+
+Folding one arm behind his back, Ty extended the other and made a crushing gesture, layering two of his new abilities on top of each other.
+
+Boon of Gravity: You may now use your aura to manipulate gravity as would an equal level dragon. The maximum amount of force you can apply is 1,000 newtons per 2 of your Strength attribute. Your current maximum is 15,000 newtons. This power is not intended for fine motor control, as such the minimum space you may apply force to is one square foot.
+
+Telekinesis: You may manipulate objects within the aura as if you were using both of your own hands, with equal strength and dexterity. While using this power, one of your arms becomes useless.
+
+His Strength score was nearing divine-tier. Ty’s grip could crush steel, and his punches could flatten metal. The extractor resisted until he layered Law’s own mana into the attempt. Once he did, it crumpled like a can of coke, metal collapsing until it resembled nothing more than a dented beach ball. Stepping over to the relic, which still thrummed with power, he grabbed the metal.
+
+“Your Salience is mine,” he growled. The phrase had no meaning on such an object. Still, it felt right to say the words. Deep within him, some latent property, perhaps an ability given to him by his goddess, stirred.
+
+SPLURCH!
+
+One of his ribs tore through his torso. It wasn’t silver anymore, but white with golden veins. His skeleton had absorbed enough Wild to become Living Essence. The jagged edge thrust into the crumpled metal, and it glowed briefly. Then Law’s divine-tier torture device flowed through his rib and into his body, leaving nothing behind.
+
+Congratulations: You have absorbed a divine-tier artifact. Your Mana Prism will Awaken once you have consumed sufficient mana.
+
+Hunger followed the notification. It was like some deep pit had opened up inside and was desperate for magic. He’d gained no mana from consuming the device. The rib popping out had done two points of damage. Coupled with all he’d sustained during the extraction and the gunshots, he was seriously wounded.
+
+Ring!
+
+The static of the intercom clicking on sounded from the hallway. Simmons’s gruff voice sounded a moment later. “Hello prisoners. We’ve opened your doors and unlocked access to the stairwells on the second and third level. Guard weapons lockers have also been unlocked. Anyone who helps subdue or kill the man wearing the freaky Renaissance clothes will receive a full pardon and twenty million dollars. You have eight minutes.”
+
+* * *
+
+Francis, panting from his sprint to the command office, watched the display screens over Simmons’s shoulders. A dozen scions were making their way to the nearest stairwell. “You think they’ll get him?”
+
+“The killers will.” There were another fifty or sixty still in or near their cells. Not everyone they incarcerated had committed violent acts. Most were mind manipulators or simple thieves, destined to either join Law’s side or stay jailed until legislation changed.
+
+One display flicked to a trio of hulking men opening the secure cage to the shotguns. Simmons pushed a button and audio from the group’s conversation broadcast through the computer speakers.
+
+“Jake, as soon as we see this guy, you stun lock him in place. Dean and I will shoot him until he stops moving. We’ll split the bounty.” The speaker was a huge white guy with spider tattoos scrawled across his neck.
+
+Jake, slightly smaller but still muscular, had a short red mohawk and his own impressive collection of tattoos. He pumped one fist in another, triggering a visible burst of electricity around his hands. “Hell yeah.”
+
+Francis leaned over to another keyboard, pushing a few buttons to pull up the men’s lists of abilities. “Two worship Slaughter and one Control. Should be interesting?”
+
+“Maybe. I needn’t remind you these guys don’t have Arbiters. They won’t be on Ty’s level.” Simmons flicked his attention to another monitor, one with displays for the island’s perimeter. Fifty buses lined the road across the bridge. Men and women in tactical gear were spilling out. He pushed a couple keystrokes, activating the magically-enhanced sensors. Auras appeared on the screen, each clearly labeled. A dozen little tags hovered around each of the newcomers as well, listing names, likely aliases, and dispositions. Most worshipped the Monster god. A few were associated with similar ones, like Kali, Murder, and even War. Quite a few were mutated, suggesting they’d either visited Volar or had access to a Flesh Weaver.
+
+“Hrm. That’s not good,” Francis muttered.
+
+Another screen flickered, drawing their attention to the island perimeter. Beyond the limits of the perimeter lights, black water churned. Something massive and tentacular rose out of the water, it’s limbs flashing briefly into view. Security personnel manning the turrets sent a steady barrage of heavy munitions down at the water’s edge and into the thrashing monster. They didn’t appear to have much effect.
+
+“They’ve brought aquatic weres,” Simmons observed sourly.
+
+“Aquatic weres?”
+
+“Didn’t you read the brief?”
+
+“Maybe not that one.”
+
+“It’s your typical lycanthropic infection, just for sea life. People become crocodiles, or weresquids, or whatever. We think whatever carrier delivers the curse only lasts for two generations, but even Magic’s scions aren’t certain.”
+
+Francis cursed. “We should have brought more of the team. I told you we should have come with tanks. Taylorsville has tanks. Why don’t we?”
+
+Movement flashed on a screen labeled “THIRD FLOOR STAIRWELL.” By the time Francis and Simmons turned to look, all three of the recently armed scions were on the ground. The advanced detectors on the camera showed they were unconscious, but alive. None of the trio had any mana left.
+
+“What happened?” Leaning over Simmons’s shoulder, Francis rewound the video.
+
+Jake opened the door, and the feed filled with static for four seconds. When it returned, the prisoners were all down, and their weapons and mana were gone.
+
+“At least he didn’t kill ‘em,” Simmons muttered.
+
+“You think he’s got some sort of mana drain power?” Francis asked. Taking a step back, he looked through the reinforced glass window on the access door. Every guard not detailed to protecting the perimeter was standing outside. He’d authorized them to use lethal force, so the team had their enchanted rifles loaded and were sweeping the access corridor for any signs of motion.
+
+“That or he got help.” Simmons clicked through the screens, checking to see if any of the other inmates were missing. Of the group who’d accepted the offer for the pardon and the cash, nine were on their way down to the third level via the stairwell. Four more seemed to have joined the search and were waiting in the elevator. One of them had a group invisibility power, so all Simmons saw was their magic-reactive name tape through the cameras.
+
+* * *
+
+Ty let the door to the officer’s lockers click shut behind him, thinking to his Arbiters. Lilla, you’re up.
+
+His mana was full, as was his familiar’s. Deep inside, the transforming Mana Prism churned, signaling its ongoing hunger. He could funnel it mana now, he realized. But during the middle of battle was not the time.
+
+The kestrel familiar ranged ahead, projecting its perspective inside his mind. Through it, he saw the group in the elevator. When the door to the stairwell opened, the familiar slid through it.
+
+Can you pass through the walls?
+
+The familiar reached out with an ephemeral hand. Law’s Domain blocked the movement. Had he been able to push Law’s mana into the familiar, it likely would have been able to pass through the walls with no problems. Unfortunately, despite recent upgrades, Ty still had limits. He couldn’t project mana beyond the range of his Verdant Aura.
+
+Once the familiar was at the top of the second-floor stairs, it stopped. A door led out to the cell block, and another blocked access to the stairs continuing up. The one leading up to the first floor was locked and had some sort of magic and technological device on the mechanism.
+
+Borrowing his familiar’s senses, he surveyed the area until he knew it well enough to teleport to it. Once he had, he filled his aura with mana aligned with Law and teleported next to his familiar. It cost him thirty-five mana points, but he got there without incident. Looking around until he found the security camera, he extended his aura and sent a burst of pure chaos into the machine. The green dot on the side went out instantly. Stepping to the door leading to the first level, he covered his hand in chaos and touched the handle.
+
+Ffzzzff.
+
+Electronics fried, leaving only Law’s aura behind. Threading his Law-infused aura into the lock, he shot a tiny bead of chaos, barely enough to constitute a full mana point, behind it. The lock detonated.
+
+Shape: You may shape your aura with extreme efficiency and speed. This will allow you to double the range of your aura in limited directions and dramatically increases its potency. This is a passive, always-on ability.
+
+The door opened, allowing his familiar to scout ahead.
+
+* * *
+
+Hadarken stepped out of a shadow near the bridge. There were ten guard towers, five on either side, and a group of four soldiers with rifles manning each. A circle of fresh human converts stood around him, watching with vacant, hungry eyes.
+
+“Ormwell, come.” Hadarken’s raspy voice had a hint of a lisp, thanks to recent events. Magic’s Knight had been astonishingly effective once she’d arrived to rebuke the siege.
+
+An akkoan man in a rich blue robe, his plumage wilted with bits of stained black ink, hunched down as he exited the nearest bus. He walked with his blackened fingers laced together to keep from fidgeting.
+
+Sweeping his gaze at the assembled scions, Hadarken commanded, “Tell me the status of this group.”
+
+“They are in harmony, great lord,” Ormwell said, bowing. “I have done everything I can to ascend them, given what few resources we could move over in time.”
+
+Reaching into the folds of his robe, Hadarken retrieved a black orb, wound with golden wire. The orb fuzzed with static as he held it toward the bridge.
+
+When Hadarken didn’t reply, Ormwell cleared his throat. “Lord, may I go now? It is not my lot to be at the front lines.”
+
+“Go?” Hadarken cackled, only for it to turn into a coughing fit. He spat out a wad of viscous, gleaming mucus onto the pavement. “Ormwell, you are not going anywhere. In fact, you’re the key ingredient for our success.”
+
+The Vat Master’s eyes widened. “Ingredient, lord?”
+
+Hadarken turned, jerking as if he were about to strike. Instead, he held out the orb. “Point it at the bridge. I’m sure you know how to activate it.”
+
+“I do, but lord…” Ormwell accepted the device, eyes wide in terror.
+
+“Do not fear, priest. Mother will not allow you to remain diminished for long. Once we’re done, I will see to your restoration.” The mir’s attempt at reassurance conveyed all the compassion of a snake, and all the warmth of a glacier. “Now activate it before I’m forced to do so for you.”
+
+“Ah. I. Ah. Yes, my lord.” Gritting his teeth, the Vat Master wrapped both hands around the orb. In a quavering, terrified voice, he intoned, “In Mother’s name, splinter this Domain.”
+
+The ball in the Vat Master’s hand blurred into motion, flying in an arc above Riker’s Island. As it went, a thin tendril of dark mana trailed behind, connecting it to Ormwell. He staggered, weakened as his expansive reserves of magic began draining into the divine artifact. Falling back against the bus, he cried in agony as the orb began to spin.
+
+There was a brief flash, just a hint of static, in the air at the edge of the bridge. Whipping one hand back and forth, Hadarken projected one of his clawed fingers to the nearest of the watchtowers. The digit flew unerringly, and without impediment, shattering protective glass and impaling the forehead of one guardsman. Retaliatory gunfire met the attack in a deafening barrage.
+
+Hadarken’s assault scions were prepared. One stepped in front of the group, crossing his arms in front of his chest. A wave of acid-edged darkness burst from him, deflecting most of the bullets.
+
+“The exterior of the Domain is interrupted. Go, before Ormwell’s mana runs out.” Turning to the Vat Master, Hadarken hissed, “It will consume your life before it stops, unless I deactivate it. I suggest you consume any mana gems or use any tricks you have up your sleeve, Vat Master.”
+
+Before Ormwell could respond, the elite mir stepped into a shadow and vanished.
+
+* * *
+
+Ty felt Law’s Domain thin, as if someone had poured a gallon of water into a cup of soda. The pressure of the god’s attention was still there. No doubt, it was still sufficient to give her people an edge. But it no longer felt like the island was entirely hers. His mind gem came online, allowing him to see his group chat.
+
+Maria: There you are. The message came with pictures and video clips, showing him the outside of the island. Hadarken’s scions were making their way across the bridge, taking heavy fire but few losses. What do you want me to do?
+
+Ty: I’m going to kill them all. Do what you do. Remember: no innocents. If I have my way, this will be your last night of recruiting in this way. You may want to make it count.
+
+He’d considered not revealing that fact to her. That Zalax was using the same style of recruitment techniques as their enemy was a problem. Given the circumstances, he was willing to make a final exception.
+
+Maria: Understood. I’ll make good use of the time.
+
+Ty (to Sequoia): Let me know when our folks get to the incursion points. I want notifications and live feed. Hadarken is here, and he’s brought a Vat Master from Volar with him. That suggests one of the tunnels is already leaking.
+
+Sequoia (to Ty): Glad you’re fine. Will do. Our closest group should reach their destination shortly. The rest won’t be long behind that.
+
+The light in the hall flickered as distant explosions went off. Between one flicker and the next, an armored man appeared out of the air. He was wearing a tactical vest and carrying a heavily enchanted shotgun. An aura of the Monster god’s taint filled the air as he turned, sweeping the hall. Like the Earth-born scions Ty had encountered below, the man didn’t have an Arbiter. It probably meant he was low ranked and had few powers.
+
+Low ranked didn’t mean not dangerous.
+
+Ty’s telekinetic hand zipped out, wrapped around the man’s head, and twisted. It took all the effort of snapping a twig.
+
+Crack!
+
+* * *
+
+As Law’s presence dimmed, Francis and Simmons exchanged a concerned look.
+
+“What the fuck is going on?” Francis said. The screens revealed a constant barrage hammering at the closest of the guard towers. Hadarken’s forces didn’t just use traditional weapons; they had malignant spells on top of movement abilities. More than that, the assault force had several healers among them who seemed able to resurrect the dead with about as much effort as sneezing.
+
+Not replying, Simmons put his cell phone to his ear. “Ma’am, we’re under assault. It’s the Monster god. We’ve identified several of her allies. War, Plague, Murder, and a few others. We’re going to need an extraction or a whole hell of a lot of help.”
+
+He flipped the phone out and pushed the button for speaker, just as the woman on the other end replied. “We can’t extract. The area is under some sort of contested seal. One of our experts says that it means one god is trying to take over the Domain of another. She’ll have a champion leading the assault, one vested with her personal power. Kill whoever that is, and Law should be able to intervene directly. If you two die first, the Domain could be taken over.”
+
+Francis bit back another curse. “Orders?”
+
+Gunfire erupted outside their secure room, overwhelming the reply. Simmons held the phone up, showing the screen had gone black.
+
+Francis turned, walking to one of the metal cabinets lining the wall. He opened it, revealing a set of riot gear, complete with a magical shotgun. Pocketing his phone, Simmons stepped up and opened another cabinet. The two prepared as the sounds of screams and explosions grew.
+
+Silence fell, and the door jerked open as something with mottled black and gray skin stepped into the opening.
+
+Simmons’s Lawful Domain rippled out, folding over the monster like a blanket. The effect wiped away any natural, innate defenses the thing had. Timing his shot perfectly, Francis unloaded both barrels incendiary buckshot into the creature’s chest. Simmons followed the body into the hall, bringing his weapon up.
+
+Bang! BOOM!
+
+Explosive shots filled the air like cannon blasts as the duo mowed down a group of invading scions who’d been waiting just outside. Blasting mana to expand his Lawful Domain, Simmons swept the hall with his weapon, checking every angle for enemies. The agent moved with the smooth expertise of someone with extensive military training. Francis came behind his partner, drawing a pistol from a side holster. He shot each of the downed invaders in the head before calling out, “Clear.”
+
+Simmons deliberately focused his Lawful Domain on the corpses. A woman’s body jerked, resisting his authority, before something writhing and leathery poured out of her guts. Francis shot it twice.
+
+“Clear,” Simmons said, once the bug’s remains stopped twitching. “I’m down to eighty percent. You get the next crew and give me a boost to my recharge rate?”
+
+“Can do.”
+
+Holstering his gun, Francis moved ahead of his partner. Both reloaded their shotguns before moving down the hall. Yellow fluorescent tube lights flickered as they progressed. They came to a T-shaped intersection with a clearly marked map on one wall. Left would take them to the prison cells, and right toward the exit. Both directions went for a hundred feet before turning.
+
+“Where to?” Francis asked when they saw it was empty.
+
+“We free the prisoners,” Simmons said.
+
+“You sure?”
+
+“I am. We go to the control room and make the offer. They help us fight the bad guys, and we promise them a pardon and some money. Either way, we let ‘em loose.”
+
+“What if they come up behind us, or join Hadarken?”
+
+Simmons shrugged. “That’s the risk we take. It’s not our job to execute these folks, and if we leave them behind like this, they’ll just be sitting ducks.”
+
+“This sounds like a stupid idea.” Francis turned down the tunnel that led deeper into the prison.
+
+“Stupid, but righteous,” Simmons said, following his partner.
+
+“Oh, I know. It’s the right thing to do. That doesn’t make me have to like it. What about Ty?”
+
+“He comes at us. We kill him. Otherwise, we’ve got bigger worries.”
+
+* * *
+
+Ty listened to the conversation between Law’s scions through his familiar’s ears. In another situation, the two showing some sort of nobility would have pleased him. In this one, it only complicated matters. Killing them would have meant one less thing to worry about once this was all over. If they’d been overtly evil, like the Monster god’s allies, he would have done it and not felt a twinge of guilt. Only, they weren’t evil. They were doing their jobs. To their point, Ty and his allies had, in fact, used magic to influence the minds of elected officials. From Law’s perspective, he was a criminal.
+
+I hate politics, he thought, watching through his familiar’s eyes as it passed a pile of corpses and entered a room. A bank of screens sat atop a desk, showing various points of interest in and around the island jail. Several were covered in static, or blank, but enough were active for him to get a perspective on what was going on.
+
+He glimpsed a swarm of armored people rushing past the bridge and onto the island the instant before he heard the clicking sound and felt the surge of magic.
+
+WHOOM! A blast of magic-backed buckshot slammed into his side with the force of a speeding truck. The attack bypassed his passive resistance and health barrier, taking his hit points down by a quarter.
+
+Rebounding off the wall with bone crushing force, Ty snapped his attention away from the familiar. A woman in tactical armor, her face twisted in a rictus of mindless fury, stood across from him. Shadows boiled around her, suggesting some sort of stealth power. Another person in tactical armor stepped into view further down the hall, maybe twenty feet away. They took a beat to orient before aiming a rifle at him.

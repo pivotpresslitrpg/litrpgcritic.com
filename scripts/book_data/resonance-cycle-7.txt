@@ -1,0 +1,519 @@
+TITLE: Ignite the Dark (The Resonance Cycle Book 7)
+AUTHOR: Aaron Renfroe
+SERIES: The Resonance Cycle (Book 7)
+WORDS EXTRACTED: 6017
+============================================================
+
+Resonance Book 7: Ignite the Dark
+
+What Came Before (Abbreviated)
+
+We have included portions of the final chapter in the prologue of this book. See the Unabridged What Came Before at the end of the book for more details.
+
+Starting Character Sheet
+
+Name: Ty Monroe
+
+Class: Merit Hunter
+
+Race: Divine Scion of the Wild
+
+Category: 4 (5 versus gods, + an additional 2 with Law Keeper activation)
+
+Level: 20
+
+Status: Tri-Herald
+
+Progress to Next Level: 0
+
+Hit Points: 84
+
+Mana: 400
+
+Mana Shield: 60 (Racial Maximum: 60)
+
+Strength: 29 (+2 Alunite gauntlets; High-Supernatural)
+
+Agility: 23 (Mid-Supernatural)
+
+Vitality: 25 (High-Supernatural, +3 hit points per level)
+
+Notice: Increasing physical attributes further costs 2 discretionary points per increase. Your Strength attribute caps at 30 unless you obtain access to Divine attributes.
+
+Intellect: 20 (Low-Supernatural)
+
+Spirit: 20 (Wild-attuned; Supernaturally Enlightened)
+
+Notice: Increasing your Intellect or Spirit attributes further costs 2 discretionary points per increase.
+
+Luck: 0
+
+Applicable Skills and Abilities
+
+Mixed Martial Arts (Sambo Focus): Master
+
+Krav Maga: Peak Mortal Mastery
+
+Akkoan Martial Arts: Peak Mortal Mastery
+
+All Martial Weapons: Adept
+
+Guns: Master
+
+Survival: Adept
+
+Tactical Techniques: Master
+
+Meditation and Mental Fortitude: Peak Mortal Mastery
+
+Body Shaper: Night Vision, Akkoan Joints and Vocal Cords (+2 Agility), Akkoan Alunite Battle Skeleton Fusion, Akkoan Eyes, Awakened Superior Salient Kestrel Symbiote Familiar
+
+Unspent Merits: 81
+
+Unspent Physical Attribute Points: 19
+
+Unspent Discretionary Attribute Points: 19
+
+Fractal Charge: Synthesis (0 out of 500), Inevitability (0 out of 250)
+
+Achievements and Powers: Wild Touched, Magic Prism (Divinity, Monstrous, Wild, War, Fire, Darkness, Venom, Death, Chaos, Mystery, Guardian, Love, Life, Hope, Inevitability, Law, Technology, Inspiration, Time, Otherworldly+), Magic Siphon, Knight of the Wild Ability Package, Verdant Aura (Magic Activation, Anti-Demonic Properties), Read Magic, Divine Temporal Resistance, Fractal Awakening (Synthesis, Shy), Psychic Barrier, Fractal Mesh, Triplet Arbiter, Resonance Teleportation, Chaos Wielder, Verdant Aura (Sustain, Shape, Redirect, Transpose, Sovereign Aura, Telekinesis).
+
+Law Keeper Salience: 7% available; static benefits unlocked at 15%, then every additional 20 percent thereafter.
+
+Law Keeper Unlocks:
+
+Three-Dimensional Awareness. Currently: 00%
+
+Four-Dimensional Awareness. Currently: 00%
+
+Processing Enhancements. Currently: 00%
+
+Magic Resistance. Currently: 00%
+
+Mental Resistance 1. Currently: 15%
+
+Divine Resistance. Currently: 00%
+
+Survival Enhancements. Currently: 00%
+
+Combat Analytics. Currently: 00%
+
+Spatial Movement. Currently: 00%
+
+Spatial Manipulation – Storage. Currently: 00%
+
+Spatial Manipulation – Weaponized. Currently: 00%
+
+Stasis and Evolution Module 1. Currently: 15%
+
+Mobility Diversity. Currently: 00%
+
+Linguistic Adaptation. Currently: 00%
+
+Organic Adaptation 2. Currently: 35% (Grants 2 Category upgrades)
+
+Non-Organic Adaptation. Currently: 00%
+
+Variable Shielding. Currently: 00%
+
+Notable Equipment: Mind Fortress (Divine) with Technocratic Mind Gem Enhancement, Mantle of the Xotel (Divine+), Alunite Gauntlets (Legendary), Knight’s Raiment (Epic)
+
+Unequipped Notable Equipment: Shielding Amulet (Lesser), Divine Anchor (Legendary), 2 Infernal Crystals, Hellstone X 5, Mind Fortress (Divine), 1 Personal Locket, Nightmare Silk, Forbidden Book of Necromancy, Monstrous Manual, Berserk Potion
+
+Prologue One: Glimpse
+
+Warning: You are in a zone of no mana. Magic will work, but with dramatically decreased efficiency. Your abilities will cost 50% more in this space. Furthermore, your mana pool and mana gems will leak between 5-10 mana per hour while they remain here. We do not recommend lingering.
+
+Ako had been a dying planet the last time Ty visited. Standing in the charred, hollowed remains where the akkoan gods had once been, it felt worse than dead. This wasn’t a corpse; it was a desecrated graveyard.
+
+Gravity remained, as did a sliver of atmosphere. Other than distant ruins, everything else was gone. There were no plants, no sign of vegetation or any structure. Even the Arbiter graveyard had been stripped clean, presumably harvested, along with the gods.
+
+Lyra’s Swarm spread out around them all, providing heat, oxygen, and enough pressure to keep them grounded.
+
+Luckily, the terrain had not changed over the last several decades. The tunnel he’d spotted on her display was just a few hundred feet away. With a gesture, he took the lead. It wasn’t safe to fly here, not with the mana drain being so significant, and the terrain was unforgiving. Despite the power leveling the team had done prior to this mission, they stumbled and fell as they crossed gaping chasms and leaped over fallen rubble.
+
+Ty held back, helping the students and Jim whenever they needed it. Lyra turned to look each time he had to intervene, her eyes urgent and intense in her otherwise stoic face.
+
+Twenty minutes after their arrival, they made it to the tunnel. It was partially caved in, but Ty’s telekinesis made quick work of the obstructions. Although the ability was slower and much more difficult to use compared to Earth, it still didn’t cost mana to activate. He didn’t think it would continue to work if he was drained of mana, however.
+
+With the way clear, the group began their descent through the rough-hewn rock tunnel. The last time Ty had been there, he’d felt the concentration of mana decrease with each step. This time, it was the opposite. A gentle thrum, discernable through his aura, pulsed from below and grew in intensity as they went. Ten minutes of fast walking brought them to the fork in the path he was looking for.
+
+Taking the narrow off-shoot course, they came to a faint barrier. To his senses, it felt like a single point of mana, infused with the Wild, and stretched across the hall. It was impossibly thin; little more than the width of a hair yet was still tangible despite the passage of time. He glanced back over his shoulder, and Lyra just gave him an empty look. The students, lined up in the narrow corridor, looked mostly anxious and a little scared. He didn’t blame them.
+
+She doesn’t sense it, he realized. Even being a scion of the Wild, she couldn’t feel the barrier.
+
+Ty: Stay here with them. I think there’s something in the chamber ahead. Let me call you if things go wrong.
+
+Lyra: How about you call me either way? I’ll wait three minutes.
+
+Ty: Fair.
+
+He pushed forward. When he felt no resistance, he hurried the remaining distance to his destination.
+
+The tunnel ended in a chamber dominated by an ancient Arbiter Matrix. It was dark, filled with a churning fluid that bubbled and frothed like waves on the edge of a beach. When the liquid peeled away from the surface, it revealed an immense hand.
+
+As he entered the chamber, another, smaller Arbiter floated down from the ceiling and stopped at a level with his face. It looked cracked, like shattered metal and glass. Spinning to face him with its sole, intact pane, it lit up enough for him to see the interior.
+
+Dozens of firefly lights, none bigger than one of his fingernails, danced within.
+
+“You returned to us.” The voice from the Arbiter sounded like Rahlyn, the akkoan god of inspiration. “I hoped you would.” When she spoke, one of the swirling lights flickered in time with the words.
+
+“Rahlyn, is that you?”
+
+“It is. Most of us made it into this vessel, thanks to Asurtur.”
+
+Asurtur, the god of Arbiters, spoke from another light. “I figured it out after you came, Ty. Inspiration’s touch on you carried even to this place. We made a repository for our continuity.”
+
+“And that Wild barrier?” He waved back at the wall.
+
+“Numera snuck some help in years ago.”
+
+A flash of light drew his attention directly beneath the Arbiter Matrix, where a fist-sized gem rested. He could sense residual Wild mana inside once he focused on it, albeit dimly.
+
+“Good job, Mom,” he murmured. Returning his attention to the strange Arbiter, he asked, “What’s the plan, gang? Obviously, this place is still leaking mana and can’t sustain forever. You knew I’d be coming back, so you must have some idea of what comes next?”
+
+The Arbiter bobbed. “Within this vessel,” Rahlyn said, “are the memories of the last akkoan gods. We are continuity, without form or power. This device may implant that continuity into a living vessel. You will provide us with a vessel on one of your other worlds.”
+
+It wasn’t worded like a request, and it left Ty considering his options. These gods had been molded by the worship of people shaped by the Guard. However, if Numera had acted to rescue them, it said something.
+
+Unless she wasn’t trying to protect them. He looked at the Matrix, with the body floating inside as certainty came. Numera wouldn’t care about akkoan gods, but she knew my plan. The local gods must have been the only way she could secure the Matrix.
+
+“What do you mean ‘implant your continuity into a living vessel’?”
+
+“This Arbiter will create a unique Fractal Mesh on a living being. The Mesh will store our continuity and will augment the host’s consciousness. It will provide us with protection until we can establish new worshipers.”
+
+Like I did with Zalax, and am doing with Shy, Ty thought. In the back of his mind, Shy responded to the thought with a raucous laugh.
+
+Ty, darling host, I’m not going anywhere. This is where I want to be. Can’t you feel it? What we’re on the verge of accomplishing?
+
+He did his best not to feel queasy at Shy’s tone. “Is Gregoran in there too?”
+
+Gregoran had been their god of Monsters. He’d taught Ty the true role of Monster gods, which was to act as a liaison between unknown and feared civilizations.
+
+“Yes. He sleeps. Many of us are in hibernation to save our vessel its energy.”
+
+Ty realized he didn’t have to decide about the gods yet, not when there were more pressing matters. Extending a hand, he touched the Arbiter and attempted to add it to his inventory. It vanished, along with a note.
+
+Warning: Your personal storage space is now 95% claimed.
+
+Lyla walked in on him cursing. “What’s wrong?”
+
+The rest of the group filed in, instinctively sticking to the edge of the cramped room. Ty gave them all a reassuring smile even as he answered Lyra’s question. “It’s nothing.”
+
+He turned back to the Matrix.
+
+Julia spoke in a soft, awed voice, “What is it?”
+
+“The long version or short version of the story?”
+
+“Can you do a fast, in-between version?” Lyra interjected.
+
+“Sure.” Ty considered the wording. “A lot of akkoan history, especially as I learned it, is confusing. It’s because of time scales. Seeker left Volar sometime after the beginning of the God Wars. Once he did, parts of akkoan society changed. Or maybe parts of it that weren’t in a dominant state became so. It doesn’t make a big difference. Anyway, in his absence, new gods arose. This was before the Border Guard made it to Ako. What you’re seeing here is a relatively ancient corpse. It’s Hope, a god who gave his life to help save people.”
+
+“And his body is inside this Arbiter?”
+
+“Yeah. It’s called an Arbiter Matrix. This is what you get if you combine several Arbiters all together. The local gods thought he sacrificed his continuity, which is basically the highest form of self-sacrifice a god can make, to give the local akkoans a chance to survive. He’s embodied in here as some sort of material component for the spell he cast, or maybe his body is keeping this Arbiter intact? I’m honestly not sure.”
+
+Henry contemplated the giant Arbiter Matrix. “It feels different, magically I mean. Less like an Arbiter and more like, I don’t know, some sort of dormant magical item, if that makes sense.”
+
+“Yeah. It does. Aisling uses dummy Arbiters to do simple tasks. This might be a version of one of those.”
+
+Jessica asked, “What do you intend to do with it?”
+
+Unslinging his backpack, Ty walked up to the Arbiter. Willing the Alunite off his hand, he ran his fingers across the surface. It was solid in a way deeper than magic or fractals, or even Alunite. This felt like it belonged to another universe, as if its presence distorted some fundamental law of reality.
+
+He felt something tug in his chest, deep within his spiritual core. A sense of righteous purpose suffused him, sweeping through his Awakened Prism. It flowed outward, tingling up his spine like popping soda bubbles, and made his scalp tingle.
+
+This is my purpose.
+
+Raising his voice, more to the corpse than his companions, he announced, “I am going to rekindle the light.”
+
+Making a fist, he summoned his Mantle to replace the Alunite. It flowed like water, solidifying into a completely flexible white and gold material. He could feel it responding to his intent with approval.
+
+“Who saves the saviors? Who goes into the darkness and rescues the fallen heroes?” Unsummoned energy responded to his words, pouring out of his core, into his Awakened Prism and down his arm.
+
+Lyra and the others watched on, unable to speak. Something strange was happening here, and it had nothing to do with the Matrix or the dead god inside. Tendrils of light were bursting from Ty’s body, wavering like steam. With every proclamation he made, she felt something being born in the man. It wasn’t a god. It also wasn’t human. Whatever it was, she wasn’t about to interrupt the process.
+
+“I do!” The proclamation filled the cave, reverberating from the walls with enough force to send debris falling from the ceiling. Lifting his voice, Ty shouted, “Arise, fallen hero!”
+
+Summoning Vudon’s gift, the ability to bypass a single Arbiter’s shell, Ty lashed out. Instead of cracking, as he’d expected, the surface of the Arbiter Matrix liquefied, softening into something with the consistency of gelatin. His hand slid into the warm depths where the giant’s palm moved of its own accord to intercept it.
+
+Shocked, he didn’t think about adjusting his plans. He cast Clone Surrogacy.
+
+Single Use Power–Clone Surrogacy: Upon activating this ability, the targeted corpse will become an exact duplicate of you. This duplication will not include any augmentations or magical items you have taken, including Soul Bound ones, unless they are specifically enhanced to include this ability. It will not have an Arbiter, although it may become a scion. Should it do so, it will be treated of equal level and power as you at the time of activation. Because this clone is your surrogate, it is linked to your Soul Cage. It will always follow your moral and ethical inclinations and cannot be made to act against you without destroying it. If your clone dies, there will be permanent psychic consequences.
+
+This power has been enhanced. Your clone will have:
+
+A significant investment from Divinity.
+
+A significant investment from War.
+
+A significant investment from Guardian.
+
+It will include your Akkoan Battle Skeleton and Familiar.
+
+It will include a (decreased) version of your Mana Prism (only for Divine, War, and Guardian types).
+
+This is in addition to beginning at level 20, with access to 150 merits with which to allocate new powers, and nearly all your current attributes.
+
+Chapter 1: Divine Alloy
+
+HOPE IS RENEWED!
+
+Ty felt the god’s voice like a physical force. It rang out in the cavern, sending chunks of rock falling from the ceiling.
+
+A hand larger than a zalantar’s wrapped around Ty’s, holding him in place. Inside the Arbiter Matrix, the catalyst of the god’s awakening activated the millennia old divine magic. It transformed from inert, useless mass into Salient mana far more potent than anything on Volar or Earth.
+
+Fear not, mortal who has awakened me. Stand back and give me space. Once I deal with this fetid spell, I shall come forth and plant the seeds of light in this desolate realm.
+
+The thought came across as a shout, an unfiltered declaration. Had he been anyone other than what he’d become, Ty would have obeyed. Instead, as the giant hand pushed at his, Ty twisted his fingers around, gripping the god’s wrist. His senses probed outward, following his aura.
+
+Realization hit just as the prompt appeared in his mind’s eye.
+
+Notice: The akkoan god once known as Hope, is attempting to purge your Surrogacy spell. If he succeeds, your power will have been spent to no effect. You may attempt to force your spell onto the god. If you succeed, you will hollow the god’s mind out and claim its corpse for your Surrogacy. His mass will merge with the spell. The outcome of such a merger are unknown.
+
+“There must be another way,” Ty said through gritted teeth, burning mana to hold the god’s purging effect at bay. “I won’t kill a potential ally.”
+
+Little being. Why do you fight me? Surely you realize that dark spell has no place here. It has been foreseen. My return shall bring forth a new dawn now that our enemies have gone.
+
+Hope’s voice was warm and curious, not antagonistic.
+
+The magic inside Hope’s prison surged around Ty’s hand. Despite its ancient, foreign nature, his Prism adapted to the divine power effortlessly. It poured into him and the god, dividing between two equally potent reserves.
+
+An image appeared in his mind-space, translating his sensations into hard data.
+
+Salient Mana Reservoir: 5,000
+
+Salient mana, the energy of the gods, burned away like smoke. The air inside the cavern filled with white light. Hairline fractures appeared in the air as if the potency of the mana were too much for the magic-starved space to hold.
+
+“Things are not as you believe.” Using his aura, Ty projected his intent inside the Matrix. As he did, he used his Prism to align his magic with Hope’s.
+
+Notice: The god has accepted a mental link.
+
+Organizing his thoughts as quickly as he could, Ty sent a message, Hope, you’ve awakened earlier than you think. The Border Guard is still active. If you emerge as you are, in your divine form, the Guard will consume you.
+
+Hope’s reply was still potent, but over the link came across as merely loud. This is impossible. Time foresaw this. I would arise to a barren universe, where the remnants of our seed would languish. My role is to save them, to bring salvation and guidance.
+
+Narrowing his intent, Ty tried sending Hope just the relevant information about Ako and what was happening. Things have changed. There is more happening than Time could foresee. The necromantic spell I’m using on you is called Clone Surrogacy. It has my knowledge and much of my potential. Without my ability to fight the Guard, you will be consumed.
+
+The god’s certainty wavered. Unflinching determination still filled the air, yet a note of hesitation lay beneath it. Your spell will consume me. The Guard will consume me. What alternatives are there?
+
+This was an answer Ty was uniquely ready for. Synthesis. Don’t fight. Don’t succumb, either. Combine.
+
+This is not possible. Only an Arbiter can have both divine might and a mortal soul. You are a mortal.
+
+Ty chuckled wryly. Yeah, I guess. Open your mind and your heart. Trust me, and I will provide a path through this for both of us.
+
+Hope hesitated, but only briefly. The god had seen truth in Ty’s mind and knew the reserve of Salient magic was running out. Lowering his defenses, the god allowed the Clone Surrogacy spell to take effect.
+
+The potent spell began consuming the god’s soul.
+
+Salient Mana Reservoir: 3,100
+
+“No you don’t,” Ty said aloud, concentration fixed. One hand locked inside the Arbiter Matrix and the other on the outside, he took a deep breath. Then magic poured out of him as he exerted his will.
+
+Salient Mana Reservoir: 1,600
+
+The cracking air flexed further, splintering like glass struck by a sledgehammer.
+
+“EVERYTHING BETWEEN MY HANDS IS MY DOMAIN!”
+
+It came out exactly as Hope’s voice had, with depth and authority beyond simple sound. Salient mana evaporated, consumed as the Knight worked his will on both Hope’s body and the spell.
+
+Clone Surrogacy was not designed to create a hybrid being. Hope’s divine body should not have been subject to a mortal’s will.
+
+Yet for a moment, the span of three breaths, Ty became more.
+
+Ty’s body was the template. The Clone Surrogacy spell would have re-written Hope’s form to match his. All he had to do was create a bridge, to merge Hope’s continuity with Ty’s life experiences.
+
+A Mind Fortress appeared next to him, the one he’d brought from Earth. It vanished inside the glowing Arbiter Matrix, merging with the god.
+
+Ty…I can feel you. Me. We are becoming…Hope’s voice dwindled, lost in the undiluted torrent that was the newborn clone’s mind. Thousands of years of akkoan memories threatened to subsume the god’s.
+
+Salient Mana Reservoir: 1,000
+
+Hope was a magical construct, created by the faith of those who had believed in him. His worshipers were dead, and all that lingered was the mana they’d invested into the Matrix. Compared to the knowledge thrust upon him, Hope had no chance. The god began drowning beneath the sum of the inherited life experiences.
+
+“I’ve got you,” Ty said, using every bit of focus and familiarity he had with mental discipline to reach out. With an aura of divine mana attuned to Hope, Love, and Guardian, he wove Hope’s psyche into that of his clone. The Xotel Mantle on his shoulders undulated, producing a soft humming sound that seemed to aid his efforts.
+
+Salient Mana Reservoir: 200
+
+With a crackle and pop, the new Fractal Mesh snapped into place. Gold and emerald light flared in the Matrix one last time before it, along with every drop of Salient mana left in the room, evaporated.
+
+Standing in the center of the room was a towering being. Nearly fifteen feet tall, the muscular man could have put most of the zalantar to shame. His chiseled physique was a mixture of akkoan, human, and something else. Ty’s features were present, too, although far less than they’d been with Orion.
+
+The man’s skin was marble white veined in gold. Beneath a thick mane of white hair, his eyes were dark green. His generous mouth quirked into a smile as he spoke in a deep, resonant voice. “Hello, brother.”
+
+Ty waved in greeting. “I don’t think we have much time for pleasantries. That cost me nearly all my remaining mana.”
+
+From the cave’s entrance, Lyra called, “It also made a beacon. We need to go right now.”
+
+“Very well.” After a thoughtful pause, the god-clone said, “I like the word halcyon. I shall be Halcyrion. It feels like it fits with Ty and Orion.”
+
+“That’s awesome.” Grinning, Ty gestured for his brother to hurry. “C’mon. I know you don’t have access to Lila, but I’m hoping you can shapeshift a bit. If not, I don’t know if you’ll be able to fit.”
+
+“Maybe?” Brow furrowing, the giant concentrated. Shifting forward, he took a step. As he moved, his body shrank, diminishing in every dimension. The transition was utterly seamless, and the newborn clone took it without faltering or confusion.
+
+Expression lighting up, Halcyrion said, “I can!”
+
+Outside the room, Lyra’s Arbiter Swarm spread out. The tiny Arbiters floated around Jim, Leslie, Jessica, Henry, and Issac already. A few maneuvered over to encompass Ty and Halcyrion.
+
+“That’s not what I expected to walk out,” Leslie commented, looking their newest member up and down boldly. The lithely muscular woman, now one of Arthur’s scions, elbowed the lovely blonde next to her.
+
+Biting her bottom lip, Jessica replied, “Absolutely not, but I sure as hell don’t mind.”
+
+Henry and Issac both rolled their eyes. Issac said, “You two are incorrigible.”
+
+The oldest member of the Round Table crew, and their Krav Maga instructor, Jim just gave them all a dour look. “Calm down. We’re on a foreign planet, in dangerous territory. It’s time to be serious.”
+
+“He’s right.” Lyra lifted her hands and spoke into the air. “Hagemi, we’re coming in. There will be eight of us. Are you ready?”
+
+There was no audible reply, but she nodded. “Okay. I’m opening the teleportation now. Give us three minutes.” With that, her expression locked into a rictus of concentration, brow furrowed as her Swarm danced in place.
+
+Ty felt complex magic, fueled by a wellspring of powerful, familiar mana swell out of Lila and her Arbiters.
+
+Ignoring the banter and the spell, Halcyrion abruptly looked up. Eyes narrowing, as if to peer through the half-mile of stone and earth above, he said, “I feel something approaching. It’s distant but…vast.” He shivered. “I think it’s aware of us. Ty, you know how we never wanted to become a god?”
+
+“Yeah?” Ty said.
+
+“We were absolutely right.”
+
+“Care to elaborate?”
+
+Halcyrion extended a hand. Ty took it. The gesture was symbolic. This close to casting the Surrogacy, the two were still basically the same person. Magic and understanding flowed freely between them both, as it had Ty and Orion on Earth.
+
+“This is…incredible.” Ty felt his senses expand and change. Verdant Aura had grown to give him deep comprehension of everything within its range. While it was active, the complex akkoan receptors in his body took in vast amounts of information about the environment. This was like that, only reduced to four inputs: Divinity, War, Guardian, and Hope. Their range extended far beyond his normal limitations.
+
+Through his brother’s eyes, Ty saw himself as a complex, churning kaleidoscope. Interestingly, the magical patterns flowed through his Fractal Mesh, lighting him up a bit like one of those people in the movie Tron.
+
+He also felt the lingering mana of their working, and the divine investments in their companions. Beyond that was…nothing. Ako was at the center of a Temporal Well that spanned lightyears. Creating the Well had taken the greater gods, working in concert with Time, and had cost untold resources. The Border Guard innately consumed magic, particularly that of the gods.
+
+Their arrival had created a magical deadzone across the Well.
+
+It was as if they, on Ako, were a single mote of light in an ocean of darkness. In the distance, near the edge of his perceptions, was a presence. The presence was not light. Rather, it was a place of ultimate black, of roiling emptiness far deeper and more intense than anything else within the Well.
+
+And it was aware of them.
+
+Ty released his brother’s hand. Shuddering, he said, “We know what that feels like, don’t we?”
+
+“We do,” Halcyrion agreed, expression growing even more troubled. “It’s like Olin. It’s something from a Prime reality.”
+
+“What’s that mean?” Leslie asked.
+
+Before they could answer, Layla’s spell took effect. Harsh, painful magic wrapped the group in green tentacles, then ripped them away from the remnants of the once verdant world of Ako.
+
+Chapter 2: Is That You?
+
+They appeared inside a sleek, domed metal room. Rectangular monitors, like science fiction view ports, covered a curved wall. Sitting in the center of the room was an Arbiter Matrix of similar size and shape to the one in the cave, although this one was bright emerald.
+
+Standing in the room was a muscular woman wearing a jaunty pirate hat. She had an eye patch and was dressed in well-worn leather clothes. Her thigh-high boots were rolled down and came to sharp points. She had dark green hair and her visible eye sparkled.
+
+“Mom?” Ty and Halcyrion said at the same time.
+
+The Round Table crew stumbled a bit, moving to one side. Leslie burst out, “Is Ty’s mom a galactic pirate? Because she looks like a galactic pirate.”
+
+“Sort of,” the woman replied with a smile that crinkled the corner of her eye as she took in the newcomers. She extended a hand toward Ty. “Knight, be a dear and give me the gift of continuity.”
+
+Ty blinked in confusion. “But isn’t continuity what passes between gods when they die?”
+
+“It can be. With greater gods, it’s more a matter of memory. I’m separate from the Numera you interact with on Earth or Volar, so I’ve become my own being. As our Knight, you carry the spark of our continuity with you. Now, be a dear and give me a hug? It’s been hundreds of years.”
+
+He never needed an excuse to hug his mother. Ty crossed the distance and swept her up into an embrace. She squeezed him tightly, then lifted her hand to wave Halcyrion over.
+
+“All my children are welcome.”
+
+With a grin entirely out of place on his chiseled features, the half-god walked over and joined in.
+
+Light pulsed inside the Arbiter Matrix, sweeping from the floor to the ceiling. It spoke, “Ah, yes. There we go. Continuity has been assimilated. Numera, it would seem that things are rapidly approaching the end of the first epoch on Earth and Volar.”
+
+Releasing her children, Numera stepped back. Her appearance had changed, softening somewhat to take on a hint of the elegant grace of Ty’s memory of her. She reached up to take the eye patch off, revealing unblemished skin beneath. Sweeping her gaze across the Round Table crew, she turned to reply to Hagemi.
+
+A display pulsed red as a pair of sable-black ships appeared out of the darkness. The ships were rectangles, and each had a giant Law Keeper, like a metal spider, wrapped around it.
+
+“We’ve got Scavengers, no time to talk,” Hagemi said. “Ty, I’d love to reconnect and go through introductions, but it seems like we’re going to need you to Knight up sooner than we’d hoped. Would you mind teleporting to the Starchaser and lending a hand?”
+
+“Starchaser?” Ty and Halcyrion said at once.
+
+“Ah, sorry.” The demigod looked abashed. “Still getting used to it.”
+
+Waving the apology off, Ty looked at one display as it flashed to reveal a new ship. It was difficult to tell the size on the displays, but the basic shape of the Starchaser was interesting. The main body was spade-shaped, with a pair of curved arms ending in orange-hued turbine-looking engines extending from it.
+
+Stacked on top of the main body, like a Star Trek detachable saucer section, was a smaller vessel. It looked a bit like a stealth fighter, albeit with the same orange engines and sleek design. An opaque, glassy dome stretched across a full half of its length.
+
+As soon as he saw it, Ty felt a connection with the ship, as if he were already familiar with it. It took him a moment to realize he could teleport onto it if he wanted.
+
+A flickering notification flashed inside his mind-space.
+
+Notice: You are in an area with a vast amount of worship dedicated to Numera. This has allowed the goddess to establish Domains to the vessels with Arbiter Matrices. As her Knight, you receive some benefits while within the area. While within a Wild Domain, you regenerate mana at the normal rate. In addition, your spells and powers function with no penalties. Limitation: Unless you are given Domain Authority, you may not administrate this space. Your mind gem enhancements, such as ones that let you automatically map an area, will not function without permission from Numera or one of her Arbiters. Also, keep in mind that moving outside of the Domain will cause the standard penalties and limitations.
+
+“Vast quantity of worship?” Ty asked, sharing the text of the notification across the telepathic bond to his brother.
+
+“No time to explain.” Numera pointed. “Remember what we said back on Earth? Thou art unleashed, Knight. You will not be sheathed again during this epoch. Go.”
+
+“What about the Round Table folks?” Halcyrion said, indicating their friends. “And Lyra.”
+
+Hagemi replied, “We’ll send them to Worm. He sends a warm welcome, by the way. They should be safe.”
+
+“Good to know.” Ty offered his brother a hand. “Want to come with?”
+
+“Absolutely.”
+
+Joining hands, Ty teleported them away.
+
+It cost him three hundred mana to make the jump to the Chaser.
+
+“Three hundred mana? That’s more than it would cost to teleport across the damn planet. How far did we just travel?” Ty asked, even as he took in their new surroundings.
+
+His aura stretched out, providing him with a sense of shape and scale. They’d appeared on the bottom of the two vessels, toward the “rear.” It was a large cargo-bay style room, with stairs leading to catwalks that lined the second, third, and fourth stories. There were multiple hallways at each level. In addition, there were thirty or forty unlabeled rooms.
+
+“Over two-hundred thousand miles and across a magical vacuum,” a feminine version of Hagemi’s voice came from all around them. “Knight, if you’d enter the Crusader Reliquary, I’ll provide you with an abbreviated tutorial. We have about three minutes before the Scavengers engage the fleet.
+
+Motes of green light flashed directly ahead, leading to a smaller domed chamber. Ty and his brother quickly made their way toward the highlighted area.
+
+“Halcyrion, it would be unwise for you to enter the Reliquary,” the Arbiter said. “Although you may have your brother’s memory, you are not Numera’s Knight. Without the Wild flowing through you, this room would present significant health risks.”
+
+Ty glanced back. “I’ll send you back to the command ship, if you want. I know neither of us wants to be helpless during a fight.”
+
+The voice came from one of the dancing lights. “If this goes well, only you will be involved. You will understand when you are inside the Reliquary. Now, please hurry. These encounters usually cost hundreds of lives. We built the Chaser to end that.”
+
+Hundreds of lives? But Numera is here. Embodied, and without the Resonance to contain her powers. The thought was more than a little troubling. Leaning forward, he raced ahead.
+
+“Thank you,” the Arbiter voice said. “Now, I’ll begin your briefing. First, I am the combined intellect of the Starchaser. My role is to help ensure your success. From now on, I’m going to speak four times faster than normal. Can you keep up?”
+
+“I’d say so,” Ty replied. “What should I call you? Hagemi-but-a-girl sounds wrong.”
+
+“How about Hoshi? It means ‘Star’ in Japanese.”
+
+“Fitting. Please continue.”
+
+“Ahead you will see the Reliquary. It has been crafted to interface with your Fractal Mesh. While you are inside, you will merge with the Chaser. This may feel a little weird.”
+
+He’d crossed the bridge and entered the amphitheater-like room. Every inch of the interior was covered in a green and gold circuit board made of gleaming crystal. Twenty Arbiters, each four feet across, were imbedded around the room in places where multiple wires met. An upraised dais, maybe thirty feet in diameter, sat at the center of the room.
+
+As soon as Ty entered, streamers of colored light appeared out of the air. Like extensions of the circuitry, the light branched off the walls and flowed toward him until it intersected his aura. When it did, an intense tingle traveled down his body.
+
+Notice: The Crusader Reliquary wishes to connect. If you allow this, you will be granted a new HUD. Do you wish to accept this connection?
+
+Despite the inclement danger, Ty grinned in anticipation. “Let’s go.”
+
+An overlay appeared across his vision. Unlike the normal display, which appeared inside his mind, this one was more of a holographic projection over reality.
+
+“This is so sci-fi,” he said.
+
+“Magi-tech is probably a good term for it,” Hoshi said. “Now, let me go over the instructions. First, you’ll notice there are twenty Arbiters around the room. These are mana storage and relay devices. I am the only soul inhabiting the vessel, and my physical being is located at a secure location below.”
+
+Line by line, the text on his HUD grew bold. As it did, the ship’s Arbiter narrated a stream of explanations.
+
+Hull Integrity: 100% (10,500 hit points)
+
+Life Support: 100% (max capacity: 15,200)
+
+Divine Relays: 100% (1% mana restored per day)
+
+Shields: 100% (80% damage reduction fromFleet standard attacks)
+
+Automated Repair Systems: 100% (500 hit points repaired per hour)
+
+Wild Augmented Offensive Plating: Active (short-range weapons capable of dealing 5,000 hit point blasts)
+
+Ablative Defensive Plating Upgrade: Active (armor that reduces impact damage in proportion to the mass involved; the Starchaser can crash land on planets and survive thanks to this upgrade)
