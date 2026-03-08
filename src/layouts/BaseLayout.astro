@@ -91,20 +91,35 @@ const fullTitle = title.includes('LitRPG Critic') ? title : `${title} | LitRPG C
 
   <!-- Footer -->
   <footer class="border-t border-[var(--color-border)] mt-16 py-10 text-[var(--color-text-muted)] text-sm">
-    <div class="max-w-5xl mx-auto px-4 flex flex-col sm:flex-row justify-between gap-4">
+    <div class="max-w-5xl mx-auto px-4 flex flex-col sm:flex-row justify-between gap-6">
       <div>
-        <p class="font-semibold text-white mb-1">LitRPG Critic</p>
-        <p>Independent reviews and rankings for LitRPG &amp; progression fantasy readers.</p>
+        <p class="font-semibold text-white mb-1">
+          <span class="text-[var(--color-brand)]">LitRPG</span>Critic
+        </p>
+        <p class="max-w-xs">Editorial rankings and reviews for LitRPG &amp; progression fantasy readers.</p>
+        <p class="mt-2">
+          A <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="hover:text-white transition-colors underline">Pivot Press</a> editorial project.
+        </p>
       </div>
-      <nav class="flex flex-col gap-1">
-        <a href="/about" class="hover:text-white transition-colors">About</a>
-        <a href="/contact" class="hover:text-white transition-colors">Contact</a>
-        <a href="/privacy" class="hover:text-white transition-colors">Privacy Policy</a>
-        <a href="/rss.xml" class="hover:text-white transition-colors">RSS Feed</a>
-      </nav>
+      <div class="flex gap-10">
+        <nav class="flex flex-col gap-1">
+          <p class="text-white font-semibold mb-1">Site</p>
+          <a href="/lists" class="hover:text-white transition-colors">Lists</a>
+          <a href="/new-releases" class="hover:text-white transition-colors">New Releases</a>
+          <a href="/blog" class="hover:text-white transition-colors">Blog</a>
+        </nav>
+        <nav class="flex flex-col gap-1">
+          <p class="text-white font-semibold mb-1">Info</p>
+          <a href="/about" class="hover:text-white transition-colors">About</a>
+          <a href="/contact" class="hover:text-white transition-colors">Contact</a>
+          <a href="/privacy" class="hover:text-white transition-colors">Privacy</a>
+          <a href="/rss.xml" class="hover:text-white transition-colors">RSS</a>
+        </nav>
+      </div>
     </div>
-    <div class="max-w-5xl mx-auto px-4 mt-6 pt-6 border-t border-[var(--color-border)]">
+    <div class="max-w-5xl mx-auto px-4 mt-6 pt-6 border-t border-[var(--color-border)] flex flex-col sm:flex-row gap-3 justify-between">
       <p>Book data sourced from <a href="https://litrpgtools.com" class="hover:text-white underline" target="_blank" rel="noopener">LitRPGTools.com</a>. Amazon links may be affiliate links.</p>
+      <p>&copy; {new Date().getFullYear()} Pivot Press Publishing</p>
     </div>
   </footer>
 </body>

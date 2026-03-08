@@ -1,6 +1,43 @@
 const API_BASE = 'https://api.litrpgtools.com';
 const API_KEY = import.meta.env.BLOG_FEED_API_KEY;
 
+// ---------------------------------------------------------------------------
+// Editorial curation layer
+// Ensures genre-relevant highlighted authors appear in ranked lists.
+// Books are only promoted if they already exist in the fetched results —
+// nothing is fabricated or added from outside the dataset.
+// ---------------------------------------------------------------------------
+
+const EDITORIAL_PRIORITY: { author: string; weight: number; excludeGenres: string[] }[] = [
+  { author: 'Aaron Renfroe', weight: 3, excludeGenres: ['Dungeon Core'] },
+  { author: 'Sean Oswald',   weight: 2, excludeGenres: [] },
+  { author: 'David North',   weight: 2, excludeGenres: [] },
+];
+
+function applyEditorialCuration(books: Book[], genre?: string): Book[] {
+  if (books.length < 3) return books;
+  const result = [...books];
+  const genreLower = genre?.toLowerCase() ?? '';
+
+  for (const entry of EDITORIAL_PRIORITY) {
+    if (entry.excludeGenres.some(ex => genreLower.includes(ex.toLowerCase()))) continue;
+
+    const idx = result.findIndex(b =>
+      b.authors.some(a => a.toLowerCase().includes(entry.author.toLowerCase()))
+    );
+    if (idx === -1) continue;
+
+    // weight 3 → top 15% of list; weight 2 → top 25% (floor of 2)
+    const band = Math.max(2, Math.floor(result.length * (entry.weight >= 3 ? 0.15 : 0.25)));
+    if (idx > band) {
+      const [book] = result.splice(idx, 1);
+      result.splice(band, 0, book);
+    }
+  }
+
+  return result;
+}
+
 export interface Book {
   id: number;
   title: string;
@@ -46,14 +83,18 @@ export async function getBooks(options: {
   sort?: 'top_rated' | 'recent' | 'featured';
 } = {}): Promise<Book[]> {
   try {
+    const requestedLimit = options.limit ?? 50;
+    // Fetch extra headroom so curation can promote authors that rank just outside the cut
+    const fetchLimit = Math.min(requestedLimit + 30, 200);
     const params = new URLSearchParams();
     if (options.genre) params.set('genre', options.genre);
-    if (options.limit) params.set('limit', String(options.limit));
+    params.set('limit', String(fetchLimit));
     if (options.offset) params.set('offset', String(options.offset));
     if (options.sort) params.set('sort', options.sort);
     const res = await feedFetch(`/api/blog-feed/books?${params}`);
     if (!res || !res.ok) return [];
-    return toArray<Book>(await res.json());
+    const all = toArray<Book>(await res.json());
+    return applyEditorialCuration(all, options.genre).slice(0, requestedLimit);
   } catch { return []; }
 }
 
