@@ -22,6 +22,30 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Debug API response
+        env:
+          BLOG_FEED_API_KEY: ${{ secrets.BLOG_FEED_API_KEY }}
+        run: |
+          echo "=== API key set: $([ -n "$BLOG_FEED_API_KEY" ] && echo YES || echo NO) ==="
+          curl -s -o /tmp/api_resp.json -w "%{http_code}" \
+            -H "X-Blog-Feed-Key: $BLOG_FEED_API_KEY" \
+            "https://api.litrpgtools.com/api/blog-feed/books?limit=2&sort=top_rated" \
+            | xargs -I{} echo "HTTP status: {}"
+          echo "Response shape:"
+          python3 -c "
+          import json, sys
+          with open('/tmp/api_resp.json') as f:
+              d = json.load(f)
+          print('type:', type(d).__name__)
+          if isinstance(d, dict):
+              print('keys:', list(d.keys()))
+              if 'data' in d:
+                  print('data type:', type(d['data']).__name__)
+                  print('data length:', len(d['data']))
+          elif isinstance(d, list):
+              print('length:', len(d))
+          "
+
       - name: Build
         env:
           BLOG_FEED_API_KEY: ${{ secrets.BLOG_FEED_API_KEY }}
