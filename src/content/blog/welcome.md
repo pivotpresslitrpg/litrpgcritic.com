@@ -1,8 +1,10 @@
 ---
 title: "Welcome to LitRPG Critic"
 description: "LitRPG Critic launches today with ranked lists, reviews, and new release tracking for the LitRPG and progression fantasy genre."
-pubDate: 2026-03-08
-category: "News"
+date: "2026-03-08"
+type: "news"
+author: "The LitRPG Critic"
+tags: ["welcome", "LitRPG", "progression fantasy"]
 featured: true
 ---
 

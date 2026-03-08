@@ -5,11 +5,11 @@ const blog = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    pubDate: z.date(),
-    updatedDate: z.date().optional(),
-    category: z.enum(['Lists', 'Reviews', 'News', 'Guides']).default('Lists'),
+    date: z.string(),
+    type: z.string(),
+    author: z.string().default('The LitRPG Critic'),
+    tags: z.array(z.string()).default([]),
     featured: z.boolean().default(false),
-    draft: z.boolean().default(false),
   }),
 });
 

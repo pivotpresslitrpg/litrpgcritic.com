@@ -3,18 +3,18 @@ interface Props {
   title: string;
   description: string;
   slug: string;
-  pubDate: Date;
-  category?: string;
+  date: string;
+  type?: string;
 }
 
-const { title, description, slug, pubDate, category } = Astro.props;
-const dateStr = pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const { title, description, slug, date, type } = Astro.props;
+const dateStr = new Date(date + 'T12:00:00').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
 
 <article class="group border border-[#2e2e2e] rounded-lg bg-[#1a1a1a] hover:border-[#e85d2f]/40 transition-colors overflow-hidden">
   <a href={`/blog/${slug}`} class="block p-5">
-    {category && (
-      <span class="text-xs font-semibold text-[#e85d2f] uppercase tracking-wider">{category}</span>
+    {type && (
+      <span class="text-xs font-semibold text-[#e85d2f] uppercase tracking-wider">{type.replace(/_/g, ' ')}</span>
     )}
     <h2 class="mt-1.5 font-bold text-white text-lg leading-snug group-hover:text-[#e85d2f] transition-colors">
       {title}
