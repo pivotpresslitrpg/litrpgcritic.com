@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Explicitly allow all AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+Sitemap: https://litrpgcritic.com/sitemap-index.xml

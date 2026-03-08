@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import BookCard from '../../components/BookCard.astro';
+import { getBooks } from '../../lib/api';
+import { listConfig } from '../../lib/lists';
+
+export async function getStaticPaths() {
+  const { listConfig } = await import('../../lib/lists');
+  return Object.keys(listConfig).map(slug => ({ params: { slug } }));
+}
+
+const { slug } = Astro.params;
+const config = listConfig[slug];
+
+if (!config) {
+  return Astro.redirect('/lists', 301);
+}
+
+const books = await getBooks({ genre: config.genre, sort: config.sort, limit: config.limit });
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": config.title,
+  "description": config.description,
+  "url": `https://litrpgcritic.com/lists/${slug}`,
+  "numberOfItems": books.length,
+  "itemListElement": books.slice(0, 20).map((book, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "name": book.title,
+    "url": book.amazon_url || `https://www.amazon.com/s?k=${encodeURIComponent(book.title)}`
+  }))
+};
+---
+
+<BaseLayout
+  title={config.title}
+  description={config.description}
+  schema={schema}
+>
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <a href="/lists" class="text-sm text-[#555] hover:text-[#e85d2f] transition-colors">← All Lists</a>
+
+    <p class="text-sm font-semibold text-[#e85d2f] uppercase tracking-wider mt-4 mb-2">Ranked List</p>
+    <h1 class="text-3xl sm:text-4xl font-bold text-white leading-tight mb-4">{config.title}</h1>
+    <p class="text-[#888] mb-6">{config.intro}</p>
+    <p class="text-xs text-[#555] mb-8">
+      {books.length} books · Ranked by community rating ·
+      Data from <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="hover:text-[#e85d2f]">LitRPGTools.com</a>
+    </p>
+
+    <div class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg px-4">
+      {books.length > 0 ? (
+        books.map((book, i) => (
+          <BookCard book={book} rank={i + 1} showDescription={true} />
+        ))
+      ) : (
+        <p class="py-8 text-center text-[#666]">No books found for this list.</p>
+      )}
+    </div>
+  </div>
+</BaseLayout>

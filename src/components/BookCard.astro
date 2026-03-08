@@ -1,0 +1,105 @@
+---
+import type { Book } from '../lib/api';
+import { formatAuthors, starRating } from '../lib/api';
+
+interface Props {
+  book: Book;
+  rank?: number;
+  showDescription?: boolean;
+}
+
+const { book, rank, showDescription = false } = Astro.props;
+const authors = formatAuthors(book.authors);
+const stars = starRating(book.average_rating);
+const amazonUrl = book.amazon_url || `https://www.amazon.com/s?k=${encodeURIComponent(book.title)}`;
+---
+
+<article class="flex gap-4 py-5 border-b border-[#2e2e2e] last:border-0">
+  <!-- Rank -->
+  {rank && (
+    <div class="hidden sm:flex w-8 shrink-0 pt-1 text-2xl font-bold text-[#2e2e2e] leading-none">
+      {rank}
+    </div>
+  )}
+
+  <!-- Cover -->
+  <a href={amazonUrl} target="_blank" rel="noopener nofollow" class="shrink-0">
+    {book.cover_image_url ? (
+      <img
+        src={book.cover_image_url}
+        alt={`${book.title} cover`}
+        width="60"
+        height="90"
+        loading="lazy"
+        class="w-[60px] h-[90px] object-cover rounded shadow-md"
+      />
+    ) : (
+      <div class="w-[60px] h-[90px] bg-[#1a1a1a] rounded flex items-center justify-center text-[#444] text-xs text-center px-1">
+        No Cover
+      </div>
+    )}
+  </a>
+
+  <!-- Info -->
+  <div class="flex-1 min-w-0">
+    <h3 class="font-semibold text-white leading-snug">
+      <a href={amazonUrl} target="_blank" rel="noopener nofollow" class="hover:text-[#e85d2f] transition-colors">
+        {book.title}
+      </a>
+    </h3>
+    <p class="text-sm text-[#888] mt-0.5">{authors}</p>
+    {book.series_name && (
+      <p class="text-xs text-[#666] mt-0.5">
+        {book.series_name}{book.series_position ? ` #${book.series_position}` : ''}
+      </p>
+    )}
+    <div class="flex items-center gap-3 mt-1.5">
+      {stars && (
+        <span class="text-[#e85d2f] text-sm" title={`${book.average_rating?.toFixed(1)} / 5`}>
+          {stars}
+        </span>
+      )}
+      {book.review_count > 0 && (
+        <span class="text-xs text-[#666]">{book.review_count.toLocaleString()} ratings</span>
+      )}
+      {book.genres.slice(0, 2).map(g => (
+        <span class="text-xs bg-[#1a1a1a] border border-[#2e2e2e] text-[#888] px-2 py-0.5 rounded">
+          {g}
+        </span>
+      ))}
+    </div>
+    {showDescription && book.description && (
+      <p class="text-sm text-[#aaa] mt-2 line-clamp-3">{book.description}</p>
+    )}
+  </div>
+
+  <!-- Amazon CTA -->
+  <a
+    href={amazonUrl}
+    target="_blank"
+    rel="noopener nofollow"
+    class="hidden sm:flex shrink-0 self-start mt-1 text-xs bg-[#e85d2f] hover:bg-[#c44a1f] text-white px-3 py-1.5 rounded transition-colors whitespace-nowrap"
+  >
+    View →
+  </a>
+</article>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": book.title,
+  "author": book.authors.map(a => ({ "@type": "Person", "name": a })),
+  ...(book.genres.length > 0 && { "genre": book.genres[0] }),
+  ...(book.average_rating && {
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": book.average_rating.toFixed(1),
+      "ratingCount": book.review_count,
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  }),
+  ...(book.amazon_url && { "url": book.amazon_url }),
+  ...(book.cover_image_url && { "image": book.cover_image_url }),
+  ...(book.description && { "description": book.description.slice(0, 300) })
+})} />

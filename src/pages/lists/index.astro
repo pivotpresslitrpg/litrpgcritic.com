@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const lists = [
+  { slug: 'best-litrpg-books', title: 'The Best LitRPG Books of All Time', description: 'Our definitive ranked list of the greatest LitRPG series and standalone novels.', count: 60 },
+  { slug: 'best-dungeon-core', title: 'Best Dungeon Core Books (Ranked)', description: 'The top dungeon core and dungeon builder LitRPG novels, ranked by our community.', count: 30 },
+  { slug: 'best-progression-fantasy', title: 'Best Progression Fantasy Series', description: 'From Cradle to He Who Fights With Monsters — the best progression fantasy.', count: 40 },
+  { slug: 'best-completed-litrpg', title: 'Best Completed LitRPG Series', description: 'No waiting for the next book — these series are fully finished and worth binging.', count: 25 },
+  { slug: 'best-litrpg-audiobooks', title: 'Best LitRPG Audiobooks', description: 'The top LitRPG titles on Audible, ranked by narration quality and story.', count: 30 },
+  { slug: 'best-gamelit', title: 'Best GameLit Books', description: 'Game mechanics, stats, and leveling — the best GameLit fiction available.', count: 25 },
+  { slug: 'books-like-dungeon-crawler-carl', title: 'Best Books Like Dungeon Crawler Carl', description: 'Loved DCC? These LitRPG titles share the same humor, grit, and system-climbing energy.', count: 20 },
+  { slug: 'best-litrpg-romance', title: 'Best LitRPG Books with Romance', description: 'LitRPG stories where the romance is more than a side plot.', count: 20 },
+];
+---
+
+<BaseLayout
+  title="LitRPG Ranked Lists — Best Books by Sub-Genre"
+  description="Definitive ranked lists for every LitRPG sub-genre — dungeon core, progression fantasy, GameLit, audiobooks, and more."
+>
+  <div class="max-w-4xl mx-auto px-4 py-10">
+    <p class="text-sm font-semibold text-[#e85d2f] uppercase tracking-wider mb-2">Ranked Lists</p>
+    <h1 class="text-3xl font-bold text-white mb-2">Best LitRPG Books by Sub-Genre</h1>
+    <p class="text-[#888] mb-10">Every list is curated and ranked — not just sorted by Amazon sales rank.</p>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      {lists.map(list => (
+        <a
+          href={`/lists/${list.slug}`}
+          class="group border border-[#2e2e2e] rounded-lg bg-[#1a1a1a] hover:border-[#e85d2f]/40 p-5 transition-colors"
+        >
+          <p class="text-xs text-[#555] mb-1">{list.count}+ books</p>
+          <h2 class="font-bold text-white group-hover:text-[#e85d2f] transition-colors leading-snug">{list.title}</h2>
+          <p class="text-sm text-[#888] mt-2">{list.description}</p>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

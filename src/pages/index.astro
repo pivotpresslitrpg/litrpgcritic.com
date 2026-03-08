@@ -1,0 +1,131 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BookCard from '../components/BookCard.astro';
+import PostCard from '../components/PostCard.astro';
+import { getBooks, getRecentBooks } from '../lib/api';
+import { getCollection } from 'astro:content';
+
+const [topBooks, recentBooks, allPosts] = await Promise.all([
+  getBooks({ sort: 'top_rated', limit: 5 }),
+  getRecentBooks(30, 6),
+  getCollection('blog').catch(() => [])
+]);
+
+const latestPosts = allPosts
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 6);
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "LitRPG Critic",
+  "url": "https://litrpgcritic.com",
+  "description": "Independent reviews and ranked lists for LitRPG, progression fantasy, and GameLit readers.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://litrpgcritic.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+};
+---
+
+<BaseLayout
+  title="LitRPG Critic — Reviews & Rankings for LitRPG & Progression Fantasy"
+  description="The best LitRPG and progression fantasy book reviews, ranked lists, and new release coverage. Find your next great read."
+  schema={schema}
+>
+  <!-- Hero -->
+  <section class="border-b border-[#2e2e2e] py-12 px-4">
+    <div class="max-w-5xl mx-auto">
+      <p class="text-sm font-semibold text-[#e85d2f] uppercase tracking-wider mb-3">LitRPG &amp; Progression Fantasy</p>
+      <h1 class="text-4xl sm:text-5xl font-bold text-white leading-tight max-w-2xl">
+        Find the best books in the genre.
+      </h1>
+      <p class="mt-4 text-lg text-[#888] max-w-xl">
+        Ranked lists, honest reviews, and new release tracking for LitRPG, dungeon core, progression fantasy, and GameLit.
+      </p>
+      <div class="flex flex-wrap gap-3 mt-6">
+        <a href="/lists" class="bg-[#e85d2f] hover:bg-[#c44a1f] text-white px-5 py-2.5 rounded font-medium transition-colors">
+          Browse Lists
+        </a>
+        <a href="/new-releases" class="border border-[#2e2e2e] hover:border-[#e85d2f]/50 text-[#888] hover:text-white px-5 py-2.5 rounded font-medium transition-colors">
+          New Releases
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <div class="max-w-5xl mx-auto px-4 py-10 grid grid-cols-1 lg:grid-cols-3 gap-10">
+
+    <!-- Main column -->
+    <div class="lg:col-span-2 space-y-12">
+
+      <!-- Latest posts -->
+      {latestPosts.length > 0 && (
+        <section>
+          <div class="flex items-center justify-between mb-5">
+            <h2 class="text-xl font-bold text-white">Latest</h2>
+            <a href="/blog" class="text-sm text-[#e85d2f] hover:underline">All posts →</a>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {latestPosts.map(post => (
+              <PostCard
+                title={post.data.title}
+                description={post.data.description}
+                slug={post.id}
+                pubDate={post.data.pubDate}
+                category={post.data.category}
+              />
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- New releases -->
+      {recentBooks.length > 0 && (
+        <section>
+          <div class="flex items-center justify-between mb-5">
+            <h2 class="text-xl font-bold text-white">New Releases</h2>
+            <a href="/new-releases" class="text-sm text-[#e85d2f] hover:underline">See all →</a>
+          </div>
+          <div class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg px-4 divide-y divide-[#2e2e2e]">
+            {recentBooks.map((book, i) => (
+              <BookCard book={book} showDescription={false} />
+            ))}
+          </div>
+        </section>
+      )}
+    </div>
+
+    <!-- Sidebar -->
+    <aside class="space-y-8">
+
+      <!-- Top rated -->
+      <section class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg p-5">
+        <div class="flex items-center justify-between mb-4">
+          <h2 class="font-bold text-white">Top Rated</h2>
+          <a href="/lists/best-litrpg-books" class="text-xs text-[#e85d2f] hover:underline">Full list →</a>
+        </div>
+        <div class="divide-y divide-[#2e2e2e]">
+          {topBooks.map((book, i) => (
+            <BookCard book={book} rank={i + 1} />
+          ))}
+        </div>
+      </section>
+
+      <!-- Quick links -->
+      <section class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg p-5">
+        <h2 class="font-bold text-white mb-3">Popular Lists</h2>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/lists/best-litrpg-books" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best LitRPG Books of All Time</a></li>
+          <li><a href="/lists/best-dungeon-core" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best Dungeon Core Books</a></li>
+          <li><a href="/lists/best-progression-fantasy" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best Progression Fantasy Series</a></li>
+          <li><a href="/lists/best-completed-litrpg" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best Completed LitRPG Series</a></li>
+          <li><a href="/lists/best-litrpg-audiobooks" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best LitRPG Audiobooks</a></li>
+          <li><a href="/lists/best-gamelit" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best GameLit Books</a></li>
+        </ul>
+      </section>
+
+    </aside>
+  </div>
+</BaseLayout>

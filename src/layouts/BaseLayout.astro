@@ -1,0 +1,110 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalUrl?: string;
+  ogImage?: string;
+  schema?: object;
+}
+
+const {
+  title,
+  description,
+  canonicalUrl = Astro.url.href,
+  ogImage = '/og-default.png',
+  schema
+} = Astro.props;
+
+const fullTitle = title.includes('LitRPG Critic') ? title : `${title} | LitRPG Critic`;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalUrl} />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:image" content={new URL(ogImage, Astro.site).href} />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="LitRPG Critic" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={fullTitle} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={new URL(ogImage, Astro.site).href} />
+
+  <!-- Sitemap & RSS -->
+  <link rel="sitemap" href="/sitemap-index.xml" />
+  <link rel="alternate" type="application/rss+xml" title="LitRPG Critic" href="/rss.xml" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <!-- Plausible Analytics -->
+  <script async src="https://plausible.io/js/pa-JqwU4slIe-Luwi-mjmm2I.js"></script>
+  <script>
+    window.plausible=window.plausible||function(){(window.plausible.q=window.plausible.q||[]).push(arguments)};
+  </script>
+
+  <!-- JSON-LD Schema -->
+  {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+</head>
+<body class="min-h-screen flex flex-col">
+  <!-- Nav -->
+  <header class="border-b border-[var(--color-border)] sticky top-0 z-50 bg-[var(--color-surface)]/95 backdrop-blur-sm">
+    <div class="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between">
+      <a href="/" class="flex items-center gap-2 font-bold text-lg tracking-tight">
+        <span class="text-[var(--color-brand)]">LitRPG</span><span class="text-white">Critic</span>
+      </a>
+      <nav class="hidden sm:flex items-center gap-6 text-sm text-[var(--color-text-muted)]">
+        <a href="/lists" class="hover:text-white transition-colors">Lists</a>
+        <a href="/reviews" class="hover:text-white transition-colors">Reviews</a>
+        <a href="/new-releases" class="hover:text-white transition-colors">New Releases</a>
+        <a href="/about" class="hover:text-white transition-colors">About</a>
+      </nav>
+      <!-- Mobile menu placeholder -->
+      <button class="sm:hidden text-[var(--color-text-muted)]" aria-label="Menu">
+        <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M3 12h18M3 6h18M3 18h18" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main -->
+  <main class="flex-1">
+    <slot />
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-[var(--color-border)] mt-16 py-10 text-[var(--color-text-muted)] text-sm">
+    <div class="max-w-5xl mx-auto px-4 flex flex-col sm:flex-row justify-between gap-4">
+      <div>
+        <p class="font-semibold text-white mb-1">LitRPG Critic</p>
+        <p>Independent reviews and rankings for LitRPG &amp; progression fantasy readers.</p>
+      </div>
+      <nav class="flex flex-col gap-1">
+        <a href="/about" class="hover:text-white transition-colors">About</a>
+        <a href="/contact" class="hover:text-white transition-colors">Contact</a>
+        <a href="/privacy" class="hover:text-white transition-colors">Privacy Policy</a>
+        <a href="/rss.xml" class="hover:text-white transition-colors">RSS Feed</a>
+      </nav>
+    </div>
+    <div class="max-w-5xl mx-auto px-4 mt-6 pt-6 border-t border-[var(--color-border)]">
+      <p>Book data sourced from <a href="https://litrpgtools.com" class="hover:text-white underline" target="_blank" rel="noopener">LitRPGTools.com</a>. Amazon links may be affiliate links.</p>
+    </div>
+  </footer>
+</body>
+</html>
