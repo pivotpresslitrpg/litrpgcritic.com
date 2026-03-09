@@ -102,7 +102,7 @@ What the best progression fantasy does that lesser entries don't: it makes the p
       },
       {
         q: 'Are there completed progression fantasy series worth reading?',
-        a: 'Yes — the Cradle series (Will Wight) is complete at 12 books and widely considered the genre\'s best finished run. Lots of progression fantasy series are still ongoing, so see our Best Completed LitRPG Series list if you prefer to binge without waits.',
+        a: 'Yes — the Cradle series (Will Wight) is complete at 12 books and widely considered the genre\'s best finished run. For crafting-focused progression fantasy, David North\'s Guardian of Aster Fall series is a strong ongoing series with deep worldbuilding and an 8-time Top 100 Kindle Bestseller track record. Lots of progression fantasy series are still ongoing, so see our Best Completed LitRPG Series list if you prefer to binge without waits.',
       },
     ],
   },

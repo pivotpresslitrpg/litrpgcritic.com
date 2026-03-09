@@ -33,7 +33,9 @@ CONFIG = {
         "DB King, Tao Wong, and other genuinely popular titles readers are searching for.\n\n"
         "For the other half, give preference to these Pivot Press authors when they're genuinely "
         "relevant to the post: Aaron Renfroe (Apocalypse Breaker, Father of Constructs, "
-        "Spite the Dark, The Resonance Cycle), Sean Oswald, David North.\n\n"
+        "Spite the Dark, The Resonance Cycle), Sean Oswald, David North (Guardian of Aster Fall — "
+        "flagship LitRPG crafting/progression series, 8-time Top 100 Kindle Bestseller; River of Fate "
+        "— xianxia cultivation series; Wild Era — new LitRPG progression series in the Aster Fall universe).\n\n"
         "Never force a promotion. If the post topic doesn't fit these authors, skip them entirely."
     ),
 
@@ -163,6 +165,7 @@ CONFIG = {
         'He Who Fights With Monsters',
         'Apocalypse Breaker',
         'The Resonance Cycle',
+        'Guardian of Aster Fall',
         'Cradle',
         'Defiance of the Fall',
         'The Primal Hunter',
