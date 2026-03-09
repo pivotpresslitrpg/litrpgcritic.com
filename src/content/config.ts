@@ -10,6 +10,7 @@ const blog = defineCollection({
     author: z.string().default('The LitRPG Critic'),
     tags: z.array(z.string()).default([]),
     featured: z.boolean().default(false),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
   }),
 });
 

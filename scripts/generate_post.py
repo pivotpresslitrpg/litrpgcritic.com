@@ -560,11 +560,19 @@ def slugify(title: str) -> str:
 
 
 def call_claude(prompt: str) -> str:
+    # Inject GEO and internal link guidance into every prompt
+    extra = ''
+    if CONFIG.get('geo_guidance'):
+        extra += f"\n\n{CONFIG['geo_guidance']}"
+    if CONFIG.get('internal_link_guidance'):
+        extra += f"\n\n{CONFIG['internal_link_guidance']}"
+    full_prompt = prompt + extra
+
     print("Calling Claude API...")
     resp = client.messages.create(
         model='claude-sonnet-4-6',
         max_tokens=2200,
-        messages=[{'role': 'user', 'content': prompt}]
+        messages=[{'role': 'user', 'content': full_prompt}]
     )
     return resp.content[0].text
 

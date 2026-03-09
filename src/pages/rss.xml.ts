@@ -3,8 +3,8 @@ import { getCollection } from 'astro:content';
 import type { APIContext } from 'astro';
 
 export async function GET(context: APIContext) {
-  const posts = (await getCollection('blog', ({ data }) => !data.draft))
-    .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+  const posts = (await getCollection('blog'))
+    .sort((a, b) => b.data.date.localeCompare(a.data.date));
 
   return rss({
     title: 'LitRPG Critic',
@@ -12,7 +12,7 @@ export async function GET(context: APIContext) {
     site: context.site!,
     items: posts.map(post => ({
       title: post.data.title,
-      pubDate: post.data.pubDate,
+      pubDate: new Date(post.data.date + 'T12:00:00'),
       description: post.data.description,
       link: `/blog/${post.id}/`,
     })),

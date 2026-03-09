@@ -17,12 +17,16 @@ const dateStr = new Date(post.data.date + 'T12:00:00').toLocaleDateString('en-US
   year: 'numeric', month: 'long', day: 'numeric'
 });
 
-const schema = {
+const pubDateISO = new Date(post.data.date + 'T12:00:00').toISOString();
+const isBookReport = post.data.type === 'book_report';
+
+const articleSchema = {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": isBookReport ? "Review" : "Article",
   "headline": post.data.title,
   "description": post.data.description,
-  "datePublished": new Date(post.data.date + 'T12:00:00').toISOString(),
+  "datePublished": pubDateISO,
+  "dateModified": pubDateISO,
   "author": {
     "@type": "Organization",
     "name": post.data.author
@@ -31,14 +35,30 @@ const schema = {
     "@type": "Organization",
     "name": "LitRPG Critic",
     "url": "https://litrpgcritic.com"
-  }
+  },
+  ...(isBookReport ? {
+    "itemReviewed": {
+      "@type": "Book",
+      "name": post.data.title.replace(/^(Review:\s*|Book Report:\s*)/i, '')
+    }
+  } : {})
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://litrpgcritic.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://litrpgcritic.com/blog/" },
+    { "@type": "ListItem", "position": 3, "name": post.data.title }
+  ]
 };
 ---
 
 <BaseLayout
   title={post.data.title}
   description={post.data.description}
-  schema={schema}
+  schema={[articleSchema, breadcrumbSchema]}
 >
   <article class="max-w-3xl mx-auto px-4 py-10">
     <div class="mb-6">
@@ -50,6 +70,15 @@ const schema = {
     </div>
     <div class="prose">
       <Content />
+    </div>
+
+    <!-- Platform CTA -->
+    <div class="mt-12 p-6 bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg text-center">
+      <p class="text-white font-semibold mb-2">Discover more LitRPG & progression fantasy</p>
+      <p class="text-[#888] text-sm mb-4">Browse thousands of ranked books, track new releases, and find your next read.</p>
+      <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="inline-block bg-[#e85d2f] hover:bg-[#c44a1f] text-white px-6 py-2.5 rounded font-medium transition-colors">
+        Explore LitRPGTools.com &rarr;
+      </a>
     </div>
   </article>
 </BaseLayout>

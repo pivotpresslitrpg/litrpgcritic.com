@@ -28,3 +28,12 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/generate_book_report.py
+
+      - name: Notify IndexNow
+        if: success()
+        run: |
+          NEW_FILE=$(git diff --name-only HEAD~1 HEAD -- 'src/content/' | head -1)
+          if [ -n "$NEW_FILE" ]; then
+            SLUG=$(basename "$NEW_FILE" .md)
+            curl -s "https://api.indexnow.org/indexnow?url=https://litrpgcritic.com/blog/${SLUG}/&key=lrc8f3a1d7e2b9c4" || true
+          fi

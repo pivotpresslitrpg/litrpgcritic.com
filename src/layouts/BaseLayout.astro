@@ -6,7 +6,7 @@ interface Props {
   description: string;
   canonicalUrl?: string;
   ogImage?: string;
-  schema?: object;
+  schema?: object | object[];
 }
 
 const {
@@ -18,6 +18,7 @@ const {
 } = Astro.props;
 
 const fullTitle = title.includes('LitRPG Critic') ? title : `${title} | LitRPG Critic`;
+const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
 ---
 
 <!DOCTYPE html>
@@ -27,6 +28,7 @@ const fullTitle = title.includes('LitRPG Critic') ? title : `${title} | LitRPG C
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{fullTitle}</title>
   <meta name="description" content={description} />
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
   <link rel="canonical" href={canonicalUrl} />
   <meta name="msvalidate.01" content="7EE57625642C0FDAD06C3D07915EBF09" />
 
@@ -60,7 +62,7 @@ const fullTitle = title.includes('LitRPG Critic') ? title : `${title} | LitRPG C
   </script>
 
   <!-- JSON-LD Schema -->
-  {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+  {schemas.map(s => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
   <!-- Additional head content (e.g. extra JSON-LD schemas) -->
   <slot name="head-extra" />
 </head>
@@ -77,15 +79,37 @@ const fullTitle = title.includes('LitRPG Critic') ? title : `${title} | LitRPG C
         <a href="/new-releases" class="hover:text-white transition-colors">New Releases</a>
         <a href="/blog" class="hover:text-white transition-colors">Blog</a>
         <a href="/about" class="hover:text-white transition-colors">About</a>
+        <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="ml-2 px-3 py-1.5 text-xs font-semibold rounded bg-[var(--color-brand)] text-white hover:opacity-90 transition-opacity">Explore LitRPGTools &rarr;</a>
       </nav>
-      <!-- Mobile menu placeholder -->
-      <button class="sm:hidden text-[var(--color-text-muted)]" aria-label="Menu">
+      <button id="mobile-menu-btn" class="sm:hidden text-[var(--color-text-muted)]" aria-label="Open menu">
         <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path d="M3 12h18M3 6h18M3 18h18" stroke-linecap="round"/>
         </svg>
       </button>
     </div>
   </header>
+
+  <!-- Mobile Menu -->
+  <div id="mobile-menu" class="fixed inset-0 z-[60] hidden">
+    <div id="mobile-backdrop" class="absolute inset-0 bg-black/60"></div>
+    <div class="absolute right-0 top-0 h-full w-64 bg-[var(--color-surface)] border-l border-[var(--color-border)] p-6 flex flex-col">
+      <button id="mobile-close" class="self-end text-[var(--color-text-muted)] hover:text-white mb-6" aria-label="Close menu">
+        <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M18 6L6 18M6 6l12 12" stroke-linecap="round"/>
+        </svg>
+      </button>
+      <nav class="flex flex-col gap-4 text-sm text-[var(--color-text-muted)]">
+        <a href="/lists" class="hover:text-white transition-colors">Lists</a>
+        <a href="/reviews" class="hover:text-white transition-colors">Reviews</a>
+        <a href="/new-releases" class="hover:text-white transition-colors">New Releases</a>
+        <a href="/blog" class="hover:text-white transition-colors">Blog</a>
+        <a href="/about" class="hover:text-white transition-colors">About</a>
+      </nav>
+      <div class="mt-auto pt-6 border-t border-[var(--color-border)]">
+        <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="block text-center px-4 py-2 text-sm font-semibold rounded bg-[var(--color-brand)] text-white hover:opacity-90 transition-opacity">Explore LitRPGTools &rarr;</a>
+      </div>
+    </div>
+  </div>
 
   <!-- Main -->
   <main class="flex-1">
@@ -118,6 +142,12 @@ const fullTitle = title.includes('LitRPG Critic') ? title : `${title} | LitRPG C
           <a href="/privacy" class="hover:text-white transition-colors">Privacy</a>
           <a href="/rss.xml" class="hover:text-white transition-colors">RSS</a>
         </nav>
+        <nav class="flex flex-col gap-1">
+          <p class="text-white font-semibold mb-1">Our Sites</p>
+          <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="hover:text-white transition-colors">LitRPGTools.com</a>
+          <a href="https://haremlitguide.com" target="_blank" rel="noopener" class="hover:text-white transition-colors">HaremLit Guide</a>
+          <a href="https://fantasyranked.com" target="_blank" rel="noopener" class="hover:text-white transition-colors">Fantasy Ranked</a>
+        </nav>
       </div>
     </div>
     <div class="max-w-5xl mx-auto px-4 mt-6 pt-6 border-t border-[var(--color-border)] flex flex-col sm:flex-row gap-3 justify-between">
@@ -125,5 +155,17 @@ const fullTitle = title.includes('LitRPG Critic') ? title : `${title} | LitRPG C
       <p>&copy; {new Date().getFullYear()} Pivot Press Publishing</p>
     </div>
   </footer>
+
+  <script>
+    const btn = document.getElementById('mobile-menu-btn');
+    const menu = document.getElementById('mobile-menu');
+    const close = document.getElementById('mobile-close');
+    const backdrop = document.getElementById('mobile-backdrop');
+    function openMenu() { menu?.classList.remove('hidden'); document.body.style.overflow = 'hidden'; }
+    function closeMenu() { menu?.classList.add('hidden'); document.body.style.overflow = ''; }
+    btn?.addEventListener('click', openMenu);
+    close?.addEventListener('click', closeMenu);
+    backdrop?.addEventListener('click', closeMenu);
+  </script>
 </body>
 </html>

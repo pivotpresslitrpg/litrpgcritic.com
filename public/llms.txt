@@ -1,0 +1,33 @@
+# LitRPG Critic
+
+> Editorial rankings and reviews for LitRPG and progression fantasy readers.
+
+LitRPG Critic is an independent editorial site that publishes curated rankings, in-depth book reviews, new release coverage, and genre analysis for the LitRPG and progression fantasy community.
+
+## Key Pages
+
+- Homepage: https://litrpgcritic.com/
+- Ranked Lists: https://litrpgcritic.com/lists/
+- Book Reviews: https://litrpgcritic.com/reviews/
+- New Releases: https://litrpgcritic.com/new-releases/
+- Blog & Analysis: https://litrpgcritic.com/blog/
+- About: https://litrpgcritic.com/about/
+
+## Data Sources
+
+Rankings and reviews are based on data aggregated from LitRPGTools.com, which tracks ratings, reviews, and popularity across major book platforms including Amazon Kindle, Kindle Unlimited, Audible, and Royal Road.
+
+## Related Sites
+
+- LitRPGTools.com — Parent platform with comprehensive LitRPG database, tracking, and discovery tools
+- HaremLitGuide.com — Sister editorial site covering harem fantasy fiction
+- FantasyRanked.com — Sister editorial site covering broader fantasy subgenres
+- Harem-Lit.com — Parent platform for harem fantasy discovery and tracking
+
+## Publisher
+
+Pivot Press Publishing — Independent publisher of LitRPG, progression fantasy, and harem fiction.
+
+## Content Updates
+
+New blog posts and reviews published weekly via automated editorial pipeline. Rankings updated regularly based on live data from LitRPGTools.com.

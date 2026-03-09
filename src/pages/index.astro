@@ -12,10 +12,10 @@ const [topBooks, recentBooks, allPosts] = await Promise.all([
 ]);
 
 const latestPosts = allPosts
-  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .sort((a, b) => b.data.date.localeCompare(a.data.date))
   .slice(0, 6);
 
-const schema = {
+const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "LitRPG Critic",
@@ -27,12 +27,26 @@ const schema = {
     "query-input": "required name=search_term_string"
   }
 };
+
+const orgSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "LitRPG Critic",
+  "url": "https://litrpgcritic.com",
+  "description": "Editorial rankings and reviews for LitRPG and progression fantasy readers.",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Pivot Press Publishing",
+    "url": "https://litrpgtools.com"
+  },
+  "sameAs": ["https://haremlitguide.com", "https://fantasyranked.com"]
+};
 ---
 
 <BaseLayout
   title="LitRPG Critic — Reviews & Rankings for LitRPG & Progression Fantasy"
   description="The best LitRPG and progression fantasy book reviews, ranked lists, and new release coverage. Find your next great read."
-  schema={schema}
+  schema={[websiteSchema, orgSchema]}
 >
   <!-- Hero -->
   <section class="border-b border-[#2e2e2e] py-12 px-4">
@@ -73,8 +87,8 @@ const schema = {
                 title={post.data.title}
                 description={post.data.description}
                 slug={post.id}
-                pubDate={post.data.pubDate}
-                category={post.data.category}
+                date={post.data.date}
+                type={post.data.type}
               />
             ))}
           </div>

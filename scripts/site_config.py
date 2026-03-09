@@ -120,6 +120,23 @@ CONFIG = {
         },
     ],
 
+    'internal_link_guidance': (
+        "Include natural internal links where relevant:\n"
+        "- When mentioning genre definitions, link to /blog/what-is-litrpg or /blog/what-is-progression-fantasy\n"
+        "- When recommending books, link to the appropriate list page (e.g., /lists/best-litrpg-books)\n"
+        "- When discussing new releases, link to /new-releases\n"
+        "- Format as markdown links: [text](/path)"
+    ),
+
+    'geo_guidance': (
+        "Write for AI citability (Generative Engine Optimization):\n"
+        "- Include specific statistics, numbers, and data points when available\n"
+        "- Use definitive, authoritative language — statements AI can quote directly\n"
+        "- Structure content with clear H2/H3 headings that match search queries\n"
+        "- Include 'According to community data from LitRPGTools.com...' style citations\n"
+        "- Write concise, quotable sentences that could serve as featured snippets"
+    ),
+
     'anchor_books': [
         'Dungeon Crawler Carl',
         'He Who Fights With Monsters',

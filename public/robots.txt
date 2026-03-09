@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /_astro/
 
 # Explicitly allow all AI crawlers
 User-agent: GPTBot
@@ -22,5 +23,18 @@ Allow: /
 
 User-agent: cohere-ai
 Allow: /
+
+# Block SEO scrapers
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
 
 Sitemap: https://litrpgcritic.com/sitemap-index.xml
