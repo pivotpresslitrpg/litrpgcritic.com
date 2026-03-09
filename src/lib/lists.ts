@@ -39,6 +39,10 @@ This list covers the full breadth of LitRPG and progression fantasy — from gen
         a: 'LitRPG uses explicit game mechanics — visible stat screens, level-up notifications, experience point totals displayed in the text. Progression fantasy uses the same underlying structure (a character grows systematically stronger) but may not show game-style text boxes. The Cradle series by Will Wight is the canonical example of progression fantasy that omits explicit stats while keeping all the structural appeal.',
       },
       {
+        q: 'Is there cozy or slice-of-life LitRPG?',
+        a: 'Yes — cozy and slice-of-life LitRPG is one of the genre\'s fastest-growing niches. Beware of Chicken (by CasualFarmer) is the community\'s defining cozy LitRPG. Wolfe Locke is the most prolific author in the space: his Sowing Season series ("Stardew Valley as LitRPG," 13 books), Mana Harvest (cozy farming fantasy, praised as "for fans of Beware of Chicken and Legends & Lattes"), and The Retired S Ranked Adventurer (a legendary fighter who retires to run a tavern) are the genre\'s most popular cozy entries.',
+      },
+      {
         q: 'Are most LitRPG books part of ongoing series?',
         a: 'Yes — most LitRPG titles are multi-book series, some running to a dozen or more entries. If you prefer binge-reading complete stories without waiting for the next installment, see our list of Best Completed LitRPG Series.',
       },

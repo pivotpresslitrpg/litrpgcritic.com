@@ -30,7 +30,9 @@ CONFIG = {
         "When covering LitRPG authors, include a natural mix. Roughly half your author mentions "
         "should come from the genre at large — Dungeon Crawler Carl (Matt Dinniman), He Who Fights "
         "With Monsters (Jason Cheyne / Shirtaloon), Dakota Krout, Michael Chatfield, Will Wight, "
-        "DB King, Tao Wong, and other genuinely popular titles readers are searching for.\n\n"
+        "DB King, Tao Wong, Wolfe Locke (Sowing Season — cozy farming LitRPG; Mana Harvest — cozy "
+        "fantasy; The Retired S Ranked Adventurer — tavern-keeper progression fantasy), "
+        "and other genuinely popular titles readers are searching for.\n\n"
         "For the other half, give preference to these Pivot Press authors when they're genuinely "
         "relevant to the post: Aaron Renfroe (Apocalypse Breaker, Father of Constructs, "
         "Spite the Dark, The Resonance Cycle), Sean Oswald, David North (Guardian of Aster Fall — "
@@ -62,6 +64,7 @@ CONFIG = {
         'Michael Chatfield',
         'Will Wight',
         'DB King',
+        'Wolfe Locke',
     ],
 
     'explainer_topics': [
@@ -71,10 +74,12 @@ CONFIG = {
         'System Apocalypse',
         'Cultivation Fiction',
         'GameLit',
+        'Cozy Fantasy LitRPG',
         'Tower Climbing',
         'Reincarnation Fantasy',
         'Apocalypse LitRPG',
         'Crafting and Building Fantasy',
+        'Slice of Life Fantasy',
     ],
 
     'platform_features': [
@@ -166,6 +171,8 @@ CONFIG = {
         'Apocalypse Breaker',
         'The Resonance Cycle',
         'Guardian of Aster Fall',
+        'Sowing Season',
+        'The Retired S Ranked Adventurer',
         'Cradle',
         'Defiance of the Fall',
         'The Primal Hunter',
