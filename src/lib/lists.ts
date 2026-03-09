@@ -240,7 +240,7 @@ This list collects the best LitRPG and progression fantasy where the romantic su
         a: 'Most LitRPG romance has positive relationship arcs, but the genre does not follow the same structural conventions as traditional romance novels — which require a happily-ever-after or happy-for-now ending. In ongoing series, romantic arcs may still be developing.',
       },
       {
-        q: 'Is there LitRPG with harem or reverse harem elements?',
+        q: 'Is there LitRPG with harem elements?',
         a: 'Yes — some LitRPG titles incorporate harem elements, particularly in men\'s adventure fiction. For that specific sub-niche, see also our companion site HaremLitGuide.com, which covers harem fantasy and men\'s romance LitRPG in depth.',
       },
     ],

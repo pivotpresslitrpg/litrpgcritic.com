@@ -28,7 +28,7 @@ LitRPG Critic is part of the Pivot Press Publishing editorial and data network:
 
 - **Data Platforms:**
   - LitRPGTools.com — Comprehensive LitRPG database with 50,000+ books, community ratings, tracking, and discovery tools across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road
-  - Harem-Lit.com — Harem fantasy database with community ratings, tracking, and discovery for harem fiction, reverse harem, and men's romance
+  - Harem-Lit.com — Harem fantasy database with community ratings, tracking, and discovery for harem fiction and men's romance
 
 - **Editorial Blogs:**
   - LitRPGCritic.com — Editorial rankings and reviews for LitRPG and progression fantasy (this site)
