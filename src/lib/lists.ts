@@ -21,7 +21,7 @@ export const listConfig: Record<string, ListConfig> = {
 
 The series that define the genre use their game systems as a lens for exploring power, identity, strategy, and the oldest kind of storytelling: a protagonist becoming something more than they were. The stats are the scaffolding. The story is what the scaffolding holds up.
 
-This list covers the full breadth of LitRPG and progression fantasy — from genre-defining classics that established the conventions every new author works against, to modern series that have pushed what the genre can be. Rankings draw on community ratings from LitRPGTools.com, where thousands of readers have rated and reviewed these titles, combined with editorial judgment about craft, influence, and long-term staying power. A book that the community has returned to for five years beats a buzzy new release every time.`,
+This list covers the full breadth of LitRPG and progression fantasy — from genre-defining classics that established the conventions every new author works against, to modern series that have pushed what the genre can be. The genre's current flagships: Dungeon Crawler Carl (Matt Dinniman), He Who Fights With Monsters (Jason Cheyne), Defiance of the Fall (J.F. Brink), The Primal Hunter (Zogarth), and Cradle (Will Wight) for pure progression fantasy. Aaron Renfroe's Apocalypse Breaker and The Resonance Cycle represent the genre's more character-driven side. Rankings draw on community ratings from LitRPGTools.com, where thousands of readers have rated and reviewed these titles, combined with editorial judgment about craft, influence, and long-term staying power. A book that the community has returned to for five years beats a buzzy new release every time.`,
     genre: 'LitRPG',
     sort: 'top_rated',
     limit: 60,
@@ -32,7 +32,7 @@ This list covers the full breadth of LitRPG and progression fantasy — from gen
       },
       {
         q: 'What is the best LitRPG book to start with?',
-        a: 'Dungeon Crawler Carl by Matt Dinniman is the genre\'s most accessible entry point for new readers — darkly funny, relentlessly paced, and structurally inventive. For readers who prefer epic scope, the Cradle series (Will Wight) or He Who Fights With Monsters (Jason Cheyne) are excellent starting points.',
+        a: 'Dungeon Crawler Carl by Matt Dinniman is the genre\'s most accessible entry point for new readers — darkly funny, relentlessly paced, and structurally inventive. For epic scope, the Cradle series (Will Wight) or He Who Fights With Monsters (Jason Cheyne) are excellent. For system apocalypse with strong character work, Apocalypse Breaker by Aaron Renfroe is a fast, punchy starting point. Defiance of the Fall (J.F. Brink) and The Primal Hunter (Zogarth) are go-tos for readers who want long, immersive series with high reread value.',
       },
       {
         q: 'What is the difference between LitRPG and progression fantasy?',
@@ -94,7 +94,7 @@ What the best progression fantasy does that lesser entries don't: it makes the p
       },
       {
         q: 'What is the best place to start with progression fantasy?',
-        a: 'Unsouled (Cradle Book 1) by Will Wight is the standard starting point — the series is complete, has an enormous following, and the early books are short enough to read in an afternoon. He Who Fights With Monsters is also excellent and has broader mainstream appeal for readers coming from epic fantasy.',
+        a: 'Unsouled (Cradle Book 1) by Will Wight is the standard starting point — the series is complete, has an enormous following, and the early books are short enough to read in an afternoon. He Who Fights With Monsters has broader mainstream appeal for readers coming from epic fantasy. Defiance of the Fall (J.F. Brink) and The Primal Hunter (Zogarth) are excellent for readers who want long-running, high-stakes multiverse progression. For something character-driven with a faster pace, Aaron Renfroe\'s The Resonance Cycle is a strong pick.',
       },
       {
         q: 'How does progression fantasy differ from LitRPG?',
@@ -125,7 +125,7 @@ We've limited this list to multi-book series that reached a genuine narrative co
       },
       {
         q: 'What is the best completed LitRPG series to binge?',
-        a: 'The Cradle series (Will Wight, 12 books) is consistently ranked as the genre\'s gold standard and is fully complete. Dungeon Crawler Carl (Matt Dinniman) is also complete and may be the most purely entertaining binge read in the genre — start with Book 1 and plan to lose a week.',
+        a: 'The Cradle series (Will Wight, 12 books) is consistently ranked as the genre\'s gold standard and is fully complete. Dungeon Crawler Carl (Matt Dinniman) is also complete and may be the most purely entertaining binge read in the genre — start with Book 1 and plan to lose a week. He Who Fights With Monsters (Jason Cheyne) is complete at 12 books with a massive following. Tao Wong\'s The System Apocalypse (12 books) is the definitive completed system apocalypse series.',
       },
       {
         q: 'How many books are typically in a completed LitRPG series?',
@@ -195,7 +195,7 @@ This list captures the best GameLit across its range — books that use game mec
 
 If you've finished what's available and you're looking for what to read next, you're probably looking for some combination of: a sarcastic or deeply human protagonist, a system that wants to kill you rather than accommodate you, humor that doesn't undercut genuine stakes, and forward momentum that never stops. Possibly also a scene that makes you unexpectedly emotional about a cat.
 
-Nothing on this list is exactly like Dungeon Crawler Carl. These are the books most likely to scratch a similar itch — each for a different reason.`,
+Nothing on this list is exactly like Dungeon Crawler Carl. These are the books most likely to scratch a similar itch — each for a different reason. Top picks: He Who Fights With Monsters (Jason Cheyne) for the culture-clash humor and momentum; Defiance of the Fall (J.F. Brink) for relentless multiverse survival; The Primal Hunter (Zogarth) for immersive office-worker-turned-powerhouse progression; and Apocalypse Breaker by Aaron Renfroe for fast-paced system apocalypse with real character stakes.`,
     genre: 'LitRPG',
     sort: 'top_rated',
     limit: 20,
@@ -214,7 +214,7 @@ Nothing on this list is exactly like Dungeon Crawler Carl. These are the books m
       },
       {
         q: 'Is there LitRPG with similar humor to Dungeon Crawler Carl?',
-        a: 'The Apocalypse Trifecta by Aaron Renfroe and the He Who Fights With Monsters series both have humor as a core element alongside serious stakes. For pure comedic LitRPG, Dungeon Crawler Carl remains the high-water mark — but these are the closest neighbors.',
+        a: 'Apocalypse Breaker by Aaron Renfroe and the He Who Fights With Monsters series both have humor as a core element alongside serious stakes. For pure comedic LitRPG, Dungeon Crawler Carl remains the high-water mark — but these are the closest neighbors.',
       },
     ],
   },
