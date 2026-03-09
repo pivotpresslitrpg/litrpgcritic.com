@@ -33,3 +33,10 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy dist --project-name=litrpgcritic
+
+      - name: Notify IndexNow
+        if: success()
+        run: |
+          curl -s -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d '{"host":"litrpgcritic.com","key":"lrc8f3a1d7e2b9c4","urlList":["https://litrpgcritic.com/","https://litrpgcritic.com/lists/","https://litrpgcritic.com/new-releases/","https://litrpgcritic.com/blog/","https://litrpgcritic.com/sitemap-index.xml"]}' || true

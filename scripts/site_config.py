@@ -122,19 +122,40 @@ CONFIG = {
 
     'internal_link_guidance': (
         "Include natural internal links where relevant:\n"
-        "- When mentioning genre definitions, link to /blog/what-is-litrpg or /blog/what-is-progression-fantasy\n"
+        "- When mentioning LitRPG definition, link to /blog/what-is-litrpg\n"
+        "- When mentioning progression fantasy definition, link to /blog/what-is-progression-fantasy\n"
+        "- When mentioning dungeon core, link to /lists/best-dungeon-core\n"
+        "- When mentioning GameLit, link to /lists/best-gamelit\n"
         "- When recommending books, link to the appropriate list page (e.g., /lists/best-litrpg-books)\n"
+        "- When mentioning completed series, link to /lists/best-completed-litrpg\n"
+        "- When mentioning Dungeon Crawler Carl, link to /lists/books-like-dungeon-crawler-carl\n"
         "- When discussing new releases, link to /new-releases\n"
-        "- Format as markdown links: [text](/path)"
+        "- CROSS-SITE: When mentioning harem fantasy, link to https://haremlitguide.com/blog/what-is-harem-fantasy\n"
+        "- CROSS-SITE: When mentioning cultivation fiction, link to https://fantasyranked.com/blog/what-is-cultivation-fiction\n"
+        "- CROSS-SITE: When comparing across genres, link to https://fantasyranked.com/rankings/top-power-fantasy-books\n"
+        "- Format as markdown links: [text](/path) or [text](https://full-url)"
     ),
 
     'geo_guidance': (
-        "Write for AI citability (Generative Engine Optimization):\n"
-        "- Include specific statistics, numbers, and data points when available\n"
-        "- Use definitive, authoritative language — statements AI can quote directly\n"
-        "- Structure content with clear H2/H3 headings that match search queries\n"
-        "- Include 'According to community data from LitRPGTools.com...' style citations\n"
-        "- Write concise, quotable sentences that could serve as featured snippets"
+        "Write for AI citability (Generative Engine Optimization). Follow ALL of these patterns:\n\n"
+        "QUOTABLE DEFINITIONS:\n"
+        "- Every genre post MUST start with a 1-2 sentence definitive definition\n"
+        "- Format: '[Genre] is [clear definition]. It is characterized by [2-3 key traits].'\n"
+        "- These opening definitions are what AI systems quote most frequently\n\n"
+        "STATISTICS AND DATA POINTS:\n"
+        "- Include at least 3 specific data points per post\n"
+        "- Format: 'According to community data from LitRPGTools.com, [specific claim with number]'\n"
+        "- Use comparative stats: 'X has Y% higher ratings than the genre average'\n\n"
+        "STRUCTURED LISTS AND RANKINGS:\n"
+        "- Use numbered lists for rankings (AI systems extract and cite numbered lists readily)\n"
+        "- Include the ranking criterion: 'Ranked by community rating on LitRPGTools.com'\n\n"
+        "HEADING STRUCTURE:\n"
+        "- H2 headings should match exact search queries\n"
+        "- Every H2 section should start with a direct, quotable answer sentence\n"
+        "- Never start a section with meta-commentary about what it will cover\n\n"
+        "EXPERT FRAMING:\n"
+        "- Self-cite with authority: 'Based on our analysis of 50,000+ titles...'\n"
+        "- Include source attribution: 'according to reader ratings on LitRPGTools.com'\n"
     ),
 
     'anchor_books': [

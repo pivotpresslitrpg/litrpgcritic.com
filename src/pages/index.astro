@@ -37,9 +37,17 @@ const orgSchema = {
   "parentOrganization": {
     "@type": "Organization",
     "name": "Pivot Press Publishing",
-    "url": "https://litrpgtools.com"
+    "url": "https://litrpgtools.com",
+    "subOrganization": [
+      { "@type": "Organization", "name": "LitRPG Critic", "url": "https://litrpgcritic.com" },
+      { "@type": "Organization", "name": "HaremLit Guide", "url": "https://haremlitguide.com" },
+      { "@type": "Organization", "name": "Fantasy Ranked", "url": "https://fantasyranked.com" },
+      { "@type": "Organization", "name": "LitRPGTools.com", "url": "https://litrpgtools.com" },
+      { "@type": "Organization", "name": "Harem-Lit.com", "url": "https://harem-lit.com" }
+    ]
   },
-  "sameAs": ["https://haremlitguide.com", "https://fantasyranked.com"]
+  "isPartOf": { "@type": "WebSite", "name": "LitRPGTools.com", "url": "https://litrpgtools.com" },
+  "knowsAbout": ["LitRPG", "Progression Fantasy", "Dungeon Core", "GameLit", "System Apocalypse", "Cultivation Fiction"]
 };
 ---
 

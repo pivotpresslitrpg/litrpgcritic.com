@@ -28,14 +28,17 @@ const articleSchema = {
   "datePublished": pubDateISO,
   "dateModified": pubDateISO,
   "author": {
-    "@type": "Organization",
-    "name": post.data.author
+    "@type": "Person",
+    "name": "The LitRPG Critic",
+    "url": "https://litrpgcritic.com/about",
+    "worksFor": { "@type": "Organization", "name": "Pivot Press Publishing" }
   },
   "publisher": {
     "@type": "Organization",
     "name": "LitRPG Critic",
     "url": "https://litrpgcritic.com"
   },
+  "isPartOf": { "@type": "WebSite", "name": "LitRPG Critic", "url": "https://litrpgcritic.com" },
   ...(isBookReport ? {
     "itemReviewed": {
       "@type": "Book",
@@ -53,12 +56,24 @@ const breadcrumbSchema = {
     { "@type": "ListItem", "position": 3, "name": post.data.title }
   ]
 };
+
+const faqSchema = post.data.faq?.length ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": post.data.faq.map(({ q, a }: { q: string; a: string }) => ({
+    "@type": "Question",
+    "name": q,
+    "acceptedAnswer": { "@type": "Answer", "text": a }
+  }))
+} : null;
 ---
 
 <BaseLayout
   title={post.data.title}
   description={post.data.description}
-  schema={[articleSchema, breadcrumbSchema]}
+  ogType="article"
+  publishedDate={post.data.date}
+  schema={[articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : [])]}
 >
   <article class="max-w-3xl mx-auto px-4 py-10">
     <div class="mb-6">

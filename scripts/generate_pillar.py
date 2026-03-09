@@ -63,6 +63,44 @@ PILLAR_TOPICS = [
             'Where can I find progression fantasy recommendations?',
         ],
     },
+    {
+        'title': 'What is Dungeon Core? The Complete Guide to Dungeon Core Fiction',
+        'slug': 'what-is-dungeon-core',
+        'description': 'What is dungeon core fiction? A complete guide to the subgenre where you ARE the dungeon — origins, key mechanics, best books, and why readers love building trap-filled labyrinths.',
+        'word_count': '2000-2500',
+        'focus': 'Dungeon Core',
+        'internal_links': [
+            {'url': '/lists/best-dungeon-core', 'text': 'Best Dungeon Core Books'},
+            {'url': '/lists/best-litrpg-books', 'text': 'Best LitRPG Books'},
+            {'url': '/blog/what-is-litrpg', 'text': 'What is LitRPG?'},
+        ],
+        'faq_topics': [
+            'What is dungeon core fiction?',
+            'What is the difference between dungeon core and dungeon crawler?',
+            'What are the best dungeon core books?',
+            'Is Dungeon Born the first dungeon core novel?',
+            'Where can I find dungeon core recommendations?',
+        ],
+    },
+    {
+        'title': 'What is GameLit? How It Differs From LitRPG',
+        'slug': 'what-is-gamelit',
+        'description': 'What is GameLit? A guide to game-influenced fiction — how it differs from LitRPG, the best GameLit books, and why the distinction matters for readers.',
+        'word_count': '2000-2500',
+        'focus': 'GameLit',
+        'internal_links': [
+            {'url': '/lists/best-gamelit', 'text': 'Best GameLit Books'},
+            {'url': '/lists/best-litrpg-books', 'text': 'Best LitRPG Books'},
+            {'url': '/blog/what-is-litrpg', 'text': 'What is LitRPG?'},
+        ],
+        'faq_topics': [
+            'What is the difference between GameLit and LitRPG?',
+            'What are the best GameLit books?',
+            'Is Ready Player One a GameLit book?',
+            'Does GameLit always have stat screens?',
+            'Where can I find GameLit recommendations?',
+        ],
+    },
 ]
 
 
@@ -151,7 +189,7 @@ def write_pillar(topic: dict, content: str):
         'date': today,
         'type': 'pillar',
         'author': CONFIG['author'],
-        'tags': [topic['focus'].lower(), 'guide', 'genre-explainer'],
+        'tags': [topic['focus'].lower().replace(' ', '-'), 'guide', 'genre-explainer'],
         'featured': True,
     }
     if faq:

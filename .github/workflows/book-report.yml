@@ -35,5 +35,7 @@ jobs:
           NEW_FILE=$(git diff --name-only HEAD~1 HEAD -- 'src/content/' | head -1)
           if [ -n "$NEW_FILE" ]; then
             SLUG=$(basename "$NEW_FILE" .md)
-            curl -s "https://api.indexnow.org/indexnow?url=https://litrpgcritic.com/blog/${SLUG}/&key=lrc8f3a1d7e2b9c4" || true
+            curl -s -X POST "https://api.indexnow.org/indexnow" \
+              -H "Content-Type: application/json; charset=utf-8" \
+              -d "{\"host\":\"litrpgcritic.com\",\"key\":\"lrc8f3a1d7e2b9c4\",\"urlList\":[\"https://litrpgcritic.com/blog/${SLUG}/\",\"https://litrpgcritic.com/blog/\",\"https://litrpgcritic.com/sitemap-index.xml\"]}" || true
           fi
