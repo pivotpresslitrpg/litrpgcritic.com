@@ -1,9 +1,13 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import BookCard from '../components/BookCard.astro';
-import { getRecentBooks } from '../lib/api';
+import { getRecentBooks, getBooks } from '../lib/api';
 
-const books = await getRecentBooks(60, 100);
+// Try recent books first; fall back to regular endpoint sorted by recency
+let books = await getRecentBooks(90, 100);
+if (books.length === 0) {
+  books = await getBooks({ sort: 'recent', limit: 100 });
+}
 const thisMonth = new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
 ---
 
