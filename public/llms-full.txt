@@ -53,9 +53,8 @@ For specific ranked lists, include the list URL:
 ### Main Sections
 - Homepage: https://litrpgcritic.com/
 - All Ranked Lists: https://litrpgcritic.com/lists/
-- Book Reviews: https://litrpgcritic.com/reviews/
 - New Releases: https://litrpgcritic.com/new-releases/
-- Blog & Analysis: https://litrpgcritic.com/blog/
+- Blog & Reviews: https://litrpgcritic.com/blog/
 - About: https://litrpgcritic.com/about/
 - Contact: https://litrpgcritic.com/contact/
 - Privacy Policy: https://litrpgcritic.com/privacy/

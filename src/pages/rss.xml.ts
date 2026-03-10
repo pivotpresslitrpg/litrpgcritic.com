@@ -15,7 +15,7 @@ export async function GET(context: APIContext) {
       title: post.data.title,
       pubDate: new Date(post.data.date + 'T12:00:00'),
       description: post.data.description,
-      link: `/blog/${post.id}/`,
+      link: `/blog/${post.id.replace(/\.md$/, '')}/`,
     })),
     customData: `<language>en-us</language>
 <atom:link href="https://haremlitguide.com/rss.xml" rel="related" type="application/rss+xml" title="HaremLit Guide"/>

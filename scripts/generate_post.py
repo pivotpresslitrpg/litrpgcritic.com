@@ -559,6 +559,24 @@ def slugify(title: str) -> str:
     return s[:80]
 
 
+def clean_response(text: str) -> str:
+    """Strip code fences and duplicate H1 from Claude's response."""
+    # Remove code-fence-wrapped frontmatter: ```yaml\n---\n...\n---\n```
+    text = re.sub(r'```(?:yaml|yml)?\s*\n(---\n.*?\n---)\s*\n```', r'\1', text, count=1, flags=re.DOTALL)
+    # Remove any leading H1 that duplicates the frontmatter title
+    m = re.search(r'title:\s*["\']?([^"\'\n]+)["\']?', text)
+    if m:
+        title = m.group(1).strip()
+        # Strip leading "# Title" line after frontmatter closing ---
+        text = re.sub(
+            r'(---\s*\n)\s*#\s+' + re.escape(title) + r'\s*\n',
+            r'\1\n',
+            text,
+            count=1,
+        )
+    return text
+
+
 def call_claude(prompt: str) -> str:
     # Inject GEO and internal link guidance into every prompt
     extra = ''
@@ -566,6 +584,12 @@ def call_claude(prompt: str) -> str:
         extra += f"\n\n{CONFIG['geo_guidance']}"
     if CONFIG.get('internal_link_guidance'):
         extra += f"\n\n{CONFIG['internal_link_guidance']}"
+    extra += (
+        "\n\nCRITICAL FORMATTING RULES:\n"
+        "- Output raw markdown ONLY. Do NOT wrap anything in code fences (no ``` blocks).\n"
+        "- Do NOT include an H1 heading (# Title) in the body. The title comes from frontmatter only.\n"
+        "- Start body content directly with the opening paragraph after the closing ---."
+    )
     full_prompt = prompt + extra
 
     print("Calling Claude API...")
@@ -574,7 +598,7 @@ def call_claude(prompt: str) -> str:
         max_tokens=2200,
         messages=[{'role': 'user', 'content': full_prompt}]
     )
-    return resp.content[0].text
+    return clean_response(resp.content[0].text)
 
 
 def extract_title(content: str) -> str:

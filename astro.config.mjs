@@ -19,7 +19,7 @@ export default defineConfig({
           item.priority = 1.0;
           item.changefreq = 'daily';
           item.lastmod = buildDate;
-        } else if (item.url.includes('/lists/') || item.url.includes('/reviews/')) {
+        } else if (item.url.includes('/lists/')) {
           item.priority = 0.9;
           item.changefreq = 'weekly';
           item.lastmod = buildDate;

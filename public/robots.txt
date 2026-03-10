@@ -56,10 +56,7 @@ User-agent: bingbot
 Allow: /
 Crawl-delay: 0
 
-# Block SEO scrapers
-User-agent: AhrefsBot
-Disallow: /
-
+# Block SEO scrapers (AhrefsBot allowed — we use Ahrefs for analytics)
 User-agent: SemrushBot
 Disallow: /
 

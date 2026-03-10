@@ -20,12 +20,7 @@ const websiteSchema = {
   "@type": "WebSite",
   "name": "LitRPG Critic",
   "url": "https://litrpgcritic.com",
-  "description": "Independent reviews and ranked lists for LitRPG, progression fantasy, and GameLit readers.",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://litrpgcritic.com/search?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
+  "description": "Independent reviews and ranked lists for LitRPG, progression fantasy, and GameLit readers."
 };
 
 const orgSchema = {
@@ -94,7 +89,7 @@ const orgSchema = {
               <PostCard
                 title={post.data.title}
                 description={post.data.description}
-                slug={post.id}
+                slug={post.id.replace(/\.md$/, '')}
                 date={post.data.date}
                 type={post.data.type}
               />

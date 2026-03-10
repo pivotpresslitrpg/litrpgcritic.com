@@ -8,9 +8,8 @@ LitRPG Critic is an independent editorial site that publishes curated rankings, 
 
 - Homepage: https://litrpgcritic.com/
 - Ranked Lists: https://litrpgcritic.com/lists/
-- Book Reviews: https://litrpgcritic.com/reviews/
 - New Releases: https://litrpgcritic.com/new-releases/
-- Blog & Analysis: https://litrpgcritic.com/blog/
+- Blog & Reviews: https://litrpgcritic.com/blog/
 - About: https://litrpgcritic.com/about/
 
 ## Data Sources
