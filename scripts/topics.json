@@ -1,9 +1,10 @@
 {
-  "rotation_index": 1,
+  "rotation_index": 2,
   "published_slugs": [
-    "2026-03-09-best-new-litrpg-progression-fantasy-releases-march-2026-roundup"
+    "2026-03-09-best-new-litrpg-progression-fantasy-releases-march-2026-roundup",
+    "2026-03-12-what-is-litrpg-the-definitive-guide-to-the-genre"
   ],
   "author_queue_index": 0,
   "feature_queue_index": 0,
-  "explainer_queue_index": 0
+  "explainer_queue_index": 1
 }
