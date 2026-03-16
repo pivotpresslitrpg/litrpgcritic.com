@@ -62,10 +62,10 @@ const orgSchema = {
         Ranked lists, honest reviews, and new release tracking for LitRPG, dungeon core, progression fantasy, and GameLit.
       </p>
       <div class="flex flex-wrap gap-3 mt-6">
-        <a href="/lists" class="bg-[#e85d2f] hover:bg-[#c44a1f] text-white px-5 py-2.5 rounded font-medium transition-colors">
+        <a href="/lists/" class="bg-[#e85d2f] hover:bg-[#c44a1f] text-white px-5 py-2.5 rounded font-medium transition-colors">
           Browse Lists
         </a>
-        <a href="/new-releases" class="border border-[#2e2e2e] hover:border-[#e85d2f]/50 text-[#888] hover:text-white px-5 py-2.5 rounded font-medium transition-colors">
+        <a href="/new-releases/" class="border border-[#2e2e2e] hover:border-[#e85d2f]/50 text-[#888] hover:text-white px-5 py-2.5 rounded font-medium transition-colors">
           New Releases
         </a>
       </div>
@@ -82,7 +82,7 @@ const orgSchema = {
         <section>
           <div class="flex items-center justify-between mb-5">
             <h2 class="text-xl font-bold text-white">Latest</h2>
-            <a href="/blog" class="text-sm text-[#e85d2f] hover:underline">All posts →</a>
+            <a href="/blog/" class="text-sm text-[#e85d2f] hover:underline">All posts →</a>
           </div>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {latestPosts.map(post => (
@@ -103,7 +103,7 @@ const orgSchema = {
         <section>
           <div class="flex items-center justify-between mb-5">
             <h2 class="text-xl font-bold text-white">New Releases</h2>
-            <a href="/new-releases" class="text-sm text-[#e85d2f] hover:underline">See all →</a>
+            <a href="/new-releases/" class="text-sm text-[#e85d2f] hover:underline">See all →</a>
           </div>
           <div class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg px-4 divide-y divide-[#2e2e2e]">
             {recentBooks.map((book, i) => (
@@ -121,7 +121,7 @@ const orgSchema = {
       <section class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg p-5">
         <div class="flex items-center justify-between mb-4">
           <h2 class="font-bold text-white">Top Rated</h2>
-          <a href="/lists/best-litrpg-books" class="text-xs text-[#e85d2f] hover:underline">Full list →</a>
+          <a href="/lists/best-litrpg-books/" class="text-xs text-[#e85d2f] hover:underline">Full list →</a>
         </div>
         <div class="divide-y divide-[#2e2e2e]">
           {topBooks.map((book, i) => (
@@ -134,12 +134,12 @@ const orgSchema = {
       <section class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg p-5">
         <h2 class="font-bold text-white mb-3">Popular Lists</h2>
         <ul class="space-y-2 text-sm">
-          <li><a href="/lists/best-litrpg-books" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best LitRPG Books of All Time</a></li>
-          <li><a href="/lists/best-dungeon-core" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best Dungeon Core Books</a></li>
-          <li><a href="/lists/best-progression-fantasy" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best Progression Fantasy Series</a></li>
-          <li><a href="/lists/best-completed-litrpg" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best Completed LitRPG Series</a></li>
-          <li><a href="/lists/best-litrpg-audiobooks" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best LitRPG Audiobooks</a></li>
-          <li><a href="/lists/best-gamelit" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best GameLit Books</a></li>
+          <li><a href="/lists/best-litrpg-books/" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best LitRPG Books of All Time</a></li>
+          <li><a href="/lists/best-dungeon-core/" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best Dungeon Core Books</a></li>
+          <li><a href="/lists/best-progression-fantasy/" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best Progression Fantasy Series</a></li>
+          <li><a href="/lists/best-completed-litrpg/" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best Completed LitRPG Series</a></li>
+          <li><a href="/lists/best-litrpg-audiobooks/" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best LitRPG Audiobooks</a></li>
+          <li><a href="/lists/best-gamelit/" class="text-[#888] hover:text-[#e85d2f] transition-colors">Best GameLit Books</a></li>
         </ul>
       </section>
 

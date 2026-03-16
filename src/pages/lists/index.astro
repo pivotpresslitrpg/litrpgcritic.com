@@ -25,7 +25,7 @@ const lists = [
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
       {lists.map(list => (
         <a
-          href={`/lists/${list.slug}`}
+          href={`/lists/${list.slug}/`}
           class="group border border-[#2e2e2e] rounded-lg bg-[#1a1a1a] hover:border-[#e85d2f]/40 p-5 transition-colors"
         >
           <p class="text-xs text-[#555] mb-1">{list.count}+ books</p>

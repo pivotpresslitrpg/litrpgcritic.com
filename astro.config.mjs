@@ -5,6 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://litrpgcritic.com',
+  trailingSlash: 'always',
   vite: {
     plugins: [tailwindcss()]
   },
