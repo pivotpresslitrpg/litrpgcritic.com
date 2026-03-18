@@ -1,11 +1,11 @@
 ---
 title: "What Is Crafting LitRPG? The Complete Guide"
 description: "Crafting LitRPG explained: skip the sword and master the forge, the alchemy lab, and the supply chain — progression through creation, not combat."
-date: "2026-03-17"
+date: "2026-04-07"
 type: "genre_explainer"
 author: "The LitRPG Critic"
 tags: ["crafting LitRPG", "crafting system", "Bakers and Necromancers", "Outspan Foster", "Ascend Online", "Luke Chmilenko", "The Menocht Loop", "David North", "blacksmithing", "alchemy", "enchanting", "non-combat progression", "merchant LitRPG"]
-featured: true
+featured: false
 faq:
   - q: "Does crafting LitRPG have any combat?"
     a: "Most crafting LitRPG includes some combat, but it's not the primary advancement mechanism. The protagonist might need to gather dangerous materials, defend their workshop, or field-test their creations. The key distinction is that they progress through what they make, not what they kill."

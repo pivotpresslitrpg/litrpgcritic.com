@@ -1,11 +1,11 @@
 ---
 title: "What Is Time Loop LitRPG? The Complete Guide"
 description: "Time loop LitRPG explained: die, learn, repeat — every death is data, every loop is a chance to optimize, and the perfect run is always one more try away."
-date: "2026-03-17"
+date: "2026-04-09"
 type: "genre_explainer"
 author: "The LitRPG Critic"
 tags: ["time loop", "Groundhog Day", "The Menocht Loop", "David North", "Dungeon Crawler Carl", "Matt Dinniman", "Spite the Dark", "Aaron Renfroe", "roguelike", "optimization", "save scumming", "LitRPG subgenres"]
-featured: true
+featured: false
 faq:
   - q: "How does progression work in time loop LitRPG?"
     a: "It varies by series. In some, the protagonist retains only knowledge between loops — they remember what works and what kills them but reset physically. In others, they keep some stats, skills, or items across resets. The constant is that accumulated knowledge is the primary progression resource, making the reader's attention to detail as important as the character's."

@@ -1,11 +1,11 @@
 ---
 title: "What Is System Apocalypse? The Complete Guide"
 description: "System apocalypse LitRPG explained: Earth gets RPG mechanics overnight, monsters spawn in cities, and ordinary people must level up or die."
-date: "2026-03-17"
+date: "2026-03-21"
 type: "genre_explainer"
 author: "The LitRPG Critic"
 tags: ["system apocalypse", "apocalypse LitRPG", "System Apocalypse", "Tao Wong", "System Change", "Sean Oswall", "Apocalypse BREAKER", "Aaron Renfroe", "Irrelevant Jack", "Prax Venter", "post-apocalyptic fantasy", "survival LitRPG"]
-featured: true
+featured: false
 faq:
   - q: "What's the difference between system apocalypse and regular LitRPG?"
     a: "Regular LitRPG typically takes place in a game world or a fantasy realm that already has RPG mechanics. System apocalypse starts on modern-day Earth and introduces those mechanics suddenly — usually alongside monsters, dungeons, and societal collapse. The familiar setting is what makes it hit differently."

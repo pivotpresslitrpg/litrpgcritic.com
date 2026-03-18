@@ -1,11 +1,11 @@
 ---
 title: "What Is Dark LitRPG? The Complete Guide"
 description: "Dark LitRPG explained: when the system is cruel, death is permanent, and survival means making ugly choices — the grimdark side of progression fantasy."
-date: "2026-03-17"
+date: "2026-04-02"
 type: "genre_explainer"
 author: "The LitRPG Critic"
 tags: ["dark LitRPG", "grimdark", "Dungeon Crawler Carl", "Matt Dinniman", "Tower of Damnation", "Cassius Lange", "He Who Fights with Monsters", "Shirtaloon", "death game", "horror LitRPG", "dark fantasy", "permanent death"]
-featured: true
+featured: false
 faq:
   - q: "Is dark LitRPG just LitRPG with more violence?"
     a: "No — it's about consequence, not gore. Dark LitRPG is defined by meaningful stakes, morally complex decisions, and systems that aren't designed to be fair. Violence may be present, but the darkness comes from the weight of choices and the cost of survival, not from gratuitous content."

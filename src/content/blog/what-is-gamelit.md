@@ -1,11 +1,11 @@
 ---
 title: "What Is GameLit? The Complete Guide"
 description: "GameLit explained: game-adjacent worlds and mechanics without the hard stat crunch, the accessible gateway between traditional fantasy and LitRPG."
-date: "2026-03-17"
+date: "2026-03-26"
 type: "genre_explainer"
 author: "The LitRPG Critic"
 tags: ["GameLit", "Dungeon Crawler Carl", "Matt Dinniman", "War Aeternus", "Charles Dean", "Resonance Cycle", "Aaron Renfroe", "LitRPG vs GameLit", "portal fantasy", "VR fiction", "game world fantasy"]
-featured: true
+featured: false
 faq:
   - q: "Is GameLit the same as LitRPG?"
     a: "GameLit is the broader category — LitRPG is a subset of it. All LitRPG is GameLit, but not all GameLit is LitRPG. The distinction comes down to mechanical rigor: LitRPG requires explicit stat screens, experience points, and visible numerical systems. GameLit uses game-inspired elements more loosely, prioritizing narrative flow over mechanical precision."

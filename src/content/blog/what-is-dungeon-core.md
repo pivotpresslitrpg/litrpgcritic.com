@@ -1,11 +1,11 @@
 ---
 title: "What Is Dungeon Core? The Complete Guide"
 description: "Dungeon core fiction explained: become the dungeon itself, design deadly floors, spawn monsters, and defend against waves of adventurers."
-date: "2026-03-17"
+date: "2026-03-19"
 type: "genre_explainer"
 author: "The LitRPG Critic"
 tags: ["dungeon core", "Divine Dungeon", "Dakota Krout", "Dungeon World", "Jonathan Brooks", "Ascend Online", "Luke Chmilenko", "tower defense", "monster management", "LitRPG subgenres"]
-featured: true
+featured: false
 faq:
   - q: "What's the difference between dungeon core and regular LitRPG?"
     a: "In standard LitRPG, you play the adventurer exploring the dungeon. In dungeon core, you ARE the dungeon — a sentient entity designing floors, spawning creatures, and managing resources. The perspective flip changes everything about how progression works."

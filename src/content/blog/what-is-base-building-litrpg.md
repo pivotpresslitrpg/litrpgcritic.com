@@ -1,11 +1,11 @@
 ---
 title: "What Is Base Building LitRPG? The Complete Guide"
 description: "Base building LitRPG explained: build settlements, manage resources, recruit NPCs, and grow from a campfire to a kingdom with game mechanics."
-date: "2026-03-17"
+date: "2026-03-31"
 type: "genre_explainer"
 author: "The LitRPG Critic"
 tags: ["base building", "settlement building", "kingdom building", "System Change", "Sean Oswall", "The Menocht Loop", "David North", "Elemental Dungeon", "CJ Thompson", "city builder", "resource management", "LitRPG subgenres"]
-featured: true
+featured: false
 faq:
   - q: "What's the difference between base building LitRPG and kingdom building?"
     a: "They're closely related, but base building focuses on the mechanical, ground-level construction and resource management — placing buildings, managing supply chains, upgrading structures. Kingdom building typically implies a larger political scope: governance, diplomacy, military strategy, and ruling a population. Most series blend both, but the emphasis differs."

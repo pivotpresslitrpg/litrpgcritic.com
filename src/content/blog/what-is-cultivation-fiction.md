@@ -1,11 +1,11 @@
 ---
 title: "What Is Cultivation Fiction? The Complete Guide"
 description: "Cultivation fiction explained: refine your soul, break through realms, and pursue immortality through internal mastery in this Eastern-inspired fantasy subgenre."
-date: "2026-03-17"
+date: "2026-03-24"
 type: "genre_explainer"
 author: "The LitRPG Critic"
 tags: ["cultivation", "xianxia", "wuxia", "Cradle", "Will Wight", "A Thousand Li", "Tao Wong", "He Who Fights with Monsters", "Shirtaloon", "progression fantasy", "qi", "sect politics", "Eastern fantasy"]
-featured: true
+featured: false
 faq:
   - q: "What's the difference between cultivation and progression fantasy?"
     a: "All cultivation fiction is progression fantasy, but not all progression fantasy is cultivation. Cultivation specifically draws from Chinese xianxia and wuxia traditions, featuring internal energy refinement (qi/essence), named breakthrough stages, and philosophical themes about self-mastery. Progression fantasy is the broader category that includes any measurable power growth system."

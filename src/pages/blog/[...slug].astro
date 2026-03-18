@@ -3,7 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  const today = new Date().toISOString().slice(0, 10);
+  const posts = (await getCollection('blog')).filter(p => p.data.date <= today);
   return posts.map(post => ({
     params: { slug: post.id.replace(/\.md$/, '') },
     props: { post }

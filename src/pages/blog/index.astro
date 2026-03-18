@@ -3,7 +3,9 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 
+const today = new Date().toISOString().slice(0, 10);
 const posts = (await getCollection('blog'))
+  .filter(p => p.data.date <= today)
   .sort((a, b) => b.data.date.localeCompare(a.data.date));
 ---
 

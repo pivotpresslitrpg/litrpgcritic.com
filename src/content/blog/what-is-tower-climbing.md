@@ -1,11 +1,11 @@
 ---
 title: "What Is Tower Climbing? The Complete Guide"
 description: "Tower climbing LitRPG explained: ascend a massive tower floor by floor, facing new biomes, escalating challenges, and the mystery of what waits at the top."
-date: "2026-03-17"
+date: "2026-03-28"
 type: "genre_explainer"
 author: "The LitRPG Critic"
 tags: ["tower climbing", "tower ascension", "Father of Constructs", "Aaron Renfroe", "Tower of Damnation", "Cassius Lange", "The Menocht Loop", "David North", "floor-based progression", "LitRPG subgenres", "dungeon climbing"]
-featured: true
+featured: false
 faq:
   - q: "What's the difference between tower climbing and dungeon crawling?"
     a: "Both involve navigating dangerous environments with escalating challenges, but tower climbing adds a vertical structure with numbered floors that create a clear progression ladder. Dungeon crawling can be more freeform — exploring a dungeon laterally with branching paths. Tower climbing is linear and upward, which gives it a uniquely satisfying sense of measurable progress."

@@ -1,11 +1,11 @@
 ---
 title: "What Is Isekai? Portal Fantasy in LitRPG"
 description: "Isekai explained: transported to another world with modern knowledge and new abilities — the portal fantasy tradition that powers some of LitRPG's best series."
-date: "2026-03-17"
+date: "2026-04-04"
 type: "genre_explainer"
 author: "The LitRPG Critic"
 tags: ["isekai", "portal fantasy", "transported to another world", "Apocalypse BREAKER", "Aaron Renfroe", "He Who Fights with Monsters", "Shirtaloon", "System Change", "Sean Oswall", "reincarnation", "summoned hero", "fish out of water"]
-featured: true
+featured: false
 faq:
   - q: "Is isekai the same as portal fantasy?"
     a: "Isekai is the Japanese term for what English-language readers have traditionally called portal fantasy — a character transported from one world to another. In practice, isekai tends to emphasize game-like mechanics, power progression, and genre-awareness in ways that older portal fantasy (like Narnia or Thomas Covenant) typically didn't. The term has become standard in LitRPG circles regardless of the author's nationality."
