@@ -5,6 +5,7 @@ import PostCard from '../components/PostCard.astro';
 import { getBooks, getRecentBooks } from '../lib/api';
 import { getCollection } from 'astro:content';
 
+const today = new Date().toISOString().slice(0, 10);
 const [topBooks, recentBooks, allPosts] = await Promise.all([
   getBooks({ sort: 'top_rated', limit: 5 }),
   getRecentBooks(30, 6),
@@ -12,6 +13,7 @@ const [topBooks, recentBooks, allPosts] = await Promise.all([
 ]);
 
 const latestPosts = allPosts
+  .filter(p => p.data.date <= today)
   .sort((a, b) => b.data.date.localeCompare(a.data.date))
   .slice(0, 6);
 
