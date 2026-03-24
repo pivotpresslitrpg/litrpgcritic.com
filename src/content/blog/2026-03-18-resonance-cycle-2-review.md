@@ -1,15 +1,4 @@
 ---
-title: "The Resonance Cycle Book 2 Review"
-description: "An editorial review of The Resonance Cycle Book 2 by Aaron Renfroe"
-date: "2026-03-18"
-type: "book_report"
-author: "The LitRPG Critic"
-tags: ["The Resonance Cycle", "Aaron Renfroe"]
-featured: true
----
-
-```yaml
----
 title: "Theater of War Review: The Resonance Cycle Book 2 Is the LitRPG Series That Earns Every Moment of Its Ambition"
 description: "Aaron Renfroe's Theater of War delivers grounded characters, inventive progression systems, and real emotional stakes. A standout in 2024 progression fantasy."
 date: "2026-03-18"

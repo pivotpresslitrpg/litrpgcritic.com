@@ -657,6 +657,18 @@ def main():
     prompt = build_report_prompt(book, book_text, fmt)
     content = call_claude(prompt)
 
+    # Strip markdown code block wrapper if Claude returned frontmatter inside ```yaml...```
+    stripped = content.strip()
+    if stripped.startswith('```'):
+        # Remove opening fence (```yaml, ```md, ``` etc.)
+        first_newline = stripped.find('\n')
+        if first_newline != -1:
+            stripped = stripped[first_newline + 1:]
+        # Remove closing fence if present
+        if stripped.rstrip().endswith('```'):
+            stripped = stripped.rstrip()[:-3].rstrip()
+        content = stripped
+
     # Ensure frontmatter
     if not content.strip().startswith('---'):
         date_str = datetime.now().strftime('%Y-%m-%d')
