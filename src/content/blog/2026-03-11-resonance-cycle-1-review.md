@@ -1,15 +1,4 @@
 ---
-title: "Divine Invasion (The Resonance Cycle Book 1) Review"
-description: "An editorial review of Divine Invasion (The Resonance Cycle Book 1) by Aaron Renfroe"
-date: "2026-03-11"
-type: "book_report"
-author: "The LitRPG Critic"
-tags: ["The Resonance Cycle", "Aaron Renfroe"]
-featured: true
----
-
-```yaml
----
 title: "Divine Invasion Review: The LitRPG Series That Takes Preparation Fantasy Seriously"
 description: "Divine Invasion by Aaron Renfroe launches The Resonance Cycle with a grounded, methodical protagonist and a portal fantasy setup that rewards patient readers."
 date: "2026-03-11"
@@ -18,7 +7,6 @@ author: "The LitRPG Critic"
 tags: ["The Resonance Cycle", "Aaron Renfroe", "LitRPG", "progression fantasy", "action RPG"]
 featured: true
 ---
-```
 
 # Divine Invasion Review: The LitRPG Series That Takes Preparation Fantasy Seriously
 

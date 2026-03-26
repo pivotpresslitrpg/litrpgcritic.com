@@ -660,6 +660,16 @@ def main():
 
     content = call_claude(result['prompt'])
 
+    # Strip markdown code block wrapper if Claude returned frontmatter inside ```yaml...```
+    stripped = content.strip()
+    if stripped.startswith('```'):
+        first_newline = stripped.find('\n')
+        if first_newline != -1:
+            stripped = stripped[first_newline + 1:]
+        if stripped.rstrip().endswith('```'):
+            stripped = stripped.rstrip()[:-3].rstrip()
+        content = stripped
+
     # Ensure output starts with frontmatter
     if not content.strip().startswith('---'):
         date_str = datetime.now().strftime('%Y-%m-%d')
