@@ -80,7 +80,7 @@ The series continues to expand and escalate. By this point Dinniman has built a 
 
 ### Book 8: A Parade of Horribles (Coming May 2026)
 
-**A Parade of Horribles** is the most anticipated LitRPG release of 2026 — rated ⧗ 9.56 across pre-release community tracking and releasing **May 26, 2026**. If you start now, you have roughly two months to get through the existing series before the new entry drops.
+**A Parade of Horribles** is the most anticipated LitRPG release of 2026 — rated ⧗ 9.56 across pre-release community tracking and releasing **May 12, 2026**. If you start now, you have roughly a month to get through the existing series before the new entry drops.
 
 That is not a coincidence worth ignoring.
 

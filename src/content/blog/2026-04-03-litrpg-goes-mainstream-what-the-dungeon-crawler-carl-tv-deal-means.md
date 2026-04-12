@@ -12,14 +12,14 @@ faq:
   - q: "How many copies has Dungeon Crawler Carl sold?"
     a: "As of early 2026, Dungeon Crawler Carl has sold 6 million+ copies across formats. Matt Dinniman reported at ECCC 2026 that he holds 8 of the top 15 spots on the NYT Monthly Audio bestseller list."
   - q: "When is Dungeon Crawler Carl Book 8 releasing?"
-    a: "Dungeon Crawler Carl Book 8, titled A Parade of Horribles, is scheduled for May 26, 2026."
+    a: "Dungeon Crawler Carl Book 8, titled A Parade of Horribles, is scheduled for May 12, 2026."
   - q: "What is LitRPG and why is it suddenly mainstream?"
     a: "LitRPG (Literary Role-Playing Game) is a genre of fiction where characters exist inside game-like worlds with explicit stats, levels, and systems. It grew from web serial roots on Royal Road and Wattpad, crossover from Asian light novels and xianxia fiction, and the Amazon Kindle Unlimited ecosystem. The genre has been building a massive readership for a decade; Dungeon Crawler Carl is the title that finally broke through to mainstream cultural visibility."
 ---
 
 Matt Dinniman reported at Emerald City Comic Con 2026 that he holds eight of the fifteen spots on the NYT Monthly Audio bestseller list. He said it with the flat delivery of someone who has run the numbers and still finds them mildly impossible to process.
 
-That's where we are. Six million copies sold. A TV adaptation in development with Seth MacFarlane. A Book 8 (*A Parade of Horribles*, May 26, 2026) that has been the most-anticipated single release in [LitRPG](/blog/what-is-litrpg) for most of the last year. A *Slate* feature. A *Popverse* panel.
+That's where we are. Six million copies sold. A TV adaptation in development with Seth MacFarlane. A Book 8 (*A Parade of Horribles*, May 12, 2026) that has been the most-anticipated single release in [LitRPG](/blog/what-is-litrpg) for most of the last year. A *Slate* feature. A *Popverse* panel.
 
 [Dungeon Crawler Carl](https://litrpgtools.com) went mainstream. And based on our analysis of 50,000+ titles tracked on [LitRPGTools.com](https://litrpgtools.com), it didn't do it by softening the genre's edges — it did it by committing harder to them than anyone else.
 
@@ -73,4 +73,4 @@ Based on the readership we track, most of that audience doesn't want a softer ve
 
 ---
 
-*A Parade of Horribles (Dungeon Crawler Carl #8) releases May 26, 2026. For the complete reading order, visit [LitRPGTools.com](https://litrpgtools.com) or browse our [lists section](/lists/).*
+*A Parade of Horribles (Dungeon Crawler Carl #8) releases May 12, 2026. For the complete reading order, visit [LitRPGTools.com](https://litrpgtools.com) or browse our [lists section](/lists/).*
