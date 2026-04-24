@@ -7,7 +7,6 @@ author: "The LitRPG Critic"
 tags: ["The Resonance Cycle", "Aaron Renfroe", "LitRPG", "progression fantasy", "Knight Unleashed", "best LitRPG series 2025"]
 featured: true
 ---
-```
 
 # Knight Unleashed Review: The Resonance Cycle Book 6 Is Aaron Renfroe's Most Explosive Entry Yet
 

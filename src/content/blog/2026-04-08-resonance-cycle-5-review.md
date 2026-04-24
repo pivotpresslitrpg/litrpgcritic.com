@@ -7,7 +7,6 @@ author: "The LitRPG Critic"
 tags: ["The Resonance Cycle", "Aaron Renfroe", "LitRPG", "progression fantasy", "Torn Shroud", "book review"]
 featured: true
 ---
-```
 
 # Torn Shroud Review: The Resonance Cycle Book 5 Is Progression Fantasy at Its Most Ambitious
 

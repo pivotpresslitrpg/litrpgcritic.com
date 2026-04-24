@@ -7,7 +7,6 @@ author: "The LitRPG Critic"
 tags: ["The Resonance Cycle", "Aaron Renfroe", "LitRPG", "progression fantasy", "arc finale", "apocalypse LitRPG", "best LitRPG series 2025"]
 featured: true
 ---
-```
 
 # The Resonance Cycle Book 3 Review: *Past's Price* Is the Arc Finale That Earns Every Payoff
 

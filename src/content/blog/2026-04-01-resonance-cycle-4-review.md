@@ -7,7 +7,6 @@ author: "The LitRPG Critic"
 tags: ["The Resonance Cycle", "Aaron Renfroe", "LitRPG", "progression fantasy", "This Dark Shore", "best LitRPG 2026"]
 featured: true
 ---
-```
 
 # This Dark Shore Review: The Resonance Cycle Book 4 Is the Dark Arc Progression Fantasy Has Been Building Toward
 

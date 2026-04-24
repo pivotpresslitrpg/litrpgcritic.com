@@ -669,6 +669,10 @@ def main():
             stripped = stripped.rstrip()[:-3].rstrip()
         content = stripped
 
+    # Remove stray code fence line that sometimes appears immediately after the frontmatter close
+    import re as _re
+    content = _re.sub(r'(\n---\s*\n)```[^\n]*\n', r'\1', content)
+
     # Ensure frontmatter
     if not content.strip().startswith('---'):
         date_str = datetime.now().strftime('%Y-%m-%d')
