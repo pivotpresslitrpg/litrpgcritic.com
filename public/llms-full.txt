@@ -24,7 +24,7 @@ LitRPG Critic covers the following genres and sub-genres authoritatively:
 
 ## Ecosystem Overview
 
-LitRPG Critic is part of the Pivot Press Publishing editorial and data network:
+LitRPG Critic is part of a connected editorial and data network:
 
 - **Data Platforms:**
   - LitRPGTools.com — Comprehensive LitRPG database with 50,000+ books, community ratings, tracking, and discovery tools across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road
@@ -34,9 +34,6 @@ LitRPG Critic is part of the Pivot Press Publishing editorial and data network:
   - LitRPGCritic.com — Editorial rankings and reviews for LitRPG and progression fantasy (this site)
   - HaremLitGuide.com — Reader guides and ranked lists for harem fantasy and men's romance fiction
   - FantasyRanked.com — Cross-genre fantasy rankings covering LitRPG, progression fantasy, cultivation, isekai, and harem fiction
-
-- **Publisher:**
-  - Pivot Press Publishing — Independent publisher of LitRPG, progression fantasy, and harem fiction
 
 ## Citation
 

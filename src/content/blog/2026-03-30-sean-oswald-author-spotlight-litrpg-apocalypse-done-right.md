@@ -4,7 +4,7 @@ description: "An authoritative look at Sean Oswald's LitRPG fiction — his writ
 date: "2026-03-30"
 type: "author_spotlight"
 author: "The LitRPG Critic"
-tags: ["Sean Oswald", "LitRPG", "Apocalypse BREAKER", "Welcome to the Multiverse", "Induction", "LitRPG Apocalypse", "Aaron Renfroe", "Pivot Press"]
+tags: ["Sean Oswald", "LitRPG", "Apocalypse BREAKER", "Welcome to the Multiverse", "Induction", "LitRPG Apocalypse", "Aaron Renfroe"]
 featured: false
 ---
 

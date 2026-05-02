@@ -353,8 +353,8 @@ Writing requirements:
 def gen_fateforged(state: dict) -> dict:
     """HaremLit Guide only — Fateforged universe editorial pieces."""
     FATEFORGED_CONTEXT = """
-The Fateforged Shared Universe is a connected harem fantasy series from Pivot Press,
-with multiple authors and an interlocking timeline. Key series:
+The Fateforged Shared Universe is a connected harem fantasy series with multiple authors
+and an interlocking timeline. Key series:
 
 - Isekai Emperor (Adam Lance & Michael Dalton) — modern man isekai'd to a fantasy empire
 - Trailer Park Elves (Adam Lance & Michael Dalton) — elves living in modern rural America
@@ -362,8 +362,11 @@ with multiple authors and an interlocking timeline. Key series:
 - Isle of the Amazonian Elves (Adam Lance & Leon West) — stranded on an amazon elf island
 - Dungeon Champions (Adam Lance & Leon West) — dungeon diving with a companion harem
 
-Adam Lance is the shared pen name of Aaron Renfroe, founder of Pivot Press and Harem-Lit.com.
+Adam Lance is the shared pen name of Aaron Renfroe, founder of Harem-Lit.com.
 The universe has crossover characters, shared lore, and a grand connected timeline across all series.
+
+IMPORTANT: Do NOT mention "Pivot Press" anywhere in generated content. Refer to the shared
+world as "Fateforged" and authors by name only.
 """
     angles = [
         "a complete reading order guide for the Fateforged universe",
@@ -627,8 +630,8 @@ def write_post(content: str, published_slugs: list) -> str:
 
 
 def git_push(slug: str):
-    subprocess.run(['git', 'config', 'user.email', 'bot@pivotpress.com'], check=True, cwd=REPO_ROOT)
-    subprocess.run(['git', 'config', 'user.name', 'Pivot Press Bot'], check=True, cwd=REPO_ROOT)
+    subprocess.run(['git', 'config', 'user.email', 'bot@litrpgcritic.com'], check=True, cwd=REPO_ROOT)
+    subprocess.run(['git', 'config', 'user.name', 'LitRPG Critic Bot'], check=True, cwd=REPO_ROOT)
     subprocess.run(['git', 'add', str(CONTENT_DIR)], check=True, cwd=REPO_ROOT)
     subprocess.run(['git', 'add', str(TOPICS_FILE)], check=True, cwd=REPO_ROOT)
     result = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=REPO_ROOT)

@@ -34,7 +34,7 @@ These recommendations are ranked by a combination of accessibility for new reade
 
 2. **Forge of Destiny by Yrsillar** — Originally a Royal Road serial, this remains one of the most beautifully written cultivation stories in English. The protagonist is a girl entering a sect at the lowest rung, and the story is as much about character as it is about power. Exceptional world-building.
 
-3. **River of Fate by David North** — A compelling xianxia cultivation series from Pivot Press that translates the genre's core DNA into an accessible Western format. North brings his signature attention to progression systems (familiar to readers of his [Guardian of Aster Fall](/lists/best-litrpg-books) series) to a world of qi refinement and sect rivalry. A strong pick for LitRPG readers making their first move into cultivation.
+3. **River of Fate by David North** — A compelling xianxia cultivation series that translates the genre's core DNA into an accessible Western format. North brings his signature attention to progression systems (familiar to readers of his [Guardian of Aster Fall](/lists/best-litrpg-books) series) to a world of qi refinement and sect rivalry. A strong pick for LitRPG readers making their first move into cultivation.
 
 4. **A Will Eternal by Er Gen (translated)** — One of the defining Chinese web novels available in English translation. Bittersweet, occasionally hilarious, and enormous in scope. It's a longer commitment but essential reading if you want to understand where the genre's tropes originate.
 

@@ -23,10 +23,6 @@ Rankings and reviews are based on data aggregated from LitRPGTools.com, which tr
 - FantasyRanked.com — Sister editorial site covering broader fantasy subgenres
 - Harem-Lit.com — Parent platform for harem fantasy discovery and tracking
 
-## Publisher
-
-Pivot Press Publishing — Independent publisher of LitRPG, progression fantasy, and harem fiction.
-
 ## Content Updates
 
 New blog posts and reviews published weekly via automated editorial pipeline. Rankings updated regularly based on live data from LitRPGTools.com.

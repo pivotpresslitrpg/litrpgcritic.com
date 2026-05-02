@@ -588,8 +588,8 @@ def write_post(content: str, book_id: str) -> str:
 
 
 def git_push(slug: str):
-    subprocess.run(['git', 'config', 'user.email', 'bot@pivotpress.com'], check=True, cwd=REPO_ROOT)
-    subprocess.run(['git', 'config', 'user.name', 'Pivot Press Bot'], check=True, cwd=REPO_ROOT)
+    subprocess.run(['git', 'config', 'user.email', 'bot@litrpgcritic.com'], check=True, cwd=REPO_ROOT)
+    subprocess.run(['git', 'config', 'user.name', 'LitRPG Critic Bot'], check=True, cwd=REPO_ROOT)
     subprocess.run(['git', 'add', str(CONTENT_DIR)], check=True, cwd=REPO_ROOT)
     subprocess.run(['git', 'add', str(QUEUE_FILE)], check=True, cwd=REPO_ROOT)
     result = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=REPO_ROOT)

@@ -70,7 +70,7 @@ Based on our analysis of 50,000+ titles in the genre, pacing failures in books f
 
 Renfroe writes action prose that stays on the right side of the breathless/chaotic line. Sentences shorten under pressure: *"Boom! Boom! Two bullets slammed into the captive scion's chest."* When things slow, description expands to match. The god-realm sequence uses more deliberate, formal phrasing that differentiates divine POV from the ground-level grind of the prison break. That's a craftsman's choice, and it's consistent.
 
-Minor note: the Author's Notes and What Came Before sections at the top of the extract are audiobook apparatus — structural scaffolding for listeners rather than prose to evaluate. Worth acknowledging that the series has clearly built a committed audio audience, which speaks to Renfroe's broader commercial foothold alongside other Pivot Press titles like *Father of Constructs* and the well-regarded *Assassin Summoner*.
+Minor note: the Author's Notes and What Came Before sections at the top of the extract are audiobook apparatus — structural scaffolding for listeners rather than prose to evaluate. Worth acknowledging that the series has clearly built a committed audio audience, which speaks to Renfroe's broader commercial foothold alongside his other titles like *Father of Constructs* and the well-regarded *Assassin Summoner*.
 
 ---
 

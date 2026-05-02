@@ -33,12 +33,14 @@ CONFIG = {
         "DB King, Tao Wong, Wolfe Locke (Sowing Season — cozy farming LitRPG; Mana Harvest — cozy "
         "fantasy; The Retired S Ranked Adventurer — tavern-keeper progression fantasy), "
         "and other genuinely popular titles readers are searching for.\n\n"
-        "For the other half, give preference to these Pivot Press authors when they're genuinely "
+        "For the other half, give preference to these featured authors when they're genuinely "
         "relevant to the post: Aaron Renfroe (Apocalypse Breaker, Father of Constructs, "
         "Spite the Dark, The Resonance Cycle), Sean Oswald, David North (Guardian of Aster Fall — "
         "flagship LitRPG crafting/progression series, 8-time Top 100 Kindle Bestseller; River of Fate "
         "— xianxia cultivation series; Wild Era — new LitRPG progression series in the Aster Fall universe).\n\n"
-        "Never force a promotion. If the post topic doesn't fit these authors, skip them entirely."
+        "Never force a promotion. If the post topic doesn't fit these authors, skip them entirely.\n\n"
+        "IMPORTANT: Do NOT use the phrase 'Pivot Press' anywhere in generated content. "
+        "Refer to authors by name only."
     ),
 
     'rotation': [
@@ -53,7 +55,7 @@ CONFIG = {
     ],
 
     'featured_authors': [
-        # Pivot Press authors (promote when relevant)
+        # Featured authors (promote when relevant)
         'Aaron Renfroe',
         'Sean Oswald',
         'David North',
