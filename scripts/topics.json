@@ -1,5 +1,5 @@
 {
-  "rotation_index": 25,
+  "rotation_index": 26,
   "published_slugs": [
     "2026-03-09-best-new-litrpg-progression-fantasy-releases-march-2026-roundup",
     "2026-03-12-what-is-litrpg-the-definitive-guide-to-the-genre",
@@ -25,9 +25,10 @@
     "2026-05-01-litrpgtools-boss-generator-build-dungeon-encounters-that-actually-work",
     "2026-05-04-what-is-gamelit-the-complete-guide-to-the-genre",
     "2026-05-06-dakota-krout-author-spotlight-the-architect-of-immersive-litrpg-systems",
-    "2026-05-08-best-new-litrpg-progression-fantasy-releases-may-2026-roundup"
+    "2026-05-08-best-new-litrpg-progression-fantasy-releases-may-2026-roundup",
+    "2026-05-11-what-is-cozy-fantasy-litrpg-a-complete-guide-to-the-sub-genre"
   ],
   "author_queue_index": 6,
   "feature_queue_index": 3,
-  "explainer_queue_index": 6
+  "explainer_queue_index": 7
 }
