@@ -245,7 +245,7 @@ This list collects the best LitRPG and progression fantasy where the romantic su
       },
       {
         q: 'Is there LitRPG with harem elements?',
-        a: 'Yes — some LitRPG titles incorporate harem elements, particularly in men\'s adventure fiction. For that specific sub-niche, see also our companion site HaremLitGuide.com, which covers harem fantasy and men\'s romance LitRPG in depth.',
+        a: 'Yes — some LitRPG titles incorporate harem elements, particularly in men\'s adventure fiction. Those books blend progression mechanics with romance subplots, and reader mileage varies depending on how central the harem elements are to the story.',
       },
     ],
   },

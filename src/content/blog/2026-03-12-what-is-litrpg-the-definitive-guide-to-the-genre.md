@@ -46,7 +46,7 @@ Ranked by a combination of community rating on LitRPGTools.com and new-reader ac
 
 6. **Dungeon Lord by DB King** — A solid, propulsive series for readers who want fast pacing, dungeon-building elements, and a villain-protagonist setup. High accessibility, good hook.
 
-7. **A Thousand Li by Tao Wong** — If your tastes lean toward [cultivation fiction](https://fantasyranked.com/blog/what-is-cultivation-fiction) but you want visible progression mechanics, Wong's series sits at a fascinating crossroads. It's among the most polished long-running entries in the genre.
+7. **A Thousand Li by Tao Wong** — If your tastes lean toward [cultivation fiction](/blog/what-is-cultivation-fiction) but you want visible progression mechanics, Wong's series sits at a fascinating crossroads. It's among the most polished long-running entries in the genre.
 
 ## How to Find More LitRPG Books
 

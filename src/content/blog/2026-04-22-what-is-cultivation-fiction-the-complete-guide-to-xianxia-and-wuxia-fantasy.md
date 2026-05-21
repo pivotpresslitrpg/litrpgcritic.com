@@ -8,7 +8,7 @@ tags: ["Cultivation Fiction", "Xianxia", "Wuxia", "Progression Fantasy", "LitRPG
 featured: false
 ---
 
-[Cultivation fiction](https://fantasyranked.com/blog/what-is-cultivation-fiction) is a sub-genre of fantasy rooted in Chinese literary tradition, following protagonists who systematically refine their body, mind, and spirit to achieve superhuman power — and eventually, immortality. It is characterized by structured advancement through named cultivation realms, a deeply hierarchical world where power is everything, and a relentless focus on the protagonist's ascent from nothing to near-divine strength.
+[Cultivation fiction](/blog/what-is-cultivation-fiction) is a sub-genre of fantasy rooted in Chinese literary tradition, following protagonists who systematically refine their body, mind, and spirit to achieve superhuman power — and eventually, immortality. It is characterized by structured advancement through named cultivation realms, a deeply hierarchical world where power is everything, and a relentless focus on the protagonist's ascent from nothing to near-divine strength.
 
 If [progression fantasy](/blog/what-is-progression-fantasy) is the broad church, cultivation fiction is one of its oldest and most devoted congregations. The bones of this genre — the suffering, the breakthroughs, the sect politics, the arrogant young masters who need to be put in their place — go back centuries in Chinese folklore and were codified into modern fiction through manhua, web novels, and eventually translated works that found massive audiences in the West.
 
@@ -46,6 +46,6 @@ These recommendations are ranked by a combination of accessibility for new reade
 
 ## Where to Find More Cultivation Recommendations
 
-The cultivation fiction community is one of the most active in [progression fantasy](/blog/what-is-progression-fantasy), and new releases drop constantly. For regularly updated rankings and reader-rated lists, [LitRPGTools.com](https://litrpgtools.com) tracks cultivation titles alongside the broader [progression fantasy landscape](https://fantasyranked.com/rankings/top-power-fantasy-books). If you're already deep in the genre and hunting for something you haven't read, check our [new releases](/new-releases) page — the cultivation shelf there moves fast.
+The cultivation fiction community is one of the most active in [progression fantasy](/blog/what-is-progression-fantasy), and new releases drop constantly. For regularly updated rankings and reader-rated lists, [LitRPGTools.com](https://litrpgtools.com) tracks cultivation titles alongside the broader progression fantasy landscape. If you're already deep in the genre and hunting for something you haven't read, check our [new releases](/new-releases) page — the cultivation shelf there moves fast.
 
 The genre demands commitment. But if you give it that commitment, few reading experiences in any genre will hit harder than watching a cultivator stand at the peak they've spent a thousand pages climbing toward. That's the promise of cultivation fiction — and it delivers.

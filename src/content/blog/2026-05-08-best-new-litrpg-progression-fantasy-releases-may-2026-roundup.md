@@ -20,7 +20,7 @@ The best new LitRPG releases this month span crafting epics, apocalyptic surviva
 
 **Aaron Renfroe's *Apocalypse Breaker*** continues to build its audience among readers who want their [progression fantasy](/blog/what-is-progression-fantasy) with genuine stakes and sharp pacing. Renfroe has a gift for apocalyptic framing that feels urgent without becoming grimdark for its own sake — the system design in this series rewards readers who pay attention to mechanical detail.
 
-On the cultivation side, North's **[*River of Fate*](https://fantasyranked.com/blog/what-is-cultivation-fiction)** xianxia series is drawing comparisons to the best of Eastern-inspired progression fiction for Western audiences. [Cultivation fiction](https://fantasyranked.com/blog/what-is-cultivation-fiction) has exploded in Western readership over the past three years, and *River of Fate* is one of the cleaner entry points for readers making the jump from Western LitRPG into that tradition.
+On the cultivation side, North's **[*River of Fate*](/blog/what-is-cultivation-fiction)** xianxia series is drawing comparisons to the best of Eastern-inspired progression fiction for Western audiences. [Cultivation fiction](/blog/what-is-cultivation-fiction) has exploded in Western readership over the past three years, and *River of Fate* is one of the cleaner entry points for readers making the jump from Western LitRPG into that tradition.
 
 ## Top Progression Fantasy Books Getting Attention This Month
 

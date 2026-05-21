@@ -17,8 +17,6 @@ export async function GET(context: APIContext) {
       description: post.data.description,
       link: `/blog/${post.id.replace(/\.md$/, '')}/`,
     })),
-    customData: `<language>en-us</language>
-<atom:link href="https://haremlitguide.com/rss.xml" rel="related" type="application/rss+xml" title="HaremLit Guide"/>
-<atom:link href="https://fantasyranked.com/rss.xml" rel="related" type="application/rss+xml" title="Fantasy Ranked"/>`,
+    customData: `<language>en-us</language>`,
   });
 }

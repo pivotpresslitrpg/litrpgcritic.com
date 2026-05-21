@@ -57,7 +57,7 @@ If you're drawn to stories where power is personal rather than systemic — wher
 
 It's also a natural fit for [progression fantasy](/blog/what-is-progression-fantasy/) fans who want deeper thematic weight beneath their power scaling. Cultivation's emphasis on breakthroughs as transformative moments rather than incremental stat bumps creates a different emotional cadence that many readers find more satisfying over long series.
 
-Fans exploring the overlap between cultivation and romance subgenres should check out [haremlitguide.com's guide to progression fantasy harem](https://haremlitguide.com/blog/what-is-progression-fantasy-harem/) for recommendations that blend both traditions.
+Fans exploring the overlap between cultivation and other power-progression traditions can dig into our [progression fantasy guide](/blog/what-is-progression-fantasy) for more on how these systems intersect.
 
 ## Frequently Asked Questions
 

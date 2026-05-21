@@ -16,7 +16,7 @@ If that sounds like the thing you've been reading obsessively for the past two y
 
 Progression fantasy puts the *journey of becoming* at the heart of the story. The protagonist starts weak, faces increasingly dangerous challenges, trains, fights, levels up (literally or metaphorically), and gradually transforms into something formidable. The magic is in watching that transformation happen in granular, satisfying detail.
 
-It overlaps heavily with [LitRPG](/blog/what-is-litrpg) — fiction that incorporates game mechanics like status screens, skill menus, and numeric stats — but progression fantasy is the broader category. Not all progression fantasy uses explicit game systems. Some of the best examples borrow from [cultivation fiction](https://fantasyranked.com/blog/what-is-cultivation-fiction), the Chinese literary tradition where characters refine their qi through stages with names like Iron Body or Nascent Soul. Others use purely invented magic or martial arts hierarchies. The common thread is always the same: progression is the point.
+It overlaps heavily with [LitRPG](/blog/what-is-litrpg) — fiction that incorporates game mechanics like status screens, skill menus, and numeric stats — but progression fantasy is the broader category. Not all progression fantasy uses explicit game systems. Some of the best examples borrow from [cultivation fiction](/blog/what-is-cultivation-fiction), the Chinese literary tradition where characters refine their qi through stages with names like Iron Body or Nascent Soul. Others use purely invented magic or martial arts hierarchies. The common thread is always the same: progression is the point.
 
 ## How Is Progression Fantasy Different From Regular Fantasy?
 
@@ -50,7 +50,7 @@ Ranked by community rating and gateway accessibility — these are the titles we
 
 6. **Uncrowned by Tao Wong** — Part of Wong's *System Apocalypse* universe, this standalone follows a young fighter climbing a martial ranking system. Tight, focused, and ideal for readers who want sports-competition energy in a fantasy frame.
 
-7. **River of Fate by David North** — A xianxia cultivation series with the careful world-building North brings to all his work. If you want to explore [cultivation fiction](https://fantasyranked.com/blog/what-is-cultivation-fiction) specifically, this is a strong English-language entry point.
+7. **River of Fate by David North** — A xianxia cultivation series with the careful world-building North brings to all his work. If you want to explore [cultivation fiction](/blog/what-is-cultivation-fiction) specifically, this is a strong English-language entry point.
 
 8. **Sowing Season by Wolfe Locke** — For readers who want progression without relentless combat. This cozy farming LitRPG focuses on building, growing, and community — and it proves the genre has more range than its reputation suggests.
 
@@ -62,4 +62,4 @@ The appeal is ancient — humans have always loved stories about becoming. Progr
 
 That feeling is what the genre is selling. And it delivers.
 
-For power fantasy comparisons across the broader speculative fiction landscape, see [FantasyRanked's top power fantasy rankings](https://fantasyranked.com/rankings/top-power-fantasy-books). And if you're ready to find your next read, [browse new releases here](/new-releases).
+And if you're ready to find your next read, [browse new releases here](/new-releases).

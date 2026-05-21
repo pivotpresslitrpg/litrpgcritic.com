@@ -57,7 +57,7 @@ If you want a protagonist you can immediately relate to — someone who shares y
 
 It's also ideal for readers who enjoy character-driven fantasy. The displacement creates inherent emotional depth: loneliness, adaptation, identity transformation. Even in the most action-heavy isekai series, there's an undercurrent of personal reinvention that gives the progression stakes an emotional foundation.
 
-Readers interested in the overlap between isekai and romance subgenres should explore [haremlitguide.com's isekai harem guide](https://haremlitguide.com/blog/what-is-isekai-harem/) for recommendations that blend transported-world adventure with relationship dynamics.
+Isekai also overlaps heavily with romance-driven storytelling, where transported-world adventure blends with relationship dynamics and slower character arcs.
 
 ## Frequently Asked Questions
 

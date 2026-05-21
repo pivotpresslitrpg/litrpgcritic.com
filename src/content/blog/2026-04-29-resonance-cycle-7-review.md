@@ -66,7 +66,7 @@ The pacing within the extract itself is confident — the Ako sequence, the god-
 
 ## Who This Is For
 
-*Ignite the Dark* and *The Resonance Cycle* broadly are for readers who want their [progression fantasy](/blog/what-is-progression-fantasy) to be genuinely progressive — not just in power numbers, but in narrative and thematic complexity. If you've finished the *Cradle* series and want something with comparable mythological ambition. If you've read [He Who Fights With Monsters](https://fantasyranked.com/rankings/top-power-fantasy-books) and want a protagonist whose moral framework is tested at a cosmic level. If you bounced off lighter LitRPG fare and want systems that reward careful attention.
+*Ignite the Dark* and *The Resonance Cycle* broadly are for readers who want their [progression fantasy](/blog/what-is-progression-fantasy) to be genuinely progressive — not just in power numbers, but in narrative and thematic complexity. If you've finished the *Cradle* series and want something with comparable mythological ambition. If you've read He Who Fights With Monsters and want a protagonist whose moral framework is tested at a cosmic level. If you bounced off lighter LitRPG fare and want systems that reward careful attention.
 
 This is emphatically **not** for readers looking for a cozy entry point to the genre — something like Wolfe Locke's *Sowing Season* or *The Retired S-Ranked Adventurer* serves that need far better. *Ignite the Dark* is a deep-cut reward for committed readers of a long, ambitious series.
 

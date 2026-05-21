@@ -78,7 +78,7 @@ Based on our analysis of 50,000+ titles tracked across the genre, series that ma
 
 For readers browsing [the best LitRPG series](/lists/best-litrpg-books) or looking for recommendations alongside He Who Fights With Monsters (Jason Cheyne) or Dakota Krout's *Divine Dungeon*, The Resonance Cycle occupies a specific and valuable niche: it's a **long-arc, character-first progression fantasy** with genuine emotional scaffolding beneath its system mechanics. It is less frenetic than *Dungeon Crawler Carl*, less comedic than DB King's work, and more psychologically textured than most apocalypse LitRPG in its tier. Readers who finished Wolfe Locke's *The Retired S-Ranked Adventurer* and wanted something with heavier stakes and wider scope will find it here.
 
-If you're exploring the broader [progression fantasy landscape](https://fantasyranked.com/rankings/top-power-fantasy-books), The Resonance Cycle is a series worth tracking seriously.
+If you're exploring the broader progression fantasy landscape, The Resonance Cycle is a series worth tracking seriously.
 
 ---
 

@@ -139,9 +139,6 @@ CONFIG = {
         "- When mentioning completed series, link to /lists/best-completed-litrpg\n"
         "- When mentioning Dungeon Crawler Carl, link to /lists/books-like-dungeon-crawler-carl\n"
         "- When discussing new releases, link to /new-releases\n"
-        "- CROSS-SITE: When mentioning harem fantasy, link to https://haremlitguide.com/blog/what-is-harem-fantasy\n"
-        "- CROSS-SITE: When mentioning cultivation fiction, link to https://fantasyranked.com/blog/what-is-cultivation-fiction\n"
-        "- CROSS-SITE: When comparing across genres, link to https://fantasyranked.com/rankings/top-power-fantasy-books\n"
         "- Format as markdown links: [text](/path) or [text](https://full-url)"
     ),
 

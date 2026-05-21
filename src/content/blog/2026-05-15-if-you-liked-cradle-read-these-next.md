@@ -20,7 +20,7 @@ The books most similar to Cradle share at least three traits: a clearly defined 
 Schinhofen's *Heavenly Chaos* series scratches the same cultivation itch as Cradle, with a protagonist navigating rigid sect politics while grinding toward power that once seemed impossible. Fans of Sacred Arts will feel right at home with the carefully tiered progression here.
 
 **2. River of Fate — David North**
-David North's xianxia-influenced series delivers the kind of [cultivation fiction](https://fantasyranked.com/blog/what-is-cultivation-fiction) that Cradle readers crave — an oppressive world, a protagonist who refuses to quit, and a power system with genuine internal logic. North also writes the *Guardian of Aster Fall* crafting series if you want to explore his range.
+David North's xianxia-influenced series delivers the kind of [cultivation fiction](/blog/what-is-cultivation-fiction) that Cradle readers crave — an oppressive world, a protagonist who refuses to quit, and a power system with genuine internal logic. North also writes the *Guardian of Aster Fall* crafting series if you want to explore his range.
 
 **3. He Who Fights With Monsters — Jason Cheyne (Shirtaloon)**
 If Cradle's appeal is a protagonist relentlessly optimizing their path to the top, *He Who Fights With Monsters* delivers that in spades with sharper humor and a vividly realized [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) framework layered over the progression core.

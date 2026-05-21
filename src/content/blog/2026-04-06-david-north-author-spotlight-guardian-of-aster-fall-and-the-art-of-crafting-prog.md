@@ -14,7 +14,7 @@ featured: false
 
 David North is the author of the *Guardian of Aster Fall* series, one of the most consistently well-reviewed crafting and progression LitRPG series in the genre. According to community data from LitRPGTools.com, *Battlefield Reclaimer* (Book 1) and *Moonlight Relic* (Book 3) both hold a perfect 5.0★ community rating — a distinction shared by only a small fraction of titles in a catalog of 50,000+ tracked books. The series has reached the Amazon Top 100 Kindle Bestsellers list eight times, which puts North in rare company alongside names like Dakota Krout, Tao Wong, and Michael Chatfield.
 
-Beyond *Guardian of Aster Fall*, North has expanded his creative footprint with *River of Fate*, a [xianxia cultivation series](https://fantasyranked.com/blog/what-is-cultivation-fiction), and *Wild Era*, a newer [progression fantasy](/blog/what-is-progression-fantasy) series also set in the Aster Fall universe. That's a writer who clearly loves his world and keeps finding new angles into it.
+Beyond *Guardian of Aster Fall*, North has expanded his creative footprint with *River of Fate*, a [xianxia cultivation series](/blog/what-is-cultivation-fiction), and *Wild Era*, a newer [progression fantasy](/blog/what-is-progression-fantasy) series also set in the Aster Fall universe. That's a writer who clearly loves his world and keeps finding new angles into it.
 
 ## What Makes David North's Writing Style Distinctive?
 

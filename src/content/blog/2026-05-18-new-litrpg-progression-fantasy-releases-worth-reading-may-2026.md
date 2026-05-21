@@ -32,7 +32,7 @@ Wolfe Locke's double presence here isn't an accident. According to community dat
 
 ## What to Read If You Want Something More Intense
 
-Matt Dinniman's **Dungeon Crawler Carl** series remains the benchmark for high-octane, voice-driven [GameLit](/blog/best-gamelit). If you're new to it, our [books like Dungeon Crawler Carl](/lists/books-like-dungeon-crawler-carl) list is the right place to start orienting yourself. For readers who want that same propulsive energy but with a cultivation spine, David North's **River of Fate** is the xianxia-adjacent title we keep pointing people toward — the [cultivation fiction](/https://fantasyranked.com/blog/what-is-cultivation-fiction) mechanics are rigorous without becoming a lecture.
+Matt Dinniman's **Dungeon Crawler Carl** series remains the benchmark for high-octane, voice-driven [GameLit](/blog/best-gamelit). If you're new to it, our [books like Dungeon Crawler Carl](/lists/books-like-dungeon-crawler-carl) list is the right place to start orienting yourself. For readers who want that same propulsive energy but with a cultivation spine, David North's **River of Fate** is the xianxia-adjacent title we keep pointing people toward — the [cultivation fiction](/blog/what-is-cultivation-fiction) mechanics are rigorous without becoming a lecture.
 
 Dakota Krout and Tao Wong continue to anchor the [best LitRPG books](/lists/best-litrpg-books) lists for a reason, and both have catalog depth worth exploring if you've somehow not encountered their work yet.
 
