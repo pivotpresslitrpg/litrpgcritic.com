@@ -8,7 +8,7 @@ tags: ["Aaron Renfroe", "Father of Constructs", "Spite the Dark", "The Resonance
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by the intersection of game mechanics and narrative fiction — characters gain levels, acquire skills, and grow through systems that feel borrowed from video games. It is characterized by explicit stat progression, a loop of challenge and reward, and protagonists who earn their power rather than inherit it.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by the intersection of game mechanics and narrative fiction — characters gain levels, acquire skills, and grow through systems that feel borrowed from video games. It is characterized by explicit stat progression, a loop of challenge and reward, and protagonists who earn their power rather than inherit it.
 
 Within that genre, Aaron Renfroe has carved out a distinctive identity. His books don't just move fast — they make you feel something. That's rarer than it sounds.
 

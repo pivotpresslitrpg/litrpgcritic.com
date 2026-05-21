@@ -16,7 +16,7 @@ If that sounds like the thing you've been reading obsessively for the past two y
 
 Progression fantasy puts the *journey of becoming* at the heart of the story. The protagonist starts weak, faces increasingly dangerous challenges, trains, fights, levels up (literally or metaphorically), and gradually transforms into something formidable. The magic is in watching that transformation happen in granular, satisfying detail.
 
-It overlaps heavily with [LitRPG](/blog/what-is-litrpg) — fiction that incorporates game mechanics like status screens, skill menus, and numeric stats — but progression fantasy is the broader category. Not all progression fantasy uses explicit game systems. Some of the best examples borrow from [cultivation fiction](/blog/what-is-cultivation-fiction), the Chinese literary tradition where characters refine their qi through stages with names like Iron Body or Nascent Soul. Others use purely invented magic or martial arts hierarchies. The common thread is always the same: progression is the point.
+It overlaps heavily with [LitRPG](/blog/what-is-litrpg/) — fiction that incorporates game mechanics like status screens, skill menus, and numeric stats — but progression fantasy is the broader category. Not all progression fantasy uses explicit game systems. Some of the best examples borrow from [cultivation fiction](/blog/what-is-cultivation-fiction), the Chinese literary tradition where characters refine their qi through stages with names like Iron Body or Nascent Soul. Others use purely invented magic or martial arts hierarchies. The common thread is always the same: progression is the point.
 
 ## How Is Progression Fantasy Different From Regular Fantasy?
 

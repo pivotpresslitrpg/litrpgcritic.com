@@ -23,7 +23,7 @@ If traditional LitRPG is leveling up through a game system, cultivation is level
 
 ## What Makes Cultivation Fiction Different?
 
-The distinction lies in the philosophy of power. In [LitRPG](/blog/2026-03-12-what-is-litrpg-the-definitive-guide-to-the-genre), power comes from an external system — the game gives you stats, skills, and classes. In cultivation, power comes from within. The practitioner refines their own internal energy, purifies their body and spirit, and breaks through to higher realms of existence through a combination of training, insight, and often dangerous transformation.
+The distinction lies in the philosophy of power. In [LitRPG](/blog/what-is-litrpg/), power comes from an external system — the game gives you stats, skills, and classes. In cultivation, power comes from within. The practitioner refines their own internal energy, purifies their body and spirit, and breaks through to higher realms of existence through a combination of training, insight, and often dangerous transformation.
 
 This creates a progression arc that feels fundamentally different from numerical systems. A cultivation breakthrough isn't "+5 Strength" — it's a qualitative transformation of the character's entire being. Moving from Foundation Establishment to Core Formation might mean the difference between being a talented mortal and becoming something genuinely beyond human. The stakes of each breakthrough are existential, not incremental.
 

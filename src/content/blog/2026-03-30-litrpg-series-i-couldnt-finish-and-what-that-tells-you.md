@@ -29,7 +29,7 @@ A DNF isn't a verdict of worthlessness. It's a data point about fit. Read the re
 
 ### He Who Fights With Monsters *(Stopped at Book 4)*
 
-Let me be precise about what this series does well, because it does several things well: the companion banter is genuinely sharp, the early world-building is confident, and the system design is one of the more intelligently constructed I've encountered in contemporary [LitRPG](/blog/what-is-litrpg). Jason Asano is an unusual protagonist — the sardonic, morally complicated outsider works — and the first two books make a strong case for the series.
+Let me be precise about what this series does well, because it does several things well: the companion banter is genuinely sharp, the early world-building is confident, and the system design is one of the more intelligently constructed I've encountered in contemporary [LitRPG](/blog/what-is-litrpg/). Jason Asano is an unusual protagonist — the sardonic, morally complicated outsider works — and the first two books make a strong case for the series.
 
 **Where it lost me:** The power escalation slows to a crawl in books three and four while the political subplot — which isn't handled with the same craft as the combat and system design — expands to fill the space. The ratio of satisfying progression moments to page count inverts from what made the early books work. The engine is still there. I just found I wasn't enjoying the fuel mixture anymore.
 

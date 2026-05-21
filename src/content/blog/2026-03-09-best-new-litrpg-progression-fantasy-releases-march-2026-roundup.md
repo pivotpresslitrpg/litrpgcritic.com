@@ -10,7 +10,7 @@ featured: false
 
 ## Best New LitRPG Releases: March 2026
 
-[LitRPG is a fiction genre in which characters navigate worlds governed by explicit game-like systems — leveling, stats, skill trees, and quantified progression.](/blog/what-is-litrpg) It is characterized by transparent mechanical rules that drive the narrative, numerical feedback on character growth, and the satisfaction of watching a protagonist's power compound over time.
+[LitRPG is a fiction genre in which characters navigate worlds governed by explicit game-like systems — leveling, stats, skill trees, and quantified progression.](/blog/what-is-litrpg/) It is characterized by transparent mechanical rules that drive the narrative, numerical feedback on character growth, and the satisfaction of watching a protagonist's power compound over time.
 
 March 2026 brings a strong field of new entries across subgenres. Based on our analysis of 50,000+ titles tracked through [LitRPGTools.com](https://litrpgtools.com), reader engagement with [progression fantasy](/blog/what-is-progression-fantasy) titles is up roughly 18% year-over-year — and this month's slate reflects that momentum with standout entries in isekai, beast-taming, and classic dungeon-crawl formats. Here are the releases most worth your attention right now.
 

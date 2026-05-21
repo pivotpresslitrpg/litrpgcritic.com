@@ -8,7 +8,7 @@ tags: ["GameLit", "LitRPG", "progression fantasy", "genre guide", "fantasy ficti
 featured: false
 ---
 
-GameLit is a fiction genre in which game mechanics, systems, or logic meaningfully shape the narrative world and the characters who inhabit it. It is characterized by game-inspired elements such as leveling, stats, skills, and class systems — but unlike its close cousin [LitRPG](/blog/what-is-litrpg), GameLit is not required to display those mechanics on the page in any formal or numerical way.
+GameLit is a fiction genre in which game mechanics, systems, or logic meaningfully shape the narrative world and the characters who inhabit it. It is characterized by game-inspired elements such as leveling, stats, skills, and class systems — but unlike its close cousin [LitRPG](/blog/what-is-litrpg/), GameLit is not required to display those mechanics on the page in any formal or numerical way.
 
 That distinction matters more than it might seem. It's the difference between a book that shows you a stat sheet and a book that simply lives inside the logic of one.
 

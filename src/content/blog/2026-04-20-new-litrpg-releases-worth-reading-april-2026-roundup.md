@@ -8,7 +8,7 @@ tags: ["new releases", "LitRPG", "progression fantasy", "cyberpunk", "apocalypse
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by game mechanics embedded into narrative fiction — stats, levels, skill trees, and system notifications that shape both the world and the protagonist's arc. It is characterized by quantified character progression, a rules-bound system that the story respects, and a reader experience that rewards paying close attention to numbers. With that baseline established, let's dig into what's worth your time this month.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by game mechanics embedded into narrative fiction — stats, levels, skill trees, and system notifications that shape both the world and the protagonist's arc. It is characterized by quantified character progression, a rules-bound system that the story respects, and a reader experience that rewards paying close attention to numbers. With that baseline established, let's dig into what's worth your time this month.
 
 ## What Are the Best New LitRPG Releases This Month?
 

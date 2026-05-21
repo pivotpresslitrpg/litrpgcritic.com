@@ -16,7 +16,7 @@ Based on our analysis of 50,000+ titles tracked on [LitRPGTools.com](https://lit
 
 ## What Is Dungeon Crawler Carl?
 
-Written by **Matt Dinniman** (originally published on Royal Road, then with Aethon Books), Dungeon Crawler Carl is an [apocalyptic LitRPG](/blog/what-is-apocalyptic-litrpg) series set on an Earth that has been conquered by an alien collective who transform the planet into a multi-level dungeon — broadcast as entertainment to billions of alien viewers across the galaxy. The protagonist, **Carl**, is a blunt, sardonic ex-military guy whose most notable companion is **Princess Donut**, his ex-girlfriend's pampered, deeply opinionated cat.
+Written by **Matt Dinniman** (originally published on Royal Road, then with Aethon Books), Dungeon Crawler Carl is an [apocalyptic LitRPG](/blog/what-is-system-apocalypse/) series set on an Earth that has been conquered by an alien collective who transform the planet into a multi-level dungeon — broadcast as entertainment to billions of alien viewers across the galaxy. The protagonist, **Carl**, is a blunt, sardonic ex-military guy whose most notable companion is **Princess Donut**, his ex-girlfriend's pampered, deeply opinionated cat.
 
 That is a premise that works entirely on execution. And the execution is exceptional.
 
@@ -96,7 +96,7 @@ This is the rare series where we'd recommend either format without reservation.
 
 ## Where Does Dungeon Crawler Carl Rank?
 
-**Tier: Essential.** Based on our analysis of reader completion rates, series longevity, and the depth of community engagement tracked on [LitRPGTools.com](https://litrpgtools.com), Dungeon Crawler Carl sits in the top five LitRPG series in publication history. It is not the highest-rated entry in every individual subgenre — it's too irreverent for readers who want pure power fantasy, and too dark for readers who want comfort reads. But as a complete expression of what [LitRPG](/blog/what-is-litrpg) can accomplish — mechanics, voice, stakes, character, and thematic substance — it is the benchmark the rest of the genre gets measured against.
+**Tier: Essential.** Based on our analysis of reader completion rates, series longevity, and the depth of community engagement tracked on [LitRPGTools.com](https://litrpgtools.com), Dungeon Crawler Carl sits in the top five LitRPG series in publication history. It is not the highest-rated entry in every individual subgenre — it's too irreverent for readers who want pure power fantasy, and too dark for readers who want comfort reads. But as a complete expression of what [LitRPG](/blog/what-is-litrpg/) can accomplish — mechanics, voice, stakes, character, and thematic substance — it is the benchmark the rest of the genre gets measured against.
 
 Start with Book 1. Clear your weekend. You'll understand the rest from there.
 

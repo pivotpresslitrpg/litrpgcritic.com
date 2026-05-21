@@ -8,7 +8,7 @@ tags: ["cozy LitRPG", "farming LitRPG", "progression fantasy", "slice of life", 
 featured: false
 ---
 
-Cozy [LitRPG](/blog/what-is-litrpg) is a subgenre defined by low-stakes progression, domestic world-building, and the satisfaction of watching a protagonist master their craft rather than conquer their enemies. It is characterized by deliberate pacing, deep system integration with everyday life, and an emotional warmth that mainstream power-fantasy LitRPG often sacrifices for spectacle.
+Cozy [LitRPG](/blog/what-is-litrpg/) is a subgenre defined by low-stakes progression, domestic world-building, and the satisfaction of watching a protagonist master their craft rather than conquer their enemies. It is characterized by deliberate pacing, deep system integration with everyday life, and an emotional warmth that mainstream power-fantasy LitRPG often sacrifices for spectacle.
 
 Wolfe Locke's *Sowing Season* sits at the top of that cozy niche. It follows a protagonist building a farm from scratch inside a game-like world, with every crop planted and every skill point allocated feeling genuinely meaningful. According to reader ratings on [LitRPGTools.com](https://litrpgtools.com), cozy and slice-of-life LitRPG titles retain readers at a roughly 40% higher series-completion rate than action-heavy equivalents — people who start these books *finish* them. If you burned through *Sowing Season* and need something to fill the gap, here are seven titles worth your time.
 

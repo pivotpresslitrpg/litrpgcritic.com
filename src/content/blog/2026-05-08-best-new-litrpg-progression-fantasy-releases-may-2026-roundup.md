@@ -8,7 +8,7 @@ tags: ["new releases", "LitRPG", "progression fantasy", "dungeon core", "xianxia
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre of fiction in which characters interact with game-like systems — leveling, stats, skill trees, and notifications — as a core narrative mechanic. It is characterized by explicit numerical progression, system-driven conflict, and a tight feedback loop between character growth and reader satisfaction.
+[LitRPG](/blog/what-is-litrpg/) is a genre of fiction in which characters interact with game-like systems — leveling, stats, skill trees, and notifications — as a core narrative mechanic. It is characterized by explicit numerical progression, system-driven conflict, and a tight feedback loop between character growth and reader satisfaction.
 
 May is shaping up to be a genuinely strong month for the genre. Based on our analysis of 50,000+ titles tracked across reader communities, spring release windows consistently outperform the rest of the year in debut quality — and 2026 is holding to that pattern. Here's what's earned our attention this month.
 

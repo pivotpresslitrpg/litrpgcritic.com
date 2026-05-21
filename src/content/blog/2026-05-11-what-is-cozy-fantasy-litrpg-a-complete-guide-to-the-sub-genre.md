@@ -8,7 +8,7 @@ tags: ["Cozy Fantasy LitRPG", "Cozy GameLit", "LitRPG", "Progression Fantasy", "
 featured: false
 ---
 
-Cozy Fantasy LitRPG is a sub-genre that combines the game-mechanic progression systems of [LitRPG](/blog/what-is-litrpg) with low-stakes, comfort-focused storytelling. It is characterized by an emphasis on community-building over combat, slice-of-life pacing over breakneck power escalation, and a warm emotional core that prioritizes belonging, craft, and everyday satisfaction.
+Cozy Fantasy LitRPG is a sub-genre that combines the game-mechanic progression systems of [LitRPG](/blog/what-is-litrpg/) with low-stakes, comfort-focused storytelling. It is characterized by an emphasis on community-building over combat, slice-of-life pacing over breakneck power escalation, and a warm emotional core that prioritizes belonging, craft, and everyday satisfaction.
 
 If you've ever wanted the stat screens and level-ups of your favorite LitRPG novels without the relentless grimdark tension, dungeon-diving death spirals, or world-ending stakes — this is the corner of the genre you've been looking for.
 

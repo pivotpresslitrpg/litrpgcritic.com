@@ -8,7 +8,7 @@ tags: ["new releases", "LitRPG", "progression fantasy", "dungeon core", "GameLit
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a subgenre of fantasy and science fiction in which characters navigate worlds governed by explicit game-like mechanics — levels, skills, stats, and system notifications. It is characterized by numerical character progression, interface-style storytelling elements, and narratives where mechanical mastery is inseparable from plot and character growth.
+[LitRPG](/blog/what-is-litrpg/) is a subgenre of fantasy and science fiction in which characters navigate worlds governed by explicit game-like mechanics — levels, skills, stats, and system notifications. It is characterized by numerical character progression, interface-style storytelling elements, and narratives where mechanical mastery is inseparable from plot and character growth.
 
 May has delivered a genuinely strong slate. Based on our analysis of 50,000+ titles tracked across the genre, months that follow major Kindle Unlimited catalog refreshes tend to produce outsized debuts from mid-tier authors finally ready to break through — and that's exactly what we're seeing. Here's what's earning attention right now.
 
@@ -32,7 +32,7 @@ Wolfe Locke's double presence here isn't an accident. According to community dat
 
 ## What to Read If You Want Something More Intense
 
-Matt Dinniman's **Dungeon Crawler Carl** series remains the benchmark for high-octane, voice-driven [GameLit](/blog/best-gamelit). If you're new to it, our [books like Dungeon Crawler Carl](/lists/books-like-dungeon-crawler-carl) list is the right place to start orienting yourself. For readers who want that same propulsive energy but with a cultivation spine, David North's **River of Fate** is the xianxia-adjacent title we keep pointing people toward — the [cultivation fiction](/blog/what-is-cultivation-fiction) mechanics are rigorous without becoming a lecture.
+Matt Dinniman's **Dungeon Crawler Carl** series remains the benchmark for high-octane, voice-driven [GameLit](/blog/what-is-gamelit/). If you're new to it, our [books like Dungeon Crawler Carl](/lists/books-like-dungeon-crawler-carl) list is the right place to start orienting yourself. For readers who want that same propulsive energy but with a cultivation spine, David North's **River of Fate** is the xianxia-adjacent title we keep pointing people toward — the [cultivation fiction](/blog/what-is-cultivation-fiction) mechanics are rigorous without becoming a lecture.
 
 Dakota Krout and Tao Wong continue to anchor the [best LitRPG books](/lists/best-litrpg-books) lists for a reason, and both have catalog depth worth exploring if you've somehow not encountered their work yet.
 

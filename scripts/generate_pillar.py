@@ -151,7 +151,7 @@ IMPORTANT GUIDELINES:
 
     response = client.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=5000,
+        max_tokens=10000,
         messages=[{"role": "user", "content": prompt}],
     )
     return response.content[0].text

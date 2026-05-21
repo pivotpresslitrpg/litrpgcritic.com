@@ -10,7 +10,7 @@ featured: true
 
 # The Resonance Cycle Book 3 Review: *Past's Price* Is the Arc Finale That Earns Every Payoff
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by game-like mechanics applied to narrative fiction — leveling systems, stat sheets, skill trees, and progression loops woven into character-driven storytelling. It is characterized by explicit system transparency, measurable growth tied to story stakes, and worlds where the rules of a game become the rules of survival. [Progression fantasy](/blog/what-is-progression-fantasy) takes that framework and makes the climb itself the point — not just the destination, but the texture of every rung on the way up.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by game-like mechanics applied to narrative fiction — leveling systems, stat sheets, skill trees, and progression loops woven into character-driven storytelling. It is characterized by explicit system transparency, measurable growth tied to story stakes, and worlds where the rules of a game become the rules of survival. [Progression fantasy](/blog/what-is-progression-fantasy) takes that framework and makes the climb itself the point — not just the destination, but the texture of every rung on the way up.
 
 *Past's Price*, the third book in Aaron Renfroe's **The Resonance Cycle**, is both of those things done right. It is the conclusion to the series' first arc, and based on the opening extract alone, it's clear Renfroe has been playing a long game — one that rewards patient readers who've been watching Ty Monroe accrue trauma, allies, and powers across two prior books.
 

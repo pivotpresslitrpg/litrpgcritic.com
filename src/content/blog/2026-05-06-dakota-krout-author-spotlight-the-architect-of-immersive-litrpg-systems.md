@@ -8,7 +8,7 @@ tags: ["Dakota Krout", "Divine Dungeon", "Completionist Chronicles", "dungeon co
 featured: false
 ---
 
-[LitRPG is a genre built on the marriage of fantasy storytelling and video game mechanics](/blog/what-is-litrpg). It is characterized by numerical progression systems, skill trees, and a protagonist whose growth is measured in tangible, quantifiable ways. Within that space, few authors have done more to define the genre's early identity than Dakota Krout — and fewer still have managed to sustain that influence across multiple series, multiple sub-genres, and millions of loyal readers.
+[LitRPG is a genre built on the marriage of fantasy storytelling and video game mechanics](/blog/what-is-litrpg/). It is characterized by numerical progression systems, skill trees, and a protagonist whose growth is measured in tangible, quantifiable ways. Within that space, few authors have done more to define the genre's early identity than Dakota Krout — and fewer still have managed to sustain that influence across multiple series, multiple sub-genres, and millions of loyal readers.
 
 ## Who Is Dakota Krout?
 
@@ -42,6 +42,6 @@ Based on our analysis of 50,000+ titles tracked at LitRPGTools.com, Krout occupi
 
 ## The Bottom Line on Dakota Krout
 
-Dakota Krout helped build the room that the rest of us are sitting in. His influence on [LitRPG](/blog/what-is-litrpg) system design, dungeon core fiction, and progression fantasy pacing is hard to overstate. Whether you're a longtime fan or just arriving to the genre, his catalog is essential — and eminently re-readable. Discover more of his work and find personalized recommendations at [LitRPGTools.com](https://LitRPGTools.com), where the community has been cataloging and rating the genre's best for years.
+Dakota Krout helped build the room that the rest of us are sitting in. His influence on [LitRPG](/blog/what-is-litrpg/) system design, dungeon core fiction, and progression fantasy pacing is hard to overstate. Whether you're a longtime fan or just arriving to the genre, his catalog is essential — and eminently re-readable. Discover more of his work and find personalized recommendations at [LitRPGTools.com](https://LitRPGTools.com), where the community has been cataloging and rating the genre's best for years.
 
 If you're building a reading list from scratch, you could do far worse than starting with Krout and letting his work teach you what this genre is capable of.

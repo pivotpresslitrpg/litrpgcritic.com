@@ -8,7 +8,7 @@ tags: ["LitRPG", "progression fantasy", "he who fights with monsters", "shirtalo
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by game-like systems embedded in fictional worlds — characters level up, earn skills, and grow in power through quantified mechanics. It is characterized by explicit stat progression, ability evolution, and a narrative structure where the hero's growth is as much the point as the plot itself.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by game-like systems embedded in fictional worlds — characters level up, earn skills, and grow in power through quantified mechanics. It is characterized by explicit stat progression, ability evolution, and a narrative structure where the hero's growth is as much the point as the plot itself.
 
 *He Who Fights With Monsters* (HWFWM) sits near the very top of that genre. Shirtaloon's series — featuring the sardonic, ability-stacking Jason Asano navigating a world of essences, auras, and political intrigue — has earned a near-perfect community score and a devoted readership for good reason. According to reader ratings on [LitRPGTools.com](https://litrpgtools.com), HWFWM titles consistently score 15% higher than the genre average for world-building depth and system complexity. Based on our analysis of 50,000+ titles, readers who finish this series report the highest re-read rates in the genre.
 

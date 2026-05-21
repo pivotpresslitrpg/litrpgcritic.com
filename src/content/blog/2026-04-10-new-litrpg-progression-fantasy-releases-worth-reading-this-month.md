@@ -8,7 +8,7 @@ tags: ["new releases", "LitRPG", "progression fantasy", "beast tamer", "crafting
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a fiction genre defined by characters operating within — and progressing through — explicit game-like systems, including stats, levels, and skill notifications embedded directly in the narrative. It is characterized by tangible numerical progression, strategic resource management, and a protagonist whose growth is measurable at every stage of the story.
+[LitRPG](/blog/what-is-litrpg/) is a fiction genre defined by characters operating within — and progressing through — explicit game-like systems, including stats, levels, and skill notifications embedded directly in the narrative. It is characterized by tangible numerical progression, strategic resource management, and a protagonist whose growth is measurable at every stage of the story.
 
 This month's slate of new and recent releases is a solid cross-section of what the genre does well. Based on our analysis of 50,000+ titles tracked across the community, a few standouts deserve your immediate attention.
 

@@ -8,9 +8,9 @@ tags: ["cultivation", "progression fantasy", "LitRPG", "best of", "ranked", "xia
 featured: false
 ---
 
-[Cultivation fiction](/blog/what-is-cultivation) is a subgenre built around a specific premise: a protagonist who gains power not through game-system stat allocation, but through the disciplined refinement of an inner force — qi, mana, resonance, or some equivalent — progressing through ranked stages that restructure not just their abilities but their fundamental nature. It is ancient in origin (rooted in Chinese xianxia and wuxia traditions), and it has become one of the dominant strains in contemporary [progression fantasy](/blog/what-is-progression-fantasy).
+[Cultivation fiction](/blog/what-is-cultivation-fiction/) is a subgenre built around a specific premise: a protagonist who gains power not through game-system stat allocation, but through the disciplined refinement of an inner force — qi, mana, resonance, or some equivalent — progressing through ranked stages that restructure not just their abilities but their fundamental nature. It is ancient in origin (rooted in Chinese xianxia and wuxia traditions), and it has become one of the dominant strains in contemporary [progression fantasy](/blog/what-is-progression-fantasy).
 
-The overlap with [LitRPG](/blog/what-is-litrpg) is meaningful but not total. Pure cultivation fiction typically omits the stat-screen interface — progression is felt through narrative rather than quantified in character sheets. The best hybrid titles, however, layer cultivation-style power escalation onto explicit game-mechanical systems with results that rank among the most satisfying reading experiences in the genre.
+The overlap with [LitRPG](/blog/what-is-litrpg/) is meaningful but not total. Pure cultivation fiction typically omits the stat-screen interface — progression is felt through narrative rather than quantified in character sheets. The best hybrid titles, however, layer cultivation-style power escalation onto explicit game-mechanical systems with results that rank among the most satisfying reading experiences in the genre.
 
 Based on our analysis of 50,000+ titles tracked on [LitRPGTools.com](https://litrpgtools.com), cultivation-adjacent progression fiction consistently produces the highest series completion rates in the entire LitRPG ecosystem — meaning once readers commit to a cultivation series, they finish it. The investment pays off.
 
@@ -36,7 +36,7 @@ According to reader ratings on [LitRPGTools.com](https://litrpgtools.com), Cradl
 
 ### 2. Defiance of the Fall by JF Brink (Zogarth) *(ongoing, 12+ volumes)*
 
-The breakout Royal Road success story of the past decade. **Defiance of the Fall** blends [LitRPG](/blog/what-is-litrpg) mechanics with Eastern cultivation in a system-apocalypse wrapper: Earth is integrated into a multiverse-spanning system, the protagonist **Zac** starts with nothing but a hatchet, and the series spends twenty-plus volumes watching him carve a path from survival to something approaching cosmic significance.
+The breakout Royal Road success story of the past decade. **Defiance of the Fall** blends [LitRPG](/blog/what-is-litrpg/) mechanics with Eastern cultivation in a system-apocalypse wrapper: Earth is integrated into a multiverse-spanning system, the protagonist **Zac** starts with nothing but a hatchet, and the series spends twenty-plus volumes watching him carve a path from survival to something approaching cosmic significance.
 
 What separates Defiance from its peers: the LitRPG layer is genuinely engaged with. Character sheets matter, build decisions have real consequences, and Zogarth's system is complex enough to sustain reader theorycrafting across years of publication. The cultivation influence shows in the staged power progression and the metaphysical depth of the world.
 

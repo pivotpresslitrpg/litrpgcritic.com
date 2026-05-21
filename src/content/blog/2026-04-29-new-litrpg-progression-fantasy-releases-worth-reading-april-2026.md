@@ -8,7 +8,7 @@ tags: ["new releases", "LitRPG", "progression fantasy", "dungeon core", "xianxia
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a fiction genre in which characters navigate worlds governed by explicit game-like systems — levels, stats, skills, and progression mechanics that shape both the narrative and the reader's experience. It is characterized by visible numerical progression, strategic character development, and a close relationship between game-logic and story stakes.
+[LitRPG](/blog/what-is-litrpg/) is a fiction genre in which characters navigate worlds governed by explicit game-like systems — levels, stats, skills, and progression mechanics that shape both the narrative and the reader's experience. It is characterized by visible numerical progression, strategic character development, and a close relationship between game-logic and story stakes.
 
 April brought a genuinely varied slate of new entries across the genre's major subgenres. Based on our analysis of 50,000+ titles tracked across the community, this is one of the more eclectic monthly drops we've seen — everything from cozy crafting fantasy to hard-science xianxia. Here are the releases that deserve your attention this month.
 

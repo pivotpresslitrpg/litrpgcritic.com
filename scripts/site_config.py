@@ -129,17 +129,41 @@ CONFIG = {
         },
     ],
 
+    # Internal links may ONLY point to the stable pages enumerated below. Dated blog
+    # posts (reviews, roundups, spotlights) have URLs containing a date the generator
+    # cannot predict — linking to them produces 404s. See _linkfix history.
     'internal_link_guidance': (
-        "Include natural internal links where relevant:\n"
-        "- When mentioning LitRPG definition, link to /blog/what-is-litrpg\n"
-        "- When mentioning progression fantasy definition, link to /blog/what-is-progression-fantasy\n"
-        "- When mentioning dungeon core, link to /lists/best-dungeon-core\n"
-        "- When mentioning GameLit, link to /lists/best-gamelit\n"
-        "- When recommending books, link to the appropriate list page (e.g., /lists/best-litrpg-books)\n"
-        "- When mentioning completed series, link to /lists/best-completed-litrpg\n"
-        "- When mentioning Dungeon Crawler Carl, link to /lists/books-like-dungeon-crawler-carl\n"
-        "- When discussing new releases, link to /new-releases\n"
-        "- Format as markdown links: [text](/path) or [text](https://full-url)"
+        "INTERNAL LINKING RULES — follow these EXACTLY:\n\n"
+        "Only link to the stable pages listed below. These are the ONLY internal URLs "
+        "guaranteed to exist. Every path ends with a trailing slash.\n\n"
+        "NEVER link to a dated blog post (book reviews, new-release roundups, author "
+        "spotlights, platform-feature posts). Their URLs start with a date you cannot "
+        "know, so any such link will 404. To reference another article, describe it in "
+        "prose with no link. Do NOT invent paths that are not on this list.\n\n"
+        "Genre explainer pages — link when first defining the sub-genre:\n"
+        "- /blog/what-is-litrpg/\n"
+        "- /blog/what-is-progression-fantasy/\n"
+        "- /blog/what-is-dungeon-core/\n"
+        "- /blog/what-is-gamelit/\n"
+        "- /blog/what-is-system-apocalypse/\n"
+        "- /blog/what-is-cultivation-fiction/\n"
+        "- /blog/what-is-isekai/\n"
+        "- /blog/what-is-tower-climbing/\n"
+        "- /blog/what-is-time-loop-litrpg/\n"
+        "- /blog/what-is-crafting-litrpg/\n"
+        "- /blog/what-is-base-building-litrpg/\n"
+        "- /blog/what-is-dark-litrpg/\n\n"
+        "Ranked list pages — link when recommending books in that category:\n"
+        "- /lists/best-litrpg-books/\n"
+        "- /lists/best-dungeon-core/\n"
+        "- /lists/best-progression-fantasy/\n"
+        "- /lists/best-completed-litrpg/\n"
+        "- /lists/best-litrpg-audiobooks/\n"
+        "- /lists/best-gamelit/\n"
+        "- /lists/best-litrpg-romance/\n"
+        "- /lists/books-like-dungeon-crawler-carl/\n\n"
+        "Other stable pages: /new-releases/ , /blog/ (article index), /lists/ (all lists).\n\n"
+        "Format as markdown links to an exact path above: [text](/exact-path/)."
     ),
 
     'geo_guidance': (

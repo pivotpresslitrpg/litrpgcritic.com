@@ -19,7 +19,7 @@ faq:
 
 Matt Dinniman reported at Emerald City Comic Con 2026 that he holds eight of the fifteen spots on the NYT Monthly Audio bestseller list. He said it with the flat delivery of someone who has run the numbers and still finds them mildly impossible to process.
 
-That's where we are. Six million copies sold. A TV adaptation in development with Seth MacFarlane. A Book 8 (*A Parade of Horribles*, May 12, 2026) that has been the most-anticipated single release in [LitRPG](/blog/what-is-litrpg) for most of the last year. A *Slate* feature. A *Popverse* panel.
+That's where we are. Six million copies sold. A TV adaptation in development with Seth MacFarlane. A Book 8 (*A Parade of Horribles*, May 12, 2026) that has been the most-anticipated single release in [LitRPG](/blog/what-is-litrpg/) for most of the last year. A *Slate* feature. A *Popverse* panel.
 
 [Dungeon Crawler Carl](https://litrpgtools.com) went mainstream. And based on our analysis of 50,000+ titles tracked on [LitRPGTools.com](https://litrpgtools.com), it didn't do it by softening the genre's edges — it did it by committing harder to them than anyone else.
 

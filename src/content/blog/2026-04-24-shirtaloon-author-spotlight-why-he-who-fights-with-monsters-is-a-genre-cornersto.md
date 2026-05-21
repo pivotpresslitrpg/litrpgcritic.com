@@ -8,7 +8,7 @@ tags: ["Shirtaloon", "He Who Fights With Monsters", "LitRPG", "progression fanta
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre built on the thrill of quantified growth — characters gaining levels, stats, and abilities within game-like systems. It is characterized by explicit progression mechanics, character sheets or status windows, and the deeply satisfying loop of earning power through struggle. Within that genre, few names carry more weight than Shirtaloon, the pen name of Australian author Travis Deverell, whose *He Who Fights With Monsters* series has become one of the defining works in modern LitRPG and [progression fantasy](/blog/what-is-progression-fantasy).
+[LitRPG](/blog/what-is-litrpg/) is a genre built on the thrill of quantified growth — characters gaining levels, stats, and abilities within game-like systems. It is characterized by explicit progression mechanics, character sheets or status windows, and the deeply satisfying loop of earning power through struggle. Within that genre, few names carry more weight than Shirtaloon, the pen name of Australian author Travis Deverell, whose *He Who Fights With Monsters* series has become one of the defining works in modern LitRPG and [progression fantasy](/blog/what-is-progression-fantasy).
 
 ## Who Is Shirtaloon?
 

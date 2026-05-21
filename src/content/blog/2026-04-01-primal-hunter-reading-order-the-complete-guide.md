@@ -79,7 +79,7 @@ Verdict: **Yes, with clear expectations set.**
 
 The series is 15 books long and ongoing. That is a commitment. But the Royal Road origin means Zogarth writes with binge-reading in mind — individual volumes are designed to flow into each other, and readers with reading time have reported completing the first five books in a week without the pacing ever dragging.
 
-Based on [LitRPGTools.com](https://litrpgtools.com) data, The Primal Hunter is in the top five most-recommended series for readers who finish [Dungeon Crawler Carl](/blog/2026-03-25-dungeon-crawler-carl-reading-order), [He Who Fights with Monsters](/blog/if-you-liked-he-who-fights-with-monsters-read-these-next), and Defiance of the Fall. If you've completed any of those and want more, the hunter is waiting.
+Based on [LitRPGTools.com](https://litrpgtools.com) data, The Primal Hunter is in the top five most-recommended series for readers who finish [Dungeon Crawler Carl](/blog/2026-03-25-dungeon-crawler-carl-reading-order), [He Who Fights with Monsters](/blog/2026-03-19-if-you-liked-he-who-fights-with-monsters-read-these-next/), and Defiance of the Fall. If you've completed any of those and want more, the hunter is waiting.
 
 ---
 

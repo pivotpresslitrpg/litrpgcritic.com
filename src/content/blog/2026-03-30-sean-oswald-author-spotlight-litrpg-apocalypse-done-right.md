@@ -8,7 +8,7 @@ tags: ["Sean Oswald", "LitRPG", "Apocalypse BREAKER", "Welcome to the Multiverse
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre in which characters experience their world through explicit game mechanics — stats, levels, skill trees, and system notifications. It is characterized by tangible progression, rules-based world-building, and a protagonist whose growth is measured as much in numbers as in narrative. Within that framework, Sean Oswald has quietly built a reputation for something that's harder to find than most readers realize: apocalypse fiction that actually cares about its systems.
+[LitRPG](/blog/what-is-litrpg/) is a genre in which characters experience their world through explicit game mechanics — stats, levels, skill trees, and system notifications. It is characterized by tangible progression, rules-based world-building, and a protagonist whose growth is measured as much in numbers as in narrative. Within that framework, Sean Oswald has quietly built a reputation for something that's harder to find than most readers realize: apocalypse fiction that actually cares about its systems.
 
 ## Who Is Sean Oswald?
 

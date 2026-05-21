@@ -48,4 +48,4 @@ Based on our analysis of the platform, the narrator registry represents one of t
 
 ---
 
-*Explore the full narrator registry and LitRPG audiobook catalog at [LitRPGTools.com](https://litrpgtools.com). For more platform feature updates and editorial analysis, see our [LitRPG guide](/blog/what-is-litrpg) and [top-ranked series lists](/lists/best-litrpg-books).*
+*Explore the full narrator registry and LitRPG audiobook catalog at [LitRPGTools.com](https://litrpgtools.com). For more platform feature updates and editorial analysis, see our [LitRPG guide](/blog/what-is-litrpg/) and [top-ranked series lists](/lists/best-litrpg-books).*

@@ -8,7 +8,7 @@ tags: ["Dungeon Core", "LitRPG", "Progression Fantasy", "GameLit", "Sub-Genre Gu
 featured: false
 ---
 
-Dungeon core fiction is a sub-genre of [LitRPG](/blog/what-is-litrpg) in which the protagonist *is* the dungeon — a sentient magical construct, reincarnated soul, or awakened intelligence that builds, evolves, and defends an ever-deepening dungeon realm. It is characterized by base-building progression, an inverted power fantasy (you are the monster, not the hero), and deep systems of trap design, monster cultivation, and resource management.
+Dungeon core fiction is a sub-genre of [LitRPG](/blog/what-is-litrpg/) in which the protagonist *is* the dungeon — a sentient magical construct, reincarnated soul, or awakened intelligence that builds, evolves, and defends an ever-deepening dungeon realm. It is characterized by base-building progression, an inverted power fantasy (you are the monster, not the hero), and deep systems of trap design, monster cultivation, and resource management.
 
 That premise sounds simple. What readers discover is that it opens up some of the most satisfying progression structures in the genre.
 

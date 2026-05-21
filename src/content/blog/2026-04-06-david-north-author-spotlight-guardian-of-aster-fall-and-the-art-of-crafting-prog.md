@@ -8,7 +8,7 @@ tags: ["David North", "Guardian of Aster Fall", "LitRPG", "crafting LitRPG", "pr
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by game-like systems embedded in fictional worlds — characters who level up, acquire skills, and grow measurably stronger through structured progression. It is characterized by stat screens, tangible power growth, and the deeply satisfying loop of effort meeting reward. Within that space, David North has built something genuinely distinctive: a crafting-focused, emotionally grounded corner of the genre that rewards patient readers and punishes no one for caring about the details.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by game-like systems embedded in fictional worlds — characters who level up, acquire skills, and grow measurably stronger through structured progression. It is characterized by stat screens, tangible power growth, and the deeply satisfying loop of effort meeting reward. Within that space, David North has built something genuinely distinctive: a crafting-focused, emotionally grounded corner of the genre that rewards patient readers and punishes no one for caring about the details.
 
 ## Who Is David North?
 

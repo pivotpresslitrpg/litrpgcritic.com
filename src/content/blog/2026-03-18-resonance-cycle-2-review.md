@@ -8,7 +8,7 @@ tags: ["The Resonance Cycle", "Aaron Renfroe", "LitRPG", "progression fantasy", 
 featured: true
 ---
 
-[LitRPG is a genre defined by characters who level up, earn skills, and navigate game-like systems within a narrative framework.](/blog/what-is-litrpg) It is characterized by visible stat progression, ability acquisition, and the deliberate use of game mechanics as a storytelling device. Within that framework, [progression fantasy](/blog/what-is-progression-fantasy) goes a step further — the arc *is* the growth, and the best books in the subgenre make you feel every step of it.
+[LitRPG is a genre defined by characters who level up, earn skills, and navigate game-like systems within a narrative framework.](/blog/what-is-litrpg/) It is characterized by visible stat progression, ability acquisition, and the deliberate use of game mechanics as a storytelling device. Within that framework, [progression fantasy](/blog/what-is-progression-fantasy) goes a step further — the arc *is* the growth, and the best books in the subgenre make you feel every step of it.
 
 *Theater of War*, the second entry in Aaron Renfroe's **The Resonance Cycle**, is that kind of book. Based on our analysis of 50,000+ titles tracked across the genre, stories that anchor mechanical progression to genuine character motivation consistently outperform those that treat stats as set dressing. This one does the work.
 
@@ -26,7 +26,7 @@ It sounds simple. It's not.
 
 ## World-Building: Two Worlds, One Coherent Vision
 
-Renfroe's dual-world construction is one of the more thoughtful in recent [LitRPG](/blog/what-is-litrpg) fiction. The time-differential mechanic — roughly three Volar years per six Earth months — creates genuine pressure that most portal-fantasy narratives avoid. Ty can't just grind indefinitely. Every Earth visit has a cost measured in Volar consequences, and that constraint shapes every decision he makes.
+Renfroe's dual-world construction is one of the more thoughtful in recent [LitRPG](/blog/what-is-litrpg/) fiction. The time-differential mechanic — roughly three Volar years per six Earth months — creates genuine pressure that most portal-fantasy narratives avoid. Ty can't just grind indefinitely. Every Earth visit has a cost measured in Volar consequences, and that constraint shapes every decision he makes.
 
 The excerpt also gestures at something more interesting: a divine ecology. Multiple gods are competing to establish anchors on Earth through their scions, and Ty's god, Inspiration, operates on different principles than the others. That theological-political layer gives the world a texture that goes beyond dungeon maps and monster tables. According to reader ratings on LitRPGTools.com, world-building depth is consistently one of the top three factors readers cite in 5-star LitRPG reviews — and Renfroe clearly understands why.
 

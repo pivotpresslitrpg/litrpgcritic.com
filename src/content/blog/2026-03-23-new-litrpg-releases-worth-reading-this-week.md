@@ -8,7 +8,7 @@ tags: ["new releases", "LitRPG", "progression fantasy", "apocalyptic LitRPG", "s
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by the intersection of game mechanics and narrative fiction — characters who level up, earn skills, and navigate worlds governed by visible, quantifiable systems. It is characterized by stat progression, skill acquisition, and a tight feedback loop between character growth and plot momentum. This week's release slate leans heavily into those mechanics while covering an unusually wide tonal range — from grim apocalyptic system fiction to something genuinely charming about elves in a trailer park.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by the intersection of game mechanics and narrative fiction — characters who level up, earn skills, and navigate worlds governed by visible, quantifiable systems. It is characterized by stat progression, skill acquisition, and a tight feedback loop between character growth and plot momentum. This week's release slate leans heavily into those mechanics while covering an unusually wide tonal range — from grim apocalyptic system fiction to something genuinely charming about elves in a trailer park.
 
 ## Best New LitRPG Releases This Week
 

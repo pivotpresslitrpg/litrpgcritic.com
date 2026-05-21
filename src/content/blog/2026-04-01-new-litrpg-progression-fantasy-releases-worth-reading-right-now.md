@@ -8,7 +8,7 @@ tags: ["new releases", "LitRPG", "progression fantasy", "dungeon core", "GameLit
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by characters who navigate worlds governed by explicit game-like mechanics — experience points, skill trees, leveling systems, and stats rendered visible on the page. It is characterized by quantified progression, system-driven conflict, and a reader experience that rewards close attention to numbers and builds.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by characters who navigate worlds governed by explicit game-like mechanics — experience points, skill trees, leveling systems, and stats rendered visible on the page. It is characterized by quantified progression, system-driven conflict, and a reader experience that rewards close attention to numbers and builds.
 
 If you've been keeping pace with the [new releases](/new-releases) this season, you already know the genre isn't slowing down. Based on our analysis of 50,000+ titles tracked across the community, new entries are outpacing the genre's own historical averages — and more importantly, the quality ceiling keeps rising. Here's what deserves your attention right now.
 

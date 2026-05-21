@@ -10,7 +10,7 @@ featured: true
 
 # Divine Invasion Review: The LitRPG Series That Takes Preparation Fantasy Seriously
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by game-mechanical systems applied to narrative fiction — characters level up, allocate stats, and grow in measurable, trackable ways. It is characterized by explicit progression systems, reader-facing numeric feedback, and protagonists who engage with their world as if it were a designed game. *Divine Invasion*, Book 1 of Aaron Renfroe's *The Resonance Cycle*, fits squarely within this tradition — but its most interesting move happens *before* a single stat screen appears.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by game-mechanical systems applied to narrative fiction — characters level up, allocate stats, and grow in measurable, trackable ways. It is characterized by explicit progression systems, reader-facing numeric feedback, and protagonists who engage with their world as if it were a designed game. *Divine Invasion*, Book 1 of Aaron Renfroe's *The Resonance Cycle*, fits squarely within this tradition — but its most interesting move happens *before* a single stat screen appears.
 
 ---
 

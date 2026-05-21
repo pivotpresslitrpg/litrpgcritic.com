@@ -8,7 +8,7 @@ tags: ["Michael Chatfield", "LitRPG", "progression fantasy", "military fantasy",
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre where game mechanics, stats, and leveling systems are woven directly into narrative fiction. It is characterized by explicit progression systems, numerical character growth, and a reader experience that rewards paying attention to the numbers. Within that space, Michael Chatfield occupies a very specific and very loyal corner: epic-scale, military-flavored, grind-heavy progression fantasy where the protagonist doesn't just level up — they build *armies*, forge alliances, and reshape entire worlds.
+[LitRPG](/blog/what-is-litrpg/) is a genre where game mechanics, stats, and leveling systems are woven directly into narrative fiction. It is characterized by explicit progression systems, numerical character growth, and a reader experience that rewards paying attention to the numbers. Within that space, Michael Chatfield occupies a very specific and very loyal corner: epic-scale, military-flavored, grind-heavy progression fantasy where the protagonist doesn't just level up — they build *armies*, forge alliances, and reshape entire worlds.
 
 If you've been sleeping on Chatfield, this spotlight is your wake-up call.
 

@@ -17,7 +17,7 @@ faq:
 
 # What Is GameLit? The Complete Guide
 
-**GameLit is a fiction genre that incorporates game-like elements — quest structures, level-based progression, respawn mechanics, NPCs, and game-world logic — into its narrative without requiring the strict mechanical rigor of traditional LitRPG.** It's the broader umbrella under which [LitRPG](/blog/2026-03-12-what-is-litrpg-the-definitive-guide-to-the-genre) sits, offering game-world flavor with more room for the story to breathe.
+**GameLit is a fiction genre that incorporates game-like elements — quest structures, level-based progression, respawn mechanics, NPCs, and game-world logic — into its narrative without requiring the strict mechanical rigor of traditional LitRPG.** It's the broader umbrella under which [LitRPG](/blog/what-is-litrpg/) sits, offering game-world flavor with more room for the story to breathe.
 
 Think of GameLit as the gateway drug. It gives you the game-world experience without requiring you to read stat tables between every chapter.
 

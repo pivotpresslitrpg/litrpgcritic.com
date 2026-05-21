@@ -8,7 +8,7 @@ tags: ["System Apocalypse", "LitRPG", "progression fantasy", "GameLit", "post-ap
 featured: false
 ---
 
-System Apocalypse is a sub-genre of [LitRPG](/blog/what-is-litrpg) in which a game-like system of levels, stats, and abilities is forcibly imposed on the real world, typically through a cataclysmic external event. It is characterized by sudden civilizational collapse, survival-driven progression mechanics, and protagonists who must master an alien system to protect themselves and others from monsters, rival factions, and the collapse of the old world order.
+System Apocalypse is a sub-genre of [LitRPG](/blog/what-is-litrpg/) in which a game-like system of levels, stats, and abilities is forcibly imposed on the real world, typically through a cataclysmic external event. It is characterized by sudden civilizational collapse, survival-driven progression mechanics, and protagonists who must master an alien system to protect themselves and others from monsters, rival factions, and the collapse of the old world order.
 
 If that sounds like someone dropped a video game on top of a disaster novel and lit the whole thing on fire — you're getting the idea.
 

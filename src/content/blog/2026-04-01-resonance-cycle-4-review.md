@@ -10,7 +10,7 @@ featured: true
 
 # This Dark Shore Review: The Resonance Cycle Book 4 Is the Dark Arc Progression Fantasy Has Been Building Toward
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by game-system mechanics embedded directly into narrative fiction. It is characterized by stat sheets, skill progression, level-based advancement, and protagonists who grow in measurable, satisfying ways — often across multiple volumes. [Progression fantasy](/blog/what-is-progression-fantasy) pushes that concept further, prioritizing the arc of power and mastery above almost all else. The best entries in either tradition earn their dark moments. *This Dark Shore*, Book 4 of Aaron Renfroe's *The Resonance Cycle*, is a book that has earned them.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by game-system mechanics embedded directly into narrative fiction. It is characterized by stat sheets, skill progression, level-based advancement, and protagonists who grow in measurable, satisfying ways — often across multiple volumes. [Progression fantasy](/blog/what-is-progression-fantasy) pushes that concept further, prioritizing the arc of power and mastery above almost all else. The best entries in either tradition earn their dark moments. *This Dark Shore*, Book 4 of Aaron Renfroe's *The Resonance Cycle*, is a book that has earned them.
 
 Based on our analysis of 50,000+ titles tracked across the genre, series that successfully transition into a "dark arc" — without abandoning their mechanical heart — represent fewer than 15% of multi-volume LitRPG runs. Renfroe is attempting something genuinely difficult here, and the opening extract suggests he's pulling it off.
 

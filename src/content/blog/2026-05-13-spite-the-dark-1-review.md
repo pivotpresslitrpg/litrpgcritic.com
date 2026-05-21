@@ -8,7 +8,7 @@ tags: ["Spite the Dark", "Aaron Renfroe", "LitRPG", "dark fantasy", "summoner"]
 featured: true
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by game-like systems — levels, stats, and structured progression — embedded in narrative fiction. It is characterized by mechanical transparency, character growth tied to quantifiable advancement, and the reader's investment in both the numbers and the story driving them.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by game-like systems — levels, stats, and structured progression — embedded in narrative fiction. It is characterized by mechanical transparency, character growth tied to quantifiable advancement, and the reader's investment in both the numbers and the story driving them.
 
 Most LitRPG openers drop their protagonist into a new world and spend the first act explaining the rules. *Spite the Dark*, Book 1 of Aaron Renfroe's ongoing series, does something more interesting: it drops you into a protagonist who **already knows the rules** — and is exploiting them before the tutorial even ends.
 

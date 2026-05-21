@@ -8,7 +8,7 @@ tags: ["Matt Dinniman", "Dungeon Crawler Carl", "LitRPG", "progression fantasy",
 featured: false
 ---
 
-[LitRPG fiction](/blog/what-is-litrpg) is a genre defined by game-like systems — levels, stats, skills, and explicit progression mechanics woven into a narrative framework. It is characterized by numerical transparency, character growth quantified through system prompts, and stories where the rules of the world function like the rules of a game. Within that space, very few authors have managed to do what Matt Dinniman has done: take those mechanics and weaponize them for satire, spectacle, and genuine emotional weight.
+[LitRPG fiction](/blog/what-is-litrpg/) is a genre defined by game-like systems — levels, stats, skills, and explicit progression mechanics woven into a narrative framework. It is characterized by numerical transparency, character growth quantified through system prompts, and stories where the rules of the world function like the rules of a game. Within that space, very few authors have managed to do what Matt Dinniman has done: take those mechanics and weaponize them for satire, spectacle, and genuine emotional weight.
 
 ## Who Is Matt Dinniman?
 

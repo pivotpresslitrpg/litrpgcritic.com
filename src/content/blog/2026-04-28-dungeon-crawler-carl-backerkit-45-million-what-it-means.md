@@ -21,7 +21,7 @@ The number is $4.5 million. Let it sit for a moment.
 
 Matt Dinniman's **Dungeon Crawler Carl** BackerKit campaign — tabletop gaming content built around the DCC universe — raised $4.5 million as of April 14, 2026. That's not a book sales number. That's not advance royalties or streaming rights. That's readers, fans, and community members voluntarily committing their own money to expand a universe they love into new formats, before a single physical product arrives at their door.
 
-If [our April 3 piece](/blog/litrpg-goes-mainstream-what-the-dungeon-crawler-carl-tv-deal-means) was the story of LitRPG going mainstream — 6 million copies, 8 of 15 NYT Audio spots, a Peacock deal — this is the sequel: LitRPG as intellectual property. The franchise era.
+If [our April 3 piece](/blog/2026-04-03-litrpg-goes-mainstream-what-the-dungeon-crawler-carl-tv-deal-means/) was the story of LitRPG going mainstream — 6 million copies, 8 of 15 NYT Audio spots, a Peacock deal — this is the sequel: LitRPG as intellectual property. The franchise era.
 
 ## What $4.5 Million Actually Means
 
@@ -61,4 +61,4 @@ The franchise era of LitRPG is not coming. According to every data signal we tra
 
 ---
 
-*Track the full LitRPG and progression fantasy landscape at [LitRPGTools.com](https://litrpgtools.com). For rankings, reading orders, and editorial analysis, see our [best LitRPG series list](/lists/best-litrpg-books) and [Dungeon Crawler Carl reading order](/blog/dungeon-crawler-carl-reading-order).*
+*Track the full LitRPG and progression fantasy landscape at [LitRPGTools.com](https://litrpgtools.com). For rankings, reading orders, and editorial analysis, see our [best LitRPG series list](/lists/best-litrpg-books) and [Dungeon Crawler Carl reading order](/blog/2026-03-25-dungeon-crawler-carl-reading-order/).*

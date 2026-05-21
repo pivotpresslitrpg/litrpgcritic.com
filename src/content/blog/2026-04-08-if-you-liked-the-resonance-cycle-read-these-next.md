@@ -8,7 +8,7 @@ tags: ["LitRPG", "progression fantasy", "Aaron Renfroe", "recommendations", "boo
 featured: false
 ---
 
-[LitRPG](/blog/what-is-litrpg) is a genre where characters level up, acquire skills, and grow in power within a game-like system — and The Resonance Cycle by Aaron Renfroe is one of its finest examples. It is characterized by deeply satisfying progression mechanics, emotionally resonant character arcs, and a system that feels genuinely original rather than borrowed from a hundred other titles.
+[LitRPG](/blog/what-is-litrpg/) is a genre where characters level up, acquire skills, and grow in power within a game-like system — and The Resonance Cycle by Aaron Renfroe is one of its finest examples. It is characterized by deeply satisfying progression mechanics, emotionally resonant character arcs, and a system that feels genuinely original rather than borrowed from a hundred other titles.
 
 The Resonance Cycle Omnibus: Books 4–6 holds a perfect 5.0★ rating according to community data from LitRPGTools.com — placing it among fewer than 3% of tracked series to achieve that score across multiple volumes. That kind of sustained excellence is rare. Based on our analysis of 50,000+ titles in the LitRPG and [progression fantasy](/blog/what-is-progression-fantasy) space, readers who rate The Resonance Cycle highly also tend to gravitate toward books with inventive crafting or ability-fusion systems, grounded emotional stakes, and protagonists who earn their power through creativity rather than brute grinding.
 

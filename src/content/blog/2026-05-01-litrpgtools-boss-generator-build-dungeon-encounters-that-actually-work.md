@@ -8,7 +8,7 @@ tags: ["litrpg tools", "dungeon boss", "worldbuilding", "litrpg writing", "dunge
 featured: false
 ---
 
-[LitRPG fiction](/blog/what-is-litrpg) is a genre built on the collision between narrative and game systems. It is characterized by explicit stat progression, skill acquisition, and a rules-bound world that the protagonist must master to survive. Within that framework, almost nothing matters more than a well-designed boss encounter.
+[LitRPG fiction](/blog/what-is-litrpg/) is a genre built on the collision between narrative and game systems. It is characterized by explicit stat progression, skill acquisition, and a rules-bound world that the protagonist must master to survive. Within that framework, almost nothing matters more than a well-designed boss encounter.
 
 Bosses in LitRPG carry enormous structural weight. They mark the end of a progression arc, test everything the character has learned, and give readers a concrete measure of how far the protagonist has come. Write a weak boss and the whole arc deflates. Write one that feels mechanical and arbitrary, and readers clock it immediately — this genre's audience is sophisticated about game design in a way that fantasy readers generally aren't.
 

@@ -10,7 +10,7 @@ featured: true
 
 # Ignite the Dark Review: The Resonance Cycle Book 7 Is Progression Fantasy Operating at Full Power
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by game-like systems embedded in narrative fiction — character sheets, skill trees, leveled progression, and stat-driven conflict. It is characterized by mechanical transparency, tangible power growth, and the satisfaction of watching a protagonist master increasingly complex systems. By book seven of any LitRPG series, a writer either deepens that contract with the reader or starts coasting on momentum. Aaron Renfroe, with *Ignite the Dark*, does something harder: he expands it.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by game-like systems embedded in narrative fiction — character sheets, skill trees, leveled progression, and stat-driven conflict. It is characterized by mechanical transparency, tangible power growth, and the satisfaction of watching a protagonist master increasingly complex systems. By book seven of any LitRPG series, a writer either deepens that contract with the reader or starts coasting on momentum. Aaron Renfroe, with *Ignite the Dark*, does something harder: he expands it.
 
 ---
 

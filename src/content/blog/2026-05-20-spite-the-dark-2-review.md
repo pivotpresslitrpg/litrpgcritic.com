@@ -10,7 +10,7 @@ featured: true
 
 # Shadow in Madness Review: Aaron Renfroe's Spite the Dark Book 2 Is Dark LitRPG Done Right
 
-[LitRPG](/blog/what-is-litrpg) is a genre defined by game-like progression systems embedded within narrative fiction. It is characterized by character sheets, leveling mechanics, and skill trees that function as both storytelling tools and the structural backbone of the plot. *Shadow in Madness*, the second entry in Aaron Renfroe's *Spite the Dark* series, understands that definition at a foundational level — and then pushes past it into territory that feels genuinely dangerous.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by game-like progression systems embedded within narrative fiction. It is characterized by character sheets, leveling mechanics, and skill trees that function as both storytelling tools and the structural backbone of the plot. *Shadow in Madness*, the second entry in Aaron Renfroe's *Spite the Dark* series, understands that definition at a foundational level — and then pushes past it into territory that feels genuinely dangerous.
 
 ---
 
@@ -24,7 +24,7 @@ The opening chapter drops readers directly into a Washington, D.C. surveillance 
 
 ## How Good Is the Progression System in Spite the Dark?
 
-The progression system in *Spite the Dark* is one of the more architecturally ambitious designs in recent [LitRPG](/blog/what-is-litrpg), and the opening character sheet for Book 2 makes that immediately clear. Based on our analysis of 50,000+ titles tracked across the genre, dual-track systems that separate a character's *innate* attributes from *Catalyst* upgrades and a third equipment-layer (SPITE augmentations) are rare. Renfroe runs three parallel progression tracks simultaneously without losing coherence.
+The progression system in *Spite the Dark* is one of the more architecturally ambitious designs in recent [LitRPG](/blog/what-is-litrpg/), and the opening character sheet for Book 2 makes that immediately clear. Based on our analysis of 50,000+ titles tracked across the genre, dual-track systems that separate a character's *innate* attributes from *Catalyst* upgrades and a third equipment-layer (SPITE augmentations) are rare. Renfroe runs three parallel progression tracks simultaneously without losing coherence.
 
 What makes this work is the specificity. The Assassination skill doesn't just say "you're better at killing things." It specifies conditions: automatic criticals on unaware targets, the ability to land criticals on Madness creatures, and a hard mechanical counter — it doesn't apply against targets whose Perception or Reflexes match or exceed yours. That's a constraint with genuine strategic teeth. Compare this to the more streamlined (and excellent) systems in [*Dungeon Crawler Carl*](/lists/books-like-dungeon-crawler-carl) by Matt Dinniman, where stat-crunch is presented with humor and irreverence. Renfroe's approach is grimmer and more granular. Neither is wrong. They're different tools for different tonal registers.
 
