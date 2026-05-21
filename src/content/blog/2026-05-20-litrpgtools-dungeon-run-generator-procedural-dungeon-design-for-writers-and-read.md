@@ -8,7 +8,7 @@ tags: ["litrpg", "tools", "dungeon core", "worldbuilding", "litrpgtools", "writi
 featured: false
 ---
 
-[LitRPG](https://litrpgtools.com/blog/what-is-litrpg) is a subgenre of fantasy fiction in which characters navigate worlds governed by explicit game mechanics — experience points, stat screens, skill trees, and leveling systems that drive both plot and character growth. It is characterized by numerical progression, system-driven tension, and the satisfying feedback loop of measurable power gain.
+[LitRPG](/blog/what-is-litrpg/) is a subgenre of fantasy fiction in which characters navigate worlds governed by explicit game mechanics — experience points, stat screens, skill trees, and leveling systems that drive both plot and character growth. It is characterized by numerical progression, system-driven tension, and the satisfying feedback loop of measurable power gain.
 
 The dungeon run is the crucible at the center of that loop. From [Dungeon Crawler Carl](/lists/books-like-dungeon-crawler-carl) to Dakota Krout's *Divine Dungeon* series to David North's *Guardian of Aster Fall*, the dungeon is where [LitRPG](/lists/best-litrpg-books) earns its tension — layered floors, escalating threats, loot that matters. Getting that structure right is harder than it looks. Which is why the Dungeon Run Generator at [LitRPGTools.com](https://litrpgtools.com) caught my attention.
 

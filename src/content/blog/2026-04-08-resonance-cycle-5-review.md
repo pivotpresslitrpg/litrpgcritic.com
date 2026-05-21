@@ -10,7 +10,7 @@ featured: true
 
 # Torn Shroud Review: The Resonance Cycle Book 5 Is Progression Fantasy at Its Most Ambitious
 
-[LitRPG](https://litrgptools.com/blog/what-is-litrpg) is a genre defined by the fusion of game mechanics with narrative stakes — characters gain levels, spend attribute points, and navigate systems that respond to their choices in trackable, satisfying ways. It is characterized by explicit progression structures, detailed character sheets, and a world whose rules feel internally consistent enough to reason about. [Progression fantasy](https://litrpgtools.com/blog/what-is-progression-fantasy) takes those elements and stretches them across the full arc of a series, making the cumulative growth of a character the primary emotional engine.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by the fusion of game mechanics with narrative stakes — characters gain levels, spend attribute points, and navigate systems that respond to their choices in trackable, satisfying ways. It is characterized by explicit progression structures, detailed character sheets, and a world whose rules feel internally consistent enough to reason about. [Progression fantasy](https://litrpgtools.com/blog/what-is-progression-fantasy) takes those elements and stretches them across the full arc of a series, making the cumulative growth of a character the primary emotional engine.
 
 *Torn Shroud*, Book 5 of Aaron Renfroe's **The Resonance Cycle**, does both — and then raises the floor by demanding that its protagonist juggle three separate worlds, a divine cold war, and the looming extinction of everything he's built.
 

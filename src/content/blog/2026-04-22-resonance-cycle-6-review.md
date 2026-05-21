@@ -10,7 +10,7 @@ featured: true
 
 # Knight Unleashed Review: The Resonance Cycle Book 6 Is Aaron Renfroe's Most Explosive Entry Yet
 
-[LitRPG](https://litrgpcritic.com/blog/what-is-litrpg) is a genre defined by game-mechanical systems layered onto narrative fiction — characters grow through quantified stats, skill trees, and progression milestones that readers track alongside the protagonist. It is characterized by transparent power escalation, system-driven conflict, and the visceral satisfaction of watching numbers matter in life-or-death situations. By book six, a series either justifies its length or starts to coast. *Knight Unleashed* does not coast.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by game-mechanical systems layered onto narrative fiction — characters grow through quantified stats, skill trees, and progression milestones that readers track alongside the protagonist. It is characterized by transparent power escalation, system-driven conflict, and the visceral satisfaction of watching numbers matter in life-or-death situations. By book six, a series either justifies its length or starts to coast. *Knight Unleashed* does not coast.
 
 ---
 

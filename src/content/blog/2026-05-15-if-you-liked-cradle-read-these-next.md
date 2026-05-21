@@ -23,7 +23,7 @@ Schinhofen's *Heavenly Chaos* series scratches the same cultivation itch as Crad
 David North's xianxia-influenced series delivers the kind of [cultivation fiction](/blog/what-is-cultivation-fiction) that Cradle readers crave — an oppressive world, a protagonist who refuses to quit, and a power system with genuine internal logic. North also writes the *Guardian of Aster Fall* crafting series if you want to explore his range.
 
 **3. He Who Fights With Monsters — Jason Cheyne (Shirtaloon)**
-If Cradle's appeal is a protagonist relentlessly optimizing their path to the top, *He Who Fights With Monsters* delivers that in spades with sharper humor and a vividly realized [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) framework layered over the progression core.
+If Cradle's appeal is a protagonist relentlessly optimizing their path to the top, *He Who Fights With Monsters* delivers that in spades with sharper humor and a vividly realized [LitRPG](/blog/what-is-litrpg/) framework layered over the progression core.
 
 **4. Crossroads of Oblivion — Dem Mikhailov ★5.0**
 A portal fantasy progression series with a surprisingly Cradle-like escalation curve — each arc raises the stakes meaningfully rather than treading water. According to reader ratings on LitRPGTools.com, this title has a 94% series-completion rate among Cradle fans who try it.

@@ -8,7 +8,7 @@ tags: ["litrpg tools", "skill tree", "world-building", "fan fiction", "progressi
 featured: false
 ---
 
-[LitRPG](https://litrpgtools.com/blog/what-is-litrpg) is a genre defined by game-mechanics fiction: stories where characters exist inside — or experience life through the lens of — a rule-governed system of stats, levels, and abilities. It is characterized by explicit progression tracking, numeric feedback on character growth, and the satisfying architecture of skill acquisition over time.
+[LitRPG](/blog/what-is-litrpg/) is a genre defined by game-mechanics fiction: stories where characters exist inside — or experience life through the lens of — a rule-governed system of stats, levels, and abilities. It is characterized by explicit progression tracking, numeric feedback on character growth, and the satisfying architecture of skill acquisition over time.
 
 That last element — skill architecture — is where most LitRPG world-building either sings or collapses. And it's exactly what the Skill Tree Generator at [LitRPGTools.com](https://litrpgtools.com) was built to support.
 
