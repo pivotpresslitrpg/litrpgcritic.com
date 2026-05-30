@@ -1,0 +1,56 @@
+---
+import { bookPlatformUrl, PLATFORM_NAME, type Book } from '../lib/api';
+
+interface Props {
+  pool: Book[];
+  tags?: string[];
+  heading?: string;
+  limit?: number;
+}
+
+const { pool, tags = [], heading, limit = 6 } = Astro.props;
+
+// Best-effort contextual match: keep pool books whose genres overlap the post
+// tags. Falls back to the full top-rated pool when there's no strong overlap.
+const tagSet = tags.map((t) => t.toLowerCase()).filter(Boolean);
+function matches(b: Book): boolean {
+  return b.genres.some((g) => {
+    const gl = g.toLowerCase();
+    return tagSet.some((t) => gl.includes(t) || t.includes(gl));
+  });
+}
+
+let books: Book[] = tagSet.length ? pool.filter(matches) : [];
+if (books.length < 3) books = pool;
+books = books.slice(0, limit);
+
+const title = heading ?? `Popular on ${PLATFORM_NAME}`;
+---
+
+{books.length > 0 && (
+  <section class="mt-12">
+    <div class="flex items-baseline justify-between mb-4">
+      <h2 class="text-lg font-bold text-white">{title}</h2>
+      <span class="text-xs text-[#666]">Ranked &amp; reviewed on {PLATFORM_NAME}</span>
+    </div>
+    <div class="grid grid-cols-3 sm:grid-cols-6 gap-3">
+      {books.map((book) => (
+        <a href={bookPlatformUrl(book)} target="_blank" rel="noopener" class="group block">
+          {book.cover_image_url ? (
+            <img
+              src={book.cover_image_url}
+              alt={`${book.title} cover`}
+              width="80"
+              height="120"
+              loading="lazy"
+              class="w-full aspect-[2/3] object-cover rounded shadow group-hover:opacity-90 transition-opacity"
+            />
+          ) : (
+            <div class="w-full aspect-[2/3] bg-[#1a1a1a] rounded flex items-center justify-center text-[#444] text-[10px] text-center px-1">No Cover</div>
+          )}
+          <p class="text-xs text-[#aaa] group-hover:text-[#e85d2f] mt-1.5 line-clamp-2 leading-tight transition-colors">{book.title}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+)}

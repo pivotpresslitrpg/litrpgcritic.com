@@ -1,6 +1,6 @@
 ---
 import type { Book } from '../lib/api';
-import { formatAuthors, starRating } from '../lib/api';
+import { formatAuthors, starRating, bookPlatformUrl, authorPlatformUrl, PLATFORM_NAME } from '../lib/api';
 
 interface Props {
   book: Book;
@@ -11,7 +11,11 @@ interface Props {
 const { book, rank, showDescription = false } = Astro.props;
 const authors = formatAuthors(book.authors);
 const stars = starRating(book.average_rating);
+const bookUrl = bookPlatformUrl(book);
 const amazonUrl = book.amazon_url || `https://www.amazon.com/s?k=${encodeURIComponent(book.title)}`;
+// Per-author platform links (null when the author has no public profile).
+const authorLinks = book.authors.map((name) => ({ name, url: authorPlatformUrl(book, name) }));
+const hasAuthorLinks = authorLinks.some((a) => a.url);
 ---
 
 <article class="flex gap-4 py-5 border-b border-[#2e2e2e] last:border-0">
@@ -22,8 +26,8 @@ const amazonUrl = book.amazon_url || `https://www.amazon.com/s?k=${encodeURIComp
     </div>
   )}
 
-  <!-- Cover -->
-  <a href={amazonUrl} target="_blank" rel="noopener nofollow" class="shrink-0">
+  <!-- Cover → platform book page -->
+  <a href={bookUrl} target="_blank" rel="noopener" class="shrink-0">
     {book.cover_image_url ? (
       <img
         src={book.cover_image_url}
@@ -43,11 +47,22 @@ const amazonUrl = book.amazon_url || `https://www.amazon.com/s?k=${encodeURIComp
   <!-- Info -->
   <div class="flex-1 min-w-0">
     <h3 class="font-semibold text-white leading-snug">
-      <a href={amazonUrl} target="_blank" rel="noopener nofollow" class="hover:text-[#e85d2f] transition-colors">
+      <a href={bookUrl} target="_blank" rel="noopener" class="hover:text-[#e85d2f] transition-colors">
         {book.title}
       </a>
     </h3>
-    <p class="text-sm text-[#888] mt-0.5">{authors}</p>
+    <p class="text-sm text-[#888] mt-0.5">
+      {hasAuthorLinks
+        ? authorLinks.map((a, i) => (
+            <Fragment>
+              {i > 0 && (i === authorLinks.length - 1 ? ' & ' : ', ')}
+              {a.url
+                ? <a href={a.url} target="_blank" rel="noopener" class="hover:text-[#e85d2f] transition-colors">{a.name}</a>
+                : a.name}
+            </Fragment>
+          ))
+        : authors}
+    </p>
     {book.series_name && (
       <p class="text-xs text-[#666] mt-0.5">
         {book.series_name}{book.series_position ? ` #${book.series_position}` : ''}
@@ -73,14 +88,14 @@ const amazonUrl = book.amazon_url || `https://www.amazon.com/s?k=${encodeURIComp
     )}
   </div>
 
-  <!-- Amazon CTA -->
+  <!-- Secondary buy link (platform book page is the primary destination via cover/title) -->
   <a
     href={amazonUrl}
     target="_blank"
-    rel="noopener nofollow"
-    class="hidden sm:flex shrink-0 self-start mt-1 text-xs bg-[#e85d2f] hover:bg-[#c44a1f] text-white px-3 py-1.5 rounded transition-colors whitespace-nowrap"
+    rel="noopener nofollow sponsored"
+    class="hidden sm:flex shrink-0 self-start mt-1 text-xs border border-[#2e2e2e] hover:border-[#e85d2f] text-[#aaa] hover:text-white px-3 py-1.5 rounded transition-colors whitespace-nowrap"
   >
-    View →
+    Buy on Amazon ↗
   </a>
 </article>
 
@@ -99,7 +114,7 @@ const amazonUrl = book.amazon_url || `https://www.amazon.com/s?k=${encodeURIComp
       "worstRating": "1"
     }
   }),
-  ...(book.amazon_url && { "url": book.amazon_url }),
+  "url": bookUrl,
   ...(book.cover_image_url && { "image": book.cover_image_url }),
   ...(book.description && { "description": book.description.slice(0, 300) })
 })} />

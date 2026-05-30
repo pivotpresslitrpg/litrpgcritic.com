@@ -1,17 +1,22 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import RelatedBooks from '../../components/RelatedBooks.astro';
+import { getBooks } from '../../lib/api';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
   const today = new Date().toISOString().slice(0, 10);
   const posts = (await getCollection('blog')).filter(p => p.data.date <= today);
+  // Fetch one shared top-rated pool for every post's related-books module so the
+  // build makes a single feed call instead of one per post.
+  const relatedPool = await getBooks({ sort: 'top_rated', limit: 60 });
   return posts.map(post => ({
     params: { slug: post.id.replace(/\.md$/, '') },
-    props: { post }
+    props: { post, relatedPool }
   }));
 }
 
-const { post } = Astro.props;
+const { post, relatedPool } = Astro.props;
 const { Content } = await render(post);
 
 const dateStr = new Date(post.data.date + 'T12:00:00').toLocaleDateString('en-US', {
@@ -86,6 +91,9 @@ const faqSchema = post.data.faq?.length ? {
     <div class="prose">
       <Content />
     </div>
+
+    <!-- Related books → platform book pages -->
+    <RelatedBooks pool={relatedPool} tags={post.data.tags} />
 
     <!-- Platform CTA -->
     <div class="mt-12 p-6 bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg text-center">

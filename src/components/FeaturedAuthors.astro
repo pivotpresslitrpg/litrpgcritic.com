@@ -1,0 +1,73 @@
+---
+import {
+  getBooks,
+  findAuthorUrlInBooks,
+  FEATURED_AUTHORS,
+  PLATFORM_BASE,
+  PLATFORM_NAME,
+  type Book,
+} from '../lib/api';
+
+interface Props {
+  heading?: string;
+  pool?: Book[];
+}
+
+const { heading = `Featured Authors on ${PLATFORM_NAME}`, pool } = Astro.props;
+
+// Use the caller's pool when provided; otherwise pull a broad top-rated set so
+// we can resolve real author-page URLs and representative covers.
+const books: Book[] = pool && pool.length ? pool : await getBooks({ sort: 'top_rated', limit: 120 });
+
+const authorsDir = `${PLATFORM_BASE}/authors`;
+
+function hasBooks(name: string): boolean {
+  const n = name.toLowerCase();
+  return books.some((b) => b.authors.some((a) => a.toLowerCase().includes(n)));
+}
+
+function repCover(name: string): string | null {
+  const n = name.toLowerCase();
+  const b = books.find(
+    (bk) => bk.cover_image_url && bk.authors.some((a) => a.toLowerCase().includes(n))
+  );
+  return b?.cover_image_url ?? null;
+}
+
+// Only spotlight authors that actually appear in the dataset. Their URL is the
+// precise platform author page when the feed exposes it, else the directory.
+const featured = FEATURED_AUTHORS.filter(hasBooks).map((name) => ({
+  name,
+  url: findAuthorUrlInBooks(books, name) ?? authorsDir,
+  cover: repCover(name),
+}));
+---
+
+{featured.length > 0 && (
+  <section class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg p-5">
+    <h2 class="font-bold text-white mb-1">{heading}</h2>
+    <p class="text-xs text-[#666] mb-4">Track their releases, reviews, and reading order on {PLATFORM_NAME}.</p>
+    <ul class="space-y-3">
+      {featured.map((a) => (
+        <li>
+          <a href={a.url} target="_blank" rel="noopener" class="flex items-center gap-3 group">
+            {a.cover ? (
+              <img
+                src={a.cover}
+                alt=""
+                width="32"
+                height="48"
+                loading="lazy"
+                class="w-8 h-12 object-cover rounded shadow shrink-0"
+              />
+            ) : (
+              <div class="w-8 h-12 bg-[#0d0d0d] rounded flex items-center justify-center text-[#444] text-[8px] shrink-0">—</div>
+            )}
+            <span class="text-sm text-[#ccc] group-hover:text-[#e85d2f] transition-colors">{a.name}</span>
+            <span class="ml-auto text-xs text-[#666] group-hover:text-[#e85d2f] transition-colors">→</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}

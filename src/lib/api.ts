@@ -14,6 +14,9 @@ const EDITORIAL_PRIORITY: { author: string; weight: number; excludeGenres: strin
   { author: 'David North',   weight: 2, excludeGenres: [] },
 ];
 
+/** Curated authors to spotlight in the Featured Authors funnel module. */
+export const FEATURED_AUTHORS: string[] = EDITORIAL_PRIORITY.map((e) => e.author);
+
 function applyEditorialCuration(books: Book[], genre?: string): Book[] {
   if (books.length < 3) return books;
   const result = [...books];
@@ -43,6 +46,9 @@ export interface Book {
   title: string;
   slug: string;
   authors: string[];
+  // Author-profile deep-link data from the feed; absent until the backend
+  // enhancement deploys, so all consumers must treat it as optional.
+  author_slugs?: { name: string; slug: string }[];
   cover_image_url: string | null;
   amazon_url: string | null;
   genres: string[];
@@ -126,4 +132,35 @@ export function formatAuthors(authors: string[]): string {
   if (authors.length === 1) return authors[0];
   if (authors.length === 2) return authors.join(' & ');
   return authors.slice(0, -1).join(', ') + ' & ' + authors[authors.length - 1];
+}
+
+// ---------------------------------------------------------------------------
+// Platform funnel links — route blog traffic to the goal platform.
+// The book/author DETAIL site lives on litrpgtools.com; the API is a separate
+// api. subdomain, hence a distinct PLATFORM_BASE.
+// ---------------------------------------------------------------------------
+
+export const PLATFORM_BASE = 'https://litrpgtools.com';
+export const PLATFORM_NAME = 'LitRPGTools';
+
+/** Canonical platform book page. Uses the feed id (real DB id), never the slug. */
+export function bookPlatformUrl(book: Book): string {
+  return `${PLATFORM_BASE}/books/${book.id}`;
+}
+
+/** Platform author page for a given author name, or null if no public profile. */
+export function authorPlatformUrl(book: Book, authorName: string): string | null {
+  const match = book.author_slugs?.find(
+    a => a.name.toLowerCase() === authorName.toLowerCase()
+  );
+  return match?.slug ? `${PLATFORM_BASE}/authors/${match.slug}` : null;
+}
+
+/** First author-page URL found for authorName across a pool of books, else null. */
+export function findAuthorUrlInBooks(books: Book[], authorName: string): string | null {
+  for (const b of books) {
+    const url = authorPlatformUrl(b, authorName);
+    if (url) return url;
+  }
+  return null;
 }
