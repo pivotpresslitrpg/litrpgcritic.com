@@ -20,7 +20,7 @@ The best books like *He Who Fights With Monsters* share three qualities: a cleve
 
 **1. The Primal Hunter by Zogarth** — Jake Hawker has the same loner-with-hidden-depth energy as Jason Asano, and Zogarth's system design is among the most intricate in the genre. With 13 books in the series and a 5.0★ community rating, this is the closest tonal match to HWFWM you'll find. [The Primal Hunter](https://litrpgtools.com) is essential reading if you crave that "one more chapter" pull.
 
-**2. Dungeon Crawler Carl by Matt Dinniman** — If Jason's dark humor resonates with you, Carl and Princess Donut will feel like old friends. [DCC](/lists/books-like-dungeon-crawler-carl) brings savage wit and deep lore in equal measure, wrapped in a survival-horror progression structure that hits differently every book.
+**2. Dungeon Crawler Carl by Matt Dinniman** — If Jason's dark humor resonates with you, Carl and Princess Donut will feel like old friends. [DCC](/lists/books-like-dungeon-crawler-carl/) brings savage wit and deep lore in equal measure, wrapped in a survival-horror progression structure that hits differently every book.
 
 **3. Battlefield Reclaimer (Guardian of Aster Fall Book 1) by David North** — A 5.0★ opener to a series that's hit the Kindle Top 100 eight times. North builds a crafting and progression system with genuine mechanical depth, and his protagonist's slow accumulation of power has the same satisfying weight HWFWM readers love. Perfect if the strategic, layered growth arc hooked you most.
 

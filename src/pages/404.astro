@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { platformUrl } from '../lib/api';
 ---
 
 <BaseLayout
@@ -14,5 +15,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <a href="/lists/" class="px-5 py-2.5 border border-[#2e2e2e] text-[#ccc] rounded font-medium hover:text-white transition-colors">Browse Lists</a>
       <a href="/blog/" class="px-5 py-2.5 border border-[#2e2e2e] text-[#ccc] rounded font-medium hover:text-white transition-colors">Read the Blog</a>
     </div>
+    <p class="mt-10 text-sm text-[#888]">
+      Looking for a book? Search thousands of ranked LitRPG titles on
+      <a href={platformUrl('404')} target="_blank" rel="noopener" class="text-[#e85d2f] hover:underline">LitRPGTools.com &rarr;</a>
+    </p>
   </div>
 </BaseLayout>

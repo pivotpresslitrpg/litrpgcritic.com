@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { platformUrl } from '../lib/api';
 
 interface Props {
   title: string;
@@ -91,7 +92,7 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
         <a href="/new-releases/" class="hover:text-white transition-colors">New Releases</a>
         <a href="/blog/" class="hover:text-white transition-colors">Blog</a>
         <a href="/about/" class="hover:text-white transition-colors">About</a>
-        <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="ml-2 px-3 py-1.5 text-xs font-semibold rounded bg-[var(--color-brand)] text-white hover:opacity-90 transition-opacity">Explore LitRPGTools &rarr;</a>
+        <a href={platformUrl('nav')} target="_blank" rel="noopener" class="ml-2 px-3 py-1.5 text-xs font-semibold rounded bg-[var(--color-brand)] text-white hover:opacity-90 transition-opacity">Explore LitRPGTools &rarr;</a>
       </nav>
       <button id="mobile-menu-btn" class="sm:hidden text-[var(--color-text-muted)]" aria-label="Open menu">
         <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
@@ -118,7 +119,7 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
         <a href="/about/" class="hover:text-white transition-colors">About</a>
       </nav>
       <div class="mt-auto pt-6 border-t border-[var(--color-border)]">
-        <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="block text-center px-4 py-2 text-sm font-semibold rounded bg-[var(--color-brand)] text-white hover:opacity-90 transition-opacity">Explore LitRPGTools &rarr;</a>
+        <a href={platformUrl('nav-mobile')} target="_blank" rel="noopener" class="block text-center px-4 py-2 text-sm font-semibold rounded bg-[var(--color-brand)] text-white hover:opacity-90 transition-opacity">Explore LitRPGTools &rarr;</a>
       </div>
     </div>
   </div>
@@ -153,12 +154,12 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
         </nav>
         <nav class="flex flex-col gap-1">
           <p class="text-white font-semibold mb-1">Platform</p>
-          <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="hover:text-white transition-colors">LitRPGTools.com</a>
+          <a href={platformUrl('footer')} target="_blank" rel="noopener" class="hover:text-white transition-colors">LitRPGTools.com</a>
         </nav>
       </div>
     </div>
     <div class="max-w-5xl mx-auto px-4 mt-6 pt-6 border-t border-[var(--color-border)] flex flex-col sm:flex-row gap-3 justify-between">
-      <p>Book data sourced from <a href="https://litrpgtools.com" class="hover:text-white underline" target="_blank" rel="noopener">LitRPGTools.com</a>. Amazon links may be affiliate links.</p>
+      <p>Book data sourced from <a href={platformUrl('footer-attribution')} class="hover:text-white underline" target="_blank" rel="noopener">LitRPGTools.com</a>. Amazon links may be affiliate links.</p>
       <p>&copy; {new Date().getFullYear()} LitRPG Critic</p>
     </div>
   </footer>
@@ -173,6 +174,18 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
     btn?.addEventListener('click', openMenu);
     close?.addEventListener('click', closeMenu);
     backdrop?.addEventListener('click', closeMenu);
+  </script>
+
+  <!-- Outbound platform-click tracking (Plausible custom event). Captures every
+       click to the platform, including untagged inline links in post bodies. -->
+  <script is:inline>
+    document.addEventListener('click', function (e) {
+      var el = e.target instanceof Element ? e.target.closest('a[href*="litrpgtools.com"]') : null;
+      if (!el || !window.plausible) return;
+      var content = 'inline';
+      try { content = new URL(el.href).searchParams.get('utm_content') || 'inline'; } catch (_) {}
+      window.plausible('Platform Click', { props: { content: content, page: location.pathname } });
+    });
   </script>
 </body>
 </html>

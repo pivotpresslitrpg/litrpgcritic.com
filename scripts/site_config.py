@@ -163,7 +163,11 @@ CONFIG = {
         "- /lists/best-litrpg-romance/\n"
         "- /lists/books-like-dungeon-crawler-carl/\n\n"
         "Other stable pages: /new-releases/ , /blog/ (article index), /lists/ (all lists).\n\n"
-        "Format as markdown links to an exact path above: [text](/exact-path/)."
+        "Format as markdown links to an exact path above: [text](/exact-path/).\n\n"
+        "PLATFORM LINK (REQUIRED): every post must contain at least one markdown link "
+        "to https://litrpgtools.com — put it on the platform name the first time it is "
+        "mentioned, e.g. [LitRPGTools.com](https://litrpgtools.com). A bare unlinked "
+        "mention does not count."
     ),
 
     'geo_guidance': (

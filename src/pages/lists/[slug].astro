@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import BookCard from '../../components/BookCard.astro';
-import { getBooks } from '../../lib/api';
+import { getBooks, platformUrl } from '../../lib/api';
 import { listConfig } from '../../lib/lists';
 
 export async function getStaticPaths() {
@@ -66,7 +66,7 @@ const faqSchema = config.faq?.length ? {
 
     <p class="text-xs text-[#555] mb-8">
       {books.length} books · Ranked by community rating ·
-      Data from <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="hover:text-[#e85d2f]">LitRPGTools.com</a>
+      Data from <a href={platformUrl('list-attribution')} target="_blank" rel="noopener" class="hover:text-[#e85d2f]">LitRPGTools.com</a>
     </p>
 
     <!-- Book list -->
@@ -78,6 +78,14 @@ const faqSchema = config.faq?.length ? {
       ) : (
         <p class="py-8 text-center text-[#666]">No books found for this list.</p>
       )}
+    </div>
+
+    <!-- Post-list platform CTA — readers who scroll a full ranking are the warmest funnel traffic -->
+    <div class="mt-8 p-5 bg-gradient-to-r from-[#e85d2f]/10 to-transparent border border-[#2e2e2e] rounded-lg flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+      <p class="text-sm text-[#ccc]">Track every book on this list — ratings, reviews, reading order, and new releases.</p>
+      <a href={platformUrl('list-cta')} target="_blank" rel="noopener" class="shrink-0 bg-[#e85d2f] hover:bg-[#c44a1f] text-white px-5 py-2 rounded font-medium text-sm transition-colors whitespace-nowrap">
+        Explore on LitRPGTools &rarr;
+      </a>
     </div>
 
     <!-- FAQ section -->

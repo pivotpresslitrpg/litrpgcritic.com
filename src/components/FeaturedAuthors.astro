@@ -3,8 +3,10 @@ import {
   getBooks,
   findAuthorUrlInBooks,
   FEATURED_AUTHORS,
+  FEATURED_AUTHOR_SLUGS,
   PLATFORM_BASE,
   PLATFORM_NAME,
+  withUtm,
   type Book,
 } from '../lib/api';
 
@@ -34,11 +36,15 @@ function repCover(name: string): string | null {
   return b?.cover_image_url ?? null;
 }
 
-// Only spotlight authors that actually appear in the dataset. Their URL is the
-// precise platform author page when the feed exposes it, else the directory.
-const featured = FEATURED_AUTHORS.filter(hasBooks).map((name) => ({
+// Spotlight authors that appear in the dataset OR have a known platform page.
+// URL preference: feed-resolved author page → known slug → authors directory.
+const featured = FEATURED_AUTHORS.filter((name) => hasBooks(name) || name in FEATURED_AUTHOR_SLUGS).map((name) => ({
   name,
-  url: findAuthorUrlInBooks(books, name) ?? authorsDir,
+  url:
+    findAuthorUrlInBooks(books, name, 'featured-authors') ??
+    (FEATURED_AUTHOR_SLUGS[name]
+      ? withUtm(`${PLATFORM_BASE}/authors/${FEATURED_AUTHOR_SLUGS[name]}`, 'featured-authors')
+      : withUtm(authorsDir, 'featured-authors')),
   cover: repCover(name),
 }));
 ---

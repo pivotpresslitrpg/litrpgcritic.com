@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import RelatedBooks from '../../components/RelatedBooks.astro';
-import { getBooks } from '../../lib/api';
+import { getBooks, platformUrl } from '../../lib/api';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -99,7 +99,7 @@ const faqSchema = post.data.faq?.length ? {
     <div class="mt-12 p-6 bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg text-center">
       <p class="text-white font-semibold mb-2">Discover more LitRPG & progression fantasy</p>
       <p class="text-[#888] text-sm mb-4">Browse thousands of ranked books, track new releases, and find your next read.</p>
-      <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="inline-block bg-[#e85d2f] hover:bg-[#c44a1f] text-white px-6 py-2.5 rounded font-medium transition-colors">
+      <a href={platformUrl('post-cta')} target="_blank" rel="noopener" class="inline-block bg-[#e85d2f] hover:bg-[#c44a1f] text-white px-6 py-2.5 rounded font-medium transition-colors">
         Explore LitRPGTools.com &rarr;
       </a>
     </div>

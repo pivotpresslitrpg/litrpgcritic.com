@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import BookCard from '../components/BookCard.astro';
 import PostCard from '../components/PostCard.astro';
 import FeaturedAuthors from '../components/FeaturedAuthors.astro';
-import { getBooks, getRecentBooks, PLATFORM_BASE, PLATFORM_NAME } from '../lib/api';
+import { getBooks, getRecentBooks, platformUrl, PLATFORM_NAME } from '../lib/api';
 import { getCollection } from 'astro:content';
 
 const today = new Date().toISOString().slice(0, 10);
@@ -70,7 +70,7 @@ const orgSchema = {
         <h2 class="text-lg font-bold text-white">Track your reading on {PLATFORM_NAME}</h2>
         <p class="text-sm text-[#888] mt-1">Thousands of ranked books, a new-release calendar, reviews, and reading-order tools — free.</p>
       </div>
-      <a href={PLATFORM_BASE} target="_blank" rel="noopener" class="shrink-0 bg-[#e85d2f] hover:bg-[#c44a1f] text-white px-5 py-2.5 rounded font-medium transition-colors whitespace-nowrap">
+      <a href={platformUrl('home-cta')} target="_blank" rel="noopener" class="shrink-0 bg-[#e85d2f] hover:bg-[#c44a1f] text-white px-5 py-2.5 rounded font-medium transition-colors whitespace-nowrap">
         Explore {PLATFORM_NAME} →
       </a>
     </div>
