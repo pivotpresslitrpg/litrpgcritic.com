@@ -127,6 +127,14 @@ CONFIG = {
                 'reviews, series tracking, and curated genre lists'
             ),
         },
+        {
+            'name': 'Narrator Search',
+            'description': (
+                'Search and filter the LitRPGTools.com book database by audiobook narrator — '
+                '"Narrated by" credits now surface across every search result, so readers can '
+                'find every LitRPG and progression fantasy title voiced by a favorite narrator'
+            ),
+        },
     ],
 
     # Internal links may ONLY point to the stable pages enumerated below. Dated blog
