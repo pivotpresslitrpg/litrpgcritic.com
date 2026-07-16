@@ -12,7 +12,13 @@ featured: true
 
 ## What Did LitRPGTools.com Ship in July 2026?
 
-In roughly two weeks, LitRPGTools.com shipped narrator-first audiobook discovery, a ban on AI-generated narration in its catalog, a public author interviews hub, an upcoming-releases rail fed by real preorder data, clean public author handles, and an application pipeline for narrators, cover artists, and publishers. Taken together, it's the most consequential platform update the genre's infrastructure has seen this year.
+In roughly two weeks, LitRPGTools.com shipped narrator-first audiobook discovery, a ban on AI-generated narration in its catalog, a public author interviews hub, an upcoming-releases rail fed by real preorder data, clean public author handles, and an application pipeline for narrators, cover artists, and publishers — and, in the middle of all that, served as the **official app of LitRPG Con 2026**. Taken together, it's the most consequential platform update the genre's infrastructure has seen this year.
+
+## The LitRPG Con 2026 App Was a Genuine Proof of Concept
+
+Before the feature list, the field test. LitRPGTools.com built and ran the official schedule planner for LitRPG Con 2026 (July 10–12) — a standalone mobile experience with the full panel and signing schedule, saved personal agendas with conflict resolution, notes and reminders, a venue map, con quests, and a shareable QR "Adventurer Card," all engineered to hold up on overloaded convention Wi-Fi. It also did something only a book database could: every panel and signing linked straight to the authors' books, turning the schedule itself into a discovery surface.
+
+**More than 30% of attendees used it.** For anyone who has watched official event apps go ignored, that number is remarkable — typical convention-app adoption is a fraction of that. It's the clearest evidence yet for the thesis this platform keeps betting on: build genuinely useful infrastructure for this genre's community and the community shows up.
 
 ## Narrator Discovery Is the Feature LitRPG Deserved
 
