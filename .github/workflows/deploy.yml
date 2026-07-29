@@ -52,7 +52,7 @@ jobs:
 
       - name: Verify newest article on the custom domain
         run: |
-          CHANGED_FILE=$(git diff --name-only HEAD^ HEAD -- 'src/content/blog/20*.md' | head -1)
+          CHANGED_FILE=$(git diff --diff-filter=AM --name-only HEAD^ HEAD -- 'src/content/blog/20*.md' | head -1)
           LATEST_FILE=${CHANGED_FILE:-$(find src/content/blog -maxdepth 1 -type f -name '20*.md' | sort | tail -1)}
           test -n "$LATEST_FILE"
           SLUG=$(basename "$LATEST_FILE" .md)
