@@ -18,6 +18,7 @@ class GeneratePostTests(unittest.TestCase):
             "title": "Verified Book",
             "authors": ["A. Writer"],
             "series_name": "Verified Series",
+            "series_position": 1,
             "average_rating": 4.5,
             "review_count": 12,
             "genres": ["LitRPG", "Isekai"],
@@ -25,6 +26,7 @@ class GeneratePostTests(unittest.TestCase):
             "description": "A supplied synopsis with a named protagonist.",
         }])
         self.assertIn("Verified Book by A. Writer", packet)
+        self.assertIn("series position: 1", packet)
         self.assertIn("genres: LitRPG, Isekai", packet)
         self.assertIn("Description: A supplied synopsis", packet)
 

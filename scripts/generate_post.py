@@ -150,12 +150,15 @@ def format_book_list(books: list, max_books=15) -> str:
         rating = b.get('average_rating') or b.get('amazon_rating')
         review_count = b.get('review_count')
         series = b.get('series_name', '')
+        series_position = b.get('series_position')
         genres = b.get('genres') or []
         published_date = b.get('published_date')
         description = re.sub(r'\s+', ' ', b.get('description') or '').strip()
         line = f"- {title} by {author_str}"
         if series:
             line += f" ({series})"
+            if series_position:
+                line += f"; series position: {series_position}"
         if rating:
             line += f"; rating: {float(rating):.1f}/5"
             if review_count:
@@ -353,7 +356,10 @@ Writing requirements:
 - 700-1000 words
 - Define the sub-genre clearly for someone new to it
 - Explain what makes it appealing and who it's for
-- Recommend 5-8 gateway books only when their supplied genres and descriptions fit
+- Recommend up to 5 gateway books only when the packet identifies them as a
+  standalone or first-in-series title and their genres/descriptions fit
+- If fewer than 3 supported gateway books are available, do not pad the list;
+  explain how to use the site's rankings instead
 - Use general knowledge only for the high-level definition, never for named-title facts
 - Include one natural mention of {CONFIG['platform_name']}"""
     return {'prompt': prompt, 'type': 'genre_explainer', 'state': state}
@@ -730,6 +736,8 @@ Check the DRAFT for:
 - confident biographical or catalog claims not supported by the packet
 
 General genre definitions and clearly labeled editorial opinions may pass.
+Do not fail for style, word count, or structural preferences; other checks own
+those concerns. Fail only for unsupported or contradictory factual content.
 
 Return exactly PASS if every named factual claim is supported. Otherwise return
 FAIL followed by concise bullets describing every unsupported or contradictory
