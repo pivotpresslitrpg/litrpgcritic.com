@@ -183,6 +183,8 @@ SOURCE RULES:
   in a supplied description, genre, or rating.
 - These rules override promotion guidance: do not insert a promoted author or
   title unless that exact author-title relationship appears in the packet.
+- Do not add an "other authors," comparison, or adjacent-reading section and do
+  not name any author or title outside the packet.
 """
 
 
@@ -427,9 +429,9 @@ Site description: {CONFIG['site_description']}
 Voice: {CONFIG['voice']}
 
 POST TYPE: "Books Like X" Recommendation Guide
-{anchor_line}
 
-VERIFIED SOURCE PACKET — candidate books in our database:
+VERIFIED SOURCE PACKET — anchor and candidate books:
+{anchor_line}
 {book_data}
 
 {SOURCE_RULES}
@@ -754,6 +756,49 @@ DRAFT:
     return f"source-grounding audit failed: {audit.strip()[:1200]}"
 
 
+def deterministic_source_issues(
+    source_prompt: str,
+    content: str,
+    post_type: str,
+) -> list[str]:
+    if 'VERIFIED SOURCE PACKET' not in source_prompt:
+        return []
+
+    packet = source_prompt.split('VERIFIED SOURCE PACKET', 1)[1]
+    packet = packet.split('SOURCE RULES:', 1)[0]
+    packet_key = re.sub(r'\s+', ' ', packet).lower()
+    issues = []
+
+    emphasized = re.findall(r'\*\*([^*\n]+)\*\*|(?<!\*)\*([^*\n]+)\*(?!\*)', content)
+    for bold, italic in emphasized:
+        candidate = (bold or italic).strip()
+        if not candidate:
+            continue
+        if bold and ' by ' not in candidate.lower() and not any(ch.isdigit() for ch in candidate):
+            continue
+        if italic and not (candidate[0].isupper() or any(ch.isdigit() for ch in candidate)):
+            continue
+        if re.sub(r'\s+', ' ', candidate).lower() not in packet_key:
+            issues.append(f"emphasized title/name is absent from source packet: {candidate}")
+
+    named_entities = tuple(CONFIG.get('featured_authors', ())) + tuple(
+        CONFIG.get('anchor_books', ())
+    )
+    content_key = content.lower()
+    for entity in named_entities:
+        entity_key = entity.lower()
+        if entity_key in content_key and entity_key not in packet_key:
+            issues.append(f"configured author/title is absent from source packet: {entity}")
+
+    if post_type == 'author_spotlight' and re.search(
+        r'(?mi)^##\s+.*(?:who else|other authors|similar authors|read next)',
+        content,
+    ):
+        issues.append("author spotlight contains an unsupported comparison section")
+
+    return sorted(set(issues))
+
+
 def generate_validated_content(prompt: str, post_type: str) -> str:
     retry_suffix = ''
     expected_date = datetime.now().strftime('%Y-%m-%d')
@@ -791,6 +836,7 @@ featured: false
             platform_url=CONFIG['platform_url'],
             allowed_internal_links=CONFIG['allowed_internal_links'],
         )
+        issues.extend(deterministic_source_issues(prompt, content, post_type))
         if not issues:
             source_issue = audit_draft_against_sources(prompt, content)
             if source_issue:

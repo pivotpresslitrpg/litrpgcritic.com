@@ -7,6 +7,7 @@ sys.modules.setdefault("requests", MagicMock())
 
 from generate_post import (
     audit_draft_against_sources,
+    deterministic_source_issues,
     format_book_list,
     pick_supported_author,
 )
@@ -57,6 +58,23 @@ class GeneratePostTests(unittest.TestCase):
             "An ungrounded draft.",
         )
         self.assertIn("Wrong protagonist", issue)
+
+    def test_deterministic_source_check_blocks_unsourced_title_and_section(self):
+        issues = deterministic_source_issues(
+            "VERIFIED SOURCE PACKET\n- Verified Book by A. Writer\nSOURCE RULES:",
+            "## Who Else to Read\nTry *Unsourced Book* next.",
+            "author_spotlight",
+        )
+        self.assertTrue(any("Unsourced Book" in issue for issue in issues))
+        self.assertTrue(any("comparison section" in issue for issue in issues))
+
+    def test_deterministic_source_check_accepts_packet_title(self):
+        issues = deterministic_source_issues(
+            "VERIFIED SOURCE PACKET\n- Verified Book by A. Writer\nSOURCE RULES:",
+            "The supplied title is *Verified Book*.",
+            "genre_explainer",
+        )
+        self.assertEqual([], issues)
 
 
 if __name__ == "__main__":
