@@ -1,0 +1,32 @@
+---
+import { PIVOT_PRESS_NAME, pivotPressUrl } from '../lib/publisher';
+
+interface Props {
+  matches: string[];
+}
+
+const { matches } = Astro.props;
+const related = matches.slice(0, 3).join(', ');
+---
+
+{matches.length > 0 && (
+  <aside
+    aria-label="Publisher relationship disclosure"
+    class="mb-8 rounded-lg border border-[var(--color-brand)]/40 bg-[var(--color-brand)]/10 p-4 text-sm text-[#bbb]"
+  >
+    <p>
+      <strong class="text-white">Publisher relationship:</strong>{' '}
+      This article discusses an author, series, or title affiliated with{' '}
+      <a
+        href={pivotPressUrl('article-disclosure')}
+        target="_blank"
+        rel="noopener"
+        class="font-semibold text-[var(--color-brand)] hover:underline"
+      >
+        {PIVOT_PRESS_NAME}
+      </a>, which owns and operates LitRPG Critic. The relationship is disclosed for context and
+      does not alter community-data ranking order.
+    </p>
+    {related && <p class="mt-2 text-xs text-[#888]">Related in this article: {related}.</p>}
+  </aside>
+)}

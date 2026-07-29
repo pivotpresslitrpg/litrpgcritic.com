@@ -1,5 +1,5 @@
 ---
-title: "New LitRPG & Progression Fantasy Releases Worth Reading Right Now"
+title: "April 2026 LitRPG & Progression Fantasy Release Roundup"
 description: "A curated roundup of the best new LitRPG and progression fantasy releases this season, with editorial picks from Dungeon Crawler Carl to Guardian of Aster Fall and beyond."
 date: "2026-04-01"
 type: "new_releases"

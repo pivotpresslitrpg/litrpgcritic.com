@@ -14,9 +14,9 @@ class ContentGuardTests(unittest.TestCase):
     def tearDown(self):
         self.temp_dir.cleanup()
 
-    def draft(self, body: str, *, date: str = "2026-07-28", post_type: str = "guide") -> str:
+    def draft(self, body: str, *, date: str = "2026-07-28", post_type: str = "guide", title: str = "A Useful Guide") -> str:
         return f"""---
-title: "A Useful Guide"
+title: "{title}"
 description: "A specific description for readers."
 date: "{date}"
 type: "{post_type}"
@@ -45,6 +45,21 @@ featured: false
             + "Readers can compare clear editorial recommendations. " * 70
         )
         self.assertEqual([], self.validate(self.draft(body)))
+    def test_rejects_exact_duplicate_title(self):
+        body = "[Example](https://example.com). " + "Useful editorial context. " * 180
+        issues = self.validate(self.draft(body, title="Existing"))
+        self.assertTrue(any("title duplicates existing post" in issue for issue in issues))
+
+    def test_rejects_near_duplicate_evergreen_title(self):
+        (self.content_dir / "dungeon-core.md").write_text(
+            "---\ntitle: What Is Dungeon Core Fiction? A Complete Guide\ntype: guide\n---\n"
+        )
+        body = "[Example](https://example.com). " + "Useful editorial context. " * 180
+        issues = self.validate(
+            self.draft(body, title="Dungeon Core Fiction: The Complete Reader Guide")
+        )
+        self.assertTrue(any("title is too similar to existing post" in issue for issue in issues))
+
 
     def test_rejects_unsupported_metrics(self):
         body = (

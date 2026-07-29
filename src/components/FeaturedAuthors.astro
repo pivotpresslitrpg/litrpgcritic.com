@@ -5,17 +5,17 @@ import {
   FEATURED_AUTHORS,
   FEATURED_AUTHOR_SLUGS,
   PLATFORM_BASE,
-  PLATFORM_NAME,
   withUtm,
   type Book,
 } from '../lib/api';
+import { isPivotPressAffiliatedAuthorName } from '../lib/publisher';
 
 interface Props {
   heading?: string;
   pool?: Book[];
 }
 
-const { heading = `Featured Authors on ${PLATFORM_NAME}`, pool } = Astro.props;
+const { heading = 'Editorial Author Spotlights', pool } = Astro.props;
 
 // Use the caller's pool when provided; otherwise pull a broad top-rated set so
 // we can resolve real author-page URLs and representative covers.
@@ -46,13 +46,14 @@ const featured = FEATURED_AUTHORS.filter((name) => hasBooks(name) || name in FEA
       ? withUtm(`${PLATFORM_BASE}/authors/${FEATURED_AUTHOR_SLUGS[name]}`, 'featured-authors')
       : withUtm(authorsDir, 'featured-authors')),
   cover: repCover(name),
-}));
+  affiliated: isPivotPressAffiliatedAuthorName(name),
+})).slice(0, 6);
 ---
 
 {featured.length > 0 && (
   <section class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg p-5">
     <h2 class="font-bold text-white mb-1">{heading}</h2>
-    <p class="text-xs text-[#666] mb-4">Track their releases, reviews, and reading order on {PLATFORM_NAME}.</p>
+    <p class="text-xs text-[#666] mb-4">A rotating editorial selection. Publisher affiliations are labeled.</p>
     <ul class="space-y-3">
       {featured.map((a) => (
         <li>
@@ -70,6 +71,11 @@ const featured = FEATURED_AUTHORS.filter((name) => hasBooks(name) || name in FEA
               <div class="w-8 h-12 bg-[#0d0d0d] rounded flex items-center justify-center text-[#444] text-[8px] shrink-0">—</div>
             )}
             <span class="text-sm text-[#ccc] group-hover:text-[#e85d2f] transition-colors">{a.name}</span>
+            {a.affiliated && (
+              <span class="rounded border border-[var(--color-brand)]/40 px-1.5 py-0.5 text-[9px] font-semibold text-[var(--color-brand)]">
+                Pivot Press
+              </span>
+            )}
             <span class="ml-auto text-xs text-[#666] group-hover:text-[#e85d2f] transition-colors">→</span>
           </a>
         </li>

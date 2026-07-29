@@ -13,6 +13,9 @@ FRONTMATTER_RE = re.compile(
 )
 MARKDOWN_LINK_RE = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
 WORD_RE = re.compile(r"\b[\w'-]+\b")
+TITLE_TOKEN_RE = re.compile(r"[a-z0-9]+")
+EVERGREEN_TYPES = frozenset({"author_spotlight", "book_report", "books_like", "fateforged", "genre_explainer", "guide"})
+TITLE_STOPWORDS = frozenset("a an and are best complete for guide how in is new of right should the this to vs what where why with you your".split())
 
 UNSUPPORTED_CLAIM_PATTERNS = (
     (
@@ -71,6 +74,35 @@ def _field(frontmatter: str, name: str) -> str | None:
     return match.group("value").strip().strip("\"'")
 
 
+def _normalize_title(value: str) -> str:
+    return " ".join(TITLE_TOKEN_RE.findall(value.lower()))
+
+def _title_tokens(value: str) -> set[str]:
+    return {token for token in TITLE_TOKEN_RE.findall(value.lower()) if token not in TITLE_STOPWORDS}
+
+def _title_similarity(left: str, right: str) -> float:
+    left_tokens = _title_tokens(left)
+    right_tokens = _title_tokens(right)
+    if min(len(left_tokens), len(right_tokens)) < 3:
+        return 0.0
+    overlap = len(left_tokens & right_tokens)
+    return overlap / min(len(left_tokens), len(right_tokens))
+
+def _existing_title_records(content_dir: Path) -> list[tuple[Path, str, str, str]]:
+    records: list[tuple[Path, str, str, str]] = []
+    if not content_dir.exists():
+        return records
+    for path in content_dir.glob("*.md"):
+        existing_content = path.read_text(encoding="utf-8")
+        parsed = _frontmatter(existing_content)
+        if not parsed:
+            continue
+        frontmatter, _ = parsed
+        existing_title = _field(frontmatter, "title")
+        if existing_title:
+            records.append((path, existing_title, _field(frontmatter, "type") or "", existing_content))
+    return records
+
 def _existing_content_slugs(content_dir: Path) -> set[str]:
     if not content_dir.exists():
         return set()
@@ -112,6 +144,21 @@ def validate_generated_content(
 
     if not title or title.lower() == "post":
         issues.append("frontmatter title is missing or still a placeholder")
+    if title:
+        for existing_path, existing_title, existing_type, existing_content in _existing_title_records(content_dir):
+            if existing_content == content:
+                continue
+            if _normalize_title(title) == _normalize_title(existing_title):
+                issues.append(f"frontmatter title duplicates existing post {existing_path.name}: {existing_title!r}")
+                break
+            if (
+                expected_type in EVERGREEN_TYPES
+                and existing_type == expected_type
+                and _title_similarity(title, existing_title) >= 0.8
+            ):
+                issues.append(f"frontmatter title is too similar to existing post {existing_path.name}: {existing_title!r}")
+                break
+
     if not description or description.lower() == "generated post":
         issues.append("frontmatter description is missing or still a placeholder")
     if date != expected_date:

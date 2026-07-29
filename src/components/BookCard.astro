@@ -1,6 +1,7 @@
 ---
 import type { Book } from '../lib/api';
-import { formatAuthors, starRating, bookPlatformUrl, bookPlatformPage, authorPlatformUrl, PLATFORM_NAME } from '../lib/api';
+import { formatAuthors, starRating, bookPlatformUrl, bookPlatformPage, authorPlatformUrl } from '../lib/api';
+import { hasPivotPressAffiliatedAuthor, pivotPressUrl } from '../lib/publisher';
 
 interface Props {
   book: Book;
@@ -16,6 +17,7 @@ const amazonUrl = book.amazon_url || `https://www.amazon.com/s?k=${encodeURIComp
 // Per-author platform links (null when the author has no public profile).
 const authorLinks = book.authors.map((name) => ({ name, url: authorPlatformUrl(book, name) }));
 const hasAuthorLinks = authorLinks.some((a) => a.url);
+const pivotAffiliated = hasPivotPressAffiliatedAuthor(book.authors);
 ---
 
 <article class="flex gap-4 py-5 border-b border-[#2e2e2e] last:border-0">
@@ -63,6 +65,11 @@ const hasAuthorLinks = authorLinks.some((a) => a.url);
           ))
         : authors}
     </p>
+    {pivotAffiliated && (
+      <p class="mt-1 text-[10px] font-semibold uppercase tracking-wide">
+        <a href={pivotPressUrl('book-card-affiliation')} target="_blank" rel="noopener" class="text-[var(--color-brand)] hover:underline">Pivot Press–affiliated author</a>
+      </p>
+    )}
     {book.series_name && (
       <p class="text-xs text-[#666] mt-0.5">
         {book.series_name}{book.series_position ? ` #${book.series_position}` : ''}
@@ -91,6 +98,7 @@ const hasAuthorLinks = authorLinks.some((a) => a.url);
   <!-- Secondary buy link (platform book page is the primary destination via cover/title) -->
   <a
     href={amazonUrl}
+    data-analytics-content="book-card"
     target="_blank"
     rel="noopener nofollow sponsored"
     class="hidden sm:flex shrink-0 self-start mt-1 text-xs border border-[#2e2e2e] hover:border-[#e85d2f] text-[#aaa] hover:text-white px-3 py-1.5 rounded transition-colors whitespace-nowrap"

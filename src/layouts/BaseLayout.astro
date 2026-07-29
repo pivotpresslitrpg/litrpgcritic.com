@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import { platformUrl } from '../lib/api';
+import { pivotPressUrl } from '../lib/publisher';
 
 interface Props {
   title: string;
@@ -159,7 +160,11 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
       </div>
     </div>
     <div class="max-w-5xl mx-auto px-4 mt-6 pt-6 border-t border-[var(--color-border)] flex flex-col sm:flex-row gap-3 justify-between">
-      <p>Book data sourced from <a href={platformUrl('footer-attribution')} class="hover:text-white underline" target="_blank" rel="noopener">LitRPGTools.com</a>. Amazon links may be affiliate links.</p>
+      <p>
+        Owned and operated by <a href={pivotPressUrl('footer-ownership')} class="hover:text-white underline" target="_blank" rel="noopener">Pivot Press Publishing</a>.
+        Book data sourced from <a href={platformUrl('footer-attribution')} class="hover:text-white underline" target="_blank" rel="noopener">LitRPGTools.com</a>.
+        Amazon links may be affiliate links.
+      </p>
       <p>&copy; {new Date().getFullYear()} LitRPG Critic</p>
     </div>
   </footer>
@@ -176,15 +181,34 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
     backdrop?.addEventListener('click', closeMenu);
   </script>
 
-  <!-- Outbound platform-click tracking (Plausible custom event). Captures every
-       click to the platform, including untagged inline links in post bodies. -->
+  <!-- Outbound conversion tracking for the reader platform, publisher, and retailers. -->
   <script is:inline>
     document.addEventListener('click', function (e) {
-      var el = e.target instanceof Element ? e.target.closest('a[href*="litrpgtools.com"]') : null;
+      var el = e.target instanceof Element ? e.target.closest('a[href]') : null;
       if (!el || !window.plausible) return;
-      var content = 'inline';
-      try { content = new URL(el.href).searchParams.get('utm_content') || 'inline'; } catch (_) {}
-      window.plausible('Platform Click', { props: { content: content, page: location.pathname } });
+
+      var url;
+      try { url = new URL(el.href, location.href); } catch (_) { return; }
+
+      var hostname = url.hostname.toLowerCase().replace(/^www\./, '');
+      var content = url.searchParams.get('utm_content') || el.getAttribute('data-analytics-content') || 'inline';
+      var props = { content: content, page: location.pathname };
+
+      if (hostname === 'litrpgtools.com' || hostname.endsWith('.litrpgtools.com')) {
+        window.plausible('Platform Click', { props: props });
+        return;
+      }
+      if (hostname === 'pivotpresspublishing.com' || hostname.endsWith('.pivotpresspublishing.com')) {
+        window.plausible('Publisher Click', { props: props });
+        return;
+      }
+
+      var retailer = '';
+      if (hostname === 'amzn.to' || /(^|\.)amazon\.[a-z.]+$/.test(hostname)) retailer = 'Amazon';
+      if (/(^|\.)audible\.[a-z.]+$/.test(hostname)) retailer = 'Audible';
+      if (retailer) {
+        window.plausible('Retailer Click', { props: { retailer: retailer, content: content, page: location.pathname } });
+      }
     });
   </script>
 </body>

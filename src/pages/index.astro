@@ -23,7 +23,8 @@ const websiteSchema = {
   "@type": "WebSite",
   "name": "LitRPG Critic",
   "url": "https://litrpgcritic.com",
-  "description": "Independent reviews and ranked lists for LitRPG, progression fantasy, and GameLit readers."
+  "description": "Editorial reviews and data-ranked lists for LitRPG, progression fantasy, and GameLit readers.",
+  "publisher": { "@type": "Organization", "name": "Pivot Press Publishing", "url": "https://pivotpresspublishing.com" }
 };
 
 const orgSchema = {
@@ -32,7 +33,8 @@ const orgSchema = {
   "name": "LitRPG Critic",
   "url": "https://litrpgcritic.com",
   "description": "Editorial rankings and reviews for LitRPG and progression fantasy readers.",
-  "isPartOf": { "@type": "WebSite", "name": "LitRPGTools.com", "url": "https://litrpgtools.com" },
+  "parentOrganization": { "@type": "Organization", "name": "Pivot Press Publishing", "url": "https://pivotpresspublishing.com" },
+  "sameAs": ["https://litrpgtools.com"],
   "knowsAbout": ["LitRPG", "Progression Fantasy", "Dungeon Core", "GameLit", "System Apocalypse", "Cultivation Fiction"]
 };
 ---

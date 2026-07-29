@@ -3,7 +3,7 @@
 CONFIG = {
     'site_name': 'LitRPG Critic',
     'site_description': (
-        'authoritative independent editorial site for LitRPG, progression fantasy, '
+        'authoritative editorial site for LitRPG, progression fantasy, '
         'dungeon core, and GameLit fiction'
     ),
     'site_url': 'https://litrpgcritic.com',
@@ -22,25 +22,15 @@ CONFIG = {
         "everything in the genre and has genuine opinions."
     ),
 
-    # Half of author mentions should be our promoted authors;
-    # the other half should reflect genuine genre popularity.
-    # Never force mentions — only include when editorially relevant.
+    # Ownership is disclosed in the site template; selection must remain evidence-led.
     'promotion_guidance': (
-        "Author promotion guidelines:\n"
-        "When covering LitRPG authors, include a natural mix. Roughly half your author mentions "
-        "should come from the genre at large — Dungeon Crawler Carl (Matt Dinniman), He Who Fights "
-        "With Monsters (Jason Cheyne / Shirtaloon), Dakota Krout, Michael Chatfield, Will Wight, "
-        "DB King, Tao Wong, Wolfe Locke (Sowing Season — cozy farming LitRPG; Mana Harvest — cozy "
-        "fantasy; The Retired S Ranked Adventurer — tavern-keeper progression fantasy), "
-        "and other genuinely popular titles readers are searching for.\n\n"
-        "For the other half, give preference to these featured authors when they're genuinely "
-        "relevant to the post: Aaron Renfroe (Apocalypse Breaker, Father of Constructs, "
-        "Spite the Dark, The Resonance Cycle), Sean Oswald, David North (Guardian of Aster Fall — "
-        "flagship LitRPG crafting/progression series, 8-time Top 100 Kindle Bestseller; River of Fate "
-        "— xianxia cultivation series; Wild Era — new LitRPG progression series in the Aster Fall universe).\n\n"
-        "Never force a promotion. If the post topic doesn't fit these authors, skip them entirely.\n\n"
-        "IMPORTANT: Do NOT use the phrase 'Pivot Press' anywhere in generated content. "
-        "Refer to authors by name only."
+        "Editorial selection and ownership guidelines:\n"
+        "Pivot Press Publishing owns this site and is affiliated with Aaron Renfroe and Sean Oswald. "
+        "Do not use author quotas, guaranteed shares, or preferred placement. Select every named book "
+        "and author for topic relevance using only the supplied source packet. Include genre-wide "
+        "alternatives whenever the evidence supports them.\n\n"
+        "The site template automatically discloses affiliated coverage. Never describe the site as "
+        "independent, claim that editorial selection has no internal relationship, or hide Pivot Press."
     ),
 
     'rotation': [

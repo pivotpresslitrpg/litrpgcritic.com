@@ -1,5 +1,5 @@
 ---
-title: "New LitRPG & Progression Fantasy Releases Worth Reading Right Now"
+title: "Early July 2026 LitRPG & Progression Fantasy Release Roundup"
 description: "Our editorial roundup of notable new LitRPG, dungeon core, and GameLit releases — from dungeon divers to cultivation academies and cozy classics getting new attention."
 date: "2026-07-03"
 type: "new_releases"

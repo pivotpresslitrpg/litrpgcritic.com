@@ -1,5 +1,5 @@
 ---
-title: "New LitRPG & Progression Fantasy Releases Worth Reading Right Now"
+title: "Mid-June 2026 LitRPG & Progression Fantasy Release Roundup"
 description: "A curated editorial roundup of notable new releases in LitRPG, progression fantasy, and dungeon core fiction — including He Who Fights with Monsters 13, Ascent of the Helldiver, Demon World Boba Shop, and more."
 date: "2026-06-15"
 type: "new_releases"

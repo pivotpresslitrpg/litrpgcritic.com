@@ -1,5 +1,5 @@
 ---
-title: "What Is Dungeon Core Fiction? The Complete Guide to the Sub-Genre"
+title: "Dungeon Core Fiction for New Readers: Mechanics, Appeal, and Entry Points"
 description: "Dungeon core fiction is one of LitRPG's most creative sub-genres. Learn what it is, why readers love it, and which books to read first."
 date: "2026-07-24"
 type: "genre_explainer"

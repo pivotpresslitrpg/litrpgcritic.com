@@ -10,7 +10,7 @@ featured: true
 
 LitRPG Critic is now live.
 
-We're an independent editorial site covering the best books in LitRPG, progression fantasy, dungeon core, and GameLit fiction. Our goal is simple: help readers find their next great read in a genre that publishes hundreds of titles every month.
+We're an editorial site owned and operated by Pivot Press Publishing, covering LitRPG, progression fantasy, dungeon core, and GameLit fiction. Our goal is simple: help readers find their next great read in a genre that publishes hundreds of titles every month.
 
 ## What We Cover
 

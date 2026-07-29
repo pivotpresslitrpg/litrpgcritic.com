@@ -1,7 +1,9 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import RelatedBooks from '../../components/RelatedBooks.astro';
+import PublisherDisclosure from '../../components/PublisherDisclosure.astro';
 import { getBooks, platformUrl } from '../../lib/api';
+import { findPivotPressAffiliations, PIVOT_PRESS_BASE, PIVOT_PRESS_NAME } from '../../lib/publisher';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -25,6 +27,17 @@ const dateStr = new Date(post.data.date + 'T12:00:00').toLocaleDateString('en-US
 
 const pubDateISO = new Date(post.data.date + 'T12:00:00').toISOString();
 const isBookReport = post.data.type === 'book_report';
+const pivotAffiliations = findPivotPressAffiliations([
+  post.data.title,
+  post.data.description,
+  ...post.data.tags,
+  post.body,
+]);
+const pivotPressOrganization = {
+  "@type": "Organization",
+  "name": PIVOT_PRESS_NAME,
+  "url": PIVOT_PRESS_BASE,
+};
 
 const articleSchema = {
   "@context": "https://schema.org",
@@ -34,15 +47,12 @@ const articleSchema = {
   "datePublished": pubDateISO,
   "dateModified": pubDateISO,
   "author": {
-    "@type": "Person",
-    "name": "The LitRPG Critic",
-    "url": "https://litrpgcritic.com/about"
-  },
-  "publisher": {
     "@type": "Organization",
-    "name": "LitRPG Critic",
-    "url": "https://litrpgcritic.com"
+    "name": "The LitRPG Critic",
+    "url": "https://litrpgcritic.com/about",
+    "parentOrganization": pivotPressOrganization,
   },
+  "publisher": pivotPressOrganization,
   "isPartOf": { "@type": "WebSite", "name": "LitRPG Critic", "url": "https://litrpgcritic.com" },
   ...(isBookReport ? {
     "itemReviewed": {
@@ -88,6 +98,7 @@ const faqSchema = post.data.faq?.length ? {
       <h1 class="text-3xl sm:text-4xl font-bold text-white mt-2 leading-tight">{post.data.title}</h1>
       <p class="text-[#888] mt-2 text-sm">{dateStr}</p>
     </div>
+    <PublisherDisclosure matches={pivotAffiliations} />
     <div class="prose">
       <Content />
     </div>
