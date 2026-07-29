@@ -25,8 +25,8 @@ REPO_ROOT = SCRIPT_DIR.parent
 TOPICS_FILE = SCRIPT_DIR / 'topics.json'
 CONTENT_DIR = REPO_ROOT / CONFIG['content_dir']
 
-# Claude client
-client = anthropic.Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'])
+# Claude client is initialized lazily so helper tests do not require a live key.
+client = None
 
 
 # ---------------------------------------------------------------------------
@@ -141,21 +141,75 @@ def fetch_recent_books(days=30, limit=20) -> list:
 
 def format_book_list(books: list, max_books=15) -> str:
     if not books:
-        return "(no book data available — use your knowledge of the genre)"
+        return "(no verified book data available)"
     lines = []
     for b in books[:max_books]:
         title = b.get('title', 'Unknown')
         authors = b.get('authors', [])
         author_str = ', '.join(authors) if authors else 'Unknown'
         rating = b.get('average_rating') or b.get('amazon_rating')
+        review_count = b.get('review_count')
         series = b.get('series_name', '')
+        genres = b.get('genres') or []
+        published_date = b.get('published_date')
+        description = re.sub(r'\s+', ' ', b.get('description') or '').strip()
         line = f"- {title} by {author_str}"
         if series:
             line += f" ({series})"
         if rating:
-            line += f" — {float(rating):.1f}★"
+            line += f"; rating: {float(rating):.1f}/5"
+            if review_count:
+                line += f" from {int(review_count)} reviews"
+        if genres:
+            line += f"; genres: {', '.join(genres)}"
+        if published_date:
+            line += f"; published: {published_date}"
+        if description:
+            line += f"\n  Description: {description[:500]}"
         lines.append(line)
     return '\n'.join(lines)
+
+
+SOURCE_RULES = """
+SOURCE RULES:
+- The VERIFIED SOURCE PACKET below is the only evidence for named books, authors,
+  series, characters, plots, dates, genres, ratings, rankings, and comparisons.
+- Recommend or describe only titles present in that packet.
+- Never fill gaps from memory. If the packet does not support a detail, omit it.
+- Editorial opinions are allowed only when clearly framed as opinions and grounded
+  in a supplied description, genre, or rating.
+- These rules override promotion guidance: do not insert a promoted author or
+  title unless that exact author-title relationship appears in the packet.
+"""
+
+
+def pick_supported_author(items: list, state: dict, books: list) -> tuple[str, list]:
+    entries = _published_entries()
+    start = state.get('author_queue_index', 0)
+
+    for offset in range(len(items)):
+        author = items[(start + offset) % len(items)]
+        marker = _title_tokens(author)
+        already_used = any(
+            existing_type == 'author_spotlight' and marker.issubset(_title_tokens(title))
+            for title, existing_type in entries
+        )
+        author_key = re.sub(r'[^a-z0-9]+', '', author.lower())
+        author_books = [
+            book for book in books
+            if any(
+                re.sub(r'[^a-z0-9]+', '', candidate.lower()) == author_key
+                for candidate in book.get('authors', [])
+            )
+        ]
+        if not already_used and author_books:
+            state['author_queue_index'] = start + offset + 1
+            return author, author_books
+
+    raise RuntimeError(
+        "No unpublished author spotlight has verified books in the feed. "
+        "Refresh the author queue or feed before publishing."
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -168,6 +222,8 @@ def gen_new_releases(state: dict) -> dict:
     books = fetch_recent_books(days=30, limit=20)
     if not books:
         books = fetch_books(sort='recent', limit=20)
+    if not books:
+        raise RuntimeError("Verified recent-book data is unavailable; refusing to publish.")
     book_data = format_book_list(books)
 
     prompt = f"""You are writing an editorial blog post for {CONFIG['site_name']}.
@@ -178,9 +234,10 @@ Voice: {CONFIG['voice']}
 POST TYPE: New Releases Roundup
 Cover notable recent releases in {CONFIG['genre']}.
 
-Recent books from the community database:
+VERIFIED SOURCE PACKET — recent books from the community database:
 {book_data}
 
+{SOURCE_RULES}
 {CONFIG['promotion_guidance']}
 
 ---
@@ -199,7 +256,7 @@ featured: false
 
 Writing requirements:
 - 500-750 words
-- Cover 4-6 specific books; briefly say why each is worth attention
+- Cover 4-6 specific books from the source packet; summarize only supplied details
 - Natural editorial prose — not a listicle
 - Mention {CONFIG['platform_name']} once, naturally, as a resource for finding more
 - End with an invitation to explore
@@ -209,14 +266,11 @@ Writing requirements:
 
 def gen_author_spotlight(state: dict) -> dict:
     authors = CONFIG['featured_authors']
-    author = pick_unpublished_item(authors, state, 'author_queue_index', 'author_spotlight')
-
-    books = fetch_books(sort='top_rated', limit=60)
-    author_books = [
-        b for b in books
-        if any(author.lower() in a.lower() for a in b.get('authors', []))
-    ]
-    book_data = format_book_list(author_books) if author_books else "(use your knowledge of this author's work)"
+    books = fetch_books(sort='top_rated', limit=100)
+    if not books:
+        raise RuntimeError("Verified book data is unavailable; refusing to publish.")
+    author, author_books = pick_supported_author(authors, state, books)
+    book_data = format_book_list(author_books)
 
     prompt = f"""You are writing an editorial blog post for {CONFIG['site_name']}.
 
@@ -226,9 +280,10 @@ Voice: {CONFIG['voice']}
 POST TYPE: Author Spotlight
 Subject author: {author}
 
-Their books in our community database:
+VERIFIED SOURCE PACKET — their books in our community database:
 {book_data}
 
+{SOURCE_RULES}
 {CONFIG['promotion_guidance']}
 
 ---
@@ -247,9 +302,9 @@ featured: false
 
 Writing requirements:
 - 600-900 words
-- Cover this author's writing style, recurring themes, and what makes their work distinctive
-- Recommend a reading order or entry point for new readers
-- Mention series by name where relevant
+- Build a catalog guide from the supplied descriptions, genres, series, and dates
+- Recommend an entry point only when the packet supports that recommendation
+- Mention only series and titles present in the source packet
 - Mention {CONFIG['platform_name']} as a place to discover more of their work
 - Warm, enthusiastic editorial tone — like a recommendation from a well-read friend"""
     return {'prompt': prompt, 'type': 'author_spotlight', 'state': state}
@@ -259,7 +314,11 @@ def gen_genre_explainer(state: dict) -> dict:
     topics = CONFIG['explainer_topics']
     topic = pick_unpublished_item(topics, state, 'explainer_queue_index', 'genre_explainer')
 
-    books = fetch_books(sort='top_rated', limit=20)
+    books = fetch_books(sort='top_rated', genre=topic, limit=20)
+    if not books:
+        raise RuntimeError(
+            f"No verified book data is available for {topic!r}; refusing to publish."
+        )
     book_data = format_book_list(books)
 
     prompt = f"""You are writing an editorial blog post for {CONFIG['site_name']}.
@@ -270,9 +329,10 @@ Voice: {CONFIG['voice']}
 POST TYPE: Genre / Sub-genre Explainer
 Topic: {topic}
 
-Top rated books from our database (may or may not be directly relevant):
+VERIFIED SOURCE PACKET — books tagged for this topic in our database:
 {book_data}
 
+{SOURCE_RULES}
 {CONFIG['promotion_guidance']}
 
 ---
@@ -293,8 +353,8 @@ Writing requirements:
 - 700-1000 words
 - Define the sub-genre clearly for someone new to it
 - Explain what makes it appealing and who it's for
-- Recommend 5-8 gateway books with brief descriptions of each
-- Draw on your own knowledge of the genre, not just the database list
+- Recommend 5-8 gateway books only when their supplied genres and descriptions fit
+- Use general knowledge only for the high-level definition, never for named-title facts
 - Include one natural mention of {CONFIG['platform_name']}"""
     return {'prompt': prompt, 'type': 'genre_explainer', 'state': state}
 
@@ -349,6 +409,8 @@ def gen_books_like(state: dict) -> dict:
     ) if anchor_books else None
 
     books = fetch_books(sort='top_rated', limit=25)
+    if not books:
+        raise RuntimeError("Verified recommendation data is unavailable; refusing to publish.")
     book_data = format_book_list(books)
 
     anchor_line = f"Anchor title: {anchor}" if anchor else "Choose a well-known anchor title in the genre."
@@ -361,9 +423,10 @@ Voice: {CONFIG['voice']}
 POST TYPE: "Books Like X" Recommendation Guide
 {anchor_line}
 
-Top rated books in our database:
+VERIFIED SOURCE PACKET — candidate books in our database:
 {book_data}
 
+{SOURCE_RULES}
 {CONFIG['promotion_guidance']}
 
 ---
@@ -382,9 +445,8 @@ featured: false
 
 Writing requirements:
 - 500-700 words
-- Recommend 5-8 books similar to the anchor title
-- For each recommendation, give 1-2 sentences explaining why fans of the anchor will enjoy it
-- Draw on both the database list AND your knowledge of the genre
+- Recommend 5-8 books from the source packet that are demonstrably similar
+- For each recommendation, use only supplied genres and descriptions to explain the match
 - Include a mention of {CONFIG['platform_name']} for finding similar reads
 - Conversational, enthusiastic tone"""
     return {'prompt': prompt, 'type': 'books_like'}
@@ -620,19 +682,24 @@ def clean_response(text: str) -> str:
     return text
 
 
-def call_claude(prompt: str) -> str:
-    # Inject GEO and internal link guidance into every prompt
+def call_claude(prompt: str, *, inject_guidance: bool = True) -> str:
+    global client
+    if client is None:
+        client = anthropic.Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'])
+
+    # Inject editorial and formatting guidance into generation prompts.
     extra = ''
-    if CONFIG.get('geo_guidance'):
-        extra += f"\n\n{CONFIG['geo_guidance']}"
-    if CONFIG.get('internal_link_guidance'):
-        extra += f"\n\n{CONFIG['internal_link_guidance']}"
-    extra += (
-        "\n\nCRITICAL FORMATTING RULES:\n"
-        "- Output raw markdown ONLY. Do NOT wrap anything in code fences (no ``` blocks).\n"
-        "- Do NOT include an H1 heading (# Title) in the body. The title comes from frontmatter only.\n"
-        "- Start body content directly with the opening paragraph after the closing ---."
-    )
+    if inject_guidance:
+        if CONFIG.get('geo_guidance'):
+            extra += f"\n\n{CONFIG['geo_guidance']}"
+        if CONFIG.get('internal_link_guidance'):
+            extra += f"\n\n{CONFIG['internal_link_guidance']}"
+        extra += (
+            "\n\nCRITICAL FORMATTING RULES:\n"
+            "- Output raw markdown ONLY. Do NOT wrap anything in code fences (no ``` blocks).\n"
+            "- Do NOT include an H1 heading (# Title) in the body. The title comes from frontmatter only.\n"
+            "- Start body content directly with the opening paragraph after the closing ---."
+        )
     full_prompt = prompt + extra
 
     print("Calling Claude API...")
@@ -642,6 +709,41 @@ def call_claude(prompt: str) -> str:
         messages=[{'role': 'user', 'content': full_prompt}]
     )
     return clean_response(resp.content[0].text)
+
+
+def audit_draft_against_sources(source_prompt: str, content: str) -> str | None:
+    if 'VERIFIED SOURCE PACKET' not in source_prompt:
+        return None
+
+    audit = call_claude(f"""Act as a strict pre-publication fact checker.
+
+The ORIGINAL BRIEF contains a section labeled VERIFIED SOURCE PACKET. For named
+books, authors, series, characters, plots, dates, genres, ratings, rankings, and
+comparisons, only that packet is evidence. Instructions, model memory, and
+general familiarity are not evidence.
+
+Check the DRAFT for:
+- a title attributed to the wrong author or series
+- a character, premise, reading order, genre label, rating, or comparison not
+  explicitly supported by the packet
+- a recommendation whose title is absent from the packet
+- confident biographical or catalog claims not supported by the packet
+
+General genre definitions and clearly labeled editorial opinions may pass.
+
+Return exactly PASS if every named factual claim is supported. Otherwise return
+FAIL followed by concise bullets describing every unsupported or contradictory
+claim so the writer can remove or correct them.
+
+ORIGINAL BRIEF:
+{source_prompt}
+
+DRAFT:
+{content}
+""", inject_guidance=False)
+    if audit.strip().upper() == 'PASS':
+        return None
+    return f"source-grounding audit failed: {audit.strip()[:1200]}"
 
 
 def generate_validated_content(prompt: str, post_type: str) -> str:
@@ -681,6 +783,11 @@ featured: false
             platform_url=CONFIG['platform_url'],
             allowed_internal_links=CONFIG['allowed_internal_links'],
         )
+        if not issues:
+            source_issue = audit_draft_against_sources(prompt, content)
+            if source_issue:
+                issues.append(source_issue)
+
         if not issues:
             print(f"Content quality gate passed on attempt {attempt}.")
             return content

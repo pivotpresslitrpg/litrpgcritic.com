@@ -18,7 +18,7 @@ The best books like *Apocalypse Breaker* share at least two of these qualities: 
 
 1. **Dungeon Crawler Carl by Matt Dinniman** — If *Apocalypse Breaker* scratches your itch for chaotic, high-stakes system survival, *Dungeon Crawler Carl* delivers that energy with an added layer of savage dark comedy. Carl and Princess Donut navigating a televised dungeon apocalypse has become one of the genre's defining works, and for good reason. Check out our [books like Dungeon Crawler Carl](/lists/books-like-dungeon-crawler-carl/) list for even more in that vein.
 
-2. **Restarting the Apocalypse by Michael Chatfield** — Chatfield is one of the most prolific names in system apocalypse fiction, and this series earns its five-star reputation with relentless pacing and inventive progression mechanics that reward readers who pay attention to the details.
+2. **Restarting the Apocalypse by Michael Chatfield** — Chatfield is a prolific name in system apocalypse fiction, and this series pairs relentless pacing with progression mechanics that reward readers who pay attention to the details.
 
 3. **Apocalypse BREAKER 2 by Aaron Renfroe & Sean Oswald** — The obvious next step, and one that absolutely delivers on the promise of the first book. If you somehow haven't grabbed it yet, fix that immediately — the sequel deepens the system, raises the stakes, and improves on everything that worked in book one.
 
