@@ -1,5 +1,5 @@
 {
-  "rotation_index": 59,
+  "rotation_index": 60,
   "published_slugs": [
     "2026-03-09-best-new-litrpg-progression-fantasy-releases-march-2026-roundup",
     "2026-03-12-what-is-litrpg-the-definitive-guide-to-the-genre",
@@ -59,9 +59,11 @@
     "2026-07-20-matt-dinniman-author-spotlight-why-dungeon-crawler-carl-is-a-genre-defining-mast",
     "2026-07-22-new-litrpg-releases-worth-your-time-july-2026-roundup",
     "2026-07-24-what-is-dungeon-core-fiction-the-complete-guide-to-the-sub-genre",
-    "2026-07-27-shirtaloon-author-spotlight-why-he-who-fights-with-monsters-belongs-in-every-lit"
+    "2026-07-27-shirtaloon-author-spotlight-why-he-who-fights-with-monsters-belongs-in-every-lit",
+    "2026-07-29-if-you-liked-apocalypse-breaker-read-these-next"
   ],
   "author_queue_index": 15,
   "feature_queue_index": 7,
-  "explainer_queue_index": 15
+  "explainer_queue_index": 15,
+  "anchor_queue_index": 2
 }
