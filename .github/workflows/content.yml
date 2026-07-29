@@ -33,7 +33,12 @@ jobs:
       - name: Test content quality gate
         run: python -m unittest discover -s scripts -p 'test_*.py'
 
+      - name: Publish due research editorial
+        id: scheduled
+        run: python scripts/publish_scheduled_post.py --git-push
+
       - name: Generate post
+        if: steps.scheduled.outputs.published != 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           BLOG_FEED_API_KEY: ${{ secrets.BLOG_FEED_API_KEY }}

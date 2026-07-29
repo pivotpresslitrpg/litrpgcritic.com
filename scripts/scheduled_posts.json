@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "publish_date": "2026-08-03",
+      "slug": "what-3196-recent-litrpg-releases-can-and-cant-tell-us-about-review-manipulation",
+      "post_type": "critical_opinion",
+      "draft": "scheduled_posts/what-3196-recent-litrpg-releases-can-and-cant-tell-us-about-review-manipulation.md",
+      "manifest": "research_sources/litrpg-coverage-2026-08-03.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-08-10",
+      "slug": "why-legitimate-litrpg-breakouts-can-look-suspicious",
+      "post_type": "critical_opinion",
+      "draft": "scheduled_posts/why-legitimate-litrpg-breakouts-can-look-suspicious.md",
+      "manifest": "research_sources/litrpg-countermodels-2026-08-10.json",
+      "status": "scheduled"
+    }
+  ]
+}

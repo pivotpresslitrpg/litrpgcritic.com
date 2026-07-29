@@ -95,6 +95,7 @@ def validate_generated_content(
     expected_type: str,
     platform_url: str,
     allowed_internal_links: set[str] | frozenset[str] | tuple[str, ...],
+    allow_sourced_claims: bool = False,
 ) -> list[str]:
     """Return blocking issues. An empty list means the draft may be written."""
 
@@ -137,7 +138,8 @@ def validate_generated_content(
     if not platform_link_pattern.search(body):
         issues.append(f"body must contain a markdown link to {platform_url}")
 
-    for label, pattern in UNSUPPORTED_CLAIM_PATTERNS:
+    claim_patterns = () if allow_sourced_claims else UNSUPPORTED_CLAIM_PATTERNS
+    for label, pattern in claim_patterns:
         match = pattern.search(body)
         if match:
             excerpt = re.sub(r"\s+", " ", body[max(0, match.start() - 45) : match.end() + 65])

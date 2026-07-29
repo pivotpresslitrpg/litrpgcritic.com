@@ -1,0 +1,27 @@
+{
+  "frozen_at": "2026-07-23",
+  "claim_ceiling": "Unusual rank or review patterns can prioritize investigation, but causal attribution requires matched controls and account-level evidence.",
+  "allowed_numbers": [
+    "20",
+    "28",
+    "2026"
+  ],
+  "required_phrases": [
+    "does not prove manipulation",
+    "statistical significance is not established"
+  ],
+  "forbidden_phrases": [
+    "we proved manipulation",
+    "review farm",
+    "authors control the accounts"
+  ],
+  "required_links": [
+    "https://kdp.amazon.com/en_US/help/topic/G201648140"
+  ],
+  "source_artifacts": [
+    {
+      "label": "Public-safe market concentration and reviewer-pattern paper v0.9",
+      "sha256": "207EA65A12595918DFF0C0F29428370CE67835E7BC99A1AF47CE67AFD8027CF8"
+    }
+  ]
+}

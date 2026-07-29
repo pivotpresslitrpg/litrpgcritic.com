@@ -1,0 +1,36 @@
+{
+  "frozen_at": "2026-07-23",
+  "claim_ceiling": "Coverage and rank-history patterns support triage and better study design; they do not establish review or rank manipulation.",
+  "allowed_numbers": [
+    "2026",
+    "23",
+    "28",
+    "3,196",
+    "3,147",
+    "1,229",
+    "39.05%",
+    "10,875",
+    "10,793",
+    "7,348",
+    "68.08%",
+    "3,447"
+  ],
+  "required_phrases": [
+    "does not prove misconduct",
+    "missingness is not evidence of manipulation"
+  ],
+  "forbidden_phrases": [
+    "we proved manipulation",
+    "review farm",
+    "authors control the accounts"
+  ],
+  "required_links": [
+    "https://kdp.amazon.com/en_US/help/topic/G201648140"
+  ],
+  "source_artifacts": [
+    {
+      "label": "LitRPG six-month acquisition and usable-event coverage receipt",
+      "sha256": "D2EE1454562F80136AADFC62244EE86932B867DC749BCB91850C9BC0A2006BE6"
+    }
+  ]
+}
