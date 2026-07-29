@@ -16,6 +16,7 @@ from pathlib import Path
 import anthropic
 import requests
 
+from content_guard import retry_guidance, validate_generated_content
 from site_config import CONFIG
 
 # Paths
@@ -39,6 +40,7 @@ def load_state() -> dict:
         'rotation_index': 0,
         'published_slugs': [],
         'author_queue_index': 0,
+        'anchor_queue_index': 0,
         'feature_queue_index': 0,
         'explainer_queue_index': 0,
     }
@@ -46,6 +48,46 @@ def load_state() -> dict:
 
 def save_state(state: dict):
     TOPICS_FILE.write_text(json.dumps(state, indent=2))
+
+
+def _published_entries() -> list[tuple[str, str]]:
+    entries = []
+    for path in CONTENT_DIR.glob('*.md'):
+        text = path.read_text(encoding='utf-8')
+        title_match = re.search(r'^title:\s*["\']?([^"\'\n]+)', text, re.MULTILINE)
+        type_match = re.search(r'^type:\s*["\']?([^"\'\n]+)', text, re.MULTILINE)
+        if title_match and type_match:
+            entries.append((title_match.group(1), type_match.group(1)))
+    return entries
+
+
+def _title_tokens(value: str) -> set[str]:
+    tokens = re.findall(r'[a-z0-9]+', value.lower())
+    return {token[:-1] if len(token) > 4 and token.endswith('s') else token for token in tokens}
+
+
+def pick_unpublished_item(items: list, state: dict, index_key: str, content_type: str):
+    if not items:
+        raise RuntimeError(f"No configured items for {content_type}.")
+
+    entries = _published_entries()
+    start = state.get(index_key, 0)
+    for offset in range(len(items)):
+        item = items[(start + offset) % len(items)]
+        label = item['name'] if isinstance(item, dict) else item
+        marker = _title_tokens(label)
+        already_used = any(
+            existing_type == content_type and marker.issubset(_title_tokens(title))
+            for title, existing_type in entries
+        )
+        if not already_used:
+            state[index_key] = start + offset + 1
+            return item
+
+    raise RuntimeError(
+        f"All configured {content_type} subjects have already been published. "
+        "Add new queue items before the next run."
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -166,10 +208,8 @@ Writing requirements:
 
 
 def gen_author_spotlight(state: dict) -> dict:
-    idx = state.get('author_queue_index', 0)
     authors = CONFIG['featured_authors']
-    author = authors[idx % len(authors)]
-    state['author_queue_index'] = idx + 1
+    author = pick_unpublished_item(authors, state, 'author_queue_index', 'author_spotlight')
 
     books = fetch_books(sort='top_rated', limit=60)
     author_books = [
@@ -216,10 +256,8 @@ Writing requirements:
 
 
 def gen_genre_explainer(state: dict) -> dict:
-    idx = state.get('explainer_queue_index', 0)
     topics = CONFIG['explainer_topics']
-    topic = topics[idx % len(topics)]
-    state['explainer_queue_index'] = idx + 1
+    topic = pick_unpublished_item(topics, state, 'explainer_queue_index', 'genre_explainer')
 
     books = fetch_books(sort='top_rated', limit=20)
     book_data = format_book_list(books)
@@ -262,10 +300,8 @@ Writing requirements:
 
 
 def gen_platform_feature(state: dict) -> dict:
-    idx = state.get('feature_queue_index', 0)
     features = CONFIG['platform_features']
-    feature = features[idx % len(features)]
-    state['feature_queue_index'] = idx + 1
+    feature = pick_unpublished_item(features, state, 'feature_queue_index', 'platform_feature')
 
     prompt = f"""You are writing an editorial blog post for {CONFIG['site_name']}.
 
@@ -305,8 +341,12 @@ Writing requirements:
 
 def gen_books_like(state: dict) -> dict:
     anchor_books = CONFIG.get('anchor_books', [])
-    idx = state.get('author_queue_index', 0)
-    anchor = anchor_books[idx % len(anchor_books)] if anchor_books else None
+    anchor = pick_unpublished_item(
+        anchor_books,
+        state,
+        'anchor_queue_index',
+        'books_like',
+    ) if anchor_books else None
 
     books = fetch_books(sort='top_rated', limit=25)
     book_data = format_book_list(books)
@@ -604,6 +644,55 @@ def call_claude(prompt: str) -> str:
     return clean_response(resp.content[0].text)
 
 
+def generate_validated_content(prompt: str, post_type: str) -> str:
+    retry_suffix = ''
+    expected_date = datetime.now().strftime('%Y-%m-%d')
+
+    for attempt in range(1, 4):
+        content = call_claude(prompt + retry_suffix)
+
+        stripped = content.strip()
+        if stripped.startswith('```'):
+            first_newline = stripped.find('\n')
+            if first_newline != -1:
+                stripped = stripped[first_newline + 1:]
+            if stripped.rstrip().endswith('```'):
+                stripped = stripped.rstrip()[:-3].rstrip()
+            content = stripped
+
+        if not content.strip().startswith('---'):
+            content = f"""---
+title: "Post"
+description: "Generated post"
+date: "{expected_date}"
+type: "{post_type}"
+author: "{CONFIG['author']}"
+tags: []
+featured: false
+---
+
+{content}"""
+
+        issues = validate_generated_content(
+            content,
+            content_dir=CONTENT_DIR,
+            expected_date=expected_date,
+            expected_type=post_type,
+            platform_url=CONFIG['platform_url'],
+            allowed_internal_links=CONFIG['allowed_internal_links'],
+        )
+        if not issues:
+            print(f"Content quality gate passed on attempt {attempt}.")
+            return content
+
+        print(f"Content quality gate failed on attempt {attempt}:")
+        for issue in issues:
+            print(f"- {issue}")
+        retry_suffix = retry_guidance(issues)
+
+    raise RuntimeError("Generated content failed the quality gate after 3 attempts.")
+
+
 def extract_title(content: str) -> str:
     m = re.search(r'title:\s*["\']?([^"\'\n]+)["\']?', content)
     return m.group(1).strip() if m else 'post'
@@ -661,32 +750,7 @@ def main():
     if 'state' in result:
         state.update(result['state'])
 
-    content = call_claude(result['prompt'])
-
-    # Strip markdown code block wrapper if Claude returned frontmatter inside ```yaml...```
-    stripped = content.strip()
-    if stripped.startswith('```'):
-        first_newline = stripped.find('\n')
-        if first_newline != -1:
-            stripped = stripped[first_newline + 1:]
-        if stripped.rstrip().endswith('```'):
-            stripped = stripped.rstrip()[:-3].rstrip()
-        content = stripped
-
-    # Ensure output starts with frontmatter
-    if not content.strip().startswith('---'):
-        date_str = datetime.now().strftime('%Y-%m-%d')
-        content = f"""---
-title: "Post"
-description: "Generated post"
-date: "{date_str}"
-type: "{post_type}"
-author: "{CONFIG['author']}"
-tags: []
-featured: false
----
-
-{content}"""
+    content = generate_validated_content(result['prompt'], post_type)
 
     slug = write_post(content, state.get('published_slugs', []))
     state.setdefault('published_slugs', []).append(slug)

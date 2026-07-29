@@ -17,6 +17,7 @@ from pathlib import Path
 
 import anthropic
 
+from content_guard import retry_guidance, validate_generated_content
 from site_config import CONFIG
 
 # Paths
@@ -563,6 +564,55 @@ def call_claude(prompt: str) -> str:
     return resp.content[0].text
 
 
+def generate_validated_content(prompt: str, book: dict) -> str:
+    retry_suffix = ''
+    expected_date = datetime.now().strftime('%Y-%m-%d')
+
+    for attempt in range(1, 4):
+        content = call_claude(prompt + retry_suffix)
+        stripped = content.strip()
+        if stripped.startswith('```'):
+            first_newline = stripped.find('\n')
+            if first_newline != -1:
+                stripped = stripped[first_newline + 1:]
+            if stripped.rstrip().endswith('```'):
+                stripped = stripped.rstrip()[:-3].rstrip()
+            content = stripped
+
+        content = re.sub(r'(\n---\s*\n)```[^\n]*\n', r'\1', content)
+        if not content.strip().startswith('---'):
+            content = f"""---
+title: "{book['full_title']} Review"
+description: "An editorial review of {book['full_title']} by {book['author']}"
+date: "{expected_date}"
+type: "book_report"
+author: "{CONFIG['author']}"
+tags: ["{book['series']}", "{book['author']}"]
+featured: true
+---
+
+{content}"""
+
+        issues = validate_generated_content(
+            content,
+            content_dir=CONTENT_DIR,
+            expected_date=expected_date,
+            expected_type='book_report',
+            platform_url=CONFIG['platform_url'],
+            allowed_internal_links=CONFIG['allowed_internal_links'],
+        )
+        if not issues:
+            print(f"Content quality gate passed on attempt {attempt}.")
+            return content
+
+        print(f"Content quality gate failed on attempt {attempt}:")
+        for issue in issues:
+            print(f"- {issue}")
+        retry_suffix = retry_guidance(issues)
+
+    raise RuntimeError("Generated content failed the quality gate after 3 attempts.")
+
+
 def slugify(title: str) -> str:
     s = re.sub(r'[^\w\s-]', '', title.lower())
     s = re.sub(r'[\s_]+', '-', s).strip('-')
@@ -655,38 +705,7 @@ def main():
 
     # Build prompt and generate
     prompt = build_report_prompt(book, book_text, fmt)
-    content = call_claude(prompt)
-
-    # Strip markdown code block wrapper if Claude returned frontmatter inside ```yaml...```
-    stripped = content.strip()
-    if stripped.startswith('```'):
-        # Remove opening fence (```yaml, ```md, ``` etc.)
-        first_newline = stripped.find('\n')
-        if first_newline != -1:
-            stripped = stripped[first_newline + 1:]
-        # Remove closing fence if present
-        if stripped.rstrip().endswith('```'):
-            stripped = stripped.rstrip()[:-3].rstrip()
-        content = stripped
-
-    # Remove stray code fence line that sometimes appears immediately after the frontmatter close
-    import re as _re
-    content = _re.sub(r'(\n---\s*\n)```[^\n]*\n', r'\1', content)
-
-    # Ensure frontmatter
-    if not content.strip().startswith('---'):
-        date_str = datetime.now().strftime('%Y-%m-%d')
-        content = f"""---
-title: "{book['full_title']} Review"
-description: "An editorial review of {book['full_title']} by {book['author']}"
-date: "{date_str}"
-type: "book_report"
-author: "{CONFIG['author']}"
-tags: ["{book['series']}", "{book['author']}"]
-featured: true
----
-
-{content}"""
+    content = generate_validated_content(prompt, book)
 
     # Write and push
     slug = write_post(content, book_id)

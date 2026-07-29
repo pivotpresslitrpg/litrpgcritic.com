@@ -8,11 +8,17 @@ on:
     - cron: '0 10 * * 1,3,5'
   workflow_dispatch:
 
+concurrency:
+  group: deploy-production
+  cancel-in-progress: true
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - uses: actions/setup-node@v4
         with:
@@ -39,14 +45,24 @@ jobs:
         run: npm run build
 
       - name: Deploy to Cloudflare Pages
-        run: npx wrangler pages deploy dist --project-name=litrpgcritic
+        run: npx wrangler pages deploy dist --project-name=litrpgcritic --branch=main
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+      - name: Verify newest article on the custom domain
+        run: |
+          CHANGED_FILE=$(git diff --name-only HEAD^ HEAD -- 'src/content/blog/20*.md' | head -1)
+          LATEST_FILE=${CHANGED_FILE:-$(find src/content/blog -maxdepth 1 -type f -name '20*.md' | sort | tail -1)}
+          test -n "$LATEST_FILE"
+          SLUG=$(basename "$LATEST_FILE" .md)
+          LATEST_ARTICLE_URL="https://litrpgcritic.com/blog/${SLUG}/"
+          curl --retry 5 --retry-delay 4 --retry-all-errors --fail --silent --show-error "$LATEST_ARTICLE_URL" -o /dev/null
+          echo "LATEST_ARTICLE_URL=$LATEST_ARTICLE_URL" >> "$GITHUB_ENV"
 
       - name: Notify IndexNow
         if: success()
         run: |
           curl -s -X POST "https://api.indexnow.org/indexnow" \
             -H "Content-Type: application/json; charset=utf-8" \
-            -d '{"host":"litrpgcritic.com","key":"lrc8f3a1d7e2b9c4","urlList":["https://litrpgcritic.com/","https://litrpgcritic.com/lists/","https://litrpgcritic.com/new-releases/","https://litrpgcritic.com/blog/","https://litrpgcritic.com/sitemap-index.xml"]}' || true
+            -d "{\"host\":\"litrpgcritic.com\",\"key\":\"lrc8f3a1d7e2b9c4\",\"urlList\":[\"https://litrpgcritic.com/\",\"https://litrpgcritic.com/lists/\",\"https://litrpgcritic.com/new-releases/\",\"https://litrpgcritic.com/blog/\",\"$LATEST_ARTICLE_URL\",\"https://litrpgcritic.com/sitemap-index.xml\"]}" || true

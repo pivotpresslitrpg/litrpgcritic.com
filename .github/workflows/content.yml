@@ -10,6 +10,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: publish-content
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -26,19 +30,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
+      - name: Test content quality gate
+        run: python scripts/test_content_guard.py
+
       - name: Generate post
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           BLOG_FEED_API_KEY: ${{ secrets.BLOG_FEED_API_KEY }}
         run: python scripts/generate_post.py
-
-      - name: Notify IndexNow
-        if: success()
-        run: |
-          NEW_FILE=$(git diff --name-only HEAD~1 HEAD -- 'src/content/' | head -1)
-          if [ -n "$NEW_FILE" ]; then
-            SLUG=$(basename "$NEW_FILE" .md)
-            curl -s -X POST "https://api.indexnow.org/indexnow" \
-              -H "Content-Type: application/json; charset=utf-8" \
-              -d "{\"host\":\"litrpgcritic.com\",\"key\":\"lrc8f3a1d7e2b9c4\",\"urlList\":[\"https://litrpgcritic.com/blog/${SLUG}/\",\"https://litrpgcritic.com/blog/\",\"https://litrpgcritic.com/sitemap-index.xml\"]}" || true
-          fi
