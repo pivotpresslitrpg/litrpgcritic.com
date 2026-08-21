@@ -1,0 +1,43 @@
+---
+// Contextual cross-site pointer.
+//
+// Only renders when the post's own subject overlaps a sister site's mandate,
+// so this stays an editorial aside rather than a house ad. Each blog owns a
+// distinct beat; this is where a reader is genuinely better served elsewhere.
+interface Props {
+  tags?: string[];
+  title?: string;
+}
+
+const { tags = [], title = '' } = Astro.props;
+const hay = [...tags, title].join(' ').toLowerCase();
+
+const RULES = [
+  {
+    hints: ['harem', "men's romance", 'mens romance', 'romance', 'monster girl'],
+    site: 'HaremLit Guide',
+    url: 'https://haremlitguide.com',
+    note: 'covers the harem fantasy and men’s romance side of this overlap in far more depth than this site does.',
+  },
+  {
+    hints: ['cultivation', 'isekai', 'power fantasy', 'system apocalypse', 'xianxia'],
+    site: 'Fantasy Ranked',
+    url: 'https://fantasyranked.com',
+    note: 'runs the cross-genre comparisons — cultivation against progression, isekai against system apocalypse — that this site deliberately leaves alone.',
+  },
+];
+
+const match = RULES.find((rule) => rule.hints.some((h) => hay.includes(h))) ?? null;
+---
+
+{match && (
+  <p class="mt-10 border-t border-[var(--color-border)] pt-5 text-sm text-[var(--color-text-muted)]">
+    <span class="font-semibold text-[#aaa]">Adjacent coverage:</span>{' '}
+    <a
+      href={match.url}
+      class="text-[var(--color-brand)] underline underline-offset-4 hover:text-white"
+      rel="noopener"
+    >{match.site}</a>{' '}
+    {match.note}
+  </p>
+)}

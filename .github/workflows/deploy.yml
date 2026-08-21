@@ -65,4 +65,4 @@ jobs:
         run: |
           curl -s -X POST "https://api.indexnow.org/indexnow" \
             -H "Content-Type: application/json; charset=utf-8" \
-            -d "{\"host\":\"litrpgcritic.com\",\"key\":\"lrc8f3a1d7e2b9c4\",\"urlList\":[\"https://litrpgcritic.com/\",\"https://litrpgcritic.com/lists/\",\"https://litrpgcritic.com/new-releases/\",\"https://litrpgcritic.com/blog/\",\"$LATEST_ARTICLE_URL\",\"https://litrpgcritic.com/sitemap-index.xml\"]}" || true
+            -d "{\"host\":\"litrpgcritic.com\",\"key\":\"lrc8f3a1d7e2b9c4\",\"urlList\":[\"https://litrpgcritic.com/for-professionals/\",\"https://litrpgcritic.com/tags/\",\"https://litrpgcritic.com/\",\"https://litrpgcritic.com/lists/\",\"https://litrpgcritic.com/new-releases/\",\"https://litrpgcritic.com/blog/\",\"$LATEST_ARTICLE_URL\",\"https://litrpgcritic.com/sitemap-index.xml\"]}" || true

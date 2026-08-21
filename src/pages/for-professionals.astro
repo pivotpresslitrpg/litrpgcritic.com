@@ -1,0 +1,199 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FaqBlock from '../components/FaqBlock.astro';
+import ProfessionalCTA from '../components/ProfessionalCTA.astro';
+import { organizationSchema, SELF_URL } from '../lib/network';
+import {
+  ROLES,
+  BETA_RATE_NOTE,
+  REVIEW_NOTE,
+  professionalUrl,
+  PLATFORM_NAME,
+} from '../lib/professionals';
+
+const title = 'LitRPG Industry Professionals: Editors, Narrators, Artists & Beta Readers';
+const description =
+  'How LitRPG authors hire genre-fluent editors, narrators, cover artists, and beta readers — and how professionals apply to be listed. Rates, requirements, and vetting explained.';
+
+const faq = [
+  {
+    q: 'What is a LitRPG industry professional?',
+    a: 'An industry professional is someone paid to work on a book rather than to read it: an editor, audiobook narrator, visual artist, alpha or beta reader, or another book-industry specialist. On LitRPGTools.com they list themselves in a vetted public directory, with rates, availability, and genre comfort on the profile, and authors contact them directly.',
+  },
+  {
+    q: 'How much does a LitRPG beta reader cost?',
+    a: 'Beta readers set their own rates and usually quote per 50,000 words. The platform’s guidance to applicants cites an industry norm of roughly $250–500 USD per 50,000 words for a full beta pass, with rush turnaround typically 1.5–2× standard. Some professionals publish exact rates, some publish ranges, and some list rates on request.',
+  },
+  {
+    q: 'What do you need to become a beta reader for LitRPG authors?',
+    a: 'No qualification beyond genre fluency, but that part is enforced: applicants must confirm they have read at least 25 books in LitRPG or progression fantasy. The application also asks you to define your feedback types, turnaround, delivery format, subgenre comfort, and rates.',
+  },
+  {
+    q: 'What is the difference between an alpha reader and a beta reader?',
+    a: 'Alpha readers give a fast, story-first pass on an early or in-progress draft, aimed at large structural problems while they are still cheap to fix. Beta readers work through a finished draft and deliver detailed, beat-level feedback. Alpha reading is not a separate role in the directory — it is an opt-in service on a beta reader profile.',
+  },
+  {
+    q: 'Does it cost anything to apply?',
+    a: 'No. Applying and being listed are free for the professional, and browsing the directory is free for authors. The paid side is the author or publisher who posts a casting call, which sends a private brief to matched professionals.',
+  },
+  {
+    q: 'How long does approval take?',
+    a: 'Applications are reviewed by a human in about 5–7 days. Drafts auto-save, so the form can be completed across several sittings, and a profile becomes public only after approval.',
+  },
+  {
+    q: 'Do visual artists have to disclose AI use?',
+    a: 'Yes. Every portfolio image carries a classification — human-made, AI-enhanced, or AI-generated — with detail required for anything not fully human-made, and artists sign a recorded rights attestation. Listed prices must include a commercial publishing license.',
+  },
+  {
+    q: 'How do authors hire someone from the directory?',
+    a: 'Filter by role, current availability, and the book’s closest subgenre, compare profiles and any disclosed pricing, then contact a shortlist directly through the platform. Vetting is a first filter, not a substitute for samples, references, and a written scope covering deliverables, revisions, deadlines, payment, and commercial rights.',
+  },
+];
+
+const pageUrl = `${SELF_URL}/for-professionals/`;
+
+const orgSchema = organizationSchema({
+  name: 'LitRPG Critic',
+  description: 'Editorial rankings and reviews for LitRPG and progression fantasy readers.',
+  knowsAbout: [
+    'LitRPG',
+    'Progression Fantasy',
+    'Beta reading',
+    'Alpha reading',
+    'Book cover art',
+    'Audiobook narration',
+    'Developmental editing',
+  ],
+});
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map(({ q, a }) => ({
+    '@type': 'Question',
+    name: q,
+    acceptedAnswer: { '@type': 'Answer', text: a },
+  })),
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${SELF_URL}/` },
+    { '@type': 'ListItem', position: 2, name: 'For professionals', item: pageUrl },
+  ],
+};
+---
+
+<BaseLayout title={title} description={description} schema={[orgSchema, faqSchema, breadcrumbSchema]}>
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'For professionals' }]} />
+
+    <p class="mt-5 text-sm font-semibold uppercase tracking-[0.14em] text-[var(--color-brand)]">
+      Working in the genre
+    </p>
+    <h1 class="mt-2 text-3xl sm:text-4xl font-bold leading-tight text-white">
+      LitRPG industry professionals: who they are, what they charge, how to reach them
+    </h1>
+
+    <div class="prose mt-6">
+      <p>
+        A LitRPG industry professional is someone paid to work on a book rather than to read it —
+        an editor, audiobook narrator, visual artist, alpha or beta reader, or another
+        book-industry specialist. Since 2026 they have had a genre-specific place to be found:
+        a vetted directory on <a href={professionalUrl('directory', 'hub-intro')} target="_blank" rel="noopener">{PLATFORM_NAME}</a>,
+        where profiles carry rates, availability, and subgenre comfort, and authors make contact directly.
+      </p>
+      <p>
+        This page explains what the roles actually involve, what the market pays, and how both
+        sides of the transaction work. It is maintained as a reference rather than an
+        announcement, so it is the page to bookmark rather than any individual article.
+      </p>
+
+      <h2>Why the genre needed its own directory</h2>
+      <p>
+        LitRPG hires for unusually complicated books. An editor may be holding prose, pacing,
+        continuity, and a progression system in mind simultaneously. A narrator may be carrying a
+        sprawling cast across hundreds of thousands of words. A cover has to signal fantasy,
+        progression, and a specific subgenre before a reader ever reaches the blurb. General
+        freelance marketplaces are not organized around any of that, and the informal alternative
+        — asking in a Discord server and hoping — has obvious failure modes.
+      </p>
+      <p>
+        The directory is a first filter, not a replacement for judgment. Every listed profile has
+        been reviewed and approved, which removes the spam problem, but samples, references, and a
+        written scope covering deliverables, revisions, deadlines, payment, and commercial rights
+        remain the author's job.
+      </p>
+
+      <h2>The roles, and what each one requires</h2>
+    </div>
+
+    <div class="mt-6 overflow-x-auto">
+      <table class="w-full min-w-[560px] border-collapse text-sm">
+        <thead>
+          <tr>
+            <th class="border-b border-[var(--color-border)] pb-2 pr-4 text-left text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)]">Role</th>
+            <th class="border-b border-[var(--color-border)] pb-2 pr-4 text-left text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)]">The work</th>
+            <th class="border-b border-[var(--color-border)] pb-2 text-left text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)]">Entry requirement</th>
+          </tr>
+        </thead>
+        <tbody>
+          {ROLES.map((role) => (
+            <tr class="align-top">
+              <td class="border-b border-[var(--color-border)] py-3 pr-4 font-semibold text-white">
+                <a href={professionalUrl('apply', role.applyContent)} target="_blank" rel="noopener" class="text-[var(--color-brand)] underline underline-offset-4 hover:text-white">
+                  {role.name}
+                </a>
+              </td>
+              <td class="border-b border-[var(--color-border)] py-3 pr-4 leading-relaxed text-[#bbb]">{role.work}</td>
+              <td class="border-b border-[var(--color-border)] py-3 leading-relaxed text-[#999]">
+                {role.requirement ?? 'Portfolio and track record.'}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <div class="prose mt-8">
+      <h2>What the work pays</h2>
+      <p>{BETA_RATE_NOTE}</p>
+      <p>
+        Narration is quoted per finished hour, editing per project or per word, and visual work
+        per tier — with one rule that matters for every artist quote: listed prices must include a
+        commercial publishing license, so pricing assumes commercial use from the start.
+      </p>
+      <p>
+        Authors and publishers on paid plans can also post a casting call: a private paid brief
+        that the platform matches to approved professionals whose role, availability, comfort, and
+        rates fit. Matched professionals see the brief; the poster never sees their private rates
+        or hard limits.
+      </p>
+
+      <h2>How applying works</h2>
+      <p>{REVIEW_NOTE}</p>
+      <p>
+        Approved professionals get a public profile, a dashboard showing profile views, unique
+        visitors, contact reveals and the search terms that surfaced them, access to matched
+        casting calls, and a pause control for when the queue is full.
+      </p>
+    </div>
+
+    <div class="mt-12 flex flex-col gap-4">
+      <ProfessionalCTA mode="hire" surface="hub" />
+      <ProfessionalCTA mode="earn" surface="hub" />
+      <ProfessionalCTA mode="create" surface="hub" />
+    </div>
+
+    <FaqBlock items={faq} heading="Questions people actually ask" />
+
+    <p class="mt-10 border-t border-[var(--color-border)] pt-5 text-sm text-[var(--color-text-muted)]">
+      Writing harem fantasy or men's romance instead? The same program runs on Harem-Lit.com, and
+      <a href="https://haremlitguide.com/for-professionals/" rel="noopener" class="text-[var(--color-brand)] underline underline-offset-4 hover:text-white"> HaremLit Guide</a>
+      covers it for that side of the shelf.
+    </p>
+  </div>
+</BaseLayout>

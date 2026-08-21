@@ -4,7 +4,7 @@ description: "Loved Jason Asano's sharp wit, deep progression systems, and richl
 date: "2026-03-19"
 type: "books_like"
 author: "The LitRPG Critic"
-tags: ["LitRPG", "progression fantasy", "he who fights with monsters", "shirtaloon", "books like", "recommendations", "Jason Asano"]
+tags: ["LitRPG", "progression fantasy", "He Who Fights With Monsters", "Shirtaloon", "books like", "recommendations", "Jason Asano"]
 featured: false
 ---
 

@@ -4,7 +4,7 @@ description: "Cultivation fiction explained: refine your soul, break through rea
 date: "2026-03-24"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["cultivation", "xianxia", "wuxia", "Cradle", "Will Wight", "A Thousand Li", "Tao Wong", "He Who Fights with Monsters", "Shirtaloon", "progression fantasy", "qi", "sect politics", "Eastern fantasy"]
+tags: ["cultivation", "xianxia", "Wuxia", "Cradle", "Will Wight", "A Thousand Li", "Tao Wong", "He Who Fights With Monsters", "Shirtaloon", "progression fantasy", "qi", "sect politics", "Eastern fantasy"]
 featured: false
 faq:
   - q: "What's the difference between cultivation and progression fantasy?"

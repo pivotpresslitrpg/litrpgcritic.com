@@ -4,7 +4,7 @@ description: "Slice of life fantasy is one of LitRPG's fastest-growing sub-genre
 date: "2026-06-29"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["Slice of Life Fantasy", "LitRPG", "Cozy Fantasy", "Crafting LitRPG", "Farming Fantasy", "Progression Fantasy", "GameLit"]
+tags: ["Slice of Life Fantasy", "LitRPG", "cozy fantasy", "crafting LitRPG", "Farming Fantasy", "progression fantasy", "GameLit"]
 featured: false
 ---
 

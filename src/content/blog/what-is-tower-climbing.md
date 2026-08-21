@@ -4,7 +4,7 @@ description: "Tower climbing LitRPG explained: ascend a massive tower floor by f
 date: "2026-03-28"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["tower climbing", "tower ascension", "Father of Constructs", "Aaron Renfroe", "Tower of Damnation", "Cassius Lange", "The Menocht Loop", "David North", "floor-based progression", "LitRPG subgenres", "dungeon climbing"]
+tags: ["Tower Climbing", "tower ascension", "Father of Constructs", "Aaron Renfroe", "Tower of Damnation", "Cassius Lange", "The Menocht Loop", "David North", "floor-based progression", "LitRPG subgenres", "dungeon climbing"]
 featured: false
 faq:
   - q: "What's the difference between tower climbing and dungeon crawling?"

@@ -4,7 +4,7 @@ description: "LitRPG explained: what it is, why readers love it, and the best ga
 date: "2026-03-12"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["LitRPG", "genre guide", "progression fantasy", "GameLit", "beginner's guide"]
+tags: ["LitRPG", "Genre Guide", "progression fantasy", "GameLit", "beginner's guide"]
 featured: false
 ---
 

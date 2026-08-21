@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import { platformUrl } from '../lib/api';
 import { pivotPressUrl } from '../lib/publisher';
+import { SISTER_SITES } from '../lib/network';
 
 interface Props {
   title: string;
@@ -11,6 +12,8 @@ interface Props {
   ogType?: string;
   publishedDate?: string;
   schema?: object | object[];
+  /** Keep a utility page out of the index without hiding it from crawlers. */
+  noindex?: boolean;
 }
 
 const {
@@ -20,7 +23,8 @@ const {
   ogImage = '/og-default.png',
   ogType = 'website',
   publishedDate,
-  schema
+  schema,
+  noindex = false
 } = Astro.props;
 
 const fullTitle = title.includes('LitRPG Critic') ? title : `${title} | LitRPG Critic`;
@@ -34,7 +38,7 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{fullTitle}</title>
   <meta name="description" content={description} />
-  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
+  <meta name="robots" content={noindex ? "noindex, follow" : "index, follow, max-image-preview:large, max-snippet:-1"} />
   <link rel="canonical" href={canonicalUrl} />
   <meta name="msvalidate.01" content="7EE57625642C0FDAD06C3D07915EBF09" />
 
@@ -82,20 +86,25 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
 </head>
 <body class="min-h-screen flex flex-col">
   <!-- Nav -->
-  <header class="border-b border-[var(--color-border)] sticky top-0 z-50 bg-[var(--color-surface)]/95 backdrop-blur-sm">
+  <header data-pagefind-ignore class="border-b border-[var(--color-border)] sticky top-0 z-50 bg-[var(--color-surface)]/95 backdrop-blur-sm">
     <div class="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between">
       <a href="/" class="flex items-center gap-2 font-bold text-lg tracking-tight">
         <span class="text-[var(--color-brand)]">LitRPG</span><span class="text-white">Critic</span>
       </a>
       <nav class="hidden sm:flex items-center gap-6 text-sm text-[var(--color-text-muted)]">
         <a href="/lists/" class="hover:text-white transition-colors">Lists</a>
-        <a href="/blog/" class="hover:text-white transition-colors">Reviews</a>
         <a href="/new-releases/" class="hover:text-white transition-colors">New Releases</a>
         <a href="/blog/" class="hover:text-white transition-colors">Blog</a>
+        <a href="/for-professionals/" class="hover:text-white transition-colors">Professionals</a>
         <a href="/about/" class="hover:text-white transition-colors">About</a>
+        <a href="/search/" aria-label="Search" class="hover:text-white transition-colors">
+          <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" /><path d="M20 20l-3.5-3.5" stroke-linecap="round" />
+          </svg>
+        </a>
         <a href={platformUrl('nav')} target="_blank" rel="noopener" class="ml-2 px-3 py-1.5 text-xs font-semibold rounded bg-[var(--color-brand)] text-white hover:opacity-90 transition-opacity">Explore LitRPGTools &rarr;</a>
       </nav>
-      <button id="mobile-menu-btn" class="sm:hidden text-[var(--color-text-muted)]" aria-label="Open menu">
+      <button id="mobile-menu-btn" class="sm:hidden text-[var(--color-text-muted)]" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
         <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path d="M3 12h18M3 6h18M3 18h18" stroke-linecap="round"/>
         </svg>
@@ -104,9 +113,9 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
   </header>
 
   <!-- Mobile Menu -->
-  <div id="mobile-menu" class="fixed inset-0 z-[60] hidden">
+  <div id="mobile-menu" data-pagefind-ignore class="fixed inset-0 z-[60] hidden">
     <div id="mobile-backdrop" class="absolute inset-0 bg-black/60"></div>
-    <div class="absolute right-0 top-0 h-full w-64 bg-[var(--color-surface)] border-l border-[var(--color-border)] p-6 flex flex-col">
+    <div id="mobile-panel" class="absolute right-0 top-0 h-full w-64 bg-[var(--color-surface)] border-l border-[var(--color-border)] p-6 flex flex-col">
       <button id="mobile-close" class="self-end text-[var(--color-text-muted)] hover:text-white mb-6" aria-label="Close menu">
         <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path d="M18 6L6 18M6 6l12 12" stroke-linecap="round"/>
@@ -114,9 +123,10 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
       </button>
       <nav class="flex flex-col gap-4 text-sm text-[var(--color-text-muted)]">
         <a href="/lists/" class="hover:text-white transition-colors">Lists</a>
-        <a href="/blog/" class="hover:text-white transition-colors">Reviews</a>
         <a href="/new-releases/" class="hover:text-white transition-colors">New Releases</a>
         <a href="/blog/" class="hover:text-white transition-colors">Blog</a>
+        <a href="/search/" class="hover:text-white transition-colors">Search</a>
+        <a href="/for-professionals/" class="hover:text-white transition-colors">Professionals</a>
         <a href="/about/" class="hover:text-white transition-colors">About</a>
       </nav>
       <div class="mt-auto pt-6 border-t border-[var(--color-border)]">
@@ -131,7 +141,7 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
   </main>
 
   <!-- Footer -->
-  <footer class="border-t border-[var(--color-border)] mt-16 py-10 text-[var(--color-text-muted)] text-sm">
+  <footer data-pagefind-ignore class="border-t border-[var(--color-border)] mt-16 py-10 text-[var(--color-text-muted)] text-sm">
     <div class="max-w-5xl mx-auto px-4 flex flex-col sm:flex-row justify-between gap-6">
       <div>
         <p class="font-semibold text-white mb-1">
@@ -139,16 +149,19 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
         </p>
         <p class="max-w-xs">Editorial rankings and reviews for LitRPG &amp; progression fantasy readers.</p>
       </div>
-      <div class="flex gap-10">
+      <div class="flex flex-wrap gap-x-10 gap-y-6">
         <nav class="flex flex-col gap-1">
           <p class="text-white font-semibold mb-1">Site</p>
           <a href="/lists/" class="hover:text-white transition-colors">Lists</a>
           <a href="/new-releases/" class="hover:text-white transition-colors">New Releases</a>
           <a href="/blog/" class="hover:text-white transition-colors">Blog</a>
+          <a href="/tags/" class="hover:text-white transition-colors">Topics</a>
+          <a href="/search/" class="hover:text-white transition-colors">Search</a>
         </nav>
         <nav class="flex flex-col gap-1">
           <p class="text-white font-semibold mb-1">Info</p>
           <a href="/about/" class="hover:text-white transition-colors">About</a>
+          <a href="/editorial/" class="hover:text-white transition-colors">Editorial standards</a>
           <a href="/contact/" class="hover:text-white transition-colors">Contact</a>
           <a href="/privacy/" class="hover:text-white transition-colors">Privacy</a>
           <a href="/rss.xml" class="hover:text-white transition-colors">RSS</a>
@@ -156,6 +169,13 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
         <nav class="flex flex-col gap-1">
           <p class="text-white font-semibold mb-1">Platform</p>
           <a href={platformUrl('footer')} target="_blank" rel="noopener" class="hover:text-white transition-colors">LitRPGTools.com</a>
+          <a href="/for-professionals/" class="hover:text-white transition-colors">For professionals</a>
+        </nav>
+        <nav class="flex flex-col gap-1">
+          <p class="text-white font-semibold mb-1">Sister sites</p>
+          {SISTER_SITES.map((s) => (
+            <a href={s.url} rel="noopener" class="hover:text-white transition-colors">{s.name}</a>
+          ))}
         </nav>
       </div>
     </div>
@@ -174,11 +194,40 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
     const menu = document.getElementById('mobile-menu');
     const close = document.getElementById('mobile-close');
     const backdrop = document.getElementById('mobile-backdrop');
-    function openMenu() { menu?.classList.remove('hidden'); document.body.style.overflow = 'hidden'; }
-    function closeMenu() { menu?.classList.add('hidden'); document.body.style.overflow = ''; }
+    const panel = document.getElementById('mobile-panel');
+
+    function focusables(): HTMLElement[] {
+      return panel ? Array.from(panel.querySelectorAll<HTMLElement>('a[href], button')) : [];
+    }
+    function isOpen() { return menu ? !menu.classList.contains('hidden') : false; }
+    function openMenu() {
+      menu?.classList.remove('hidden');
+      btn?.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+      focusables()[0]?.focus();
+    }
+    function closeMenu() {
+      if (!isOpen()) return;
+      menu?.classList.add('hidden');
+      btn?.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+      btn?.focus();
+    }
     btn?.addEventListener('click', openMenu);
     close?.addEventListener('click', closeMenu);
     backdrop?.addEventListener('click', closeMenu);
+    // Escape closes; Tab cycles inside the panel so keyboard users are not stranded.
+    document.addEventListener('keydown', (e) => {
+      if (!isOpen()) return;
+      if (e.key === 'Escape') { closeMenu(); return; }
+      if (e.key !== 'Tab') return;
+      const items = focusables();
+      if (!items.length) return;
+      const first = items[0];
+      const last = items[items.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    });
   </script>
 
   <!-- Outbound conversion tracking for the reader platform, publisher, and retailers. -->

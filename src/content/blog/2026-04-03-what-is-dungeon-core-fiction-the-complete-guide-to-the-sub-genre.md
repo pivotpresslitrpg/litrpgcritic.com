@@ -4,7 +4,7 @@ description: "Dungeon core is one of LitRPG's most inventive sub-genres. Here's 
 date: "2026-04-03"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["Dungeon Core", "LitRPG", "Progression Fantasy", "GameLit", "Sub-Genre Guide"]
+tags: ["dungeon core", "LitRPG", "progression fantasy", "GameLit", "Sub-Genre Guide"]
 featured: false
 ---
 

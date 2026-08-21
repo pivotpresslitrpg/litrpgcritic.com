@@ -4,7 +4,7 @@ description: "The LitRPGTools.com community book database is the largest reader-
 date: "2026-06-26"
 type: "platform_feature"
 author: "The LitRPG Critic"
-tags: ["litrpg", "progression fantasy", "dungeon core", "gamelit", "book database", "community", "series tracking", "litrpg tools"]
+tags: ["LitRPG", "progression fantasy", "dungeon core", "GameLit", "book database", "community", "series tracking", "litrpg tools"]
 featured: false
 ---
 

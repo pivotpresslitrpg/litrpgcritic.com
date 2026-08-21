@@ -1,0 +1,55 @@
+---
+// Homepage recruitment band. Wider and quieter than the in-article CTA: this
+// audience arrived cold, so it names the roles and gets out of the way.
+import { BAND, ROLES, CTA, professionalUrl } from '../lib/professionals';
+
+const primary = CTA.community.primary;
+---
+
+<section class="border-t border-[var(--color-border)] mt-12 pt-10">
+  <div class="max-w-5xl mx-auto px-4">
+    <p class="text-[11px] font-semibold uppercase tracking-[0.14em] text-[var(--color-brand)]">
+      {BAND.eyebrow}
+    </p>
+    <div class="mt-3 grid gap-6 md:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)] md:items-start">
+      <div>
+        <h2 class="text-xl sm:text-2xl font-bold leading-snug text-white">{BAND.heading}</h2>
+        <p class="mt-3 text-sm leading-relaxed text-[#999]">{BAND.body}</p>
+        <div class="mt-5 flex flex-wrap items-center gap-x-5 gap-y-3">
+          <a
+            href={professionalUrl(primary.path, `${primary.content}-home`)}
+            target="_blank"
+            rel="noopener"
+            data-analytics-content="band-directory"
+            class="inline-flex items-center gap-1.5 rounded bg-[var(--color-brand)] px-4 py-2 text-sm font-semibold text-white transition-colors hover:bg-[var(--color-brand-dark)]"
+          >
+            {primary.label} <span aria-hidden="true">&rarr;</span>
+          </a>
+          <a href="/for-professionals/" class="text-sm text-[#999] underline underline-offset-4 transition-colors hover:text-white">
+            How the program works
+          </a>
+        </div>
+      </div>
+      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-2)] p-5">
+        <p class="text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)]">
+          {BAND.roleLabel}
+        </p>
+        <ul class="mt-3 flex flex-col gap-2">
+          {ROLES.map((role) => (
+            <li>
+              <a
+                href={professionalUrl('apply', `band-${role.applyContent}`)}
+                target="_blank"
+                rel="noopener"
+                class="group flex items-center justify-between gap-3 text-sm text-[#bbb] transition-colors hover:text-white"
+              >
+                <span>{role.name}</span>
+                <span aria-hidden="true" class="text-[var(--color-brand)] opacity-0 transition-opacity group-hover:opacity-100">&rarr;</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>

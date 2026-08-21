@@ -4,7 +4,7 @@ description: "Progression fantasy explained: power growth as story engine, from 
 date: "2026-03-17"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["progression fantasy", "Cradle", "Will Wight", "He Who Fights with Monsters", "Shirtaloon", "Arcane Ascension", "Andrew Rowe", "Spite the Dark", "Aaron Renfroe", "cultivation", "power progression", "hard magic systems"]
+tags: ["progression fantasy", "Cradle", "Will Wight", "He Who Fights With Monsters", "Shirtaloon", "Arcane Ascension", "Andrew Rowe", "Spite the Dark", "Aaron Renfroe", "cultivation", "power progression", "hard magic systems"]
 featured: true
 faq:
   - q: "Is progression fantasy the same as LitRPG?"

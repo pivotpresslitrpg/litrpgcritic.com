@@ -4,7 +4,7 @@ description: "LitRPGTools.com has launched a 16-signal AI slop detection system 
 date: "2026-04-13"
 type: "platform_spotlight"
 author: "The LitRPG Critic"
-tags: ["LitRPGTools", "AI slop", "LitRPG quality", "platform features", "catalog curation", "2026", "recommendation quality"]
+tags: ["litrpgtools", "AI slop", "LitRPG quality", "platform features", "catalog curation", "2026", "recommendation quality"]
 featured: true
 faq:
   - q: "What is AI slop in LitRPG?"

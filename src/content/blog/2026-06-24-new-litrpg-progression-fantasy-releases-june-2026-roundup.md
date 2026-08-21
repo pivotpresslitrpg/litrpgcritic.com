@@ -4,7 +4,7 @@ description: "From sci-fi cultivation hybrids to military fantasy LitRPG, June 2
 date: "2026-06-24"
 type: "new_releases"
 author: "The LitRPG Critic"
-tags: ["litrpg", "progression fantasy", "new releases", "cultivation", "military fantasy", "apocalypse litrpg", "slice of life"]
+tags: ["LitRPG", "progression fantasy", "new releases", "cultivation", "military fantasy", "apocalypse LitRPG", "slice of life"]
 featured: false
 ---
 

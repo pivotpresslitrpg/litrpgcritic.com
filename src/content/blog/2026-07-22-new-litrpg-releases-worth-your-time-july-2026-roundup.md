@@ -4,7 +4,7 @@ description: "From book nine of a survival epic to a globally translated system 
 date: "2026-07-22"
 type: "new_releases"
 author: "The LitRPG Critic"
-tags: ["litrpg", "progression fantasy", "new releases", "system apocalypse", "cultivation", "survival"]
+tags: ["LitRPG", "progression fantasy", "new releases", "system apocalypse", "cultivation", "survival"]
 featured: false
 ---
 

@@ -4,7 +4,7 @@ description: "An authoritative look at DB King's LitRPG and progression fantasy 
 date: "2026-06-01"
 type: "author_spotlight"
 author: "The LitRPG Critic"
-tags: ["DB King", "LitRPG", "progression fantasy", "power fantasy", "author spotlight", "Fantasy Cultivation", "Dungeon Diving"]
+tags: ["DB King", "LitRPG", "progression fantasy", "power fantasy", "author spotlight", "Fantasy Cultivation", "dungeon diving"]
 featured: false
 ---
 

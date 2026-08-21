@@ -4,7 +4,7 @@ description: "Loved the cozy farming, genuine warmth, and slow-burn progression 
 date: "2026-06-22"
 type: "books_like"
 author: "The LitRPG Critic"
-tags: ["beware of chicken", "cozy litrpg", "farming litrpg", "progression fantasy", "slice of life", "books like beware of chicken", "litrpg recommendations"]
+tags: ["beware of chicken", "cozy LitRPG", "farming LitRPG", "progression fantasy", "slice of life", "books like beware of chicken", "litrpg recommendations"]
 featured: false
 ---
 

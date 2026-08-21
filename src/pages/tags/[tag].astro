@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+import { buildTagIndex, postsForTag } from '../../lib/tags';
+import { SELF_URL } from '../../lib/network';
+
+export async function getStaticPaths() {
+  const today = new Date().toISOString().slice(0, 10);
+  const posts = (await getCollection('blog')).filter((p) => p.data.date <= today);
+  return buildTagIndex(posts).map((tag) => ({
+    params: { tag: tag.slug },
+    props: { tag, posts: postsForTag(posts, tag.slug) },
+  }));
+}
+
+const { tag, posts } = Astro.props;
+const pageUrl = `${SELF_URL}/tags/${tag.slug}/`;
+
+const listSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${tag.name} — articles`,
+  url: pageUrl,
+  isPartOf: { '@type': 'WebSite', name: 'LitRPG Critic', url: SELF_URL },
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: posts.length,
+    itemListElement: posts.map((post, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: post.data.title,
+      url: `${SELF_URL}/blog/${post.id.replace(/\.md$/, '')}/`,
+    })),
+  },
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${SELF_URL}/` },
+    { '@type': 'ListItem', position: 2, name: 'Topics', item: `${SELF_URL}/tags/` },
+    { '@type': 'ListItem', position: 3, name: tag.name, item: pageUrl },
+  ],
+};
+---
+
+<BaseLayout
+  title={`${tag.name} — every article`}
+  description={`Every article on LitRPG Critic covering ${tag.name} — ${posts.length} in total, newest first.`}
+  schema={[listSchema, breadcrumbSchema]}
+>
+  <div class="max-w-5xl mx-auto px-4 py-10">
+    <Breadcrumbs items={[
+      { name: 'Home', href: '/' },
+      { name: 'Topics', href: '/tags/' },
+      { name: tag.name },
+    ]} />
+    <h1 class="mt-5 text-3xl font-bold text-white">{tag.name}</h1>
+    <p class="mt-2 text-sm text-[var(--color-text-muted)]">
+      {posts.length} {posts.length === 1 ? 'article' : 'articles'}, newest first.
+    </p>
+
+    <div class="mt-8 grid gap-5 sm:grid-cols-2">
+      {posts.map((post) => (
+        <PostCard
+          title={post.data.title}
+          description={post.data.description}
+          slug={post.id.replace(/\.md$/, '')}
+          date={post.data.date}
+          type={post.data.type}
+        />
+      ))}
+    </div>
+
+    <p class="mt-10 border-t border-[var(--color-border)] pt-5 text-sm">
+      <a href="/tags/" class="text-[var(--color-brand)] underline underline-offset-4 hover:text-white">Browse all topics</a>
+    </p>
+  </div>
+</BaseLayout>

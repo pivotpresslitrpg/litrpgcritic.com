@@ -4,7 +4,7 @@ description: "Loved the high-stakes system apocalypse action of Apocalypse Break
 date: "2026-07-29"
 type: "books_like"
 author: "The LitRPG Critic"
-tags: ["apocalypse breaker", "system apocalypse", "litrpg", "progression fantasy", "recommendations", "aaron renfroe", "sean oswald"]
+tags: ["Apocalypse BREAKER", "system apocalypse", "LitRPG", "progression fantasy", "recommendations", "Aaron Renfroe", "Sean Oswald"]
 featured: false
 ---
 

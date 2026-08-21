@@ -4,7 +4,7 @@ description: "GameLit is one of the fastest-growing sub-genres in fantasy fictio
 date: "2026-05-04"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["GameLit", "LitRPG", "progression fantasy", "genre guide", "fantasy fiction"]
+tags: ["GameLit", "LitRPG", "progression fantasy", "Genre Guide", "fantasy fiction"]
 featured: false
 ---
 

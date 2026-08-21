@@ -4,7 +4,7 @@ description: "The Dungeon Run Generator on LitRPGTools.com procedurally builds c
 date: "2026-05-20"
 type: "platform_feature"
 author: "The LitRPG Critic"
-tags: ["litrpg", "tools", "dungeon core", "worldbuilding", "litrpgtools", "writing tools", "progression fantasy"]
+tags: ["LitRPG", "tools", "dungeon core", "worldbuilding", "litrpgtools", "writing tools", "progression fantasy"]
 featured: false
 ---
 

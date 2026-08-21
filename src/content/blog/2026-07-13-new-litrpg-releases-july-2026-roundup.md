@@ -4,7 +4,7 @@ description: "From steampunk cultivation comedy to base-building slice of life, 
 date: "2026-07-13"
 type: "new_releases"
 author: "The LitRPG Critic"
-tags: ["litrpg", "progression fantasy", "new releases", "cultivation", "isekai", "base building", "steampunk", "apocalypse"]
+tags: ["LitRPG", "progression fantasy", "new releases", "cultivation", "isekai", "base building", "steampunk", "apocalypse"]
 featured: false
 ---
 

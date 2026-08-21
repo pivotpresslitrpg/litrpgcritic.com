@@ -4,7 +4,7 @@ description: "Dungeon core fiction is one of LitRPG's most creative sub-genres. 
 date: "2026-07-24"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["Dungeon Core", "LitRPG", "Progression Fantasy", "GameLit", "Sub-Genre Guide"]
+tags: ["dungeon core", "LitRPG", "progression fantasy", "GameLit", "Sub-Genre Guide"]
 featured: false
 ---
 
@@ -52,7 +52,7 @@ Our [full ranked list of the best dungeon core books](/lists/best-dungeon-core/)
 
 6. **Guardian of Aster Fall by David North** — North's flagship series blends LitRPG crafting with dungeon-protection mechanics in ways that feel fresh. The Guardian must defend his domain, upgrade his resources, and manage the living systems around him — dungeon core readers will feel right at home, even as the format pushes into new territory.
 
-7. **Dungeon Crawler Carl by Matt Dinniman** — Technically an inversion of the sub-genre (Carl is the adventurer, not the core), but Dinniman's world is so thoroughly built around dungeon logic, floor design, and systemic escalation that it's essential reading for anyone who loves the genre's DNA. See our [books like Dungeon Crawler Carl](/books-like-dungeon-crawler-carl/) list for more in this vein.
+7. **Dungeon Crawler Carl by Matt Dinniman** — Technically an inversion of the sub-genre (Carl is the adventurer, not the core), but Dinniman's world is so thoroughly built around dungeon logic, floor design, and systemic escalation that it's essential reading for anyone who loves the genre's DNA. See our [books like Dungeon Crawler Carl](/lists/books-like-dungeon-crawler-carl/) list for more in this vein.
 
 ## Where to Go From Here
 

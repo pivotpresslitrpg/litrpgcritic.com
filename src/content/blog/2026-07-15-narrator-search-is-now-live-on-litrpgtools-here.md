@@ -4,7 +4,7 @@ description: "LitRPGTools.com just added narrator search to its book database, l
 date: "2026-07-15"
 type: "platform_feature"
 author: "The LitRPG Critic"
-tags: ["litrpg", "audiobooks", "platform features", "litrpgtools", "narrator search", "progression fantasy"]
+tags: ["LitRPG", "audiobooks", "platform features", "litrpgtools", "narrator search", "progression fantasy"]
 featured: false
 ---
 

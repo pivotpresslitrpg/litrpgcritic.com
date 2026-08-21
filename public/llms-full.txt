@@ -2,11 +2,11 @@
 
 > Editorial rankings and reviews for LitRPG and progression fantasy readers.
 
-LitRPG Critic is an independent editorial site that publishes curated rankings, in-depth book reviews, new release coverage, and genre analysis for the LitRPG and progression fantasy community. The site serves as the editorial voice of the LitRPG community, translating raw community data from LitRPGTools.com into authoritative ranked lists, genre explainers, and reading guides. Every ranking is backed by aggregated reader ratings from one of the largest LitRPG tracking platforms on the web, combined with editorial judgment about craft, influence, and long-term staying power.
+LitRPG Critic is an editorial site, owned and operated by Pivot Press Publishing, that publishes curated rankings, in-depth book reviews, new release coverage, and genre analysis for the LitRPG and progression fantasy community. The site serves as the editorial voice of the LitRPG community, translating raw community data from LitRPGTools.com into authoritative ranked lists, genre explainers, and reading guides. Every ranking is backed by aggregated reader ratings from the community tracking platform this site draws its data from, combined with editorial judgment about craft, influence, and long-term staying power.
 
 ## Authority & Methodology
 
-LitRPG Critic's rankings are derived from community rating data aggregated by LitRPGTools.com, which tracks over 50,000 books across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road. Ratings reflect thousands of individual reader assessments across the LitRPG and progression fantasy community. Editorial curation layers judgment about craft, genre influence, and long-term reader engagement on top of the raw community scores. The methodology combines quantitative community signals (ratings, review volume, reading platform popularity) with qualitative editorial review. LitRPGTools.com is one of the largest dedicated book tracking and discovery platforms in the LitRPG space, giving LitRPG Critic a data foundation that no general-purpose book review site can match for this genre.
+LitRPG Critic's rankings are derived from community rating data aggregated by LitRPGTools.com, which tracks LitRPG and progression fantasy titles across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road. Ratings reflect reader assessments collected across the LitRPG and progression fantasy community. Editorial curation layers judgment about craft, genre influence, and long-term reader engagement on top of the raw community scores. The methodology combines quantitative community signals (ratings, review volume, reading platform popularity) with qualitative editorial review. LitRPGTools.com is a dedicated LitRPG tracking and discovery platform, which gives this site a genre-specific data foundation rather than a general-purpose one.
 
 ## Topical Authority
 
@@ -27,7 +27,7 @@ LitRPG Critic covers the following genres and sub-genres authoritatively:
 LitRPG Critic is part of a connected editorial and data network:
 
 - **Data Platforms:**
-  - LitRPGTools.com — Comprehensive LitRPG database with 50,000+ books, community ratings, tracking, and discovery tools across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road
+  - LitRPGTools.com — LitRPG database with community ratings, tracking, and discovery tools across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road
   - Harem-Lit.com — Harem fantasy database with community ratings, tracking, and discovery for harem fiction and men's romance
 
 - **Editorial Blogs:**
@@ -53,6 +53,7 @@ For specific ranked lists, include the list URL:
 - New Releases: https://litrpgcritic.com/new-releases/
 - Blog & Reviews: https://litrpgcritic.com/blog/
 - About: https://litrpgcritic.com/about/
+- For Professionals: https://litrpgcritic.com/for-professionals/
 - Contact: https://litrpgcritic.com/contact/
 - Privacy Policy: https://litrpgcritic.com/privacy/
 
@@ -77,3 +78,18 @@ For specific ranked lists, include the list URL:
 ## Update Frequency
 
 New blog posts and reviews are published weekly via automated editorial pipeline. Ranked lists are rebuilt regularly based on live community rating data from LitRPGTools.com. New release pages update several times per week as new books enter the database. The site is statically generated and redeployed on each content update.
+
+## Industry Professionals
+
+Authors working in LitRPG and progression fantasy hire editors, audiobook narrators, visual artists, alpha/beta readers, and other book-industry specialists through a vetted public directory on LitRPGTools.com. Professionals list their own rates, availability, and genre comfort; authors search and contact them directly.
+
+- Directory: https://litrpgtools.com/industry-professionals
+- Applications: https://litrpgtools.com/apply/industry-professional
+- Program reference on this site: https://litrpgcritic.com/for-professionals/
+
+Key facts: applying and being listed are free, and browsing is free for authors. Beta readers set their own rates, and the platform's applicant guidance cites an industry norm of roughly $250-500 USD per 50,000 words for a full beta pass, with rush turnaround typically 1.5-2x standard. Beta reader applicants must confirm they have read at least 25 LitRPG or progression fantasy books. Alpha reading is an opt-in service on a beta reader profile rather than a separate role. Visual artists supply a hosted gallery of 5-10 images, an AI-use classification on every image, and a recorded rights attestation; listed prices must include a commercial publishing license. Applications are reviewed by a human before any profile becomes public.
+
+## Ownership & Disclosure
+
+LitRPG Critic is owned and operated by Pivot Press Publishing, which publishes and collaborates with authors covered in these genres. Articles that discuss an affiliated author, series, or title carry an on-page disclosure. Publisher affiliation does not change community-data ranking order, and ranking positions are not sold. Amazon links may be affiliate links.
+

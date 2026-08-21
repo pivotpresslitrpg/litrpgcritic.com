@@ -4,7 +4,7 @@ description: "System Apocalypse is one of LitRPG's most electrifying sub-genres.
 date: "2026-04-15"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["System Apocalypse", "LitRPG", "progression fantasy", "GameLit", "post-apocalyptic", "subgenre guide"]
+tags: ["system apocalypse", "LitRPG", "progression fantasy", "GameLit", "post-apocalyptic", "subgenre guide"]
 featured: false
 ---
 

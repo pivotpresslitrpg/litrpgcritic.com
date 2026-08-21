@@ -1,0 +1,116 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FaqBlock from '../components/FaqBlock.astro';
+import { organizationSchema, SELF_URL } from '../lib/network';
+import { pivotPressUrl } from '../lib/publisher';
+
+const title = 'Editorial Standards';
+const description =
+  'Who produces LitRPG Critic, how rankings are built, how affiliation is disclosed, and how to request a correction.';
+
+const faq = [
+  {
+    q: 'Who writes LitRPG Critic?',
+    a: 'LitRPG Critic is produced by the editorial team at Pivot Press Publishing, working from community rating data supplied by LitRPGTools.com. Articles are published under the site masthead rather than individual bylines, and every article is reviewed by a person before it goes live.',
+  },
+  {
+    q: 'How are the ranked lists ordered?',
+    a: 'Data-ranked pages preserve the community rating order supplied by LitRPGTools.com. Publisher affiliation does not reorder them, and ranking positions are not for sale. Editorial pages are ordered by stated reasoning instead, and say so on the page.',
+  },
+  {
+    q: 'Does Pivot Press Publishing ownership affect coverage?',
+    a: 'Pivot Press Publishing owns this site and publishes or collaborates with some authors covered here. Any article discussing an affiliated author, series, or title carries an on-page disclosure. Affiliation never changes community-data ranking order.',
+  },
+  {
+    q: 'How do I request a correction?',
+    a: 'Use the contact page. Corrections to facts, dates, series order, and attribution are made directly on the article, and substantively revised pages carry an Updated date so you can see when a page last changed.',
+  },
+  {
+    q: 'Are the Amazon links affiliate links?',
+    a: 'Yes. Purchases made through them may earn a commission at no extra cost to you. Affiliate revenue does not change community-data ranking order or which books get covered.',
+  },
+];
+
+const orgSchema = organizationSchema({
+  name: 'LitRPG Critic',
+  description: 'Editorial coverage of LitRPG and progression fantasy, published by Pivot Press Publishing.',
+  knowsAbout: ['LitRPG', 'Progression Fantasy', 'Dungeon Core', 'GameLit', 'System Apocalypse', 'Cultivation Fiction'],
+});
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map(({ q, a }) => ({
+    '@type': 'Question',
+    name: q,
+    acceptedAnswer: { '@type': 'Answer', text: a },
+  })),
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${SELF_URL}/` },
+    { '@type': 'ListItem', position: 2, name: 'Editorial standards', item: `${SELF_URL}/editorial/` },
+  ],
+};
+---
+
+<BaseLayout title={title} description={description} schema={[orgSchema, faqSchema, breadcrumbSchema]}>
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Editorial standards' }]} />
+
+    <p class="mt-5 text-sm font-semibold uppercase tracking-[0.14em] text-[var(--color-brand)]">Editorial standards</p>
+    <h1 class="mt-2 text-3xl sm:text-4xl font-bold leading-tight text-white">Editorial standards</h1>
+
+    <div class="prose mt-6">
+      <p>LitRPG Critic publishes two kinds of page, and the distinction matters more than any masthead. Data-ranked lists preserve community rating order from the source platform without publisher weighting. Reviews, explainers, and spotlights are editorial surfaces where judgment is added openly.</p>
+
+      <h2>Who produces this site</h2>
+      <p>
+        LitRPG Critic is produced by the editorial team at
+        <a href={pivotPressUrl('editorial-standards')} target="_blank" rel="noopener">Pivot Press Publishing</a>,
+        working from community rating data supplied by LitRPGTools.com. Articles are published under the
+        site masthead rather than individual bylines. Every article is reviewed by a person before
+        publication, including drafts prepared with automated assistance, which are never published
+        unreviewed.
+      </p>
+
+      <h2>How rankings are built</h2>
+      <p>
+        Ranked pages preserve the community rating order supplied by LitRPGTools.com, which aggregates
+        reader ratings across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road. Publisher
+        affiliation does not reorder them. Ranking positions are not sold, and no third party pays
+        for placement. The ranked pages live at <a href="/lists/">ranked lists</a>.
+      </p>
+
+      <h2>What this site will not claim</h2>
+      <p>
+        Numbers get published only with the population and the method behind them. Where the evidence
+        is not there, a page makes a qualitative editorial observation or leaves the claim out
+        entirely rather than reaching for an unverifiable superlative. That applies to catalogue
+        sizes, engagement rates, and sales figures alike.
+      </p>
+
+      <h2>Affiliation and money</h2>
+      <p>
+        Pivot Press Publishing owns this site and publishes or collaborates with some of the authors covered
+        here. Articles discussing an affiliated author, series, or title carry a disclosure on the
+        page itself. Amazon and Audible links may be affiliate links, which may earn a commission at
+        no additional cost to you. Neither relationship changes community-data ranking order.
+      </p>
+
+      <h2>Corrections and updates</h2>
+      <p>
+        Factual corrections are made on the article itself. Substantively revised pages carry a
+        visible Updated date alongside the original publication date, so a refreshed page never
+        quietly presents old work as new. Send corrections through the
+        <a href="/contact/">contact page</a>.
+      </p>
+    </div>
+
+    <FaqBlock items={faq} heading="Questions about how this site works" />
+  </div>
+</BaseLayout>

@@ -4,7 +4,7 @@ description: "Dark LitRPG explained: when the system is cruel, death is permanen
 date: "2026-04-02"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["dark LitRPG", "grimdark", "Dungeon Crawler Carl", "Matt Dinniman", "Tower of Damnation", "Cassius Lange", "He Who Fights with Monsters", "Shirtaloon", "death game", "horror LitRPG", "dark fantasy", "permanent death"]
+tags: ["dark LitRPG", "grimdark", "Dungeon Crawler Carl", "Matt Dinniman", "Tower of Damnation", "Cassius Lange", "He Who Fights With Monsters", "Shirtaloon", "death game", "horror LitRPG", "dark fantasy", "permanent death"]
 featured: false
 faq:
   - q: "Is dark LitRPG just LitRPG with more violence?"

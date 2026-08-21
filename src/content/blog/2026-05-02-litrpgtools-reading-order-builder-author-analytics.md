@@ -4,7 +4,7 @@ description: "Two LitRPGTools.com features shipped that change how readers find 
 date: "2026-05-02"
 type: "platform_feature"
 author: "The LitRPG Critic"
-tags: ["LitRPGTools.com", "platform features", "reading order", "author tools", "catalog analytics", "LitRPG", "progression fantasy"]
+tags: ["litrpgtools.com", "platform features", "reading order", "author tools", "catalog analytics", "LitRPG", "progression fantasy"]
 featured: false
 ---
 

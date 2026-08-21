@@ -4,7 +4,7 @@ description: "Loved Will Wight's Cradle series? Here are the best progression fa
 date: "2026-05-15"
 type: "books_like"
 author: "The LitRPG Critic"
-tags: [progression fantasy, cultivation fiction, litrpg, cradle, will wight, books like cradle, xianxia, martial arts fantasy]
+tags: []
 featured: false
 ---
 

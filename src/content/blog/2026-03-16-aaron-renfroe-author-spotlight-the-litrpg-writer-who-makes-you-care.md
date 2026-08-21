@@ -4,7 +4,7 @@ description: "An in-depth look at Aaron Renfroe's LitRPG catalog — from the wh
 date: "2026-03-16"
 type: "author_spotlight"
 author: "The LitRPG Critic"
-tags: ["Aaron Renfroe", "Father of Constructs", "Spite the Dark", "The Resonance Cycle", "Apocalypse Breaker", "LitRPG", "crafting LitRPG", "progression fantasy"]
+tags: ["Aaron Renfroe", "Father of Constructs", "Spite the Dark", "The Resonance Cycle", "Apocalypse BREAKER", "LitRPG", "crafting LitRPG", "progression fantasy"]
 featured: false
 ---
 

@@ -3,6 +3,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import BookCard from '../components/BookCard.astro';
 import PostCard from '../components/PostCard.astro';
 import FeaturedAuthors from '../components/FeaturedAuthors.astro';
+import ProfessionalBand from '../components/ProfessionalBand.astro';
+import { organizationSchema } from '../lib/network';
 import { getBooks, getRecentBooks, platformUrl, PLATFORM_NAME } from '../lib/api';
 import { getCollection } from 'astro:content';
 
@@ -27,16 +29,11 @@ const websiteSchema = {
   "publisher": { "@type": "Organization", "name": "Pivot Press Publishing", "url": "https://pivotpresspublishing.com" }
 };
 
-const orgSchema = {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "LitRPG Critic",
-  "url": "https://litrpgcritic.com",
-  "description": "Editorial rankings and reviews for LitRPG and progression fantasy readers.",
-  "parentOrganization": { "@type": "Organization", "name": "Pivot Press Publishing", "url": "https://pivotpresspublishing.com" },
-  "sameAs": ["https://litrpgtools.com"],
-  "knowsAbout": ["LitRPG", "Progression Fantasy", "Dungeon Core", "GameLit", "System Apocalypse", "Cultivation Fiction"]
-};
+const orgSchema = organizationSchema({
+  name: "LitRPG Critic",
+  description: "Editorial rankings and reviews for LitRPG and progression fantasy readers.",
+  knowsAbout: ["LitRPG", "Progression Fantasy", "Dungeon Core", "GameLit", "System Apocalypse", "Cultivation Fiction"],
+});
 ---
 
 <BaseLayout
@@ -154,4 +151,6 @@ const orgSchema = {
 
     </aside>
   </div>
+
+  <ProfessionalBand />
 </BaseLayout>

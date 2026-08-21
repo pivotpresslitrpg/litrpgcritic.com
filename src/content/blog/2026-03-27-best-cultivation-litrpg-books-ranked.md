@@ -4,7 +4,7 @@ description: "Cultivation fiction and LitRPG overlap more than most readers real
 date: "2026-03-27"
 type: "ranked_list"
 author: "The LitRPG Critic"
-tags: ["cultivation", "progression fantasy", "LitRPG", "best of", "ranked", "xianxia", "wuxia", "Cradle", "2026"]
+tags: ["cultivation", "progression fantasy", "LitRPG", "best of", "ranked", "xianxia", "Wuxia", "Cradle", "2026"]
 featured: false
 ---
 

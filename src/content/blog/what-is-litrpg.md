@@ -4,7 +4,7 @@ description: "What is LitRPG? A complete guide to the LitRPG genre — its origi
 date: "2026-05-21"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["litrpg", "guide", "genre-explainer"]
+tags: ["LitRPG", "guide", "genre-explainer"]
 featured: true
 faq:
   - q: "What does LitRPG stand for?"

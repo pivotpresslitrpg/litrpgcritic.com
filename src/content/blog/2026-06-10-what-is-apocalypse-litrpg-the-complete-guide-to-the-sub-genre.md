@@ -4,7 +4,7 @@ description: "Apocalypse LitRPG blends system-based progression with end-of-worl
 date: "2026-06-10"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["Apocalypse LitRPG", "System Apocalypse", "LitRPG", "Progression Fantasy", "Post-Apocalyptic Fantasy", "GameLit"]
+tags: ["apocalypse LitRPG", "system apocalypse", "LitRPG", "progression fantasy", "Post-Apocalyptic Fantasy", "GameLit"]
 featured: false
 ---
 

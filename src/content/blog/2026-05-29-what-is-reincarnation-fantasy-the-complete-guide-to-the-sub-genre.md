@@ -4,7 +4,7 @@ description: "Reincarnation fantasy is one of the fastest-growing sub-genres in 
 date: "2026-05-29"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["Reincarnation Fantasy", "Isekai", "LitRPG", "Progression Fantasy", "Second Chance Fantasy", "Cultivation Fiction", "GameLit"]
+tags: ["Reincarnation Fantasy", "isekai", "LitRPG", "progression fantasy", "Second Chance Fantasy", "cultivation fiction", "GameLit"]
 featured: false
 ---
 

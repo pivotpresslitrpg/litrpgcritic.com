@@ -4,7 +4,7 @@ description: "LitRPGTools.com has launched a table-backed narrator registry with
 date: "2026-04-25"
 type: "platform_feature"
 author: "The LitRPG Critic"
-tags: ["LitRPGTools.com", "audiobooks", "narrator search", "platform features", "LitRPG", "progression fantasy", "audiobook recommendations"]
+tags: ["litrpgtools.com", "audiobooks", "narrator search", "platform features", "LitRPG", "progression fantasy", "audiobook recommendations"]
 featured: false
 ---
 

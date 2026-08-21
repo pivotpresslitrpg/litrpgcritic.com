@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { getCollection } from 'astro:content';
+import { buildTagIndex } from '../../lib/tags';
+import { SELF_URL } from '../../lib/network';
+
+const today = new Date().toISOString().slice(0, 10);
+const posts = (await getCollection('blog')).filter((p) => p.data.date <= today);
+const tags = buildTagIndex(posts);
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${SELF_URL}/` },
+    { '@type': 'ListItem', position: 2, name: 'Topics', item: `${SELF_URL}/tags/` },
+  ],
+};
+---
+
+<BaseLayout
+  title="All Topics"
+  description="Browse every topic covered on LitRPG Critic — subgenres, authors, and recurring themes, each with its own collected archive."
+  schema={[breadcrumbSchema]}
+>
+  <div class="max-w-5xl mx-auto px-4 py-10">
+    <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Topics' }]} />
+    <h1 class="mt-5 text-3xl font-bold text-white">All topics</h1>
+    <p class="mt-3 max-w-2xl text-[#999]">Every recurring subject on this site, from subgenres to individual authors. Each hub collects the reviews, explainers, and roundups filed under that topic.</p>
+
+    <ul class="mt-8 flex flex-wrap gap-2">
+      {tags.map((tag) => (
+        <li>
+          <a
+            href={`/tags/${tag.slug}/`}
+            class="inline-flex items-baseline gap-2 rounded border border-[var(--color-border)] bg-[var(--color-surface-2)] px-3 py-1.5 text-sm text-[#ccc] transition-colors hover:border-[var(--color-brand)] hover:text-white"
+          >
+            <span>{tag.name}</span>
+            <span class="text-xs text-[var(--color-text-muted)]">{tag.count}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>

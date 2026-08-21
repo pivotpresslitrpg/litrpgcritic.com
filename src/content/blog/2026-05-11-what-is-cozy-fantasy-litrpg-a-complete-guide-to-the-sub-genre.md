@@ -4,7 +4,7 @@ description: "Cozy Fantasy LitRPG blends low-stakes progression systems with com
 date: "2026-05-11"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["Cozy Fantasy LitRPG", "Cozy GameLit", "LitRPG", "Progression Fantasy", "Genre Guide", "Beginner's Guide"]
+tags: ["Cozy Fantasy LitRPG", "Cozy GameLit", "LitRPG", "progression fantasy", "Genre Guide", "beginner's guide"]
 featured: false
 ---
 

@@ -4,7 +4,7 @@ description: "A definitive guide to cultivation fiction — the power fantasy su
 date: "2026-04-22"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["Cultivation Fiction", "Xianxia", "Wuxia", "Progression Fantasy", "LitRPG", "Power Fantasy", "Genre Guide"]
+tags: ["cultivation fiction", "xianxia", "Wuxia", "progression fantasy", "LitRPG", "power fantasy", "Genre Guide"]
 featured: false
 ---
 

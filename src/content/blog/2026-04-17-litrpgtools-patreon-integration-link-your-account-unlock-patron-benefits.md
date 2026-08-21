@@ -4,7 +4,7 @@ description: "LitRPGTools.com has added a Patreon integration that lets readers 
 date: "2026-04-17"
 type: "platform_spotlight"
 author: "The LitRPG Critic"
-tags: ["LitRPGTools", "Patreon", "platform features", "patron benefits", "author support", "LitRPG community", "2026"]
+tags: ["litrpgtools", "Patreon", "platform features", "patron benefits", "author support", "LitRPG community", "2026"]
 featured: true
 faq:
   - q: "How do I link my Patreon to LitRPGTools.com?"

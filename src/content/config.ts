@@ -6,6 +6,9 @@ const blog = defineCollection({
     title: z.string(),
     description: z.string(),
     date: z.string(),
+    // Optional ISO date for a substantive refresh. Drives schema dateModified
+    // and the visible "Updated" line; omit for posts that have not changed.
+    updated: z.string().optional(),
     type: z.string(),
     author: z.string().default('The LitRPG Critic'),
     tags: z.array(z.string()).default([]),

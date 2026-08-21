@@ -4,7 +4,7 @@ description: "Tower climbing LitRPG is one of the genre's most beloved formats. 
 date: "2026-05-22"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["Tower Climbing", "LitRPG", "Progression Fantasy", "GameLit", "Sub-genre Guide"]
+tags: ["Tower Climbing", "LitRPG", "progression fantasy", "GameLit", "Sub-Genre Guide"]
 featured: false
 ---
 

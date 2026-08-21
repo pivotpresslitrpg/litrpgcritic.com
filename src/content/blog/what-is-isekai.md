@@ -4,7 +4,7 @@ description: "Isekai explained: transported to another world with modern knowled
 date: "2026-04-04"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["isekai", "portal fantasy", "transported to another world", "Apocalypse BREAKER", "Aaron Renfroe", "He Who Fights with Monsters", "Shirtaloon", "System Change", "Sean Oswall", "reincarnation", "summoned hero", "fish out of water"]
+tags: ["isekai", "portal fantasy", "transported to another world", "Apocalypse BREAKER", "Aaron Renfroe", "He Who Fights With Monsters", "Shirtaloon", "System Change", "Sean Oswall", "reincarnation", "summoned hero", "fish out of water"]
 featured: false
 faq:
   - q: "Is isekai the same as portal fantasy?"

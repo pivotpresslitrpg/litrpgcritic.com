@@ -4,7 +4,7 @@ description: "Our editorial roundup of notable new LitRPG, dungeon core, and Gam
 date: "2026-07-03"
 type: "new_releases"
 author: "The LitRPG Critic"
-tags: ["new releases", "litrpg", "dungeon core", "progression fantasy", "gamelit", "cultivation", "roundup"]
+tags: ["new releases", "LitRPG", "dungeon core", "progression fantasy", "GameLit", "cultivation", "roundup"]
 featured: false
 ---
 

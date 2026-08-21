@@ -4,7 +4,7 @@ description: "Five LitRPG and progression fantasy releases worth your attention 
 date: "2026-05-27"
 type: "new_releases"
 author: "The LitRPG Critic"
-tags: ["litrpg", "progression fantasy", "new releases", "cultivation", "crafting litrpg", "cozy litrpg", "dungeon core"]
+tags: ["LitRPG", "progression fantasy", "new releases", "cultivation", "crafting LitRPG", "cozy LitRPG", "dungeon core"]
 featured: false
 ---
 

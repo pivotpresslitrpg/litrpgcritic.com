@@ -4,7 +4,7 @@ description: "Loved Jake Holloway's solo hunter journey through a system apocaly
 date: "2026-06-03"
 type: "books_like"
 author: "The LitRPG Critic"
-tags: ["litrpg", "system apocalypse", "progression fantasy", "recommendations", "the primal hunter", "books like"]
+tags: ["LitRPG", "system apocalypse", "progression fantasy", "recommendations", "the primal hunter", "books like"]
 featured: false
 ---
 

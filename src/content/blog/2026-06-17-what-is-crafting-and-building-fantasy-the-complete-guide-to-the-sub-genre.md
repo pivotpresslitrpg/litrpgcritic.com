@@ -4,7 +4,7 @@ description: "Crafting and building fantasy is one of LitRPG's most beloved sub-
 date: "2026-06-17"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["Crafting and Building Fantasy", "LitRPG", "Progression Fantasy", "Base Building", "Crafting LitRPG", "GameLit", "Genre Guide"]
+tags: ["Crafting and Building Fantasy", "LitRPG", "progression fantasy", "base building", "crafting LitRPG", "GameLit", "Genre Guide"]
 featured: false
 ---
 

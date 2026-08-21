@@ -16,7 +16,20 @@ export default defineConfig({
         // Try to extract date from blog URL pattern (e.g. /blog/2025-01-15-some-title/)
         const dateMatch = item.url.match(/\/blog\/(\d{4}-\d{2}-\d{2})-/);
 
-        if (item.url === 'https://litrpgcritic.com/') {
+        if (item.url.includes('/for-professionals')) {
+          // Evergreen hub: the durable ranking target for professional queries.
+          item.priority = 0.95;
+          item.changefreq = 'monthly';
+          item.lastmod = buildDate;
+        } else if (item.url.includes('/tags/')) {
+          item.priority = 0.6;
+          item.changefreq = 'weekly';
+          item.lastmod = buildDate;
+        } else if (item.url.includes('/editorial')) {
+          item.priority = 0.5;
+          item.changefreq = 'yearly';
+          item.lastmod = buildDate;
+        } else if (item.url === 'https://litrpgcritic.com/') {
           item.priority = 1.0;
           item.changefreq = 'daily';
           item.lastmod = buildDate;

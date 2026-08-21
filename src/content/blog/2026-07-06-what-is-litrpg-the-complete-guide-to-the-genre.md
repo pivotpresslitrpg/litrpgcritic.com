@@ -4,7 +4,7 @@ description: "LitRPG is one of the fastest-growing fiction genres in the world. 
 date: "2026-07-06"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["LitRPG", "progression fantasy", "GameLit", "genre guide", "beginner guide", "fantasy"]
+tags: ["LitRPG", "progression fantasy", "GameLit", "Genre Guide", "beginner guide", "fantasy"]
 featured: false
 ---
 

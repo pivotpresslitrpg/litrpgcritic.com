@@ -4,7 +4,7 @@ description: "Progression fantasy is one of the fastest-growing sub-genres in sp
 date: "2026-07-17"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["Progression Fantasy", "LitRPG", "GameLit", "Genre Guide", "Fantasy", "Power Fantasy"]
+tags: ["progression fantasy", "LitRPG", "GameLit", "Genre Guide", "fantasy", "power fantasy"]
 featured: false
 ---
 

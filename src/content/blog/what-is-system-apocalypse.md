@@ -4,7 +4,7 @@ description: "System apocalypse LitRPG explained: Earth gets RPG mechanics overn
 date: "2026-03-21"
 type: "genre_explainer"
 author: "The LitRPG Critic"
-tags: ["system apocalypse", "apocalypse LitRPG", "System Apocalypse", "Tao Wong", "System Change", "Sean Oswall", "Apocalypse BREAKER", "Aaron Renfroe", "Irrelevant Jack", "Prax Venter", "post-apocalyptic fantasy", "survival LitRPG"]
+tags: ["system apocalypse", "apocalypse LitRPG", "Tao Wong", "System Change", "Sean Oswall", "Apocalypse BREAKER", "Aaron Renfroe", "Irrelevant Jack", "Prax Venter", "Post-Apocalyptic Fantasy", "survival LitRPG"]
 featured: false
 faq:
   - q: "What's the difference between system apocalypse and regular LitRPG?"
