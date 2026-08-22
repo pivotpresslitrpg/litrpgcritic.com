@@ -11,6 +11,8 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
+      // /search/ is a noindex utility page; keep it out of the sitemap too.
+      filter: (page) => !page.includes('/search/'),
       serialize(item) {
         const buildDate = new Date().toISOString();
         // Try to extract date from blog URL pattern (e.g. /blog/2025-01-15-some-title/)
