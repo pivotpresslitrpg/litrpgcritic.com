@@ -230,6 +230,61 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
     });
   </script>
 
+  <!-- AI-assistant referral segmentation.
+       Answer engines send traffic that ordinary referrer reporting buries: some
+       strip the referrer entirely and tag the URL instead (ChatGPT appends
+       utm_source=chatgpt.com), others pass a referrer no report groups usefully.
+       This fires one Plausible event naming the assistant so we can see which
+       pages get cited, not just which ones rank. Sends a source label and the
+       path only. -->
+  <script is:inline>
+    (function () {
+      var SOURCES = [
+        ['chatgpt.com', 'ChatGPT'],
+        ['chat.openai.com', 'ChatGPT'],
+        ['openai.com', 'ChatGPT'],
+        ['perplexity.ai', 'Perplexity'],
+        ['gemini.google.com', 'Gemini'],
+        ['bard.google.com', 'Gemini'],
+        ['copilot.microsoft.com', 'Copilot'],
+        ['claude.ai', 'Claude'],
+        ['poe.com', 'Poe'],
+        ['you.com', 'You.com'],
+        ['phind.com', 'Phind'],
+        ['grok.com', 'Grok'],
+        ['mistral.ai', 'Mistral'],
+        ['deepseek.com', 'DeepSeek']
+      ];
+
+      function label(host) {
+        if (!host) return '';
+        for (var i = 0; i < SOURCES.length; i++) {
+          var h = SOURCES[i][0];
+          // Exact host, or a real subdomain of it. Compare the suffix directly:
+          // an indexOf-vs-arithmetic check silently matches whenever the two
+          // hostnames are the same length (google.com would read as openai.com).
+          if (host === h || host.slice(-(h.length + 1)) === '.' + h) {
+            return SOURCES[i][1];
+          }
+        }
+        return '';
+      }
+
+      var source = '';
+      try {
+        var utm = (new URLSearchParams(location.search).get('utm_source') || '').toLowerCase();
+        if (utm) source = label(utm.replace(/^www\./, ''));
+        if (!source && document.referrer) {
+          source = label(new URL(document.referrer).hostname.toLowerCase().replace(/^www\./, ''));
+        }
+      } catch (_) { return; }
+
+      if (source && window.plausible) {
+        window.plausible('AI Referral', { props: { source: source, page: location.pathname } });
+      }
+    })();
+  </script>
+
   <!-- Outbound conversion tracking for the reader platform, publisher, and retailers. -->
   <script is:inline>
     document.addEventListener('click', function (e) {

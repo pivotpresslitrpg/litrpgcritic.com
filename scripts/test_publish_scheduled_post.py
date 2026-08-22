@@ -46,7 +46,12 @@ class ScheduledPostTests(unittest.TestCase):
 
     def test_publish_due_writes_content_and_advances_state(self):
         schedule = copy.deepcopy(load_schedule())
-        first = schedule["posts"][0]
+        # Pick the entry publish_due would actually choose — the earliest one still
+        # marked "scheduled". Indexing posts[0] assumed the manifest always led with
+        # an unpublished entry, so this test broke as soon as the first post shipped.
+        first = select_due_post(schedule, "9999-12-31")
+        if first is None:
+            self.skipTest("no scheduled posts remain in the manifest")
         with tempfile.TemporaryDirectory() as temp_dir:
             temp_root = Path(temp_dir)
             temp_schedule = temp_root / "scheduled_posts.json"
@@ -67,7 +72,13 @@ class ScheduledPostTests(unittest.TestCase):
             destination = temp_content / f"{first['publish_date']}-{first['slug']}.md"
             self.assertTrue(destination.exists())
             persisted = json.loads(temp_schedule.read_text(encoding="utf-8"))
-            self.assertEqual(persisted["posts"][0]["status"], "published")
+            # Assert on the entry that was actually published, not posts[0] — which
+            # is already "published" in the live manifest and made this check vacuous.
+            persisted_entry = next(
+                e for e in persisted["posts"] if e["slug"] == first["slug"]
+            )
+            self.assertEqual(persisted_entry["status"], "published")
+            self.assertEqual(persisted_entry["published_at"], first["publish_date"])
 
 
 if __name__ == "__main__":
