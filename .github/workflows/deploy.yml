@@ -52,8 +52,17 @@ jobs:
 
       - name: Verify newest article on the custom domain
         run: |
+          TODAY=$(date -u +%F)
+          # Posts are drip-published: future-dated files exist in the repo but are
+          # deliberately not built yet, so only date prefixes <= today can be verified.
+          newest_published() {
+            find src/content/blog -maxdepth 1 -type f -name '20*.md' | sort | awk -v t="$TODAY" -F/ '{ if (substr($NF,1,10) <= t) last=$0 } END { print last }'
+          }
           CHANGED_FILE=$(git diff --diff-filter=AM --name-only HEAD^ HEAD -- 'src/content/blog/20*.md' | head -1)
-          LATEST_FILE=${CHANGED_FILE:-$(find src/content/blog -maxdepth 1 -type f -name '20*.md' | sort | tail -1)}
+          if [[ -n "$CHANGED_FILE" && "$(basename "$CHANGED_FILE" | cut -c1-10)" > "$TODAY" ]]; then
+            CHANGED_FILE=""
+          fi
+          LATEST_FILE=${CHANGED_FILE:-$(newest_published)}
           test -n "$LATEST_FILE"
           SLUG=$(basename "$LATEST_FILE" .md)
           LATEST_ARTICLE_URL="https://litrpgcritic.com/blog/${SLUG}/"
