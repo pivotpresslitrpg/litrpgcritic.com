@@ -16,7 +16,8 @@
       "post_type": "critical_opinion",
       "draft": "scheduled_posts/why-legitimate-litrpg-breakouts-can-look-suspicious.md",
       "manifest": "research_sources/litrpg-countermodels-2026-08-10.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-08-24"
     }
   ]
 }
