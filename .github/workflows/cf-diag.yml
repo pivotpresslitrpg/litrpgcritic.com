@@ -1,0 +1,34 @@
+name: Cloudflare diagnostic (read-only)
+on:
+  workflow_dispatch:
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: List zones visible to the Pages token and the API zones' bot/WAF settings
+        env:
+          CF: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          api() { curl -s -H "Authorization: Bearer $CF" "https://api.cloudflare.com/client/v4$1"; }
+          echo "== token =="; api /user/tokens/verify | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('success'), d.get('result',{}).get('status'))"
+          echo "== zones =="; api "/zones?per_page=50" | python3 -c "
+          import sys,json; d=json.load(sys.stdin)
+          for z in d.get('result',[]): print(z['id'], z['name'], z.get('plan',{}).get('name'))
+          print('errors:', d.get('errors'))"
+          for name in litrpgtools.com harem-lit.com; do
+            zid=$(api "/zones?name=$name" | python3 -c "import sys,json; r=json.load(sys.stdin).get('result',[]); print(r[0]['id'] if r else '')")
+            echo "== $name zone: ${zid:-NOT VISIBLE} =="; [ -z "$zid" ] && continue
+            echo "-- bot fight / security level / super bot --"
+            api "/zones/$zid/bot_management" | head -c 600; echo
+            api "/zones/$zid/settings/security_level" | python3 -c "import sys,json; print(json.load(sys.stdin).get('result',{}).get('value'))"
+            echo "-- WAF custom rules (http_request_firewall_custom) --"
+            api "/zones/$zid/rulesets/phases/http_request_firewall_custom/entrypoint" | python3 -c "
+          import sys,json; d=json.load(sys.stdin); r=d.get('result') or {}
+          for x in r.get('rules',[]): print(' ', x.get('action'), '|', x.get('description'), '|', x.get('expression')[:200])
+          print(' errors:', d.get('errors'))"
+            echo "-- rate limit rules --"
+            api "/zones/$zid/rulesets/phases/http_ratelimit/entrypoint" | python3 -c "
+          import sys,json; d=json.load(sys.stdin); r=d.get('result') or {}
+          for x in r.get('rules',[]): print(' ', x.get('action'), '|', x.get('description'), '|', (x.get('expression') or '')[:200])
+          print(' errors:', d.get('errors'))"
+          done

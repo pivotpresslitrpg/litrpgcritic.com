@@ -35,12 +35,14 @@ jobs:
           # Retry transient failures, and on a hard refusal print the JSON body: the
           # platform's key check and its bot defenses both answer 403, and only the
           # body says which one it was (Sept 2026: a rotated key looked like a block).
-          body=$(mktemp)
-          status=$(curl -s --retry 3 --retry-delay 5 --retry-all-errors -o "$body" -w '%{http_code}' -H "X-Blog-Feed-Key: $BLOG_FEED_API_KEY" 'https://api.litrpgtools.com/api/blog-feed/books?limit=2&sort=top_rated')
+          body=$(mktemp); hdrs=$(mktemp)
+          status=$(curl -s --retry 3 --retry-delay 5 --retry-all-errors -D "$hdrs" -o "$body" -w '%{http_code}' -H "X-Blog-Feed-Key: $BLOG_FEED_API_KEY" 'https://api.litrpgtools.com/api/blog-feed/books?limit=2&sort=top_rated')
           echo "feed status: $status"
           if [ "$status" != "200" ]; then
             echo "Blog feed unreachable from runner (status $status) — failing instead of deploying an empty site."
             echo "response body (first 300 bytes): $(head -c 300 "$body")"
+            echo "html title: $(grep -o '<title>[^<]*' "$body" | head -1)"
+            echo "cloudflare verdict headers:"; grep -iE '^(server|cf-ray|cf-mitigated|cf-cache-status|content-type):' "$hdrs" || true
             exit 1
           fi
 
