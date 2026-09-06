@@ -25,7 +25,7 @@ The rules are where authors should slow down. Three of them will shape what you 
 
 ## What the Studio lets you publish
 
-The Bonus Content Studio, reached from the author dashboard, handles drafts, previews, media uploads, and publishing. Formats supported at launch are text, single image, gallery, page-ordered comic, audio, and mixed media, across content types that include bonus chapters, short stories, deleted scenes, behind-the-scenes posts, interviews, transcripts, essays, and announcements.
+The Bonus Content Studio, reached from the author dashboard, handles drafts, previews, media uploads, and publishing. Formats supported at launch are text, single image, gallery, page-ordered comic, audio, and mixed media, across content types that include bonus chapters, short stories, deleted scenes, behind-the-scenes posts, interviews, transcripts, essays, and announcements. Comics no longer have to arrive as finished pages: the new Author Studio composer builds them on the site, with panel templates, lettering, layers, and masks, and exports a full-resolution page.
 
 In plain terms, the material LitRPG authors already have lying around: the cut arc, the character sheet you built and never showed anyone, the world-map draft, the system document readers keep asking for, the narrator outtake reel. Downloadable files are supported, so a wallpaper or a printable stat card can be offered as a follower freebie.
 
