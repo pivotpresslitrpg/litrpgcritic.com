@@ -1,0 +1,41 @@
+{
+  "researched_at": "2026-09-15",
+  "book": "Ignite the Dark",
+  "series": "The Resonance Cycle",
+  "number": 7,
+  "evidence_scope": "Selected manuscript passages from preceding September 15 manuscript assessment; not a full-book or audiobook review.",
+  "source_artifacts": [
+    {
+      "label": "ignite-the-dark-EssenceSalienceEdit.docx",
+      "sha256": "cc3440a0a57fe17cd9253b2090203b082916310236b5973ea14c58cc953d1388"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.royalroad.com/fiction/62789/resonance-cycle",
+      "checked_at": "2026-09-15",
+      "scope": "early serial reader reviews, not reception evidence for later individual volumes"
+    }
+  ],
+  "allowed_numbers": [
+    "7",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus"
+  ],
+  "forbidden_phrases": [
+    "according to community data",
+    "verified purchase",
+    "I stayed up all night",
+    "independent review",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.royalroad.com/fiction/62789/resonance-cycle",
+    "https://litrpgtools.com"
+  ]
+}

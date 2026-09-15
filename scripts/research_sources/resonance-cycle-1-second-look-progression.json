@@ -1,0 +1,41 @@
+{
+  "researched_at": "2026-09-15",
+  "book": "Divine Invasion",
+  "series": "The Resonance Cycle",
+  "number": 1,
+  "evidence_scope": "Selected manuscript passages from preceding September 15 manuscript assessment; not a full-book or audiobook review.",
+  "source_artifacts": [
+    {
+      "label": "Book 1 Divine Invasion  PrintNeedsMap.docx",
+      "sha256": "014a7393650272f5f61398b79c1e966a1968011125cfde4915a5e3541c8d3b87"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.royalroad.com/fiction/62789/resonance-cycle",
+      "checked_at": "2026-09-15",
+      "scope": "early serial reader reviews, not reception evidence for later individual volumes"
+    }
+  ],
+  "allowed_numbers": [
+    "1",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus"
+  ],
+  "forbidden_phrases": [
+    "according to community data",
+    "verified purchase",
+    "I stayed up all night",
+    "independent review",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.royalroad.com/fiction/62789/resonance-cycle",
+    "https://litrpgtools.com"
+  ]
+}

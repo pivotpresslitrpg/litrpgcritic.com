@@ -1,0 +1,41 @@
+{
+  "researched_at": "2026-09-15",
+  "book": "Apocalypse BREAKER 4",
+  "series": "Apocalypse BREAKER",
+  "number": 4,
+  "evidence_scope": "Selected manuscript passages from preceding September 15 manuscript assessment; not a full-book or audiobook review.",
+  "source_artifacts": [
+    {
+      "label": "Apocalypse BREAKER 4 Draft1.docx",
+      "sha256": "20243b5c1cb0c5bb930e967616993255c425e026f4b568c386a5fbd4d40239c8"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.reddit.com/r/ProgressionFantasy/comments/1w5bf4w/apocalypse_breaker_4_325_hours_of_audio_is_out/",
+      "checked_at": "2026-09-15",
+      "scope": "reader replies beneath an author release post, used only as series context"
+    }
+  ],
+  "allowed_numbers": [
+    "4",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus"
+  ],
+  "forbidden_phrases": [
+    "according to community data",
+    "verified purchase",
+    "I stayed up all night",
+    "independent review",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.reddit.com/r/ProgressionFantasy/comments/1w5bf4w/apocalypse_breaker_4_325_hours_of_audio_is_out/",
+    "https://litrpgtools.com"
+  ]
+}

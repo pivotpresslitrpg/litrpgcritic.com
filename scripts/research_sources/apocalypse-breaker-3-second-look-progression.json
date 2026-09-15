@@ -1,0 +1,42 @@
+{
+  "researched_at": "2026-09-15",
+  "book": "Apocalypse BREAKER 3",
+  "series": "Apocalypse BREAKER",
+  "number": 3,
+  "evidence_scope": "Selected manuscript passages from preceding September 15 manuscript assessment; not a full-book or audiobook review.",
+  "source_artifacts": [
+    {
+      "label": "Apocalypse BREAKER 3 Besties Version V2.docx",
+      "sha256": "6d68a8442f67a7f77efaed48d6643a5a4bd573f32d78526105e142df68f94bc6"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.reddit.com/r/litrpg/comments/1qqh2gg/apocalypse_breaker_by_aaron_renfroe_and_sean/",
+      "checked_at": "2026-09-15",
+      "scope": "first-book reader feedback, used only as series context"
+    }
+  ],
+  "allowed_numbers": [
+    "3",
+    "4",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus"
+  ],
+  "forbidden_phrases": [
+    "according to community data",
+    "verified purchase",
+    "I stayed up all night",
+    "independent review",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.reddit.com/r/litrpg/comments/1qqh2gg/apocalypse_breaker_by_aaron_renfroe_and_sean/",
+    "https://litrpgtools.com"
+  ]
+}

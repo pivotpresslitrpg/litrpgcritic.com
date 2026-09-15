@@ -1,0 +1,41 @@
+{
+  "researched_at": "2026-09-15",
+  "book": "Past's Price",
+  "series": "The Resonance Cycle",
+  "number": 3,
+  "evidence_scope": "Selected manuscript passages from preceding September 15 manuscript assessment; not a full-book or audiobook review.",
+  "source_artifacts": [
+    {
+      "label": "The Resonance Cycle Book 3 FinalRev.docx",
+      "sha256": "da80ea004ed39367e3076774fc388785317bed372a4db71e67b7729e2553c1d1"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.royalroad.com/fiction/62789/resonance-cycle",
+      "checked_at": "2026-09-15",
+      "scope": "early serial reader reviews, not reception evidence for later individual volumes"
+    }
+  ],
+  "allowed_numbers": [
+    "3",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus"
+  ],
+  "forbidden_phrases": [
+    "according to community data",
+    "verified purchase",
+    "I stayed up all night",
+    "independent review",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.royalroad.com/fiction/62789/resonance-cycle",
+    "https://litrpgtools.com"
+  ]
+}

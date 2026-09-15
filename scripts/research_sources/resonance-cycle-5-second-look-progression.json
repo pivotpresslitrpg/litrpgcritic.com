@@ -1,0 +1,41 @@
+{
+  "researched_at": "2026-09-15",
+  "book": "Torn Shroud",
+  "series": "The Resonance Cycle",
+  "number": 5,
+  "evidence_scope": "Selected manuscript passages from preceding September 15 manuscript assessment; not a full-book or audiobook review.",
+  "source_artifacts": [
+    {
+      "label": "TornShroudRes5FinalDecember5th.docx",
+      "sha256": "169c461ffd42ac9a9d7727d515e5480e0f39dec63f7d45a9764aeb7da924a9eb"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.royalroad.com/fiction/62789/resonance-cycle",
+      "checked_at": "2026-09-15",
+      "scope": "early serial reader reviews, not reception evidence for later individual volumes"
+    }
+  ],
+  "allowed_numbers": [
+    "5",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus"
+  ],
+  "forbidden_phrases": [
+    "according to community data",
+    "verified purchase",
+    "I stayed up all night",
+    "independent review",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.royalroad.com/fiction/62789/resonance-cycle",
+    "https://litrpgtools.com"
+  ]
+}

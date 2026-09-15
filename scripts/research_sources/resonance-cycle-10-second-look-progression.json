@@ -1,0 +1,42 @@
+{
+  "researched_at": "2026-09-15",
+  "book": "The Resonance War, Part 2",
+  "series": "The Resonance Cycle",
+  "number": 10,
+  "evidence_scope": "Selected manuscript passages from preceding September 15 manuscript assessment; not a full-book or audiobook review.",
+  "source_artifacts": [
+    {
+      "label": "Resonance 10 CopyEdited.docx",
+      "sha256": "dce5d4d860fecf56490c8f8cd666e3ea2d880b03acd69b2e840f1f44cc893ac0"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.royalroad.com/fiction/62789/resonance-cycle",
+      "checked_at": "2026-09-15",
+      "scope": "early serial reader reviews, not reception evidence for later individual volumes"
+    }
+  ],
+  "allowed_numbers": [
+    "2",
+    "10",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus"
+  ],
+  "forbidden_phrases": [
+    "according to community data",
+    "verified purchase",
+    "I stayed up all night",
+    "independent review",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.royalroad.com/fiction/62789/resonance-cycle",
+    "https://litrpgtools.com"
+  ]
+}

@@ -3,6 +3,12 @@ name: Deploy to Cloudflare Pages
 on:
   push:
     branches: [main]
+  # Content commits use GITHUB_TOKEN, so their pushes do not trigger this workflow.
+  # Build after the trusted main-branch publisher finishes; cron remains a fallback.
+  workflow_run:
+    workflows: ["Generate Blog Post"]
+    types: [completed]
+    branches: [main]
   schedule:
     # Mon/Wed/Fri at 10am UTC (for scheduled content releases)
     - cron: '0 10 * * 1,3,5'
@@ -14,6 +20,10 @@ concurrency:
 
 jobs:
   deploy:
+    if: >-
+      github.event_name != 'workflow_run' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_repository.full_name == github.repository)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

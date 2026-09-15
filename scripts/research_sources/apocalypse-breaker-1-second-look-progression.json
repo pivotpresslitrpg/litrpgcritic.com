@@ -1,0 +1,42 @@
+{
+  "researched_at": "2026-09-15",
+  "book": "Apocalypse BREAKER 1",
+  "series": "Apocalypse BREAKER",
+  "number": 1,
+  "evidence_scope": "Selected manuscript passages from preceding September 15 manuscript assessment; not a full-book or audiobook review.",
+  "source_artifacts": [
+    {
+      "label": "Apocalypse BREAKER Ready For Formatting.docx",
+      "sha256": "d6b2faa58807e3059460e0bdbcc10b05e7db5b761d55588367200a74f40cccba"
+    }
+  ],
+  "internet_sources": [
+    {
+      "url": "https://www.reddit.com/r/litrpg/comments/1qqh2gg/apocalypse_breaker_by_aaron_renfroe_and_sean/",
+      "checked_at": "2026-09-15",
+      "scope": "a first-book reader review"
+    }
+  ],
+  "allowed_numbers": [
+    "1",
+    "4",
+    "2026"
+  ],
+  "required_phrases": [
+    "AI-assisted editorial voice",
+    "selected manuscript passages",
+    "not a personal reader testimonial",
+    "Individual opinions are not a reader consensus"
+  ],
+  "forbidden_phrases": [
+    "according to community data",
+    "verified purchase",
+    "I stayed up all night",
+    "independent review",
+    "guaranteed ranking"
+  ],
+  "required_links": [
+    "https://www.reddit.com/r/litrpg/comments/1qqh2gg/apocalypse_breaker_by_aaron_renfroe_and_sean/",
+    "https://litrpgtools.com"
+  ]
+}

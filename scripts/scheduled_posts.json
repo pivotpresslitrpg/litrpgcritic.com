@@ -18,6 +18,126 @@
       "manifest": "research_sources/litrpg-countermodels-2026-08-10.json",
       "status": "published",
       "published_at": "2026-08-24"
+    },
+    {
+      "publish_date": "2026-09-21",
+      "slug": "apocalypse-breaker-1-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/apocalypse-breaker-1-second-look-progression.md",
+      "manifest": "research_sources/apocalypse-breaker-1-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-10-05",
+      "slug": "apocalypse-breaker-2-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/apocalypse-breaker-2-second-look-progression.md",
+      "manifest": "research_sources/apocalypse-breaker-2-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-10-19",
+      "slug": "apocalypse-breaker-3-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/apocalypse-breaker-3-second-look-progression.md",
+      "manifest": "research_sources/apocalypse-breaker-3-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-11-02",
+      "slug": "apocalypse-breaker-4-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/apocalypse-breaker-4-second-look-progression.md",
+      "manifest": "research_sources/apocalypse-breaker-4-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-11-16",
+      "slug": "apocalypse-breaker-5-draft-preview-progression",
+      "post_type": "manuscript_preview",
+      "draft": "scheduled_posts/apocalypse-breaker-5-draft-preview-progression.md",
+      "manifest": "research_sources/apocalypse-breaker-5-draft-preview-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-09-23",
+      "slug": "resonance-cycle-1-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/resonance-cycle-1-second-look-progression.md",
+      "manifest": "research_sources/resonance-cycle-1-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-10-07",
+      "slug": "resonance-cycle-2-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/resonance-cycle-2-second-look-progression.md",
+      "manifest": "research_sources/resonance-cycle-2-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-10-21",
+      "slug": "resonance-cycle-3-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/resonance-cycle-3-second-look-progression.md",
+      "manifest": "research_sources/resonance-cycle-3-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-11-04",
+      "slug": "resonance-cycle-4-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/resonance-cycle-4-second-look-progression.md",
+      "manifest": "research_sources/resonance-cycle-4-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-11-18",
+      "slug": "resonance-cycle-5-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/resonance-cycle-5-second-look-progression.md",
+      "manifest": "research_sources/resonance-cycle-5-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-12-02",
+      "slug": "resonance-cycle-6-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/resonance-cycle-6-second-look-progression.md",
+      "manifest": "research_sources/resonance-cycle-6-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-12-16",
+      "slug": "resonance-cycle-7-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/resonance-cycle-7-second-look-progression.md",
+      "manifest": "research_sources/resonance-cycle-7-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-12-30",
+      "slug": "resonance-cycle-8-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/resonance-cycle-8-second-look-progression.md",
+      "manifest": "research_sources/resonance-cycle-8-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2027-01-13",
+      "slug": "resonance-cycle-9-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/resonance-cycle-9-second-look-progression.md",
+      "manifest": "research_sources/resonance-cycle-9-second-look-progression.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2027-01-27",
+      "slug": "resonance-cycle-10-second-look-progression",
+      "post_type": "editorial_review",
+      "draft": "scheduled_posts/resonance-cycle-10-second-look-progression.md",
+      "manifest": "research_sources/resonance-cycle-10-second-look-progression.json",
+      "status": "scheduled"
     }
   ]
 }
