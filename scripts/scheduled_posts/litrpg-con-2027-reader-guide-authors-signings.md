@@ -1,7 +1,7 @@
 ---
 title: "LitRPG Con 2027 Reader Guide: How to Plan Author Panels, Signings, and Book Discoveries"
 description: "Use our LitRPG Con 2027 reader guide to plan author panels, signing tables, and dealer hall book discoveries in Denver."
-date: "2026-10-29"
+date: "2026-10-30"
 type: "reader_guide"
 author: "The LitRPG Critic"
 tags: ["LitRPG","LitRPG Con 2027","reader guide","author signings"]

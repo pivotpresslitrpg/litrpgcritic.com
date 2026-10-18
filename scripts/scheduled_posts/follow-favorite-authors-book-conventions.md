@@ -1,7 +1,7 @@
 ---
 title: "How to Follow Your Favorite LitRPG Authors at Book Conventions Without Missing a Signing"
 description: "Learn how to follow favorite LitRPG authors at book conventions using unified author-booth profiles, book catalogs, and alerts."
-date: "2026-11-12"
+date: "2026-11-13"
 type: "reader_guide"
 author: "The LitRPG Critic"
 tags: ["LitRPG","readers","book conventions","author appearances"]
