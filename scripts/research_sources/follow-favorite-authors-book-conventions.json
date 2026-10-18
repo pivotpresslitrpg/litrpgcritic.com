@@ -1,0 +1,189 @@
+{
+  "frozen_at": "2026-10-18",
+  "approved_at": "2026-10-18",
+  "evidence_scope": "Approved editorial draft. Product figures supplied by Aaron in the scheduling brief; illustrative times, booth numbers, quantities and list ordinals are not observed event measurements.",
+  "publication_note": "<!-- publishAt: 2026-11-12T14:35:00-07:00 (America/Denver); editorial draft only. -->",
+  "publication_policy": "Pipeline uses publish_date (UTC day); original draft clock time is editorial metadata only. Existing workflow runs Monday/Wednesday/Friday at 08:00 UTC; Thursday publish_date requires a manual workflow run for same-day publication, otherwise publication is deferred to a later run. Earlier due posts take priority.",
+  "allowed_numbers": [
+    "00",
+    "1",
+    "1,135",
+    "10",
+    "11",
+    "16,000",
+    "18",
+    "2",
+    "2026",
+    "2027",
+    "214",
+    "223",
+    "3",
+    "30",
+    "4",
+    "5",
+    "50",
+    "600",
+    "7"
+  ],
+  "number_sources": [
+    {
+      "numbers": [
+        "1"
+      ],
+      "context": "Figuring out how to follow favorite LitRPG authors at book conventions is much easier when you stop juggling ten screenshot tabs from Discord and start using a convention app that links an author's panel schedule directly to their signing booth and book catalog. A unified author profile, for a signed Book 1 hardcover or a world-building Q&A, keeps you in the right room at the right hour.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    },
+    {
+      "numbers": [
+        "2026",
+        "600",
+        "1,135",
+        "223",
+        "16,000"
+      ],
+      "context": "At LitRPG Con 2026, about 600 app users used ConRoster—the convention platform built for gaming, fan and book conventions—logging 1,135 quest completions from 223 users and about 16,000 schedule shares. Here is how to track your favorite authors from their first pre-con announcement all the way to Sunday afternoon's last signing table.",
+      "kind": "observed product figures",
+      "source": "Pivot Press ConRoster product summary, 2026-10-18"
+    },
+    {
+      "numbers": [
+        "1",
+        "00",
+        "3",
+        "30"
+      ],
+      "context": "Authors often mention in a winter newsletter or Discord post that they are heading to a summer convention like LitRPG Con. That early heads-up tells you which series hardcovers to set aside on your shelf. What a January post cannot tell you is whether their Saturday afternoon panel will land in Ballroom A at 1:00 pm or Cedar Room at 3:30 pm.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    },
+    {
+      "numbers": [
+        "50"
+      ],
+      "context": "* **Separate panels from signings:** A 50-minute group panel on progression pacing is for listening and Q&A; a listed signing slot or booth window is where you bring your stack of books.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    },
+    {
+      "numbers": [
+        "18",
+        "2026"
+      ],
+      "context": "ConRoster (as of October 18, 2026) solves both problems for book conventions:",
+      "kind": "approved editorial as-of date or roadmap statement",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    },
+    {
+      "numbers": [
+        "1"
+      ],
+      "context": "1. **Convention app with author profiles, book series covers, and signing tables:** Author pages pull book titles, cover art, and series relationships directly from LitRPG Tools so you can verify the exact Book 1 cover you are hunting for.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    },
+    {
+      "numbers": [
+        "2",
+        "214"
+      ],
+      "context": "2. **One linked author-vendor identity:** Even if an author sells under a studio banner at Booth 214, their panelist profile links straight to that booth pin on the interactive floor plan.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    },
+    {
+      "numbers": [
+        "3",
+        "5"
+      ],
+      "context": "3. **Tap-to-shop booth storefronts:** Tapping the booth pin opens their convention catalog, complete with limited-item badges (\"Limited · 5 left\"), day-by-day pricing, and item hold or want options.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    },
+    {
+      "numbers": [
+        "1",
+        "11",
+        "00",
+        "10"
+      ],
+      "context": "Picture an invented reader, Della Finch, planning her Saturday morning. Della's main goal is getting her well-worn Book 1 paperback signed at 11:00 am, and she also wants to hear a 10:00 am panel on party-based dungeon crawlers.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    },
+    {
+      "numbers": [
+        "10",
+        "00",
+        "11",
+        "4",
+        "30",
+        "1"
+      ],
+      "context": "When Della saves both sessions in ConRoster, she checks the walking route on the interactive map before 10:00 am even starts. She sees that the 10:00 am panel ends ten minutes before the 11:00 am signing opens, and she checks the booth storefront to see if she can place an item hold on the new Book 4 hardcover at the table. If a second panel at 11:30 am overlaps her signing window, ConRoster's conflict checker flags the clash immediately so Della can pick a 1:00 pm panel instead.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    },
+    {
+      "numbers": [
+        "2",
+        "7"
+      ],
+      "context": "Authors spend months alone at a keyboard wondering whether a particular emotional payoff or boss fight landed with readers. Hearing \"I loved how the blacksmith finally used her crafting flaw to break the siege in Book 2\" lights up an author's entire afternoon far more than a generic question about when Book 7 is coming out.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    },
+    {
+      "numbers": [
+        "2",
+        "10"
+      ],
+      "context": "If a popular author panel outgrows its room at 2:10 pm and moves across the hall, ConRoster sends the update to the room-change inbox, and volunteers post a sign at the old door for anyone whose phone was offline underground.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "When you get back to your hotel room on Sunday night, spend five minutes logging the series you discovered while the conversations are fresh. Note that Patreon links and tiers directly on ConRoster author profiles are planned for 2027, so for now, grab the author's verified newsletter or website link from their table bookmark or LitRPG Tools profile so you never miss their next release.",
+      "kind": "approved editorial as-of date or roadmap statement",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md"
+    }
+  ],
+  "product_summary": {
+    "label": "Pivot Press ConRoster product summary, 2026-10-18",
+    "text": "LitRPG Con 2026: about 600 app users, 1,135 quest completions from 223 users, about 16,000 schedule shares.",
+    "provenance": "Aaron-approved scheduling brief, 2026-10-18; supplied figures, not independently queried analytics."
+  },
+  "internet_sources": [
+    {
+      "url": "https://conroster.com/vendors",
+      "checked_at": "2026-10-18",
+      "scope": "Linked in approved source draft; not independently verified"
+    }
+  ],
+  "source_artifacts": [
+    {
+      "label": "2026-11-12-follow-favorite-authors-book-conventions.md",
+      "path": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-11-12-follow-favorite-authors-book-conventions.md",
+      "sha256": "fa1a49671b72c0e28c7fb417c81e59f3036fa45a323bea6e344810d1fb8584a6"
+    },
+    {
+      "label": "Pivot Press ConRoster product summary, 2026-10-18 (UTF-8 text in product_summary.text)",
+      "sha256": "72d38da48a74ab3085490af232860fe021b425e1b72921fe2a5e8b53ba0fda73"
+    }
+  ],
+  "required_phrases": [
+    "about 600",
+    "1,135 quest completions from 223 users",
+    "about 16,000 schedule shares",
+    "both owned by Pivot Press"
+  ],
+  "forbidden_phrases": [],
+  "required_links": [
+    "https://litrpgtools.com",
+    "https://conroster.com/vendors"
+  ],
+  "date_provenance": "October 18, 2026 is the editorial source-check/approval date, not an event date reported by event websites. Frontmatter date is Aaron-approved publication metadata."
+}

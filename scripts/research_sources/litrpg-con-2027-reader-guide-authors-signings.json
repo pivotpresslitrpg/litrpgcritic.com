@@ -1,0 +1,255 @@
+{
+  "frozen_at": "2026-10-18",
+  "approved_at": "2026-10-18",
+  "evidence_scope": "Approved editorial draft. Product figures supplied by Aaron in the scheduling brief; illustrative times, booth numbers, quantities and list ordinals are not observed event measurements.",
+  "publication_note": "<!-- publishAt: 2026-10-29T10:25:00-06:00 (America/Denver); editorial draft only. -->",
+  "publication_policy": "Pipeline uses publish_date (UTC day); original draft clock time is editorial metadata only. Existing workflow runs Monday/Wednesday/Friday at 08:00 UTC; Thursday publish_date requires a manual workflow run for same-day publication, otherwise publication is deferred to a later run. Earlier due posts take priority.",
+  "allowed_numbers": [
+    "00",
+    "1",
+    "1,135",
+    "10",
+    "11",
+    "16,000",
+    "18",
+    "2",
+    "2026",
+    "2027",
+    "223",
+    "25",
+    "3",
+    "5",
+    "50",
+    "6",
+    "600",
+    "9"
+  ],
+  "number_sources": [
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "title: \"LitRPG Con 2027 Reader Guide: How to Plan Author Panels, Signings, and Book Discoveries\"",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "description: \"Use our LitRPG Con 2027 reader guide to plan author panels, signing tables, and dealer hall book discoveries in Denver.\"",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "tags: [\"LitRPG\",\"LitRPG Con 2027\",\"reader guide\",\"author signings\"]",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "  - q: \"When and where is LitRPG Con 2027?\"",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "18",
+        "2026",
+        "2027",
+        "9",
+        "11"
+      ],
+      "context": "    a: \"According to the official LitRPG Con website (checked October 18, 2026), LitRPG Con 2027 takes place July 9–11, 2027 at the Grand Hyatt in Denver, Colorado.\"",
+      "kind": "official event dates and venue",
+      "source": "https://litrpgcon.com/"
+    },
+    {
+      "numbers": [
+        "2027",
+        "18",
+        "2026",
+        "9",
+        "11"
+      ],
+      "context": "Planning your weekend with this LitRPG Con 2027 reader guide for authors and signings comes down to a simple strategy: anchor each day around one must-see panel and one priority signing table, then use the convention app to fill the gaps with dealer hall browsing and quests. According to the [official LitRPG Con site]() (checked October 18, 2026), LitRPG Con 2027 runs July 9–11, 2027 at the Grand Hyatt in Denver.",
+      "kind": "official event dates and venue",
+      "source": "https://litrpgcon.com/"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "Because 2027 guest rosters and signing table rules will roll out on the [official LitRPG Con site]() closer to July, this guide focuses on how to work the floor, choose the best craft panels, and use the convention app—ConRoster—so you never miss a room change or a limited hardcover.",
+      "kind": "official event dates and venue",
+      "source": "https://litrpgcon.com/"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "## How should you use a LitRPG Con 2027 reader guide to plan authors and signings?",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "Use a LitRPG Con 2027 reader guide for authors and signings by locking in your top signing window and top panel each morning before adding casual side sessions. Leaving thirty minutes between a basement panel and an upstairs dealer hall queue keeps a ten-minute elevator wait from costing you an autograph.",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "10",
+        "00",
+        "6",
+        "2"
+      ],
+      "context": "First-time convention goers often make the mistake of treating the schedule grid like a college course catalog—packing every hour from 10:00 am to 6:00 pm with back-to-back panels. By Saturday at 2:00 pm, they are starving, carrying twelve pounds of books, and stuck at the back of a signing line that started twenty minutes ago.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "2026",
+        "600",
+        "1,135",
+        "223",
+        "16,000",
+        "2027"
+      ],
+      "context": "At LitRPG Con 2026, about 600 app users used the ConRoster planner, logging 1,135 quest completions from 223 users and about 16,000 schedule shares. When you build your 2027 itinerary inside the app, let the built-in conflict checker do the heavy lifting:",
+      "kind": "observed product figures",
+      "source": "Pivot Press ConRoster product summary, 2026-10-18"
+    },
+    {
+      "numbers": [
+        "3",
+        "00"
+      ],
+      "context": "We all love cheering for the authors whose ten-book series kept us awake until 3:00 am. Go see them! But the magic of a genre-specific convention happens when five authors sit down to argue about system design, monster evolution, or why crafting protagonists are so addictive to read.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "18",
+        "2026",
+        "1"
+      ],
+      "context": "When you sit in a topic-driven panel, keep the author profiles open in the app. Because ConRoster's author pages (as of October 18, 2026) display books, covers, and series data straight from [LitRPG Tools](), you can tap a panelist who just made a hilarious point about loot tables and see their exact Book 1 cover and series order while they are still speaking. If you step up to the audience mic during Q&A, keep your question short and focused on the panel topic so all four or five authors on stage get a chance to answer.",
+      "kind": "approved editorial as-of date or roadmap statement",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "1",
+        "50",
+        "2",
+        "00"
+      ],
+      "context": "When a panel finishes at 1:50 pm, volunteers usually need five to ten minutes to clear the stage and set microphones for the 2:00 pm session. Trying to corner an author with three hardcovers at the water pitcher slows down the room turnover and stresses out the panelists.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "1"
+      ],
+      "context": "1. **Tap the author on your panel card:** See both their remaining panels and their linked dealer hall booth number on one screen.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "2"
+      ],
+      "context": "2. **Check the interactive floor plan:** Follow the walking directions from your panel room to their aisle in the dealer hall.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "3",
+        "5"
+      ],
+      "context": "3. **Browse their digital storefront:** Check whether their booth catalog shows limited-item badges (like \"Limited · 5 left\"), day-by-day pricing, or item hold and want options before you even reach the table.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "2",
+        "10"
+      ],
+      "context": "## What should you do if a room changes at 2:10 pm or basement Wi-Fi drops?",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "18",
+        "2026"
+      ],
+      "context": "Hotel conference floors can be tough on cell signals when hundreds of readers pack into a panel room. ConRoster is built as an offline convention app for hotel basements with bad Wi-Fi (live as of October 18, 2026): your loaded schedule and conflict checker stay readable even if your bars drop to zero underground. Whenever you step back into the main concourse and reconnect, any room changes sent by staff appear in your room-change inbox.",
+      "kind": "approved editorial as-of date or roadmap statement",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    },
+    {
+      "numbers": [
+        "25"
+      ],
+      "context": "And when you have a free 25-minute gap between your afternoon panel and dinner, tap into the app's QR scavenger hunts, hint trails, or live room quizzes to earn XP toward your persistent convention level. Take a look at the [ConRoster attendee overview]() to see how personal schedules, author profiles, and quests fit together on your phone.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md"
+    }
+  ],
+  "product_summary": {
+    "label": "Pivot Press ConRoster product summary, 2026-10-18",
+    "text": "LitRPG Con 2026: about 600 app users, 1,135 quest completions from 223 users, about 16,000 schedule shares.",
+    "provenance": "Aaron-approved scheduling brief, 2026-10-18; supplied figures, not independently queried analytics."
+  },
+  "internet_sources": [
+    {
+      "url": "https://litrpgcon.com/",
+      "checked_at": "2026-10-18",
+      "scope": "Official dates and venue verified"
+    },
+    {
+      "url": "https://conroster.com/attendees",
+      "checked_at": "2026-10-18",
+      "scope": "Linked in approved source draft; not independently verified"
+    }
+  ],
+  "source_artifacts": [
+    {
+      "label": "2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md",
+      "path": "D:\\ConRoster-drafts\\docs\\blog-drafts\\litrpgcritic.com\\2026-10-29-litrpg-con-2027-reader-guide-authors-signings.md",
+      "sha256": "1b83ffd200f9233cfe4e52e2f5e883063f9c8c5a08d0f42fc6d788f112fdba8c"
+    },
+    {
+      "label": "Pivot Press ConRoster product summary, 2026-10-18 (UTF-8 text in product_summary.text)",
+      "sha256": "72d38da48a74ab3085490af232860fe021b425e1b72921fe2a5e8b53ba0fda73"
+    }
+  ],
+  "required_phrases": [
+    "about 600",
+    "1,135 quest completions from 223 users",
+    "about 16,000 schedule shares",
+    "both owned by Pivot Press"
+  ],
+  "forbidden_phrases": [],
+  "required_links": [
+    "https://litrpgcon.com/",
+    "https://litrpgtools.com",
+    "https://conroster.com/attendees"
+  ],
+  "date_provenance": "October 18, 2026 is the editorial source-check/approval date, not an event date reported by event websites. Frontmatter date is Aaron-approved publication metadata."
+}
