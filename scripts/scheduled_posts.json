@@ -43,7 +43,8 @@
       "post_type": "editorial_review",
       "draft": "scheduled_posts/apocalypse-breaker-3-second-look-progression.md",
       "manifest": "research_sources/apocalypse-breaker-3-second-look-progression.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-10-19"
     },
     {
       "publish_date": "2026-11-02",
