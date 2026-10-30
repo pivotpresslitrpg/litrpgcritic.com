@@ -151,7 +151,8 @@
       "post_type": "reader_guide",
       "draft": "scheduled_posts/litrpg-con-2027-reader-guide-authors-signings.md",
       "manifest": "research_sources/litrpg-con-2027-reader-guide-authors-signings.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-10-30"
     },
     {
       "publish_date": "2026-11-13",
