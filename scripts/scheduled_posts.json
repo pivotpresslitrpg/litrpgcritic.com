@@ -106,7 +106,8 @@
       "post_type": "editorial_review",
       "draft": "scheduled_posts/resonance-cycle-5-second-look-progression.md",
       "manifest": "research_sources/resonance-cycle-5-second-look-progression.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-11-18"
     },
     {
       "publish_date": "2026-12-02",
